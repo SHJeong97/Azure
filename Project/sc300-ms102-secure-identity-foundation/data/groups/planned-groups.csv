@@ -1,14 +1,14 @@
 GroupName,GroupType,MembershipType,Purpose,Department,Notes
-SG-LIC-M365-BUSPREM,
-SG-DEPT-HR,
-SG-DEPT-FINANCE,
-SG-DEPT-SALES,
-SG-DEPT-OPERATIONS,
-SG-DEPT-IT,
-SG-DEPT-EXEC,
-SG-PILOT-CA-MFA,
-SG-EXCLUDE-EMERGENCY-ACCESS,
-SG-ADMIN-HELPDESK,
-SG-ADMIN-IDENTITY,
-SG-ADMIN-EXCHANGE,
-SG-ADMIN-SHAREPOINT,
+SG-LIC-M365-E3,Security,Assigned,Assign Microsoft 365 E3 baseline license,All,Primary license group for pilot users
+SG-DEPT-HR,Security,Assigned,HR department access,HR,Department access group
+SG-DEPT-FINANCE,Security,Assigned,Finance department access,Finance,Department access group
+SG-DEPT-SALES,Security,Assigned,Sales department access,Sales,Department access group
+SG-DEPT-OPERATIONS,Security,Assigned,Operations department access,Operations,Department access group
+SG-DEPT-IT,Security,Assigned,IT department access,IT,Department access group
+SG-DEPT-EXEC,Security,Assigned,Executive department access,Executive,Department access group
+SG-PILOT-CA-MFA,Security,Assigned,Conditional Access and MFA pilot group,All,Used in later CA rollout
+SG-EXCLUDE-EMERGENCY-ACCESS,Security,Assigned,Exclude emergency access accounts from CA controls,All,Used later for emergency access exclusion
+SG-ADMIN-HELPDESK,Security,Assigned,Admin assignment helper group for helpdesk accounts,IT,Does not grant role by itself
+SG-ADMIN-IDENTITY,Security,Assigned,Admin assignment helper group for identity admin accounts,IT,Does not grant role by itself
+SG-ADMIN-EXCHANGE,Security,Assigned,Admin assignment helper group for exchange admin accounts,IT,Reserved for later phase
+SG-ADMIN-SHAREPOINT,Security,Assigned,Admin assignment helper group for sharepoint admin accounts,IT,Reserved for later phase
