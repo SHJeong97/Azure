@@ -15,8 +15,8 @@ Without emergency access, a misconfiguration in identity policy could create an 
 - These accounts are design-only in this batch and will be implemented later.
 
 ## Planned Accounts
-- breakglass-01@YOURTENANT.onmicrosoft.com
-- breakglass-02@YOURTENANT.onmicrosoft.com
+- breakglass-01@democompany1016.onmicrosoft.com
+- breakglass-02@democompany1016.onmicrosoft.com
 
 ## Control Objective
 Maintain recoverable administrative access without weakening normal identity security for the rest of the organization.
