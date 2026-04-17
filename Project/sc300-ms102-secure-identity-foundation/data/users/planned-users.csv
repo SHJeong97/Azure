@@ -1,13 +1,13 @@
 DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,EmployeeType,AdminRole,LicenseGroup,Notes
-Ava Foster,Ava,Foster,ava.foster@YOURTENANT.onmicrosoft.com,IT,Identity Administrator,US,Employee,Identity Administrator,SG-LIC-M365-E3,Primary IT admin pilot user
-Ethan Walker,Ethan,Walker,ethan.walker@YOURTENANT.onmicrosoft.com,IT,Helpdesk Lead,US,Employee,Helpdesk Administrator,SG-LIC-M365-E3,Helpdesk admin pilot user
-Emma Reed,Emma,Reed,emma.reed@YOURTENANT.onmicrosoft.com,HR,HR Generalist,US,Employee,,SG-LIC-M365-E3,HR standard user
-Marcus Hall,Marcus,Hall,marcus.hall@YOURTENANT.onmicrosoft.com,HR,HR Manager,US,Employee,,SG-LIC-M365-E3,HR manager user
-Olivia Chen,Olivia,Chen,olivia.chen@YOURTENANT.onmicrosoft.com,Finance,Financial Analyst,US,Employee,,SG-LIC-M365-E3,Finance standard user
-Daniel Kim,Daniel,Kim,daniel.kim@YOURTENANT.onmicrosoft.com,Finance,Finance Manager,US,Employee,,SG-LIC-M365-E3,Finance manager user
-Sophia Patel,Sophia,Patel,sophia.patel@YOURTENANT.onmicrosoft.com,Sales,Account Executive,US,Employee,,SG-LIC-M365-E3,Sales standard user
-Liam Brooks,Liam,Brooks,liam.brooks@YOURTENANT.onmicrosoft.com,Sales,Sales Manager,US,Employee,,SG-LIC-M365-E3,Sales manager user
-Maya Torres,Maya,Torres,maya.torres@YOURTENANT.onmicrosoft.com,Operations,Operations Coordinator,US,Employee,,SG-LIC-M365-E3,Operations standard user
-Noah Bennett,Noah,Bennett,noah.bennett@YOURTENANT.onmicrosoft.com,Operations,Operations Manager,US,Employee,,SG-LIC-M365-E3,Operations manager user
-Grace Miller,Grace,Miller,grace.miller@YOURTENANT.onmicrosoft.com,Executive,Executive Assistant,US,Employee,,SG-LIC-M365-E3,Executive support user
-Henry Cole,Henry,Cole,henry.cole@YOURTENANT.onmicrosoft.com,Executive,Chief Operating Officer,US,Employee,,SG-LIC-M365-E3,Executive leadership user
+Ava Foster,Ava,Foster,ava.foster@DEMOCOMPANY1016.onmicrosoft.com,IT,Identity Administrator,US,Employee,Identity Administrator,SG-LIC-M365-E3,Primary IT admin pilot user
+Ethan Walker,Ethan,Walker,ethan.walker@DEMOCOMPANY1016.onmicrosoft.com,IT,Helpdesk Lead,US,Employee,Helpdesk Administrator,SG-LIC-M365-E3,Helpdesk admin pilot user
+Emma Reed,Emma,Reed,emma.reed@DEMOCOMPANY1016.onmicrosoft.com,HR,HR Generalist,US,Employee,,SG-LIC-M365-E3,HR standard user
+Marcus Hall,Marcus,Hall,marcus.hall@DEMOCOMPANY1016.onmicrosoft.com,HR,HR Manager,US,Employee,,SG-LIC-M365-E3,HR manager user
+Olivia Chen,Olivia,Chen,olivia.chen@DEMOCOMPANY1016.onmicrosoft.com,Finance,Financial Analyst,US,Employee,,SG-LIC-M365-E3,Finance standard user
+Daniel Kim,Daniel,Kim,daniel.kim@DEMOCOMPANY1016.onmicrosoft.com,Finance,Finance Manager,US,Employee,,SG-LIC-M365-E3,Finance manager user
+Sophia Patel,Sophia,Patel,sophia.patel@DEMOCOMPANY1016.onmicrosoft.com,Sales,Account Executive,US,Employee,,SG-LIC-M365-E3,Sales standard user
+Liam Brooks,Liam,Brooks,liam.brooks@DEMOCOMPANY1016.onmicrosoft.com,Sales,Sales Manager,US,Employee,,SG-LIC-M365-E3,Sales manager user
+Maya Torres,Maya,Torres,maya.torres@DEMOCOMPANY1016.onmicrosoft.com,Operations,Operations Coordinator,US,Employee,,SG-LIC-M365-E3,Operations standard user
+Noah Bennett,Noah,Bennett,noah.bennett@DEMOCOMPANY1016.onmicrosoft.com,Operations,Operations Manager,US,Employee,,SG-LIC-M365-E3,Operations manager user
+Grace Miller,Grace,Miller,grace.miller@DEMOCOMPANY1016.onmicrosoft.com,Executive,Executive Assistant,US,Employee,,SG-LIC-M365-E3,Executive support user
+Henry Cole,Henry,Cole,henry.cole@DEMOCOMPANY1016.onmicrosoft.com,Executive,Chief Operating Officer,US,Employee,,SG-LIC-M365-E3,Executive leadership user
