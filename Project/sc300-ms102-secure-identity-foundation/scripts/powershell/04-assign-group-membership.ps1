@@ -1,5 +1,5 @@
 param(
-    [string]$UserCsvPath = ".\data\users\planned-users.csv"
+    [string]$UserCsvPath = "C:\Users\vm1\Desktop\planned-users.csv"
 )
 
 function Get-DepartmentGroup {
@@ -88,5 +88,5 @@ foreach ($u in $users) {
     }
 }
 
-$results | Export-Csv ".\evidence\cli-output\group-membership-results.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\group-membership-results.csv" -NoTypeInformation
 $results
