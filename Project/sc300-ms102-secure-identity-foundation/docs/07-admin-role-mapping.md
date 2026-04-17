@@ -5,11 +5,11 @@ Administrative access must be separated by function so that the company can redu
 
 ## Role Design
 - Global Administrator: reserved for emergency access only
-- Identity Administrator: used for identity configuration and user/group administration
+- User Administrator: used for user, group, and license administration
 - Helpdesk Administrator: used for password reset and basic user support tasks
 
 ## Assigned Accounts in This Batch
-- `ava.foster@democompany1016.onmicrosoft.com` -> Identity Administrator
+- `ava.foster@democompany1016.onmicrosoft.com` -> User Administrator
 - `ethan.walker@democompany1016.onmicrosoft.com` -> Helpdesk Administrator
 - `breakglass-01@democompany1016.onmicrosoft.com` -> Global Administrator
 - `breakglass-02@democompany1016.onmicrosoft.com` -> Global Administrator
