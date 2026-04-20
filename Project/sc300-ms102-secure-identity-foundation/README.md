@@ -1,5 +1,8 @@
 # Secure Identity and Access Baseline for a 75-User Microsoft 365 Company
 
+**Platform:** Microsoft Entra ID + Microsoft 365  
+**Focus Areas:** SC-300, MS-102, Conditional Access, MFA, SSPR, Group-Based Licensing, Least Privilege
+
 ## Introduction
 This project implements a secure, scalable identity and access baseline for a fictional 75-user company named Northstar Health Advisors using Microsoft Entra ID and Microsoft 365.
 
@@ -15,6 +18,17 @@ The implementation used a 12-user pilot to represent a 75-user organization whil
 - Enable self-service password reset for pilot users
 - Preserve tenant recovery through excluded emergency access accounts
 - Produce validation evidence for each major configuration area
+
+## Project Review Guide
+A reviewer can validate this project quickly by checking the following items first:
+
+1. `diagrams/identity-access-architecture.md`
+2. `docs/11-business-risk-value-analysis.md`
+3. `evidence/validation-notes/batch-5-enforced-authentication.md`
+4. `evidence/screenshots/ca01-policy-enabled-state.png`
+5. `evidence/screenshots/signin-emma-ca-details-enforced.png`
+6. `evidence/screenshots/emma-sspr-password-reset-success.png`
+7. `docs/12-interview-talk-track.md`
 
 ## Full Implementation
 The project was built in six major stages.
@@ -130,3 +144,15 @@ Emergency accounts were confirmed as members of the exclusion group, and Conditi
 - Conditional Access should be introduced through a pilot-first rollout
 - SSPR success depends not only on policy scope but also on successful user registration
 - Emergency access design is essential before broad authentication enforcement
+
+## Skills Demonstrated
+- Microsoft Entra ID administration
+- Microsoft 365 administration
+- Group-based licensing
+- Conditional Access design and enforcement
+- Multifactor authentication rollout
+- Self-service password reset implementation
+- Least-privilege administrative design
+- Emergency access planning
+- Validation and operational troubleshooting
+- Business-aligned technical documentation
