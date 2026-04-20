@@ -1,1 +1,7 @@
-
+UserPrincipalName,PlannedRole,AssignmentIntent,Notes
+breakglass-01@democompany1016.onmicrosoft.com,Global Administrator,Active,Emergency recovery only
+breakglass-02@democompany1016.onmicrosoft.com,Global Administrator,Active,Emergency recovery only
+ava.foster@democompany1016.onmicrosoft.com,Privileged Role Administrator,Active,Will manage PIM configuration
+ethan.walker@democompany1016.onmicrosoft.com,User Administrator,Eligible,Will be moved into PIM-managed privileged workflow
+rachel.kim@democompany1016.onmicrosoft.com,Security Administrator,Active,Will manage identity-risk investigation
+mason.lee@democompany1016.onmicrosoft.com,Global Reader,Active,Read-only validation and oversight
