@@ -1,5 +1,5 @@
 param(
-    [string]$CsvPath = ".\data\users\leaver-users.csv"
+    [string]$CsvPath = "C:\Users\vm1\Desktop\leaver-users.csv"
 )
 
 $leavers = Import-Csv $CsvPath
@@ -58,5 +58,5 @@ foreach ($l in $leavers) {
     }
 }
 
-$results | Export-Csv ".\evidence\cli-output\leaver-access-removal-results.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\leaver-access-removal-results.csv" -NoTypeInformation
 $results
