@@ -19,6 +19,17 @@ The implementation used a controlled E5 pilot with emergency access accounts, pr
 - Validate just-in-time activation and admin sign-in protection with evidence
 - Produce reviewable screenshots, outputs, and validation notes for every major control
 
+## Project Review Guide
+A reviewer can validate this project quickly by checking these items first:
+
+1. `diagrams/privileged-access-risk-architecture.md`
+2. `docs/13-business-risk-value-analysis.md`
+3. `evidence/validation-notes/batch-5-admin-protection-enforcement.md`
+4. `evidence/screenshots/pim-user-administrator-eligible-assignment-project3.png`
+5. `evidence/screenshots/pim-ethan-activation-success-project3.png`
+6. `evidence/screenshots/ca04-admin-strong-mfa-enabled-state-fixed-project3.png`
+7. `docs/14-interview-talk-track.md`
+
 ## Full Implementation
 The project was built in six major stages.
 
@@ -196,3 +207,15 @@ Every major control in the project was validated with screenshots and written no
 - Advanced controls must be aligned with the authentication methods users actually have registered
 - Report-only testing is valuable, but final proof requires live enforcement and successful validation
 - Strong IAM portfolio work should show design, implementation, validation, and troubleshooting together
+
+  ## Skills Demonstrated
+- Microsoft Entra ID administration
+- Microsoft 365 E5 administration
+- Privileged Identity Management (PIM)
+- Just-in-time privileged access design
+- Identity Protection policy design
+- Risk-based Conditional Access
+- Least-privilege admin modeling
+- Emergency access design
+- Conditional Access troubleshooting
+- Business-aligned IAM documentation
