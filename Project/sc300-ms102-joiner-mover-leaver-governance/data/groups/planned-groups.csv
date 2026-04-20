@@ -1,1 +1,11 @@
 GroupName,GroupType,MembershipType,Purpose,Department,Notes
+SG-LIC-M365-E3,Security,Assigned,Assign Microsoft 365 E3 baseline license,All,Primary employee license group
+SG-DEPT-HR,Security,Assigned,HR department access,HR,Department baseline access group
+SG-DEPT-FINANCE,Security,Assigned,Finance department access,Finance,Department baseline access group
+SG-DEPT-SALES,Security,Assigned,Sales department access,Sales,Department baseline access group
+SG-DEPT-OPERATIONS,Security,Assigned,Operations department access,Operations,Department baseline access group
+SG-DEPT-IT,Security,Assigned,IT department access,IT,Department baseline access group
+SG-DEPT-EXEC,Security,Assigned,Executive department access,Executive,Department baseline access group
+SG-JOINER-PILOT,Security,Assigned,Joiner workflow validation group,All,Used in Batch 3
+SG-MOVER-PILOT,Security,Assigned,Mover workflow validation group,All,Used in Batch 4
+SG-LEAVER-PILOT,Security,Assigned,Leaver workflow validation group,All,Used in Batch 5
