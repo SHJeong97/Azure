@@ -1,1 +1,3 @@
 UserPrincipalName,Department,Scenario,MailboxAction,LicenseAction,AccessAction,Notes
+noah.price@democompany1016.onmicrosoft.com,HR,Leaver,Remove shared mailbox access,Remove M365 E3,Remove all group access,HR leaver for Batch 5
+mason.lee@democompany1016.onmicrosoft.com,IT,Leaver,Remove shared mailbox access,Remove M365 E3,Remove all group access,IT leaver for Batch 5
