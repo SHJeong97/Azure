@@ -1,1 +1,6 @@
-
+GroupName,GroupType,MembershipType,Purpose,Notes
+SG-LIC-M365-E5-PILOT,Security,Assigned,Assign Microsoft 365 E5 to pilot users,E5 pilot license group
+SG-PILOT-PRIV-ADMINS,Security,Assigned,Privileged admin pilot scope,Used for admin-specific controls
+SG-PILOT-RISK-USERS,Security,Assigned,Risk-based identity protection pilot scope,Used for user/sign-in risk policies
+SG-EXCLUDE-EMERGENCY-ACCESS,Security,Assigned,Exclude emergency access accounts from selected controls,Used for recovery safety
+SG-PILOT-PIM-ELIGIBLE,Security,Assigned,PIM-related pilot grouping,Used for privileged access validation
