@@ -1,5 +1,5 @@
 param(
-    [string]$CsvPath = ".\data\groups\planned-groups.csv"
+    [string]$CsvPath = "C:\Users\vm1\Desktop\planned-groups.csv"
 )
 
 $groups = Import-Csv $CsvPath
@@ -42,5 +42,5 @@ foreach ($g in $groups) {
     }
 }
 
-$results | Export-Csv ".\evidence\cli-output\baseline-groups-created.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\baseline-groups-created.csv" -NoTypeInformation
 $results
