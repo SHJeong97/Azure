@@ -1,1 +1,5 @@
-
+DisplayName,UserPrincipalName,Scenario,Notes
+Emma Reed,emma.reed@democompany1016.onmicrosoft.com,UserRiskPilot,Standard user in risk-based policy scope
+Olivia Chen,olivia.chen@democompany1016.onmicrosoft.com,SignInRiskPilot,Standard user in risk-based policy scope
+Ava Foster,ava.foster@democompany1016.onmicrosoft.com,PrivilegedPilot,Privileged admin in protected-admin control scope
+Rachel Kim,rachel.kim@democompany1016.onmicrosoft.com,SecurityAdminPilot,Security admin for investigation and response validation
