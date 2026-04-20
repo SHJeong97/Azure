@@ -1,5 +1,5 @@
 param(
-    [string]$CsvPath = ".\data\users\baseline-users.csv"
+    [string]$CsvPath = "C:\Users\vm1\Desktop\baseline-users.csv"
 )
 
 $users = Import-Csv $CsvPath
