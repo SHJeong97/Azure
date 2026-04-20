@@ -1,5 +1,5 @@
 param(
-    [string]$CsvPath = ".\data\users\baseline-users.csv",
+    [string]$CsvPath = "C:\Users\vm1\Desktop\baseline-users.csv",
     [string]$TempPassword = ""
 )
 
@@ -58,5 +58,5 @@ foreach ($u in $users) {
     }
 }
 
-$results | Export-Csv ".\evidence\cli-output\baseline-users-created.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\baseline-users-created.csv" -NoTypeInformation
 $results
