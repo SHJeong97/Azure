@@ -1,1 +1,13 @@
 DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,EmployeeType,LicenseGroup,DepartmentGroup,Notes
+Emma Dawson,Emma,Dawson,emma.dawson@democompany1016.onmicrosoft.com,HR,HR Generalist,US,Employee,SG-LIC-M365-E3,SG-DEPT-HR,Baseline HR user
+Noah Price,Noah,Price,noah.price@democompany1016.onmicrosoft.com,HR,HR Manager,US,Employee,SG-LIC-M365-E3,SG-DEPT-HR,Planned HR leaver later
+Olivia Park,Olivia,Park,olivia.park@democompany1016.onmicrosoft.com,Finance,Financial Analyst,US,Employee,SG-LIC-M365-E3,SG-DEPT-FINANCE,Planned Finance to Operations mover
+Daniel Seo,Daniel,Seo,daniel.seo@democompany1016.onmicrosoft.com,Finance,Finance Manager,US,Employee,SG-LIC-M365-E3,SG-DEPT-FINANCE,Baseline Finance user
+Sophia Brooks,Sophia,Brooks,sophia.brooks@democompany1016.onmicrosoft.com,Sales,Account Executive,US,Employee,SG-LIC-M365-E3,SG-DEPT-SALES,Planned Sales to HR mover
+Liam Carter,Liam,Carter,liam.carter@democompany1016.onmicrosoft.com,Sales,Sales Manager,US,Employee,SG-LIC-M365-E3,SG-DEPT-SALES,Baseline Sales user
+Maya Rivera,Maya,Rivera,maya.rivera@democompany1016.onmicrosoft.com,Operations,Operations Coordinator,US,Employee,SG-LIC-M365-E3,SG-DEPT-OPERATIONS,Baseline Operations user
+Ethan Cole,Ethan,Cole,ethan.cole@democompany1016.onmicrosoft.com,Operations,Operations Manager,US,Employee,SG-LIC-M365-E3,SG-DEPT-OPERATIONS,Baseline Operations user
+Ava Foster,Ava,Foster,ava.foster@democompany1016.onmicrosoft.com,IT,IT Support Specialist,US,Employee,SG-LIC-M365-E3,SG-DEPT-IT,Baseline IT user
+Mason Lee,Mason,Lee,mason.lee@democompany1016.onmicrosoft.com,IT,Systems Administrator,US,Employee,SG-LIC-M365-E3,SG-DEPT-IT,Planned IT leaver later
+Grace Kim,Grace,Kim,grace.kim@democompany1016.onmicrosoft.com,Executive,Executive Assistant,US,Employee,SG-LIC-M365-E3,SG-DEPT-EXEC,Baseline Executive user
+Henry Walker,Henry,Walker,henry.walker@democompany1016.onmicrosoft.com,Executive,Chief Operating Officer,US,Employee,SG-LIC-M365-E3,SG-DEPT-EXEC,Baseline Executive user
