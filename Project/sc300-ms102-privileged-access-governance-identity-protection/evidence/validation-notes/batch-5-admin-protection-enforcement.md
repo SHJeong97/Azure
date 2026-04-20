@@ -26,9 +26,7 @@ The company now has enforced sign-in protection for privileged admin roles while
 - `evidence/screenshots/ethan-admin-signin-protected-project3.png`
 - `evidence/screenshots/pim-ethan-activation-under-ca04-project3.png`
 - `evidence/screenshots/pim-ethan-active-after-enforcement-project3.png`
-- `evidence/screenshots/ethan-user-admin-validation-after-enforcement-project3.png`
-- `evidence/screenshots/signin-ava-ca04-details-project3.png`
-- `evidence/screenshots/signin-ethan-ca04-details-project3.png`
+
 
 ## Issues Encountered
 - Initial CA04 enforcement blocked Ava Foster with “Additional sign-in methods are required to access this resource.”
