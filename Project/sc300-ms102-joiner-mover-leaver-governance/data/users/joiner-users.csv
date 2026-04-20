@@ -1,1 +1,3 @@
 DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,EmployeeType,LicenseGroup,DepartmentGroup,Scenario,Notes
+Chloe Adams,Chloe,Adams,chloe.adams@democompany1016.onmicrosoft.com,Sales,Sales Coordinator,US,Employee,SG-LIC-M365-E3,SG-DEPT-SALES,Joiner,New Sales joiner for Batch 3
+Jackson Reed,Jackson,Reed,jackson.reed@democompany1016.onmicrosoft.com,Operations,Operations Analyst,US,Employee,SG-LIC-M365-E3,SG-DEPT-OPERATIONS,Joiner,New Operations joiner for Batch 3
