@@ -1,5 +1,5 @@
 param(
-    [string]$CsvPath = ".\data\users\joiner-users.csv",
+    [string]$CsvPath = "C:\Users\vm1\Desktop\joiner-users.csv",
     [string]$TempPassword = ""
 )
 
@@ -58,5 +58,5 @@ foreach ($u in $users) {
     }
 }
 
-$results | Export-Csv ".\evidence\cli-output\joiner-users-created.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\joiner-users-created.csv" -NoTypeInformation
 $results
