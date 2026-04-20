@@ -14,10 +14,27 @@ The company now has enforced sign-in protection for privileged admin roles while
 - Emergency access exclusion was confirmed
 
 ## Validation Evidence
-- add screenshots here after the batch is complete
+- `evidence/screenshots/user-ava-foster-security-info-project3.png`
+- `evidence/screenshots/user-ethan-walker-security-info-project3.png`
+- `evidence/screenshots/user-rachel-kim-security-info-project3.png`
+- `evidence/screenshots/user-mason-lee-security-info-project3.png`
+- `evidence/screenshots/ca04-whatif-breakglass-excluded-project3.png`
+- `evidence/screenshots/ca04-admin-strong-mfa-enabled-overview-project3.png`
+- `evidence/screenshots/ca04-admin-strong-mfa-enabled-state-project3.png`
+- `evidence/screenshots/ava-admin-mfa-prompt-project3.png`
+- `evidence/screenshots/ava-admin-portal-success-project3.png`
+- `evidence/screenshots/ethan-admin-signin-protected-project3.png`
+- `evidence/screenshots/pim-ethan-activation-under-ca04-project3.png`
+- `evidence/screenshots/pim-ethan-active-after-enforcement-project3.png`
+- `evidence/screenshots/ethan-user-admin-validation-after-enforcement-project3.png`
+- `evidence/screenshots/signin-ava-ca04-details-project3.png`
+- `evidence/screenshots/signin-ethan-ca04-details-project3.png`
 
 ## Issues Encountered
-- None / document actual issues here
+- Initial CA04 enforcement blocked Ava Foster with “Additional sign-in methods are required to access this resource.”
+- Root cause: the protected-admin policy required an authentication strength stronger than the pilot admin’s registered methods.
+- Remediation: CA04 was adjusted to Require multifactor authentication for the pilot phase.
+- After policy adjustment, admin sign-in and validation testing proceeded successfully.
 
 ## Reviewer Notes
 This batch proves the tenant can enforce stronger privileged-user protection without breaking the just-in-time admin model.
