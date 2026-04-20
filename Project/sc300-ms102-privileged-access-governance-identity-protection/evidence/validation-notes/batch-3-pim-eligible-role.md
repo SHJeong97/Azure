@@ -14,7 +14,17 @@ The company now has a pilot model that reduces standing privileged access and re
 - The activation was validated as time-bound rather than permanently active
 
 ## Validation Evidence
-- add screenshots here after the batch is complete
+## Validation Evidence
+- `evidence/screenshots/user-ethan-walker-license-project3.png`
+- `evidence/screenshots/group-sg-pilot-pim-eligible-members-pre-pim-project3.png`
+- `evidence/screenshots/pim-user-administrator-add-assignment-project3.png`
+- `evidence/screenshots/pim-user-administrator-eligible-assignment-project3.png`
+- `evidence/screenshots/pim-user-administrator-role-settings-project3.png`
+- `evidence/screenshots/pim-user-administrator-activation-requirements-project3.png`
+- `evidence/screenshots/pim-my-roles-ethan-user-administrator-project3.png`
+- `evidence/screenshots/pim-ethan-activate-user-administrator-project3.png`
+- `evidence/screenshots/ethan-user-admin-validation-view-project3.png`
+- `evidence/screenshots/pim-ethan-active-assignment-timebound-project3.png`
 
 ## Issues Encountered
 - None / document actual issues here
