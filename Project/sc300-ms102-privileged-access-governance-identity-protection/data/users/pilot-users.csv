@@ -1,8 +1,8 @@
 DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,EmployeeType,PilotType,LicenseGroup,Notes
-Northstar Break Glass 01,Northstar,BreakGlass01,breakglass-01@democompany1016.onmicrosoft.com,IT,Emergency Access Account,US,Service,Emergency,SG-LIC-M365-E5-PILOT,Emergency access account
-Northstar Break Glass 02,Northstar,BreakGlass02,breakglass-02@democompany1016.onmicrosoft.com,IT,Emergency Access Account,US,Service,Emergency,SG-LIC-M365-E5-PILOT,Emergency access account
+Northstar Break Glass 01,Northstar,BreakGlass01,breakglass-01@democompany1016.onmicrosoft.com,IT,Emergency Access Account,US,Service,Emergency,,Emergency access account kept outside normal license path
+Northstar Break Glass 02,Northstar,BreakGlass02,breakglass-02@democompany1016.onmicrosoft.com,IT,Emergency Access Account,US,Service,Emergency,,Emergency access account kept outside normal license path
 Ava Foster,Ava,Foster,ava.foster@democompany1016.onmicrosoft.com,IT,Privileged Access Administrator,US,Employee,PrivilegedAdmin,SG-LIC-M365-E5-PILOT,Primary PIM admin pilot
-Ethan Walker,Ethan,Walker,ethan.walker@democompany1016.onmicrosoft.com,IT,User Administration Lead,US,Employee,PrivilegedAdmin,SG-LIC-M365-E5-PILOT,User admin pilot
+Ethan Walker,Ethan,Walker,ethan.walker@democompany1016.onmicrosoft.com,IT,User Administration Lead,US,Employee,PrivilegedAdmin,SG-LIC-M365-E5-PILOT,User admin pilot for later PIM eligibility
 Rachel Kim,Rachel,Kim,rachel.kim@democompany1016.onmicrosoft.com,Security,Security Administrator,US,Employee,SecurityAdmin,SG-LIC-M365-E5-PILOT,Security operations pilot
 Mason Lee,Mason,Lee,mason.lee@democompany1016.onmicrosoft.com,Security,Global Reader,US,Employee,ReaderAdmin,SG-LIC-M365-E5-PILOT,Read-only admin pilot
 Emma Reed,Emma,Reed,emma.reed@democompany1016.onmicrosoft.com,Finance,Finance Analyst,US,Employee,RiskTestUser,SG-LIC-M365-E5-PILOT,Risk-test standard user
