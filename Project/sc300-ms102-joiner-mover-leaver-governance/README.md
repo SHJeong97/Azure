@@ -19,6 +19,17 @@ The implementation used a pilot workforce model with baseline users, joiners, mo
 - Produce validation evidence for every major lifecycle event
 - Connect access lifecycle decisions to business risk reduction and auditability
 
+## Project Review Guide
+A reviewer can validate this project quickly by checking these items first:
+
+1. `diagrams/jml-process-architecture.md`
+2. `docs/10-business-risk-value-analysis.md`
+3. `evidence/validation-notes/batch-5-leaver-workflow.md`
+4. `evidence/screenshots/group-sg-joiner-pilot-members-project2.png`
+5. `evidence/screenshots/group-sg-mover-pilot-members-project2.png`
+6. `evidence/screenshots/group-sg-leaver-pilot-members-project2.png`
+7. `docs/11-interview-talk-track.md`
+
 ## Full Implementation
 The project was built in six major stages.
 
