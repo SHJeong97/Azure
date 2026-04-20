@@ -196,3 +196,15 @@ Every major lifecycle event produced at least one screenshot and one written val
 - Offboarding should prioritize sign-in containment before entitlement cleanup
 - Shared resources must be governed alongside groups and licenses
 - Business-aligned IAM work should always produce reviewable evidence, not just completed configuration
+
+  ## Skills Demonstrated
+- Microsoft Entra ID administration
+- Microsoft 365 administration
+- Identity lifecycle governance
+- Joiner-mover-leaver process design
+- Group-based licensing
+- Department-based access control
+- Shared mailbox access governance
+- Access removal and entitlement cleanup
+- Validation and audit-style evidence collection
+- Business-aligned IAM documentation
