@@ -58,5 +58,5 @@ foreach ($u in $users) {
     }
 }
 
-$results | Export-Csv ".\evidence\cli-output\baseline-membership-results.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\baseline-membership-results.csv" -NoTypeInformation
 $results
