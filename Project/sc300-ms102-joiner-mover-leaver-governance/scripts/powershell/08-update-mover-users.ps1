@@ -1,5 +1,5 @@
 param(
-    [string]$CsvPath = ".\data\users\mover-users.csv"
+    [string]$CsvPath = "C:\Users\vm1\Desktop\mover-users.csv"
 )
 
 $movers = Import-Csv $CsvPath
@@ -28,5 +28,5 @@ foreach ($m in $movers) {
     }
 }
 
-$results | Export-Csv ".\evidence\cli-output\mover-department-update-results.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\mover-department-update-results.csv" -NoTypeInformation
 $results
