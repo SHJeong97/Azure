@@ -1,0 +1,5 @@
+DisplayName,Alias,PrimarySmtpAddress,Department,Purpose,Notes
+HR Shared,hr.shared,hr.shared@democompany1016.onmicrosoft.com,HR,Shared HR coordination mailbox,Used for HR lifecycle access testing
+Finance Shared,finance.shared,finance.shared@democompany1016.onmicrosoft.com,Finance,Shared Finance coordination mailbox,Used for Finance lifecycle access testing
+Sales Shared,sales.shared,sales.shared@democompany1016.onmicrosoft.com,Sales,Shared Sales coordination mailbox,Used for Sales lifecycle access testing
+Operations Shared,operations.shared,operations.shared@democompany1016.onmicrosoft.com,Operations,Shared Operations coordination mailbox,Used for Operations lifecycle access testing
