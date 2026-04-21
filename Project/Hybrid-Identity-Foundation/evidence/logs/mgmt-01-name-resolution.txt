@@ -1,0 +1,19 @@
+PS C:\Users\adc-01> nslookup adc-01
+Server:  adc-01.internal.cloudapp.net
+Address:  10.10.1.10
+
+Name:    adc-01.corp.democompany1016.local
+Address:  10.10.1.10
+
+PS C:\Users\adc-01> ping adc-01
+
+Pinging adc-01.corp.democompany1016.local [10.10.1.10] with 32 bytes of data:
+Reply from 10.10.1.10: bytes=32 time<1ms TTL=128
+Reply from 10.10.1.10: bytes=32 time=9ms TTL=128
+Reply from 10.10.1.10: bytes=32 time<1ms TTL=128
+Reply from 10.10.1.10: bytes=32 time<1ms TTL=128
+
+Ping statistics for 10.10.1.10:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 9ms, Average = 2ms
