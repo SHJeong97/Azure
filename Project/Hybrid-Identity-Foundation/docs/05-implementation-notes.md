@@ -23,6 +23,12 @@ The internal Active Directory domain name is corp.democompany1016.local.
 DNS was installed during promotion.
 The Azure virtual network was reconfigured to use ADC-01 as the custom DNS server so that later member-server domain joins use Active Directory-integrated name resolution.
 
+## Batch 4 Notes
+MGMT-01 was joined to corp.democompany1016.local as a member server.
+The server was then used as the first remote administration host rather than performing all management directly from the domain controller.
+Remote Server Administration Tools were installed to support AD, DNS, and Group Policy administration from MGMT-01.
+This separates service hosting from routine administration and better reflects an operational model than a single-box-only lab.
+
 ## Deployment Principle
 The Azure subscription is used only to host infrastructure.
 The identity target remains the Microsoft 365 tenant democompany1016.onmicrosoft.com.
