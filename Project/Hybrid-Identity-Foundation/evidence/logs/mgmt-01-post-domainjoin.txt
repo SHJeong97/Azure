@@ -1,0 +1,34 @@
+PS C:\Users\adc-01> hostname
+MGMT-01
+PS C:\Users\adc-01> whoami
+corp\adc-01
+PS C:\Users\adc-01> ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MGMT-01
+   Primary Dns Suffix  . . . . . . . : corp.democompany1016.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : corp.democompany1016.local
+                                       reddog.microsoft.com
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : reddog.microsoft.com
+   Description . . . . . . . . . . . : Microsoft Hyper-V Network Adapter
+   Physical Address. . . . . . . . . : 7C-1E-52-6B-61-31
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::269f:bdf9:16c1:9d83%7(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.10.1.20(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, April 21, 2026 5:25:59 PM
+   Lease Expires . . . . . . . . . . : Saturday, May 29, 2162 12:02:53 AM
+   Default Gateway . . . . . . . . . : 10.10.1.1
+   DHCP Server . . . . . . . . . . . : 168.63.129.16
+   DHCPv6 IAID . . . . . . . . . . . : 108797522
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-31-79-2E-C7-7C-1E-52-6B-61-31
+   DNS Servers . . . . . . . . . . . : 10.10.1.10
+   NetBIOS over Tcpip. . . . . . . . : Enabled
