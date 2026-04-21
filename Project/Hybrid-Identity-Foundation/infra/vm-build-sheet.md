@@ -12,6 +12,15 @@ VM Size:
 - 1 vCPU
 - 8 GiB memory
 
+AD DS Status:
+- AD DS installed
+- new forest created
+- DNS installed
+- promoted as first domain controller
+
+Domain:
+- corp.democompany1016.local
+
 ### MGMT-01
 VM Size:
 - Standard_DC1ds_v3
