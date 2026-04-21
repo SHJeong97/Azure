@@ -1,51 +1,52 @@
 # Architecture Decisions
 
-## Decision 1: Use Azure-hosted IaaS VMs instead of local virtualization
+## Decision 1: Use Azure-hosted VMs instead of local virtualization
 Reason:
-This reduces home-lab dependency and makes the project portable, repeatable, and easier to document.
+This avoids dependency on local hardware and creates a more portable and repeatable lab.
 
-Business impact:
-The design simulates a cloud-hosted infrastructure pattern that many small companies use when they do not maintain a physical server room.
+Business outcome:
+Lower build friction and easier evidence collection for a portfolio project.
 
-## Decision 2: Use single forest / single domain
+## Decision 2: Use a single forest and single domain
 Reason:
-This is the simplest realistic topology for a 75-user company and aligns with a common supported hybrid identity pattern.
+This is realistic for a 75-user company and avoids unnecessary complexity.
 
-Business impact:
-Lower complexity, lower admin overhead, easier troubleshooting.
+Business outcome:
+Lower administrative overhead and simpler troubleshooting.
 
-## Decision 3: Use Password Hash Sync instead of Pass-Through Authentication for the first project
+## Decision 3: Use separate Azure infrastructure hosting and Microsoft 365 tenant identity target
 Reason:
-This keeps the environment simpler and more resilient for a small company lab while still supporting hybrid identity.
+The company tenant does not have Azure subscription access, but a personal Azure subscription is available for infrastructure hosting.
 
-Business impact:
-Lower infrastructure dependency during sign-in, easier support model, faster implementation.
+Business outcome:
+Enables low-cost lab infrastructure without blocking hybrid identity implementation.
 
-## Decision 4: Use E5 only for privileged/admin test accounts
-Reason:
-This controls licensing consumption while still allowing demonstration of higher-value security controls.
-
-Business impact:
-Better cost efficiency while preserving security coverage where risk is highest.
-
-## Decision 5: Accept lab simplification of one domain controller
-Reason:
-This is not production-grade high availability, but it is cost-effective for a portfolio lab.
-
-Business impact:
-Good enough to demonstrate design and implementation capability.
-Production gap:
-A real environment should normally use multiple domain controllers and stronger resiliency controls.
-
-## Decision 6: Use separate accounts for Azure infrastructure hosting and Microsoft 365 identity target
-Reason:
-The demo company tenant does not have Azure subscription access, while a personal Azure free-trial subscription is available for lab infrastructure.
-
-Business impact:
-This allows low-cost infrastructure hosting without blocking hybrid identity implementation.
-
-Lab design note:
-Azure VMs and networking are hosted in a personal Azure subscription, but Microsoft Entra Connect synchronizes identities into the company tenant: democompany1016.onmicrosoft.com.
+Lab note:
+Azure resources exist in a personal subscription, while identity synchronization targets democompany1016.onmicrosoft.com.
 
 Production gap:
-In a real company, the Azure subscription and Microsoft 365 tenant are often under the same organization-owned Entra tenant for governance and billing consistency.
+A production company would normally prefer organization-owned Azure subscriptions aligned to the same tenant for governance, billing, and access control consistency.
+
+## Decision 4: Start with Password Hash Sync
+Reason:
+This is simpler than more infrastructure-dependent options and is appropriate for a small hybrid environment.
+
+Business outcome:
+Faster deployment, fewer moving parts, simpler support model.
+
+## Decision 5: Use one domain controller for the portfolio lab
+Reason:
+This is a lab simplification to reduce cost.
+
+Business outcome:
+Sufficient to demonstrate implementation skill.
+
+Production gap:
+A real company should normally use more than one domain controller for resiliency.
+
+## Decision 6: Use E5 capabilities only for a limited privileged/admin subset
+Reason:
+Higher-value security features should be demonstrated where risk is highest.
+
+Business outcome:
+Shows cost-aware security design instead of wasteful blanket licensing.
