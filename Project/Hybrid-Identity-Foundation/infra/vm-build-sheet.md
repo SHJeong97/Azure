@@ -27,6 +27,15 @@ VM Size:
 - 1 vCPU
 - 8 GiB memory
 
+Domain Join Status:
+- Joined to corp.democompany1016.local
+- Operating as member server
+
+Management Tools:
+- RSAT AD tools installed
+- DNS tools installed
+- Group Policy Management installed
+
 Lab note:
 This size was selected based on quota and trial constraints rather than ideal performance sizing.
 It is sufficient for a low-cost hybrid identity portfolio lab, but some administrative tasks may be slower than preferred.
