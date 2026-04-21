@@ -1,29 +1,36 @@
 # VM Build Sheet
 
-## Azure Resource Plan
-- Resource Group: rg-hybrid-identity-lab
-- Region: pick one close to you
-- Virtual Network: vnet-hybrid-identity
-- Subnet: snet-core
-- Network Security Group: nsg-hybrid-identity-management
+## Hosting Model
+Azure infrastructure is hosted in a personal Azure subscription.
+Identity target tenant is democompany1016.onmicrosoft.com.
 
-## Planned VMs
-1. ADC-01
-   - Role: Active Directory Domain Services, DNS
-   - OS: Windows Server
-   - Notes: static private IP
+## Planned Servers
 
-2. MGMT-01
-   - Role: Management server, RSAT, Microsoft Entra Connect Sync
-   - OS: Windows Server
-   - Notes: domain joined member server
+### ADC-01
+Role:
+- Active Directory Domain Services
+- DNS
 
-## Planned Domain
-- Internal AD domain: corp.democompany1016.local
+Notes:
+- static private IP
+- first domain controller
+- hosts corp.democompany1016.local
+
+### MGMT-01
+Role:
+- domain-joined management server
+- RSAT tools
+- Microsoft Entra Connect Sync
+
+Notes:
+- used for management and sync configuration
 
 ## Identity Model
-- 1 emergency cloud-only account
+- 1 cloud-only emergency access account
 - 2 privileged admin accounts
 - 1 helpdesk/admin operations account
 - 1 licensing/admin operations account
-- 50–75 employee identities represented
+- 50 to 75 employee identities represented through structured test users
+
+## Design Principle
+Normal user accounts and privileged accounts must be separated.
