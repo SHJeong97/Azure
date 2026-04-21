@@ -27,7 +27,15 @@ Purpose:
 
 Private IP target:
 - 10.10.1.10
+- 
+VM Size:
+- Standard_DC1ds_v3
+- 1 vCPU
+- 8 GiB memory
 
+Lab note:
+This size was selected based on subscription/quota availability rather than ideal sizing.
+It is sufficient for a portfolio lab but may be slower than preferred for management and synchronization tasks.
 ### MGMT-01
 Purpose:
 - management server
@@ -36,6 +44,15 @@ Purpose:
 
 Private IP target:
 - 10.10.1.20
+
+VM Size:
+- Standard_DC1ds_v3
+- 1 vCPU
+- 8 GiB memory
+
+Lab note:
+This size was selected based on subscription/quota availability rather than ideal sizing.
+It is sufficient for a portfolio lab but may be slower than preferred for management and synchronization tasks.
 
 ## Cost Control
 - keep VM count to two
