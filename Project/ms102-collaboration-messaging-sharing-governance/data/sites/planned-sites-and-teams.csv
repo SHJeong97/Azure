@@ -1,1 +1,9 @@
-
+ResourceName,ResourceType,Department,Purpose,TargetGroup,Notes
+Finance Team,Team,Finance,Finance collaboration space,SG-DEPT-FINANCE-COLLAB,Department Team pilot
+Operations Team,Team,Operations,Operations collaboration space,SG-DEPT-OPERATIONS-COLLAB,Department Team pilot
+HR Team,Team,HR,HR collaboration space,SG-DEPT-HR-COLLAB,Department Team pilot
+Sales Team,Team,Sales,Sales collaboration space,SG-DEPT-SALES-COLLAB,Department Team pilot
+Finance Site,SharePointSite,Finance,Finance document collaboration site,SG-DEPT-FINANCE-COLLAB,Department site pilot
+Operations Site,SharePointSite,Operations,Operations document collaboration site,SG-DEPT-OPERATIONS-COLLAB,Department site pilot
+HR Site,SharePointSite,HR,HR document collaboration site,SG-DEPT-HR-COLLAB,Department site pilot
+Sales Site,SharePointSite,Sales,Sales document collaboration site,SG-DEPT-SALES-COLLAB,Department site pilot
