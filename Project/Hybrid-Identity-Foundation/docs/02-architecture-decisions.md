@@ -36,3 +36,16 @@ Business impact:
 Good enough to demonstrate design and implementation capability.
 Production gap:
 A real environment should normally use multiple domain controllers and stronger resiliency controls.
+
+## Decision 6: Use separate accounts for Azure infrastructure hosting and Microsoft 365 identity target
+Reason:
+The demo company tenant does not have Azure subscription access, while a personal Azure free-trial subscription is available for lab infrastructure.
+
+Business impact:
+This allows low-cost infrastructure hosting without blocking hybrid identity implementation.
+
+Lab design note:
+Azure VMs and networking are hosted in a personal Azure subscription, but Microsoft Entra Connect synchronizes identities into the company tenant: democompany1016.onmicrosoft.com.
+
+Production gap:
+In a real company, the Azure subscription and Microsoft 365 tenant are often under the same organization-owned Entra tenant for governance and billing consistency.
