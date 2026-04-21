@@ -1,1 +1,7 @@
-
+GroupName,GroupType,MembershipType,Purpose,Notes
+SG-LIC-M365-E3-PILOT,Security,Assigned,Assign Microsoft 365 E3 to pilot users,Primary pilot license group
+SG-DEPT-FINANCE-COLLAB,Security,Assigned,Finance collaboration access pilot,Department collaboration group
+SG-DEPT-OPERATIONS-COLLAB,Security,Assigned,Operations collaboration access pilot,Department collaboration group
+SG-DEPT-HR-COLLAB,Security,Assigned,HR collaboration access pilot,Department collaboration group
+SG-DEPT-SALES-COLLAB,Security,Assigned,Sales collaboration access pilot,Department collaboration group
+SG-PILOT-EXTERNAL-SHARING,Security,Assigned,External sharing pilot scope,Used for later external sharing validation
