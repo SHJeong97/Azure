@@ -1,26 +1,49 @@
 # Azure Resource Plan
 
 ## Goal
-Provide low-cost infrastructure hosting for a hybrid identity portfolio lab.
+Provide low-cost Azure-hosted infrastructure for a hybrid identity portfolio lab.
 
-## Planned Resources
-- 1 resource group
-- 1 virtual network
-- 1 subnet
-- 1 network security group
-- 2 Windows Server VMs
-- 2 public IPs only if required for administration
-- managed disks
-- boot diagnostics enabled if needed
+## Resource Group
+rg-hybrid-identity-lab
 
-## Cost Discipline Rules
-- use small VM sizes
-- stop VMs when not in use
-- avoid unnecessary premium services
-- avoid extra VMs unless justified
-- track remaining trial credit regularly
+## Region
+Choose one region close to your location and keep all resources in the same region.
 
-## Security Discipline Rules
-- restrict inbound administrative exposure
-- document every exception
-- use strong passwords and tenant MFA where possible
+## Network
+- Virtual Network: vnet-hybrid-identity
+- Address Space: 10.10.0.0/16
+- Subnet: snet-core
+- Subnet Range: 10.10.1.0/24
+
+## NSG
+nsg-hybrid-identity-management
+
+## Virtual Machines
+### ADC-01
+Purpose:
+- first domain controller
+- DNS server
+- future identity source
+
+Private IP target:
+- 10.10.1.10
+
+### MGMT-01
+Purpose:
+- management server
+- future Microsoft Entra Connect host
+- RSAT administration
+
+Private IP target:
+- 10.10.1.20
+
+## Cost Control
+- keep VM count to two
+- use small sizes
+- stop VMs after use
+- do not add extra services unless required
+
+## Security Intent
+- restrict inbound RDP to your own public IP if possible
+- avoid broad inbound exposure
+- use strong local admin credentials
