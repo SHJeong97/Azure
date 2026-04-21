@@ -71,5 +71,5 @@ foreach ($u in $users) {
     }
 }
 
-$results | Export-Csv C:\Users\vm1\Desktop\pilot-membership-results-project4.csv" -NoTypeInformation
+$results | Export-Csv "C:\Users\vm1\Desktop\pilot-membership-results-project4.csv" -NoTypeInformation
 $results
