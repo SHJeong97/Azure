@@ -7,21 +7,20 @@ Identity target tenant is democompany1016.onmicrosoft.com.
 ## Planned Servers
 
 ### ADC-01
-Role:
-- Active Directory Domain Services
-- DNS
-
-Notes:
-- static private IP
-- first domain controller
-- hosts corp.democompany1016.local
+VM Size:
+- Standard_DC1ds_v3
+- 1 vCPU
+- 8 GiB memory
 
 ### MGMT-01
-Role:
-- domain-joined management server
-- RSAT tools
-- Microsoft Entra Connect Sync
+VM Size:
+- Standard_DC1ds_v3
+- 1 vCPU
+- 8 GiB memory
 
+Lab note:
+This size was selected based on quota and trial constraints rather than ideal performance sizing.
+It is sufficient for a low-cost hybrid identity portfolio lab, but some administrative tasks may be slower than preferred.
 Notes:
 - used for management and sync configuration
 
