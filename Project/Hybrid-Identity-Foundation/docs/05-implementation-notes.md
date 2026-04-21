@@ -17,6 +17,12 @@ Resources not yet configured:
 - Microsoft Entra Connect Sync
 - Microsoft 365 identity controls
 
+## Batch 3 Notes
+ADC-01 was promoted as the first domain controller in a new forest.
+The internal Active Directory domain name is corp.democompany1016.local.
+DNS was installed during promotion.
+The Azure virtual network was reconfigured to use ADC-01 as the custom DNS server so that later member-server domain joins use Active Directory-integrated name resolution.
+
 ## Deployment Principle
 The Azure subscription is used only to host infrastructure.
 The identity target remains the Microsoft 365 tenant democompany1016.onmicrosoft.com.
