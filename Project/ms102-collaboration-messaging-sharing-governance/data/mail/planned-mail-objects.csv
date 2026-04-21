@@ -1,1 +1,6 @@
-
+ObjectName,ObjectType,PrimaryAddress,Department,Purpose,TargetGroup,Notes
+Finance Shared,SharedMailbox,finance.shared@democompany1016.onmicrosoft.com,Finance,Shared finance operations mailbox,SG-DEPT-FINANCE-COLLAB,Used for mailbox delegation testing
+Operations Shared,SharedMailbox,operations.shared@democompany1016.onmicrosoft.com,Operations,Shared operations coordination mailbox,SG-DEPT-OPERATIONS-COLLAB,Used for mailbox delegation testing
+HR Shared,SharedMailbox,hr.shared@democompany1016.onmicrosoft.com,HR,Shared HR coordination mailbox,SG-DEPT-HR-COLLAB,Used for mailbox delegation testing
+Sales Shared,SharedMailbox,sales.shared@democompany1016.onmicrosoft.com,Sales,Shared sales coordination mailbox,SG-DEPT-SALES-COLLAB,Used for mailbox delegation testing
+All Staff Updates,DistributionGroup,allstaff.updates@democompany1016.onmicrosoft.com,All,Company-wide announcement group,,Used for distribution group governance
