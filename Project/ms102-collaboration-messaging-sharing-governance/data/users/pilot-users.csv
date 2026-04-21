@@ -1,1 +1,9 @@
-
+DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,EmployeeType,PilotType,LicenseGroup,Notes
+Ava Foster,Ava,Foster,ava.foster@democompany1016.onmicrosoft.com,IT,Exchange Administrator,US,Employee,WorkloadAdmin,SG-LIC-M365-E3-PILOT,Exchange workload admin pilot
+Ethan Walker,Ethan,Walker,ethan.walker@democompany1016.onmicrosoft.com,IT,SharePoint Administrator,US,Employee,WorkloadAdmin,SG-LIC-M365-E3-PILOT,SharePoint workload admin pilot
+Rachel Kim,Rachel,Kim,rachel.kim@democompany1016.onmicrosoft.com,IT,Teams Administrator,US,Employee,WorkloadAdmin,SG-LIC-M365-E3-PILOT,Teams admin pilot
+Mason Lee,Mason,Lee,mason.lee@democompany1016.onmicrosoft.com,IT,Global Reader,US,Employee,ReaderAdmin,SG-LIC-M365-E3-PILOT,Read-only oversight pilot
+Emma Reed,Emma,Reed,emma.reed@democompany1016.onmicrosoft.com,Finance,Finance Analyst,US,Employee,DepartmentUser,SG-LIC-M365-E3-PILOT,Finance department pilot user
+Olivia Chen,Olivia,Chen,olivia.chen@democompany1016.onmicrosoft.com,Operations,Operations Coordinator,US,Employee,DepartmentUser,SG-LIC-M365-E3-PILOT,Operations department pilot user
+Grace Miller,Grace,Miller,grace.miller@democompany1016.onmicrosoft.com,HR,HR Coordinator,US,Employee,DepartmentUser,SG-LIC-M365-E3-PILOT,HR department pilot user
+Henry Cole,Henry,Cole,henry.cole@democompany1016.onmicrosoft.com,Sales,Sales Manager,US,Employee,DepartmentUser,SG-LIC-M365-E3-PILOT,Sales department pilot user
