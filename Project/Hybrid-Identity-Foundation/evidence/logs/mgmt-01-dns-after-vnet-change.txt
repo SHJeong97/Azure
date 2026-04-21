@@ -1,0 +1,29 @@
+PS C:\Users\MGMT-01> ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MGMT-01
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : reddog.microsoft.com
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : reddog.microsoft.com
+   Description . . . . . . . . . . . : Microsoft Hyper-V Network Adapter
+   Physical Address. . . . . . . . . : 7C-1E-52-6B-61-31
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::269f:bdf9:16c1:9d83%7(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.10.1.20(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, April 21, 2026 5:05:19 PM
+   Lease Expires . . . . . . . . . . : Friday, May 28, 2162 11:34:53 PM
+   Default Gateway . . . . . . . . . : 10.10.1.1
+   DHCP Server . . . . . . . . . . . : 168.63.129.16
+   DHCPv6 IAID . . . . . . . . . . . : 108797522
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-31-79-2E-C7-7C-1E-52-6B-61-31
+   DNS Servers . . . . . . . . . . . : 10.10.1.10
+   NetBIOS over Tcpip. . . . . . . . : Enabled
