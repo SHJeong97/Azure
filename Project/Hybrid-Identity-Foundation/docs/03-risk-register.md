@@ -1,53 +1,66 @@
 # Risk Register
 
-## Risk 1: Overprivileged admins
+## Risk 1: Overprivileged administrators
 Problem:
-Too many people holding Global Administrator or broad rights.
+Too many broad admin permissions increase blast radius.
 
-Impact:
-High blast radius if an admin account is compromised.
-
-Mitigation:
-Use role segmentation, least privilege, and privileged admin accounts separated from normal user accounts.
+Business risk:
+Compromise of one admin account can affect the whole tenant.
 
 Decision:
-Remediate. The cost of compromise is much higher than the cost of tighter admin design.
+Remediate.
 
-## Risk 2: Password reset friction
+Reason:
+The cost of tighter admin segmentation is low compared to the cost of identity compromise.
+
+## Risk 2: Weak identity authority model
 Problem:
-Users depend on helpdesk for resets.
+If source of authority is unclear, user lifecycle actions become inconsistent.
 
-Impact:
-Support burden, downtime, user frustration.
-
-Mitigation:
-Enable SSPR and hybrid writeback.
+Business risk:
+Bad provisioning, duplicate accounts, failed sync, and support burden.
 
 Decision:
-Remediate. This creates clear operational value.
+Remediate.
 
-## Risk 3: Sync misconfiguration
+Reason:
+Identity confusion creates recurring operational cost.
+
+## Risk 3: Sync scope mistakes
 Problem:
-Wrong OU scope, duplicate objects, or bad UPN mapping.
+Wrong OU filtering or bad account design can sync the wrong objects.
 
-Impact:
-Broken sign-in, license waste, failed onboarding.
-
-Mitigation:
-Use pilot OU design, validation testing, staged rollout logic, and documentation.
+Business risk:
+Broken access, wasted licenses, troubleshooting overhead.
 
 Decision:
-Remediate. Identity errors are expensive to unwind.
+Remediate.
 
-## Risk 4: Lab cost overrun in Azure
+Reason:
+This is a preventable design error.
+
+## Risk 4: Password reset overhead
 Problem:
-Leaving VMs running unnecessarily.
+Users rely too much on manual IT intervention.
 
-Impact:
-Consumes trial credit and can create avoidable charges.
-
-Mitigation:
-Use small VM sizes, stop VMs when idle, track usage in Azure portal, avoid unnecessary public exposure.
+Business risk:
+Productivity loss and helpdesk waste.
 
 Decision:
-Remediate. Easy cost control with operational discipline.
+Remediate.
+
+Reason:
+SSPR and writeback create clear operational value.
+
+## Risk 5: Azure free-credit overuse
+Problem:
+Leaving VMs running unnecessarily burns credit.
+
+Business risk:
+Lab cost increases or the project stops early due to exhausted credit.
+
+Decision:
+Remediate.
+
+Reason:
+Cost discipline is easy and should be enforced from the beginning.
