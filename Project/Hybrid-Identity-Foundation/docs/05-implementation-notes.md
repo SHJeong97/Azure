@@ -20,3 +20,5 @@ Resources not yet configured:
 ## Deployment Principle
 The Azure subscription is used only to host infrastructure.
 The identity target remains the Microsoft 365 tenant democompany1016.onmicrosoft.com.
+The lab used constrained VM sizing due to subscription and free-trial limits.
+This was an intentional cost-control decision and did not change the core identity architecture being demonstrated.
