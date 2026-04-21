@@ -1,0 +1,63 @@
+PS C:\Users\adc-01> Get-Module -ListAvailable ActiveDirectory
+
+                                                                                                                            Directory: C:\Windows\system32\WindowsPowerShell\v1.0\Modules                                                                                                                                                                                                                                                                                                       ModuleType Version    Name                                ExportedCommands                                              ---------- -------    ----                                ----------------
+Manifest   1.0.1.0    ActiveDirectory                     {Add-ADCentralAccessPolicyMember, Add-ADComputerServiceAcc...
+
+
+PS C:\Users\adc-01> Import-Module ActiveDirectory
+PS C:\Users\adc-01> Get-ADDomain
+
+
+AllowedDNSSuffixes                 : {}
+ChildDomains                       : {}
+ComputersContainer                 : CN=Computers,DC=corp,DC=democompany1016,DC=local
+DeletedObjectsContainer            : CN=Deleted Objects,DC=corp,DC=democompany1016,DC=local
+DistinguishedName                  : DC=corp,DC=democompany1016,DC=local
+DNSRoot                            : corp.democompany1016.local
+DomainControllersContainer         : OU=Domain Controllers,DC=corp,DC=democompany1016,DC=local
+DomainMode                         : Windows2016Domain
+DomainSID                          : S-1-5-21-790210701-3505631885-1561912833
+ForeignSecurityPrincipalsContainer : CN=ForeignSecurityPrincipals,DC=corp,DC=democompany1016,DC=local
+Forest                             : corp.democompany1016.local
+InfrastructureMaster               : ADC-01.corp.democompany1016.local
+LastLogonReplicationInterval       :
+LinkedGroupPolicyObjects           : {CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=corp,DC=democo
+                                     mpany1016,DC=local}
+LostAndFoundContainer              : CN=LostAndFound,DC=corp,DC=democompany1016,DC=local
+ManagedBy                          :
+Name                               : corp
+NetBIOSName                        : CORP
+ObjectClass                        : domainDNS
+ObjectGUID                         : f2b345c3-f6c6-44b9-ad61-6b30f7d3e1d0
+ParentDomain                       :
+PDCEmulator                        : ADC-01.corp.democompany1016.local
+PublicKeyRequiredPasswordRolling   : True
+QuotasContainer                    : CN=NTDS Quotas,DC=corp,DC=democompany1016,DC=local
+ReadOnlyReplicaDirectoryServers    : {}
+ReplicaDirectoryServers            : {ADC-01.corp.democompany1016.local}
+RIDMaster                          : ADC-01.corp.democompany1016.local
+SubordinateReferences              : {DC=ForestDnsZones,DC=corp,DC=democompany1016,DC=local,
+                                     DC=DomainDnsZones,DC=corp,DC=democompany1016,DC=local,
+                                     CN=Configuration,DC=corp,DC=democompany1016,DC=local}
+SystemsContainer                   : CN=System,DC=corp,DC=democompany1016,DC=local
+UsersContainer                     : CN=Users,DC=corp,DC=democompany1016,DC=local
+
+
+
+PS C:\Users\adc-01> Get-ADForest
+
+
+ApplicationPartitions : {DC=ForestDnsZones,DC=corp,DC=democompany1016,DC=local,
+                        DC=DomainDnsZones,DC=corp,DC=democompany1016,DC=local}
+CrossForestReferences : {}
+DomainNamingMaster    : ADC-01.corp.democompany1016.local
+Domains               : {corp.democompany1016.local}
+ForestMode            : Windows2016Forest
+GlobalCatalogs        : {ADC-01.corp.democompany1016.local}
+Name                  : corp.democompany1016.local
+PartitionsContainer   : CN=Partitions,CN=Configuration,DC=corp,DC=democompany1016,DC=local
+RootDomain            : corp.democompany1016.local
+SchemaMaster          : ADC-01.corp.democompany1016.local
+Sites                 : {Default-First-Site-Name}
+SPNSuffixes           : {}
+UPNSuffixes           : {}
