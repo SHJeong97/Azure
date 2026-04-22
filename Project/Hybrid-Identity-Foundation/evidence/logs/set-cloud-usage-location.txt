@@ -1,0 +1,30 @@
+PS C:\LabSources\HybridIdentity\scripts\powershell> .\05-set-cloud-usage-location.ps1
+WARNING: Note: Sign in by Web Account Manager (WAM) is enabled by default on Windows. If using an embedded terminal,
+the interactive browser window may be hidden behind other windows.
+Welcome to Microsoft Graph!
+
+Connected via delegated access using 14d82eec-204b-4c2f-b7e8-296a70dab67e
+Readme: https://aka.ms/graph/sdk/powershell
+SDK Docs: https://aka.ms/graph/sdk/powershell/docs
+API Docs: https://aka.ms/graph/docs
+
+NOTE: You can use the -NoWelcome parameter to suppress this message.
+NOTE: Sign in by Web Account Manager (WAM) is enabled by default on Windows systems and cannot be disabled when using the default ClientId.
+To disable WAM run Set-MgGraphOption -DisableLoginByWAM $true and then use a custom ClientId.
+
+Updated UsageLocation to US for emma.reed@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for david.cho@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for olivia.kim@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for ethan.park@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for isabella.chen@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for sophia.ng@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for liam.brooks@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for ava.patel@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for noah.ross@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for mia.garcia@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for jackson.lee@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for zoe.turner@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for mason.hill@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for adm.olivia.kim@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for adm.ethan.park@democompany1016.onmicrosoft.com
+Updated UsageLocation to US for adm.isabella.chen@democompany1016.onmicrosoft.com
