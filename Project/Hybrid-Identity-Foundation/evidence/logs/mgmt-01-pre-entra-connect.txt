@@ -1,0 +1,6 @@
+PS C:\LabSources\HybridIdentity\scripts\powershell> hostname
+MGMT-01
+PS C:\LabSources\HybridIdentity\scripts\powershell> whoami
+corp\adc-01
+PS C:\LabSources\HybridIdentity\scripts\powershell> Get-Service ADSync -ErrorAction SilentlyContinue
+PS C:\LabSources\HybridIdentity\scripts\powershell>
