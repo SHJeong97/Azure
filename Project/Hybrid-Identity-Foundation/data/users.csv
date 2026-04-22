@@ -1,1 +1,14 @@
-
+GivenName,Surname,SamAccountName,UserPrincipalName,Department,Title,Office,UserOU,Password,DeptGroup,LicGroup
+Emma,Reed,emma.reed,emma.reed@democompany1016.onmicrosoft.com,Executive,Chief Executive Officer,HQ-NYC,Executive,DemoComp!2026Temp#,GG-Dept-Executive,GG-Lic-M365-E3-Pilot
+David,Cho,david.cho,david.cho@democompany1016.onmicrosoft.com,Executive,Chief Operating Officer,HQ-NYC,Executive,DemoComp!2026Temp#,GG-Dept-Executive,GG-Lic-M365-E3-Pilot
+Olivia,Kim,olivia.kim,olivia.kim@democompany1016.onmicrosoft.com,IT,Identity Administrator,HQ-NYC,IT,DemoComp!2026Temp#,GG-Dept-IT,GG-Lic-M365-E3-Pilot
+Ethan,Park,ethan.park,ethan.park@democompany1016.onmicrosoft.com,IT,Systems Administrator,HQ-NYC,IT,DemoComp!2026Temp#,GG-Dept-IT,GG-Lic-M365-E3-Pilot
+Isabella,Chen,isabella.chen,isabella.chen@democompany1016.onmicrosoft.com,IT,Service Desk Lead,HQ-NYC,IT,DemoComp!2026Temp#,GG-Dept-IT,GG-Lic-M365-E3-Pilot
+Sophia,Ng,sophia.ng,sophia.ng@democompany1016.onmicrosoft.com,HR,HR Manager,HQ-NYC,HR,DemoComp!2026Temp#,GG-Dept-HR,GG-Lic-M365-E3-Pilot
+Liam,Brooks,liam.brooks,liam.brooks@democompany1016.onmicrosoft.com,HR,HR Generalist,HQ-NYC,HR,DemoComp!2026Temp#,GG-Dept-HR,GG-Lic-M365-E3-Pilot
+Ava,Patel,ava.patel,ava.patel@democompany1016.onmicrosoft.com,Finance,Controller,HQ-NYC,Finance,DemoComp!2026Temp#,GG-Dept-Finance,GG-Lic-M365-E3-Pilot
+Noah,Ross,noah.ross,noah.ross@democompany1016.onmicrosoft.com,Finance,Finance Analyst,HQ-NYC,Finance,DemoComp!2026Temp#,GG-Dept-Finance,GG-Lic-M365-E3-Pilot
+Mia,Garcia,mia.garcia,mia.garcia@democompany1016.onmicrosoft.com,Sales,Sales Manager,HQ-NYC,Sales,DemoComp!2026Temp#,GG-Dept-Sales,GG-Lic-M365-E3-Pilot
+Jackson,Lee,jackson.lee,jackson.lee@democompany1016.onmicrosoft.com,Sales,Account Executive,HQ-NYC,Sales,DemoComp!2026Temp#,GG-Dept-Sales,GG-Lic-M365-E3-Pilot
+Zoe,Turner,zoe.turner,zoe.turner@democompany1016.onmicrosoft.com,Operations,Operations Manager,HQ-NYC,Operations,DemoComp!2026Temp#,GG-Dept-Operations,GG-Lic-M365-E3-Pilot
+Mason,Hill,mason.hill,mason.hill@democompany1016.onmicrosoft.com,Operations,Logistics Coordinator,HQ-NYC,Operations,DemoComp!2026Temp#,GG-Dept-Operations,GG-Lic-M365-E3-Pilot
