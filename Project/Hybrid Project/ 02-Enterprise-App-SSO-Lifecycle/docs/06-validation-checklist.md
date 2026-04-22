@@ -12,3 +12,16 @@
 - App access groups visible in ADUC
 - Delta sync triggered
 - App access groups visible in Microsoft Entra ID
+
+## Batch 2 Validation
+- Enterprise application instance created
+- App owners assigned
+- App sign-in enabled
+- App visibility enabled
+- Assignment required enabled
+- Users group assigned
+- Admins group assigned
+- Audit group assigned
+- App overview validated
+- Owners validated
+- Properties validated
