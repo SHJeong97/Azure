@@ -1,0 +1,37 @@
+PS C:\Users\adc-01> Unblock-File C:\LabSources\HybridIdentity-Project2\scripts\powershell\06-create-app-ou-and-groups.ps1                                                                                                                       PS C:\Users\adc-01> Unblock-File C:\LabSources\HybridIdentity-Project2\scripts\powershell\07-validate-app-groups.ps1
+PS C:\Users\adc-01>
+PS C:\Users\adc-01> Set-Location C:\LabSources\HybridIdentity-Project2\scripts\powershell
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> .\06-create-app-ou-and-groups.ps1
+Created OU=Apps under OU=Groups
+Created group: GG-App-BusinessPortal-Users
+Created group: GG-App-BusinessPortal-Admins
+Created group: GG-App-BusinessPortal-Audit
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> .\07-validate-app-groups.ps1
+
+
+City                     :
+Country                  :
+DistinguishedName        : OU=Apps,OU=Groups,DC=corp,DC=democompany1016,DC=local
+LinkedGroupPolicyObjects : {}
+ManagedBy                :
+Name                     : Apps
+ObjectClass              : organizationalUnit
+ObjectGUID               : b5275979-b7c0-48f2-aab0-108a34aebe37
+PostalCode               :
+State                    :
+StreetAddress            :
+
+Name              : GG-App-BusinessPortal-Admins
+GroupScope        : Global
+GroupCategory     : Security
+DistinguishedName : CN=GG-App-BusinessPortal-Admins,OU=Apps,OU=Groups,DC=corp,DC=democompany1016,DC=local
+
+Name              : GG-App-BusinessPortal-Audit
+GroupScope        : Global
+GroupCategory     : Security
+DistinguishedName : CN=GG-App-BusinessPortal-Audit,OU=Apps,OU=Groups,DC=corp,DC=democompany1016,DC=local
+
+Name              : GG-App-BusinessPortal-Users
+GroupScope        : Global
+GroupCategory     : Security
+DistinguishedName : CN=GG-App-BusinessPortal-Users,OU=Apps,OU=Groups,DC=corp,DC=democompany1016,DC=local
