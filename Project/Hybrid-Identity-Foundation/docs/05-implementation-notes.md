@@ -29,6 +29,14 @@ The server was then used as the first remote administration host rather than per
 Remote Server Administration Tools were installed to support AD, DNS, and Group Policy administration from MGMT-01.
 This separates service hosting from routine administration and better reflects an operational model than a single-box-only lab.
 
+## Batch 5 Notes
+An alternate UPN suffix of democompany1016.onmicrosoft.com was added to the on-prem AD forest to prepare for hybrid synchronization.
+A staged pilot identity population was created rather than a full 75-user import.
+The directory was structured with separate OUs for users, groups, admins, servers, workstations, and service accounts.
+Security groups were separated into department, licensing, and role groups.
+Named privileged accounts were created separately from standard user accounts.
+Emergency access accounts were intentionally not created in on-prem AD and remain a future cloud-only task.
+
 ## Deployment Principle
 The Azure subscription is used only to host infrastructure.
 The identity target remains the Microsoft 365 tenant democompany1016.onmicrosoft.com.
