@@ -47,3 +47,10 @@
 - Pilot users appear in Microsoft Entra ID
 - Pilot groups appear in Microsoft Entra ID
 - No emergency access account synchronized from on-prem AD
+
+## Batch 7 Notes
+Two cloud-only emergency access accounts were created and assigned the Global Administrator role.
+Usage location was set for the synced pilot users before license assignment.
+Microsoft 365 E3 was assigned to the synced E3 pilot licensing group.
+Microsoft 365 E5 was assigned to the synced privileged pilot licensing group.
+Least-privilege role assignments were applied to the named admin accounts instead of using Global Administrator broadly.
