@@ -23,3 +23,15 @@
 - Group Policy Management opens from MGMT-01
 - Get-ADDomain works from MGMT-01
 - Name resolution from MGMT-01 to ADC-01 works
+
+## Batch 5 Validation
+- Alternate UPN suffix added
+- OU structure created
+- Department groups created
+- Licensing groups created
+- Role groups created
+- Pilot employee users created
+- Named admin accounts created
+- User UPNs use democompany1016.onmicrosoft.com
+- Standard users are members of department and licensing groups
+- Admin users are members of role and privileged licensing groups
