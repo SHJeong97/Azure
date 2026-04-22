@@ -59,3 +59,18 @@
 - Hybrid Identity Administrator assigned to adm.olivia.kim
 - License Administrator assigned to adm.ethan.park
 - Password Administrator assigned to adm.isabella.chen
+
+- ## Batch 8 Validation
+- CA-SSPR-Pilot cloud group created
+- Break-glass accounts excluded from SSPR pilot and CA policies
+- Microsoft Authenticator enabled
+- Mobile phone enabled for fallback/reset
+- SSPR enabled for selected pilot group
+- Password writeback enabled in Entra Connect
+- Password writeback enabled in Password reset on-premises integration
+- Admin MFA CA policy created and validated
+- Pilot user MFA CA policy created and validated
+- Report-only results confirmed in sign-in logs
+- Both CA policies enabled
+- Emma Reed completed SSPR
+- Emma Reed password reset wrote back to on-prem AD
