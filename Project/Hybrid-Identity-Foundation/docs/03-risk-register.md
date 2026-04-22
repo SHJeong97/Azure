@@ -64,3 +64,25 @@ Remediate.
 
 Reason:
 Cost discipline is easy and should be enforced from the beginning.
+
+## Final Risk Outcome Summary
+
+### Risk: Overprivileged administration
+Status:
+Reduced through named admin accounts, role separation, and cloud-only emergency accounts.
+
+### Risk: Inconsistent onboarding and licensing
+Status:
+Reduced through structured OUs, group model, and group-based licensing.
+
+### Risk: Password reset helpdesk dependency
+Status:
+Reduced through SSPR and password writeback.
+
+### Risk: Hybrid sync misconfiguration
+Status:
+Reduced through pilot OU filtering and staged rollout.
+
+### Risk: Azure lab cost overrun
+Status:
+Reduced through minimal VM count, small sizing, and auto-shutdown.
