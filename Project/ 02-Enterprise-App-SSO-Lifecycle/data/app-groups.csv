@@ -1,1 +1,4 @@
-
+Name,Description,TargetOU
+GG-App-BusinessPortal-Users,Standard user access group for the business portal,"OU=Apps,OU=Groups,DC=corp,DC=democompany1016,DC=local"
+GG-App-BusinessPortal-Admins,Administrative access group for the business portal,"OU=Apps,OU=Groups,DC=corp,DC=democompany1016,DC=local"
+GG-App-BusinessPortal-Audit,Audit and review access group for the business portal,"OU=Apps,OU=Groups,DC=corp,DC=democompany1016,DC=local"
