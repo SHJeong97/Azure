@@ -14,3 +14,10 @@ This batch defines the project structure, app access model, and app-specific acc
 - App-specific access group design
 - Enterprise application onboarding
 - SSO and lifecycle access model
+
+## Batch 2 Notes
+An enterprise application instance named BusinessPortal - Entra SAML Toolkit was added from the Microsoft Entra gallery.
+Two named admin accounts were assigned as enterprise application owners.
+The application was configured to remain visible to users and to require assignment.
+Three synced on-prem access groups were assigned to the application using Default Access.
+This established a controlled access boundary before SSO configuration.
