@@ -1,0 +1,6 @@
+PS C:\LabSources\HybridIdentity\scripts\powershell> Import-Module "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync\ADSync.psd1"
+PS C:\LabSources\HybridIdentity\scripts\powershell> Start-ADSyncSyncCycle -PolicyType Delta
+
+ Result
+ ------
+Success
