@@ -25,3 +25,19 @@
 - App overview validated
 - Owners validated
 - Properties validated
+
+## Batch 3 Validation
+- Direct user membership added to app groups
+- Delta sync completed after membership changes
+- SAML selected as the SSO method
+- Initial Basic SAML values entered
+- Certificate (Raw) downloaded
+- Login URL, Microsoft Entra Identifier, and Logout URL copied
+- Toolkit-side SAML configuration created
+- Toolkit-generated SP Initiated Login URL captured
+- Toolkit-generated ACS URL captured
+- Basic SAML Configuration updated with final values
+- Emma Reed SSO succeeded
+- adm.olivia.kim SSO succeeded
+- Unassigned user access denied
+- My Apps launch validated
