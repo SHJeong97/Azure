@@ -13,12 +13,12 @@ $groupPathMap = @{
 }
 
 $usersOuMap = @{
-    "Executive"  = "OU=Executive,OU=Users,$domainDn"
-    "IT"         = "OU=IT,OU=Users,$domainDn"
-    "HR"         = "OU=HR,OU=Users,$domainDn"
-    "Finance"    = "OU=Finance,OU=Users,$domainDn"
-    "Sales"      = "OU=Sales,OU=Users,$domainDn"
-    "Operations" = "OU=Operations,OU=Users,$domainDn"
+    "Executive"  = "OU=Executive,OU=Employees,$domainDn"
+    "IT"         = "OU=IT,OU=Employees,$domainDn"
+    "HR"         = "OU=HR,OU=Employees,$domainDn"
+    "Finance"    = "OU=Finance,OU=Employees,$domainDn"
+    "Sales"      = "OU=Sales,OU=Employees,$domainDn"
+    "Operations" = "OU=Operations,OU=Employees,$domainDn"
 }
 
 # Create groups
@@ -153,7 +153,7 @@ Write-Host "`n--- Groups ---"
 Get-ADGroup -Filter * -SearchBase "OU=Groups,$domainDn" | Select-Object Name, GroupCategory, GroupScope | Sort-Object Name
 
 Write-Host "`n--- Users ---"
-Get-ADUser -Filter * -SearchBase "OU=Users,$domainDn" -Properties Department, UserPrincipalName |
+Get-ADUser -Filter * -SearchBase "OU=Employees,$domainDn" -Properties Department, UserPrincipalName |
     Select-Object Name, SamAccountName, Department, UserPrincipalName | Sort-Object Name
 
 Write-Host "`n--- Admin Accounts ---"
