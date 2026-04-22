@@ -50,3 +50,13 @@ Higher-value security features should be demonstrated where risk is highest.
 
 Business outcome:
 Shows cost-aware security design instead of wasteful blanket licensing.
+
+## Final Production Gap Notes
+
+This project intentionally used a simplified lab design:
+- one domain controller instead of multiple domain controllers
+- Azure public RDP access for administration instead of a more mature access path such as Bastion or VPN
+- pilot user scope rather than full population rollout
+- personal Azure subscription hosting instead of organization-owned Azure subscription governance
+
+These simplifications were accepted for cost and lab practicality, but they were documented clearly and did not change the core hybrid identity architecture being demonstrated.
