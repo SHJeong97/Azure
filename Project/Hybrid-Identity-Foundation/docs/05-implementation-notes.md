@@ -52,6 +52,15 @@ Microsoft 365 E3 was assigned to the synced E3 pilot licensing group.
 Microsoft 365 E5 was assigned to the synced privileged pilot licensing group.
 Least-privilege role assignments were applied to the named admin accounts instead of using Global Administrator broadly.
 
+## Batch 8 Notes
+A cloud-only SSPR pilot group was created because the portal currently supports one selected group for SSPR scope.
+Microsoft Authenticator and mobile phone methods were enabled for authentication and reset scenarios.
+Self-service password reset was enabled for the CA-SSPR-Pilot group.
+Password writeback was enabled both in Microsoft Entra Connect and in Entra Password reset on-premises integration.
+Two Conditional Access policies were created to require MFA for administrators and pilot users, with emergency access accounts excluded.
+Policies were first tested in Report-only mode and then enabled after sign-in log validation.
+An end-to-end password reset test confirmed that a cloud-initiated password reset was written back to on-prem AD.
+
 ## Deployment Principle
 The Azure subscription is used only to host infrastructure.
 The identity target remains the Microsoft 365 tenant democompany1016.onmicrosoft.com.
