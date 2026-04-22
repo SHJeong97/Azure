@@ -45,6 +45,13 @@ Synchronization was not started automatically at the end of the wizard.
 The first synchronization cycle was triggered manually using Start-ADSyncSyncCycle -PolicyType Initial.
 Pilot users and groups were then validated in the target tenant democompany1016.onmicrosoft.com.
 
+## Batch 7 Notes
+Two cloud-only emergency access accounts were created and assigned the Global Administrator role.
+Usage location was set for the synced pilot users before license assignment.
+Microsoft 365 E3 was assigned to the synced E3 pilot licensing group.
+Microsoft 365 E5 was assigned to the synced privileged pilot licensing group.
+Least-privilege role assignments were applied to the named admin accounts instead of using Global Administrator broadly.
+
 ## Deployment Principle
 The Azure subscription is used only to host infrastructure.
 The identity target remains the Microsoft 365 tenant democompany1016.onmicrosoft.com.
