@@ -21,3 +21,11 @@ Two named admin accounts were assigned as enterprise application owners.
 The application was configured to remain visible to users and to require assignment.
 Three synced on-prem access groups were assigned to the application using Default Access.
 This established a controlled access boundary before SSO configuration.
+
+## Batch 3 Notes
+SAML single sign-on was configured for BusinessPortal - Entra SAML Toolkit.
+Direct members were added to the synced app access groups and synchronized to Microsoft Entra ID.
+Initial SAML values were entered in Microsoft Entra, the raw certificate was downloaded, and the Login URL, Microsoft Entra Identifier, and Logout URL were copied into the Toolkit application.
+The Toolkit-generated SP Initiated Login URL and ACS URL were then copied back into Microsoft Entra to complete the SAML trust.
+SSO was validated for a standard user and an admin user.
+An unassigned user was also tested to validate assignment enforcement.
