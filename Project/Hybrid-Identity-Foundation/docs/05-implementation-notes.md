@@ -37,6 +37,14 @@ Security groups were separated into department, licensing, and role groups.
 Named privileged accounts were created separately from standard user accounts.
 Emergency access accounts were intentionally not created in on-prem AD and remain a future cloud-only task.
 
+## Batch 6 Notes
+Microsoft Entra Connect Sync was installed on MGMT-01 using a custom installation.
+Password Hash Synchronization was selected as the sign-in method.
+OU-based filtering was used to scope the pilot to Employees, Groups, and Admins.
+Synchronization was not started automatically at the end of the wizard.
+The first synchronization cycle was triggered manually using Start-ADSyncSyncCycle -PolicyType Initial.
+Pilot users and groups were then validated in the target tenant democompany1016.onmicrosoft.com.
+
 ## Deployment Principle
 The Azure subscription is used only to host infrastructure.
 The identity target remains the Microsoft 365 tenant democompany1016.onmicrosoft.com.
