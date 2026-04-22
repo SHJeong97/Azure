@@ -1,19 +1,42 @@
-#
-# Windows PowerShell script for AD DS Deployment
-#
+Import-Module ActiveDirectory
 
-Import-Module ADDSDeployment
-Install-ADDSForest `
--CreateDnsDelegation:$false `
--DatabasePath "C:\Windows\NTDS" `
--DomainMode "WinThreshold" `
--DomainName "corp.democompany1016.local" `
--DomainNetbiosName "CORP" `
--ForestMode "WinThreshold" `
--InstallDns:$true `
--LogPath "C:\Windows\NTDS" `
--NoRebootOnCompletion:$false `
--SysvolPath "C:\Windows\SYSVOL" `
--Force:$true
+$domainDn = "DC=corp,DC=democompany1016,DC=local"
 
+$ouList = @(
+    @{ Name = "Admins"; Path = $domainDn },
+    @{ Name = "Privileged Users"; Path = "OU=Admins,$domainDn" },
+    @{ Name = "Operations"; Path = "OU=Admins,$domainDn" },
 
+    @{ Name = "Groups"; Path = $domainDn },
+    @{ Name = "Departments"; Path = "OU=Groups,$domainDn" },
+    @{ Name = "Licensing"; Path = "OU=Groups,$domainDn" },
+    @{ Name = "Roles"; Path = "OU=Groups,$domainDn" },
+
+    @{ Name = "Users"; Path = $domainDn },
+    @{ Name = "Executive"; Path = "OU=Users,$domainDn" },
+    @{ Name = "IT"; Path = "OU=Users,$domainDn" },
+    @{ Name = "HR"; Path = "OU=Users,$domainDn" },
+    @{ Name = "Finance"; Path = "OU=Users,$domainDn" },
+    @{ Name = "Sales"; Path = "OU=Users,$domainDn" },
+    @{ Name = "Operations"; Path = "OU=Users,$domainDn" },
+
+    @{ Name = "Servers"; Path = $domainDn },
+    @{ Name = "Workstations"; Path = $domainDn },
+    @{ Name = "Service Accounts"; Path = $domainDn }
+)
+
+foreach ($ou in $ouList) {
+    $existingOu = Get-ADOrganizationalUnit -LDAPFilter "(ou=$($ou.Name))" -SearchBase $ou.Path -SearchScope OneLevel -ErrorAction SilentlyContinue
+
+    if (-not $existingOu) {
+        New-ADOrganizationalUnit -Name $ou.Name -Path $ou.Path
+        Write-Host "Created OU: $($ou.Name) under $($ou.Path)"
+    }
+    else {
+        Write-Host "OU already exists: $($ou.Name) under $($ou.Path)"
+    }
+}
+
+Get-ADOrganizationalUnit -Filter * -SearchBase $domainDn |
+    Select-Object Name, DistinguishedName |
+    Sort-Object DistinguishedName
