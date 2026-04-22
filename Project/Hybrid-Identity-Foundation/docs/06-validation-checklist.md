@@ -36,10 +36,14 @@
 - Standard users are members of department and licensing groups
 - Admin users are members of role and privileged licensing groups
 
-## Batch 6 Notes
-Microsoft Entra Connect Sync was installed on MGMT-01 using a custom installation.
-Password Hash Synchronization was selected as the sign-in method.
-OU-based filtering was used to scope the pilot to Employees, Groups, and Admins.
-Synchronization was not started automatically at the end of the wizard.
-The first synchronization cycle was triggered manually using Start-ADSyncSyncCycle -PolicyType Initial.
-Pilot users and groups were then validated in the target tenant democompany1016.onmicrosoft.com.
+## Batch 6 Validation
+- Microsoft Entra Connect installed on MGMT-01
+- ADSync service present
+- Scheduler present
+- Staging mode disabled
+- Password Hash Sync selected
+- Pilot OU filtering configured
+- Initial sync triggered manually
+- Pilot users appear in Microsoft Entra ID
+- Pilot groups appear in Microsoft Entra ID
+- No emergency access account synchronized from on-prem AD
