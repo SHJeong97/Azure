@@ -1,0 +1,15 @@
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> .\08-add-app-group-members.ps1
+
+Security warning
+Run only scripts that you trust. While scripts from the internet can be useful, this script can potentially harm your
+computer. If you trust this script, use the Unblock-File cmdlet to allow the script to run without this warning
+message. Do you want to run C:\LabSources\HybridIdentity-Project2\scripts\powershell\08-add-app-group-members.ps1?
+[D] Do not run  [R] Run once  [S] Suspend  [?] Help (default is "D"): r
+
+Name                  SamAccountName
+----                  --------------
+Emma Reed             emma.reed
+Zoe Turner            zoe.turner
+Olivia Kim (Admin)    adm.olivia.kim
+Ethan Park (Admin)    adm.ethan.park
+Isabella Chen (Admin) adm.isabella.chen
