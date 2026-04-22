@@ -1,1 +1,12 @@
-
+Name,GroupType,Scope,Category,Description
+GG-Dept-Executive,Department,Global,Security,Executive department membership group
+GG-Dept-IT,Department,Global,Security,IT department membership group
+GG-Dept-HR,Department,Global,Security,HR department membership group
+GG-Dept-Finance,Department,Global,Security,Finance department membership group
+GG-Dept-Sales,Department,Global,Security,Sales department membership group
+GG-Dept-Operations,Department,Global,Security,Operations department membership group
+GG-Lic-M365-E3-Pilot,Licensing,Global,Security,Pilot Microsoft 365 E3 licensing group
+GG-Lic-M365-E5-Privileged-Pilot,Licensing,Global,Security,Pilot Microsoft 365 E5 privileged licensing group
+GG-Role-AD-Platform-Admins,Role,Global,Security,On-prem AD platform admin role group
+GG-Role-M365-Admins,Role,Global,Security,Microsoft 365 admin role group
+GG-Role-Helpdesk-Admins,Role,Global,Security,Helpdesk admin role group
