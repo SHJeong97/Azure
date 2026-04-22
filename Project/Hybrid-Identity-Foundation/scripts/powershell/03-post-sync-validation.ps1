@@ -1,4 +1,4 @@
-Import-Module ADSync -ErrorAction Stop
+Import-Module "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync\ADSync.psd1" -ErrorAction Stop
 Import-Module ActiveDirectory -ErrorAction Stop
 
 Write-Host "`n=== ADSync Service ==="
