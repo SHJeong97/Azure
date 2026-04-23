@@ -1,0 +1,17 @@
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> Unblock-File C:\LabSources\ExchangeProject3\scripts\powershell\12-exchange-precheck.ps1
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> Set-Location C:\LabSources\ExchangeProject3\scripts\powershell
+PS C:\LabSources\ExchangeProject3\scripts\powershell> .\12-exchange-precheck.ps1 | Tee-Object -FilePath C:\LabSources\ExchangeProject3\exchange-precheck.txt
+=== Exchange Online Admin Precheck ===
+
+1. Confirm Exchange Online module availability
+
+2. Confirm Microsoft Graph module availability
+
+3. Planned shared mailboxes
+
+MailboxName       PrimarySmtpAddress                         Type   Department PlannedAccessGroup
+-----------       ------------------                         ----   ---------- ------------------
+HR Shared         hr@democompany1016.onmicrosoft.com         Shared HR         GG-Dept-HR
+Finance Shared    finance@democompany1016.onmicrosoft.com    Shared Finance    GG-Dept-Finance
+Operations Shared operations@democompany1016.onmicrosoft.com Shared Operations GG-Dept-Operations
+
