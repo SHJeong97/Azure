@@ -21,9 +21,18 @@ Determine whether BusinessPortal - Entra SAML Toolkit supports automatic user pr
 5. What attributes would be required for account matching?
 
 ## Decision Outcome
-- Automatic provisioning supported: [Yes/No]
-- Configured in this project: [Yes/No]
-- Lifecycle model used in this project: [Automatic/Manual/JIT-Not Used]
+- Automatic provisioning supported: No or not practical for this lab
+- Configured in this project: No
+- Lifecycle model used in this project: Manual access lifecycle with group-based assignment and app-side account dependency
+
+## Notes
+The enterprise app was used successfully for SAML SSO and group-based assignment.
+However, automatic downstream account provisioning was not implemented in this project.
+Lifecycle control remains strong on the Microsoft Entra side through app assignment, while app-side account creation and deactivation remain dependent on the target application capability.
+
+## Evidence
+The Provisioning blade reported:
+"Out of the box automatic provisioning to BusinessPortal - Entra SAML Toolkit is not supported today."
 
 ## Notes
 If automatic provisioning is not available, access lifecycle will still be enforced through Microsoft Entra assignment plus manual or app-local account handling.
