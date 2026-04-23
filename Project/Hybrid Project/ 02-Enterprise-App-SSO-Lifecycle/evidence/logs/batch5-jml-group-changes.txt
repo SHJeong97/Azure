@@ -1,0 +1,11 @@
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> .\11-jml-app-access-changes.ps1 | Tee-Object -FilePath C:\LabSources\HybridIdentity-Project2\jml-app-access-results.txt
+
+=== Final Group State ===
+
+Name                  SamAccountName
+----                  --------------
+Liam Brooks           liam.brooks
+Olivia Kim (Admin)    adm.olivia.kim
+Ethan Park (Admin)    adm.ethan.park
+Isabella Chen (Admin) adm.isabella.chen
+Emma Reed             emma.reed
