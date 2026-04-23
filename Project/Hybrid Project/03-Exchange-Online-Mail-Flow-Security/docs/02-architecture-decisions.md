@@ -27,3 +27,11 @@ Email administration without proof is weak portfolio evidence.
 
 Business outcome:
 Shows not only configuration skill but operational verification.
+
+## Final Production Gap Notes
+
+This project intentionally focused on a practical Exchange Online and Defender baseline rather than a full enterprise email-security deployment.
+
+The lab demonstrated shared mailbox administration, transport rules, and Defender policy scoping, but some deeper validation paths such as quarantine confirmation and message trace evidence were not fully captured during the run.
+
+Those limitations were documented honestly and do not change the value of the administrative design work demonstrated in the project.
