@@ -34,3 +34,9 @@ The project needs a controlled SSO implementation path before provisioning compl
 
 Business outcome:
 Reduces troubleshooting scope and creates a clean validation sequence.
+
+## Final Production Gap Notes
+
+This project intentionally used Microsoft Entra SAML Toolkit as a controlled test application rather than a live third-party production SaaS platform.
+That choice made SAML validation practical, but it also meant downstream automatic provisioning was not available out of the box in this lab.
+The project therefore focused on correct app onboarding, assignment, delegated ownership, SSO validation, and honest lifecycle documentation.
