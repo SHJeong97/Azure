@@ -44,3 +44,12 @@
 - Anti-spam policy enabled
 - Default anti-malware policy reviewed and retained
 - Policy order/status reviewed
+
+## Batch 5 Validation
+- External subject-tag test performed
+- Shared mailbox disclaimer test performed
+- Executable attachment block test performed
+- Shared mailbox spam/quarantine test performed
+- Defender quarantine reviewed
+- Modern EAC message trace reviewed
+- Evidence captured for delivered, rejected, or quarantined outcomes
