@@ -1,38 +1,67 @@
+param(
+    [Parameter(Mandatory = $true)]
+    [string]$AdminUPN = "seunghunjeong@democompany1016.onmicrosoft.com
+)
+
+$ErrorActionPreference = "Stop"
+
+Write-Host "=== Exchange Shared Mailbox Validation ==="
+
+# Make sure module exists
+$exoModule = Get-Module ExchangeOnlineManagement -ListAvailable
+if (-not $exoModule) {
+    throw "ExchangeOnlineManagement module is not installed. Install it first with: Install-Module ExchangeOnlineManagement -Scope CurrentUser"
+}
+
 Import-Module ExchangeOnlineManagement
 
-Connect-ExchangeOnline -UserPrincipalName seunghunjeong@democompany1016.onmicrosoft.com -ShowBanner:$false
+# Connect
+Connect-ExchangeOnline -UserPrincipalName $AdminUPN -ShowBanner:$false
 
-Write-Host "`n=== Shared Mailboxes ==="
-Get-EXOMailbox -RecipientTypeDetails SharedMailbox -ResultSize Unlimited |
-    Where-Object {$_.PrimarySmtpAddress -in @(
+try {
+    $mailboxes = @(
         "hr@democompany1016.onmicrosoft.com",
         "finance@democompany1016.onmicrosoft.com",
         "operations@democompany1016.onmicrosoft.com"
-    )} |
-    Select-Object DisplayName,PrimarySmtpAddress,RecipientTypeDetails
+    )
 
-Write-Host "`n=== HR Full Access ==="
-Get-EXOMailboxPermission -Identity "hr@democompany1016.onmicrosoft.com" |
-    Select-Object User,AccessRights,IsInherited,Deny
+    Write-Host "`n=== Shared Mailboxes ==="
+    $sharedMailboxResults = Get-EXOMailbox -RecipientTypeDetails SharedMailbox -ResultSize Unlimited |
+        Where-Object { $_.PrimarySmtpAddress -in $mailboxes } |
+        Select-Object DisplayName, PrimarySmtpAddress, RecipientTypeDetails
 
-Write-Host "`n=== Finance Full Access ==="
-Get-EXOMailboxPermission -Identity "finance@democompany1016.onmicrosoft.com" |
-    Select-Object User,AccessRights,IsInherited,Deny
+    $sharedMailboxResults | Format-Table -AutoSize
 
-Write-Host "`n=== Operations Full Access ==="
-Get-EXOMailboxPermission -Identity "operations@democompany1016.onmicrosoft.com" |
-    Select-Object User,AccessRights,IsInherited,Deny
+    foreach ($mailbox in $mailboxes) {
+        Write-Host "`n=== $mailbox : Full Access ==="
+        $fullAccess = Get-EXOMailboxPermission -Identity $mailbox |
+            Where-Object {
+                $_.User -notlike "NT AUTHORITY\SELF" -and
+                $_.User -notlike "S-1-5-21*" -and
+                $_.AccessRights -match "FullAccess"
+            } |
+            Select-Object User, AccessRights, IsInherited, Deny
 
-Write-Host "`n=== HR Send As ==="
-Get-EXORecipientPermission -Identity "hr@democompany1016.onmicrosoft.com" |
-    Select-Object Trustee,AccessRights,IsInherited
+        if ($fullAccess) {
+            $fullAccess | Format-Table -AutoSize
+        }
+        else {
+            Write-Host "No explicit Full Access delegates found."
+        }
 
-Write-Host "`n=== Finance Send As ==="
-Get-EXORecipientPermission -Identity "finance@democompany1016.onmicrosoft.com" |
-    Select-Object Trustee,AccessRights,IsInherited
+        Write-Host "`n=== $mailbox : Send As ==="
+        $sendAs = Get-EXORecipientPermission -Identity $mailbox |
+            Where-Object { $_.AccessRights -match "SendAs" } |
+            Select-Object Trustee, AccessRights, IsInherited
 
-Write-Host "`n=== Operations Send As ==="
-Get-EXORecipientPermission -Identity "operations@democompany1016.onmicrosoft.com" |
-    Select-Object Trustee,AccessRights,IsInherited
-
-Disconnect-ExchangeOnline -Confirm:$false
+        if ($sendAs) {
+            $sendAs | Format-Table -AutoSize
+        }
+        else {
+            Write-Host "No explicit Send As delegates found."
+        }
+    }
+}
+finally {
+    Disconnect-ExchangeOnline -Confirm:$false
+}
