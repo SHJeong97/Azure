@@ -1,6 +1,6 @@
 param(
     [Parameter(Mandatory = $true)]
-    [string]$AdminUPN = "seunghunjeong@democompany1016.onmicrosoft.com
+    [string]$AdminUPN = "seunghunjeong@democompany1016.onmicrosoft.com"
 )
 
 $ErrorActionPreference = "Stop"
