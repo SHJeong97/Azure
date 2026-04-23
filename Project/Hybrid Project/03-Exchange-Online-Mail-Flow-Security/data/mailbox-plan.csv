@@ -1,1 +1,4 @@
-
+MailboxName,PrimarySmtpAddress,Type,Department,PlannedAccessGroup
+HR Shared,hr@democompany1016.onmicrosoft.com,Shared,HR,GG-Dept-HR
+Finance Shared,finance@democompany1016.onmicrosoft.com,Shared,Finance,GG-Dept-Finance
+Operations Shared,operations@democompany1016.onmicrosoft.com,Shared,Operations,GG-Dept-Operations
