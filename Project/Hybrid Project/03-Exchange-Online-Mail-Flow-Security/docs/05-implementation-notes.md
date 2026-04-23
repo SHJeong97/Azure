@@ -26,3 +26,14 @@ Department users were added as members of the appropriate shared mailboxes.
 Full Access and Send As permissions were assigned to the same department users.
 Shared mailbox Sent Items behavior was enabled so replies remain visible from the shared mailbox context.
 Exchange Online PowerShell validation confirmed the shared mailboxes and delegation state.
+
+## Batch 3 Notes
+Three Exchange Online mail flow rules were created.
+
+MF01 tagged inbound external mail to internal recipients by prepending [External] to the subject.
+
+MF02 added a warning disclaimer to external messages sent to the HR, Finance, and Operations shared mailboxes.
+
+MF03 blocked inbound executable attachments from external senders.
+
+These rules established a transport-control baseline before deeper anti-spam and anti-phishing tuning.
