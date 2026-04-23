@@ -31,3 +31,16 @@
 - External subject-tag test performed
 - Shared mailbox warning test performed
 - Executable attachment block test performed
+
+## Batch 4 Validation
+- Custom anti-phishing policy created
+- Anti-phishing recipient scope defined
+- Protected users added
+- Protected domain added
+- Mailbox intelligence enabled
+- Anti-phishing policy enabled
+- Custom inbound anti-spam policy created
+- Anti-spam recipient scope defined
+- Anti-spam policy enabled
+- Default anti-malware policy reviewed and retained
+- Policy order/status reviewed
