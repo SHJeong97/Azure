@@ -44,3 +44,9 @@ User impersonation protection, domain protection, mailbox intelligence, and phis
 A custom inbound anti-spam policy was created for the HR, Finance, and Operations shared mailboxes.
 The default anti-malware policy was retained because it already protects all cloud mailboxes and no custom anti-malware scope was required for this batch.
 Preset security policies were intentionally not enabled for the same recipients in this project stage so custom-policy behavior would remain visible and testable.
+
+## Batch 5 Notes
+Mail-flow and Defender controls were validated with four practical test scenarios.
+Message trace in the modern Exchange admin center was used to confirm whether messages were delivered, rejected, or otherwise processed.
+Defender quarantine was reviewed to determine whether filtered messages were held for administrator review.
+The batch focused on evidence-driven validation instead of assuming that transport and Defender policies worked based only on configuration.
