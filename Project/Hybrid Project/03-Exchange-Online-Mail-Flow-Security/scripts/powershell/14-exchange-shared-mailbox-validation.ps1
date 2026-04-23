@@ -1,9 +1,9 @@
 Import-Module ExchangeOnlineManagement
 
-Connect-ExchangeOnline -UserPrincipalName your-admin-upn@democompany1016.onmicrosoft.com -ShowBanner:$false
+Connect-ExchangeOnline -UserPrincipalName <your-real-admin-upn>@democompany1016.onmicrosoft.com -ShowBanner:$false
 
 Write-Host "`n=== Shared Mailboxes ==="
-Get-Mailbox -RecipientTypeDetails SharedMailbox |
+Get-EXOMailbox -RecipientTypeDetails SharedMailbox -ResultSize Unlimited |
     Where-Object {$_.PrimarySmtpAddress -in @(
         "hr@democompany1016.onmicrosoft.com",
         "finance@democompany1016.onmicrosoft.com",
