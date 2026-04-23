@@ -1,0 +1,21 @@
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> .\10-export-app-group-state.ps1 | Tee-Object -FilePath C:\LabSources\HybridIdentity-Project2\app-group-state.txt
+
+Security warning
+Run only scripts that you trust. While scripts from the internet can be useful, this script can potentially harm your
+computer. If you trust this script, use the Unblock-File cmdlet to allow the script to run without this warning
+message. Do you want to run C:\LabSources\HybridIdentity-Project2\scripts\powershell\10-export-app-group-state.ps1?
+[D] Do not run  [R] Run once  [S] Suspend  [?] Help (default is "D"): r
+
+=== GG-App-BusinessPortal-Users ===
+
+
+=== GG-App-BusinessPortal-Admins ===
+
+=== GG-App-BusinessPortal-Audit ===
+Name                  SamAccountName    objectClass
+----                  --------------    -----------
+Emma Reed             emma.reed         user
+Zoe Turner            zoe.turner        user
+Ethan Park (Admin)    adm.ethan.park    user
+Olivia Kim (Admin)    adm.olivia.kim    user
+Isabella Chen (Admin) adm.isabella.chen user
