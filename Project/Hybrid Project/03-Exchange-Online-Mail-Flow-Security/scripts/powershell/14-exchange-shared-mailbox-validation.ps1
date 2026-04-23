@@ -1,7 +1,3 @@
-param(
-    [Parameter(Mandatory = $true)]
-)
-
 $ErrorActionPreference = "Stop"
 
 Write-Host "=== Exchange Shared Mailbox Validation ==="
