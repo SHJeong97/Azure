@@ -40,7 +40,14 @@ Expected:
 - Quarantined or otherwise filtered by anti-spam path
 
 Observed:
-- [Fill in actual result]
+- Delivered to Finance Shared
+- [External] subject tag applied
+- Shared mailbox external warning disclaimer applied
+- Message was not quarantined
+
+Interpretation:
+- Mail flow transport controls worked
+- The custom anti-spam policy did not classify this message strongly enough to quarantine it
 
 ## Evidence Sources
 - Exchange message trace
