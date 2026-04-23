@@ -9,7 +9,8 @@ Expected:
 - [External] subject tag visible
 
 Observed:
-- [Fill in actual result]
+- Delivered
+- [External] subject tag visible
 
 ## Test B
 Subject:
@@ -20,7 +21,8 @@ Expected:
 - Disclaimer visible in HR shared mailbox
 
 Observed:
-- [Fill in actual result]
+- Delivered
+- Disclaimer visible in shared mailbox
 
 ## Test C
 Subject:
@@ -42,15 +44,22 @@ Expected:
 Observed:
 - Delivered to Finance Shared
 - [External] subject tag applied
-- Shared mailbox external warning disclaimer applied
+- Shared mailbox warning disclaimer applied
 - Message was not quarantined
 
 Interpretation:
 - Mail flow transport controls worked
-- The custom anti-spam policy did not classify this message strongly enough to quarantine it
+- The custom anti-spam policy did not produce a quarantine result for this specific test message during the lab run
+
+## Quarantine Review
+Observed:
+- Quarantine result could not be conclusively verified during this lab run
+
+## Message Trace Review
+Observed:
+- Message trace evidence was not fully captured during this lab run
 
 ## Evidence Sources
-- Exchange message trace
-- Defender quarantine
-- mailbox screenshots
-- sender-side rejection screenshot if applicable
+- Mailbox screenshots
+- disclaimer and subject-tag behavior
+- rejection evidence if available
