@@ -36,3 +36,16 @@ Provisioning scope was documented around assigned users and groups only.
 A downstream attribute-mapping plan was documented so lifecycle behavior could be tied to predictable identity data.
 A baseline export of current app-group membership was captured before joiner, mover, and leaver testing.
 A lifecycle change script was prepared for the next batch.
+
+## Batch 5 Notes
+A joiner, mover, and leaver access test was performed using synced on-prem app access groups.
+
+Liam Brooks was added to the BusinessPortal Users group and gained enterprise app assignment through synced group membership.
+
+Emma Reed was moved from the Users group to the Audit group and retained access through the new assigned path, demonstrating that role changes can be handled through group membership changes rather than direct per-user reassignment.
+
+Zoe Turner was removed from all BusinessPortal access groups and no longer saw the application in My Apps, confirming that Microsoft Entra assignment removal worked correctly.
+
+However, direct access to the Toolkit application could still succeed because the target application retains its own local account model and does not support out-of-the-box automatic provisioning or automatic downstream deprovisioning in this lab.
+
+This confirmed the difference between Microsoft Entra app assignment lifecycle control and target-application account lifecycle control.
