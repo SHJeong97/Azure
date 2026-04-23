@@ -46,10 +46,10 @@
 - Policy order/status reviewed
 
 ## Batch 5 Validation
-- External subject-tag test performed
-- Shared mailbox disclaimer test performed
-- Executable attachment block test performed
-- Shared mailbox spam/quarantine test performed
-- Defender quarantine reviewed
-- Modern EAC message trace reviewed
-- Evidence captured for delivered, rejected, or quarantined outcomes
+- External subject-tag behavior observed
+- Shared mailbox disclaimer behavior observed
+- Executable attachment test attempted
+- Shared mailbox spam-like message test attempted
+- Quarantine review attempted but not fully verified
+- Message trace review attempted but not fully verified
+- Observable mailbox outcomes documented honestly
