@@ -46,7 +46,8 @@ The default anti-malware policy was retained because it already protects all clo
 Preset security policies were intentionally not enabled for the same recipients in this project stage so custom-policy behavior would remain visible and testable.
 
 ## Batch 5 Notes
-Mail-flow and Defender controls were validated with four practical test scenarios.
-Message trace in the modern Exchange admin center was used to confirm whether messages were delivered, rejected, or otherwise processed.
-Defender quarantine was reviewed to determine whether filtered messages were held for administrator review.
-The batch focused on evidence-driven validation instead of assuming that transport and Defender policies worked based only on configuration.
+Mail-flow validation confirmed external subject tagging and shared mailbox disclaimer behavior.
+
+The spam-like finance mailbox test was delivered and showed transport-rule behavior, but did not produce a confirmed quarantine result during the lab run.
+
+Defender quarantine review and message trace validation were not fully verified in this lab session, so final validation evidence relied primarily on observable mailbox outcomes and visible transport-control behavior.
