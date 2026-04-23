@@ -49,3 +49,15 @@
 - Attribute mapping plan documented
 - Current app-group baseline exported
 - Joiner/mover/leaver script prepared for next batch
+
+## Batch 5 Validation
+- Joiner membership change completed
+- Mover membership change completed
+- Leaver membership change completed
+- Delta sync completed after JML changes
+- Synced app-group membership validated in Entra
+- Liam Brooks gained app access path
+- Emma Reed retained access through new group path
+- Zoe Turner lost My Apps visibility and enterprise assignment path
+- Zoe Turner direct access remained possible because downstream app deprovisioning is not automated in this lab
+- Manual lifecycle model documented because automatic provisioning is unsupported
