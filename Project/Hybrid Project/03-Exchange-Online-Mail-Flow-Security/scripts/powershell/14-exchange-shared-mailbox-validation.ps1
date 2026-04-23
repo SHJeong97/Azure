@@ -1,6 +1,5 @@
 param(
     [Parameter(Mandatory = $true)]
-    [string]$AdminUPN = "seunghunjeong@democompany1016.onmicrosoft.com"
 )
 
 $ErrorActionPreference = "Stop"
@@ -16,7 +15,7 @@ if (-not $exoModule) {
 Import-Module ExchangeOnlineManagement
 
 # Connect
-Connect-ExchangeOnline -UserPrincipalName $AdminUPN -ShowBanner:$false
+Connect-ExchangeOnline -UserPrincipalName "seunghunjeong@democompany1016.onmicrosoft.com" -ShowBanner:$false
 
 try {
     $mailboxes = @(
