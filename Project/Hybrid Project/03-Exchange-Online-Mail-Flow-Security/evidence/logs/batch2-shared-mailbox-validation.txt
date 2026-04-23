@@ -1,0 +1,61 @@
+PS C:\LabSources\ExchangeProject3\scripts\powershell> .\14-exchange-shared-mailbox-validation.ps1
+=== Exchange Shared Mailbox Validation ===
+
+=== Shared Mailboxes ===
+
+DisplayName       PrimarySmtpAddress                         RecipientTypeDetails
+-----------       ------------------                         --------------------
+Finance Shared    finance@democompany1016.onmicrosoft.com    SharedMailbox
+HR Shared         hr@democompany1016.onmicrosoft.com         SharedMailbox
+Operations Shared operations@democompany1016.onmicrosoft.com SharedMailbox
+
+
+=== hr@democompany1016.onmicrosoft.com : Full Access ===
+
+User                                        AccessRights IsInherited Deny
+----                                        ------------ ----------- ----
+liam.brooks@democompany1016.onmicrosoft.com {FullAccess}       False False
+sophia.ng@democompany1016.onmicrosoft.com   {FullAccess}       False False
+
+
+=== hr@democompany1016.onmicrosoft.com : Send As ===
+
+Trustee                                     AccessRights IsInherited
+-------                                     ------------ -----------
+NT AUTHORITY\SELF                           {SendAs}           False
+liam.brooks@democompany1016.onmicrosoft.com {SendAs}           False
+sophia.ng@democompany1016.onmicrosoft.com   {SendAs}           False
+
+
+=== finance@democompany1016.onmicrosoft.com : Full Access ===
+
+User                                      AccessRights IsInherited Deny
+----                                      ------------ ----------- ----
+ava.patel@democompany1016.onmicrosoft.com {FullAccess}       False False
+noah.ross@democompany1016.onmicrosoft.com {FullAccess}       False False
+
+
+=== finance@democompany1016.onmicrosoft.com : Send As ===
+
+Trustee                                   AccessRights IsInherited
+-------                                   ------------ -----------
+NT AUTHORITY\SELF                         {SendAs}           False
+ava.patel@democompany1016.onmicrosoft.com {SendAs}           False
+noah.ross@democompany1016.onmicrosoft.com {SendAs}           False
+
+
+=== operations@democompany1016.onmicrosoft.com : Full Access ===
+
+User                                       AccessRights IsInherited Deny
+----                                       ------------ ----------- ----
+zoe.turner@democompany1016.onmicrosoft.com {FullAccess}       False False
+mason.hill@democompany1016.onmicrosoft.com {FullAccess}       False False
+
+
+=== operations@democompany1016.onmicrosoft.com : Send As ===
+
+Trustee                                    AccessRights IsInherited
+-------                                    ------------ -----------
+NT AUTHORITY\SELF                          {SendAs}           False
+zoe.turner@democompany1016.onmicrosoft.com {SendAs}           False
+mason.hill@democompany1016.onmicrosoft.com {SendAs}           False
