@@ -29,3 +29,10 @@ Initial SAML values were entered in Microsoft Entra, the raw certificate was dow
 The Toolkit-generated SP Initiated Login URL and ACS URL were then copied back into Microsoft Entra to complete the SAML trust.
 SSO was validated for a standard user and an admin user.
 An unassigned user was also tested to validate assignment enforcement.
+
+## Batch 4 Notes
+The Provisioning blade was reviewed to determine whether the enterprise application supported a practical automatic provisioning path for this lab.
+Provisioning scope was documented around assigned users and groups only.
+A downstream attribute-mapping plan was documented so lifecycle behavior could be tied to predictable identity data.
+A baseline export of current app-group membership was captured before joiner, mover, and leaver testing.
+A lifecycle change script was prepared for the next batch.
