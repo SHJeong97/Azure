@@ -41,3 +41,11 @@
 - adm.olivia.kim SSO succeeded
 - Unassigned user access denied
 - My Apps launch validated
+
+## Batch 4 Validation
+- Provisioning blade reviewed
+- Automatic provisioning support decision documented
+- Provisioning scope documented
+- Attribute mapping plan documented
+- Current app-group baseline exported
+- Joiner/mover/leaver script prepared for next batch
