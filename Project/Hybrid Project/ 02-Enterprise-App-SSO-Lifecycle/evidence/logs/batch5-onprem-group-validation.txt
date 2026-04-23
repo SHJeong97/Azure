@@ -1,0 +1,21 @@
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> Get-ADGroupMember "GG-App-BusinessPortal-Users" | Select-Object Name,SamAccountName | Sort-Object SamAccountName
+
+Name        SamAccountName
+----        --------------
+Liam Brooks liam.brooks
+
+
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> Get-ADGroupMember "GG-App-BusinessPortal-Admins" | Select-Object Name,SamAccountName | Sort-Object SamAccountName
+
+Name               SamAccountName
+----               --------------
+Ethan Park (Admin) adm.ethan.park
+Olivia Kim (Admin) adm.olivia.kim
+
+
+PS C:\LabSources\HybridIdentity-Project2\scripts\powershell> Get-ADGroupMember "GG-App-BusinessPortal-Audit" | Select-Object Name,SamAccountName | Sort-Object SamAccountName
+
+Name                  SamAccountName
+----                  --------------
+Isabella Chen (Admin) adm.isabella.chen
+Emma Reed             emma.reed
