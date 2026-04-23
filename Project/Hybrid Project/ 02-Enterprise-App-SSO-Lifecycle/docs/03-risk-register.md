@@ -39,3 +39,21 @@ Unnecessary exposure and messy validation.
 
 Decision:
 Remediate through pilot groups first.
+
+## Final Risk Outcome Summary
+
+### Risk: Direct per-user assignment
+Status:
+Reduced through synced app access groups and group-based enterprise app assignment.
+
+### Risk: Excessive admin concentration
+Status:
+Reduced through delegated enterprise app ownership.
+
+### Risk: False assumption that SSO equals provisioning
+Status:
+Reduced through explicit provisioning-readiness review and documentation.
+
+### Risk: Offboarding inconsistency
+Status:
+Reduced at the Microsoft Entra assignment layer, but not fully eliminated downstream because the target app retains its own local account model in this lab.
