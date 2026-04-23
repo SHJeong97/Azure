@@ -21,3 +21,13 @@
 - Send As assigned to mailbox delegates
 - Shared mailbox Sent Items behavior enabled
 - Exchange Online PowerShell validation completed
+
+## Batch 3 Validation
+- External inbound subject-tag rule created
+- Shared mailbox warning disclaimer rule created
+- Executable attachment block rule created
+- Rule order reviewed
+- Rules enabled
+- External subject-tag test performed
+- Shared mailbox warning test performed
+- Executable attachment block test performed
