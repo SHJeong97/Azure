@@ -1,0 +1,29 @@
+PS C:\Users\srmgadmin> ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DC01
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : rxjjuu3plzyezpjzr4kytybt1b.bx.internal.cloudapp.net
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : rxjjuu3plzyezpjzr4kytybt1b.bx.internal.cloudapp.net
+   Description . . . . . . . . . . . : Microsoft Hyper-V Network Adapter
+   Physical Address. . . . . . . . . : 7C-ED-8D-CD-E9-D3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::542a:8d2b:fd64:84df%4(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.10.1.10(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, May 11, 2026 3:42:45 PM
+   Lease Expires . . . . . . . . . . : Thursday, June 17, 2162 11:02:15 PM
+   Default Gateway . . . . . . . . . : 10.10.1.1
+   DHCP Server . . . . . . . . . . . : 168.63.129.16
+   DHCPv6 IAID . . . . . . . . . . . : 108850573
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-31-93-4A-D8-7C-ED-8D-CD-E9-D3
+   DNS Servers . . . . . . . . . . . : 168.63.129.16
+   NetBIOS over Tcpip. . . . . . . . : Enabled
