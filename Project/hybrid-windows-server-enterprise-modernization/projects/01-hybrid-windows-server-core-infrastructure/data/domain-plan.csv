@@ -1,1 +1,7 @@
-
+Item,Value,Purpose
+Microsoft365Tenant,democompany1016.onmicrosoft.com,Existing Microsoft 365 tenant
+InternalADDomain,corp.democompany1016.local,Internal AD DS namespace
+NetBIOSName,CORP,Legacy domain compatibility name
+FuturePublicDomain,summitridgemfg.com,Future purchased business domain
+FutureUPNSuffix,summitridgemfg.com,Future user sign-in suffix
+FuturePrimarySMTP,summitridgemfg.com,Future primary email domain
