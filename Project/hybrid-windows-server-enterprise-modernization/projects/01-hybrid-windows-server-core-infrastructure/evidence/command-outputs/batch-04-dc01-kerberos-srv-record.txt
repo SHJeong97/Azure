@@ -1,0 +1,12 @@
+PS C:\Users\srmgadmin> Resolve-DnsName -Type SRV _kerberos._tcp.corp.democompany1016.local
+
+Name                                     Type   TTL   Section    NameTarget                     Priority Weight Port
+----                                     ----   ---   -------    ----------                     -------- ------ ----
+_kerberos._tcp.corp.democompany1016.loca SRV    600   Answer     dc01.corp.democompany1016.loca 0        100    88
+l                                                                l
+
+Name       : dc01.corp.democompany1016.local
+QueryType  : A
+TTL        : 3600
+Section    : Additional
+IP4Address : 10.10.1.10
