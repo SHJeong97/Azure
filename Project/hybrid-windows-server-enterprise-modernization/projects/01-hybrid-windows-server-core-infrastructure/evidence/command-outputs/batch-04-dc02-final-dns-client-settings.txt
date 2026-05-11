@@ -1,0 +1,10 @@
+PS C:\Program Files\PowerShell\7> Set-DnsClientServerAddress `
+>>   -InterfaceAlias "Ethernet" `
+>>   -ServerAddresses 10.10.1.10,127.0.0.1
+PS C:\Program Files\PowerShell\7> Get-DnsClientServerAddress -InterfaceAlias "Ethernet"
+
+InterfaceAlias               Interface Address ServerAddresses
+                             Index     Family
+--------------               --------- ------- ---------------
+Ethernet                             6 IPv4    {10.10.1.10, 127.0.0.1}
+Ethernet                             6 IPv6    {}
