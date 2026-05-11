@@ -1,7 +1,7 @@
-ServerName,Role,OperatingSystem,Subnet,PrivateIP,Purpose,ProjectPhase
-DC01,Domain Controller + DNS,Windows Server 2022,snet-domain-controllers,10.10.1.10,Primary AD DS DNS and Global Catalog,Project 01
-DC02,Domain Controller + DNS,Windows Server 2022,snet-domain-controllers,10.10.1.11,Secondary AD DS DNS and Global Catalog,Project 01
-MGMT01,Management Server,Windows Server 2022,snet-management,10.10.2.10,RSAT Windows Admin Center and admin tools,Project 01
-FS01,File Server,Windows Server 2022,snet-member-servers,10.10.3.10,Department file shares later Azure Files migration,Project 06
-APP01,Internal App Server,Windows Server 2022,snet-member-servers,10.10.3.20,Internal IIS app later Entra Application Proxy,Project 07
-WIN11-CL01,Client Endpoint,Windows 11,snet-workstations,10.10.4.10,Endpoint Intune and GPO validation,Project 12
+ServerName,Role,OperatingSystem,Subnet,PrivateIP,RecommendedSize,AlternativeSize,Purpose,ProjectPhase
+DC01,Domain Controller + DNS,Windows Server 2022,snet-domain-controllers,10.10.1.10,Standard_D2s_v3,Standard_B2ms,Primary AD DS DNS and Global Catalog,Project 01
+DC02,Domain Controller + DNS,Windows Server 2022,snet-domain-controllers,10.10.1.11,Standard_D2s_v3,Standard_B2ms,Secondary AD DS DNS and Global Catalog,Project 01
+MGMT01,Management Server,Windows Server 2022,snet-management,10.10.2.10,Standard_D2s_v3,Standard_B1ms,RSAT Windows Admin Center and admin tools,Project 01
+FS01,File Server,Windows Server 2022,snet-member-servers,10.10.3.10,Standard_D2s_v3,Standard_B2ms,Department file shares later Azure Files migration,Project 06
+APP01,Internal App Server,Windows Server 2022,snet-member-servers,10.10.3.20,Standard_D2s_v3,Standard_B2ms,Internal IIS app later Entra Application Proxy,Project 07
+WIN11-CL01,Client Endpoint,Windows 11,snet-workstations,10.10.4.10,Standard_D2s_v3,Standard_B2ms,Endpoint Intune and GPO validation,Project 12
