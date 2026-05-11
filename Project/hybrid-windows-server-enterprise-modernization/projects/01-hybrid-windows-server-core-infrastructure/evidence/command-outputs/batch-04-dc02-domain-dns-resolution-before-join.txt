@@ -1,0 +1,8 @@
+PS C:\Users\srmgadmin> Set-DnsClientServerAddress `
+>>   -InterfaceAlias "Ethernet" `
+>>   -ServerAddresses 10.10.1.10
+PS C:\Users\srmgadmin> Resolve-DnsName corp.democompany1016.local
+
+Name                                           Type   TTL   Section    IPAddress
+----                                           ----   ---   -------    ---------
+corp.democompany1016.local                     A      600   Answer     10.10.1.10
