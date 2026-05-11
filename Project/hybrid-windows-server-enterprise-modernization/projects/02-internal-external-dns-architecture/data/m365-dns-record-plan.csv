@@ -1,1 +1,8 @@
-
+Service,RecordType,HostName,Value,Priority,TTL,Purpose
+Microsoft 365 Domain Verification,TXT,@,Provided by Microsoft 365,N/A,3600,Prove domain ownership
+Exchange Online,MX,@,Provided by Microsoft 365,0,3600,Route inbound email to Exchange Online
+Exchange Online Protection,TXT,@,v=spf1 include:spf.protection.outlook.com -all,N/A,3600,SPF email authentication
+Exchange Online Autodiscover,CNAME,autodiscover,autodiscover.outlook.com,N/A,3600,Outlook profile discovery
+Exchange Online DKIM,CNAME,selector1._domainkey,Provided by Microsoft 365,N/A,3600,DKIM signing selector 1
+Exchange Online DKIM,CNAME,selector2._domainkey,Provided by Microsoft 365,N/A,3600,DKIM signing selector 2
+DMARC,TXT,_dmarc,v=DMARC1; p=none; rua=mailto:dmarc@summitridge-mfg.com,N/A,3600,DMARC monitoring policy
