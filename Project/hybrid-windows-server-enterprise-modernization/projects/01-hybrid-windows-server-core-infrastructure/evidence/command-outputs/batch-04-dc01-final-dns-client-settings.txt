@@ -1,0 +1,10 @@
+PS C:\Users\srmgadmin> Set-DnsClientServerAddress `
+>>   -InterfaceAlias "Ethernet" `
+>>   -ServerAddresses 10.10.1.11,127.0.0.1
+PS C:\Users\srmgadmin> Get-DnsClientServerAddress -InterfaceAlias "Ethernet"
+
+InterfaceAlias               Interface Address ServerAddresses
+                             Index     Family
+--------------               --------- ------- ---------------
+Ethernet                             4 IPv4    {10.10.1.11, 127.0.0.1}
+Ethernet                             4 IPv6    {::1}
