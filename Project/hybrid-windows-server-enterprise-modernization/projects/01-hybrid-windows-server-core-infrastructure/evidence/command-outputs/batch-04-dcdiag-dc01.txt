@@ -1,0 +1,216 @@
+PS C:\Users\srmgadmin> dcdiag /s:DC01
+
+Directory Server Diagnosis
+
+Performing initial setup:
+   * Identified AD Forest.
+   Done gathering initial info.
+
+Doing initial required tests
+
+   Testing server: Default-First-Site-Name\DC01
+      Starting test: Connectivity
+         ......................... DC01 passed test Connectivity
+
+Doing primary tests
+
+   Testing server: Default-First-Site-Name\DC01
+      Starting test: Advertising
+         ......................... DC01 passed test Advertising
+      Starting test: FrsEvent
+         ......................... DC01 passed test FrsEvent
+      Starting test: DFSREvent
+         There are warning or error events within the last 24 hours after the SYSVOL has been shared.  Failing SYSVOL
+         replication problems may cause Group Policy problems.
+         ......................... DC01 failed test DFSREvent
+      Starting test: SysVolCheck
+         ......................... DC01 passed test SysVolCheck
+      Starting test: KccEvent
+         ......................... DC01 passed test KccEvent
+      Starting test: KnowsOfRoleHolders
+         ......................... DC01 passed test KnowsOfRoleHolders
+      Starting test: MachineAccount
+         ......................... DC01 passed test MachineAccount
+      Starting test: NCSecDesc
+         ......................... DC01 passed test NCSecDesc
+      Starting test: NetLogons
+         ......................... DC01 passed test NetLogons
+      Starting test: ObjectsReplicated
+         ......................... DC01 passed test ObjectsReplicated
+      Starting test: Replications
+         ......................... DC01 passed test Replications
+      Starting test: RidManager
+         ......................... DC01 passed test RidManager
+      Starting test: Services
+         ......................... DC01 passed test Services
+      Starting test: SystemLog
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:24:33
+            Event String:
+            The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:24:38
+            Event String:
+            The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x80000434
+            Time Generated: 05/11/2026   16:25:46
+            Event String:
+            The reason supplied by user DC01\srmgadmin for the last unexpected shutdown of this computer is: Other (Unplanned)
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:27:48
+            Event String:
+            The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:27:51
+            Event String:
+            The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:32:17
+            Event String:
+            The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:32:19
+            Event String:
+            The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x80040020
+            Time Generated: 05/11/2026   16:44:06
+            Event String:
+            The driver detected that the device \Device\Harddisk0\DR0 has its write cache enabled. Data corruption may occur.
+         A warning event occurred.  EventID: 0x80040020
+            Time Generated: 05/11/2026   16:44:06
+            Event String:
+            The driver detected that the device \Device\Harddisk0\DR0 has its write cache enabled. Data corruption may occur.
+         A warning event occurred.  EventID: 0x80040020
+            Time Generated: 05/11/2026   16:44:06
+            Event String:
+            The driver detected that the device \Device\Harddisk0\DR0 has its write cache enabled. Data corruption may occur.
+         A warning event occurred.  EventID: 0x000727A5
+            Time Generated: 05/11/2026   16:44:49
+            Event String: The WinRM service is not listening for WS-Management requests.
+         A warning event occurred.  EventID: 0x80080040
+            Time Generated: 05/11/2026   16:45:00
+            Event String:
+            ☺01482bb0-a053-4f65-861: RoCE v2.0 mode was requested, but it is not supported. The NIC starts in No RoCE mode.
+         A warning event occurred.  EventID: 0x80080026
+            Time Generated: 05/11/2026   16:45:00
+            Event String:
+            ☺01482bb0-a053-4f65-861: The number of allocated MSI-X vectors is less than required. As a result, multiple EQs will share the same MSI-X vector. This may decrease network performance.
+         A warning event occurred.  EventID: 0x0000000F
+            Time Generated: 05/11/2026   16:45:01
+            Event String:
+            Credential Guard and/or VBS Key Isolation are configured but the secure kernel is not running; continuing without them.
+         A warning event occurred.  EventID: 0x80040020
+            Time Generated: 05/11/2026   16:45:02
+            Event String:
+            The driver detected that the device \Device\Harddisk0\DR0 has its write cache enabled. Data corruption may occur.
+         A warning event occurred.  EventID: 0x80040020
+            Time Generated: 05/11/2026   16:45:02
+            Event String:
+            The driver detected that the device \Device\Harddisk0\DR0 has its write cache enabled. Data corruption may occur.
+         A warning event occurred.  EventID: 0x80040020
+            Time Generated: 05/11/2026   16:45:02
+            Event String:
+            The driver detected that the device \Device\Harddisk0\DR0 has its write cache enabled. Data corruption may occur.
+         A warning event occurred.  EventID: 0x000003F6
+            Time Generated: 05/11/2026   16:45:08
+            Event String:
+            Name resolution for the name _ldap._tcp.dc._msdcs.corp.democompany1016.local. timed out after none of the configured DNS servers responded.
+         A warning event occurred.  EventID: 0x000003F6
+            Time Generated: 05/11/2026   16:45:09
+            Event String:
+            Name resolution for the name _ldap._tcp.dc._msdcs.corp.democompany1016.local. timed out after none of the configured DNS servers responded.
+         A warning event occurred.  EventID: 0x000003F6
+            Time Generated: 05/11/2026   16:45:09
+            Event String:
+            Name resolution for the name _ldap._tcp.dc._msdcs.corp.democompany1016.local. timed out after none of the configured DNS servers responded.
+         A warning event occurred.  EventID: 0x000003F6
+            Time Generated: 05/11/2026   16:45:10
+            Event String:
+            Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+         A warning event occurred.  EventID: 0x000727AA
+            Time Generated: 05/11/2026   16:45:30
+            Event String:
+            The WinRM service failed to create the following SPNs: WSMAN/DC01.corp.democompany1016.local; WSMAN/DC01.
+         A warning event occurred.  EventID: 0x0000000C
+            Time Generated: 05/11/2026   16:45:47
+            Event String:
+            Time Provider NtpClient: This machine is configured to use the domain hierarchy to determine its time source, but it is the AD PDC emulator for the domain at the root of the forest, so there is no machine above it in the domain hierarchy to use as a time source. It is recommended that you either configure a reliable time service in the root domain, or manually configure the AD PDC to synchronize with an external time source. Otherwise, this machine will function as the authoritative time source in the domain hierarchy. If an external time source is not configured or used for this computer, you may choose to disable the NtpClient.
+         A warning event occurred.  EventID: 0x00000090
+            Time Generated: 05/11/2026   16:46:03
+            Event String: The time service has stopped advertising as a good time source.
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:47:39
+            Event String:
+            The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00001796
+            Time Generated: 05/11/2026   16:50:14
+            Event String:
+            Microsoft Windows Server has detected that NTLM authentication is presently being used between clients and this server. This event occurs once per boot of the server on the first time a client uses NTLM with this server.
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:50:24
+            Event String:
+            The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:50:26
+            Event String:
+            The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   16:50:27
+            Event String:
+            The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   17:14:15
+            Event String:
+            The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   17:14:16
+            Event String:
+            The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   17:19:49
+            Event String:
+            The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID
+         A warning event occurred.  EventID: 0x00002720
+            Time Generated: 05/11/2026   17:19:54
+            Event String:
+            The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID
+         ......................... DC01 passed test SystemLog
+      Starting test: VerifyReferences
+         ......................... DC01 passed test VerifyReferences
+
+
+   Running partition tests on : ForestDnsZones
+      Starting test: CheckSDRefDom
+         ......................... ForestDnsZones passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... ForestDnsZones passed test CrossRefValidation
+
+   Running partition tests on : DomainDnsZones
+      Starting test: CheckSDRefDom
+         ......................... DomainDnsZones passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... DomainDnsZones passed test CrossRefValidation
+
+   Running partition tests on : Schema
+      Starting test: CheckSDRefDom
+         ......................... Schema passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... Schema passed test CrossRefValidation
+
+   Running partition tests on : Configuration
+      Starting test: CheckSDRefDom
+         ......................... Configuration passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... Configuration passed test CrossRefValidation
+
+   Running partition tests on : corp
+      Starting test: CheckSDRefDom
+         ......................... corp passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... corp passed test CrossRefValidation
+
+   Running enterprise tests on : corp.democompany1016.local
+      Starting test: LocatorCheck
+         ......................... corp.democompany1016.local passed test LocatorCheck
+      Starting test: Intersite
+         ......................... corp.democompany1016.local passed test Intersite
