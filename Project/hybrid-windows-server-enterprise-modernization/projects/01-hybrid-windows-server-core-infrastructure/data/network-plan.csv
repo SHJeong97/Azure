@@ -1,1 +1,6 @@
-
+NetworkObject,AddressSpace,Purpose
+vnet-srmg-hybrid-eastus,10.10.0.0/16,Main hybrid lab virtual network
+snet-domain-controllers,10.10.1.0/24,Domain controllers and internal DNS
+snet-management,10.10.2.0/24,Management workstation and admin tools
+snet-member-servers,10.10.3.0/24,File server application server and future workload servers
+snet-workstations,10.10.4.0/24,Windows client endpoint testing
