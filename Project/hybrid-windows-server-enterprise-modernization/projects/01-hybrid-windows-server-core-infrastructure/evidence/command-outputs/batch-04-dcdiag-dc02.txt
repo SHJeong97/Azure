@@ -1,0 +1,91 @@
+PS C:\Users\srmgadmin> dcdiag /s:DC02
+
+Directory Server Diagnosis
+
+Performing initial setup:
+   * Identified AD Forest.
+   Done gathering initial info.
+
+Doing initial required tests
+
+   Testing server: Default-First-Site-Name\DC02
+      Starting test: Connectivity
+         ......................... DC02 passed test Connectivity
+
+Doing primary tests
+
+   Testing server: Default-First-Site-Name\DC02
+      Starting test: Advertising
+         ......................... DC02 passed test Advertising
+      Starting test: FrsEvent
+         ......................... DC02 passed test FrsEvent
+      Starting test: DFSREvent
+         The event log DFS Replication on server DC02.corp.democompany1016.local could not be queried, error 0x6ba
+         "The RPC server is unavailable."
+         ......................... DC02 failed test DFSREvent
+      Starting test: SysVolCheck
+         ......................... DC02 passed test SysVolCheck
+      Starting test: KccEvent
+         The event log Directory Service on server DC02.corp.democompany1016.local could not be queried, error 0x6ba
+         "The RPC server is unavailable."
+         ......................... DC02 failed test KccEvent
+      Starting test: KnowsOfRoleHolders
+         ......................... DC02 passed test KnowsOfRoleHolders
+      Starting test: MachineAccount
+         ......................... DC02 passed test MachineAccount
+      Starting test: NCSecDesc
+         ......................... DC02 passed test NCSecDesc
+      Starting test: NetLogons
+         ......................... DC02 passed test NetLogons
+      Starting test: ObjectsReplicated
+         ......................... DC02 passed test ObjectsReplicated
+      Starting test: Replications
+         ......................... DC02 passed test Replications
+      Starting test: RidManager
+         ......................... DC02 passed test RidManager
+      Starting test: Services
+         ......................... DC02 passed test Services
+      Starting test: SystemLog
+         The event log System on server DC02.corp.democompany1016.local could not be queried, error 0x6ba
+         "The RPC server is unavailable."
+         ......................... DC02 failed test SystemLog
+      Starting test: VerifyReferences
+         ......................... DC02 passed test VerifyReferences
+
+
+   Running partition tests on : ForestDnsZones
+      Starting test: CheckSDRefDom
+         ......................... ForestDnsZones passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... ForestDnsZones passed test CrossRefValidation
+
+   Running partition tests on : DomainDnsZones
+      Starting test: CheckSDRefDom
+         ......................... DomainDnsZones passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... DomainDnsZones passed test CrossRefValidation
+
+   Running partition tests on : Schema
+      Starting test: CheckSDRefDom
+         ......................... Schema passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... Schema passed test CrossRefValidation
+
+   Running partition tests on : Configuration
+      Starting test: CheckSDRefDom
+         ......................... Configuration passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... Configuration passed test CrossRefValidation
+
+   Running partition tests on : corp
+      Starting test: CheckSDRefDom
+         ......................... corp passed test CheckSDRefDom
+      Starting test: CrossRefValidation
+         ......................... corp passed test CrossRefValidation
+
+   Running enterprise tests on : corp.democompany1016.local
+      Starting test: LocatorCheck
+         ......................... corp.democompany1016.local passed test LocatorCheck
+      Starting test: Intersite
+         ......................... corp.democompany1016.local passed test Intersite
+PS C:\Users\srmgadmin>
