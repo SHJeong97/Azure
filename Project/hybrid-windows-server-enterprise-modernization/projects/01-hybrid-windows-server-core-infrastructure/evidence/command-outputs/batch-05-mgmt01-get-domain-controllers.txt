@@ -1,0 +1,6 @@
+
+HostName                        IPv4Address IsGlobalCatalog OperatingSystem
+--------                        ----------- --------------- ---------------
+DC01.corp.democompany1016.local 10.10.1.10             True Windows Server 2022 Datacenter Azure Edition
+DC02.corp.democompany1016.local 10.10.1.11             True Windows Server 2022 Datacenter Azure Edition
+

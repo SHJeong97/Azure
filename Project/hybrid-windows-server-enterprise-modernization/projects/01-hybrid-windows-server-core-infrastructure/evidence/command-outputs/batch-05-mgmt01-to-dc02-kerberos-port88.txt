@@ -1,0 +1,8 @@
+
+ComputerName     : 10.10.1.11
+RemoteAddress    : 10.10.1.11
+RemotePort       : 88
+InterfaceAlias   : Ethernet
+SourceAddress    : 10.10.2.10
+TcpTestSucceeded : True
+

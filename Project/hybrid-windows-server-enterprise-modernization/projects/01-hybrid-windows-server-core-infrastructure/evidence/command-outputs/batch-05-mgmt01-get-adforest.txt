@@ -1,0 +1,15 @@
+
+ApplicationPartitions : {DC=ForestDnsZones,DC=corp,DC=democompany1016,DC=local, DC=DomainDnsZones,DC=corp,DC=democompany1016,DC=local}
+CrossForestReferences : {}
+DomainNamingMaster    : DC01.corp.democompany1016.local
+Domains               : {corp.democompany1016.local}
+ForestMode            : Windows2016Forest
+GlobalCatalogs        : {DC01.corp.democompany1016.local, DC02.corp.democompany1016.local}
+Name                  : corp.democompany1016.local
+PartitionsContainer   : CN=Partitions,CN=Configuration,DC=corp,DC=democompany1016,DC=local
+RootDomain            : corp.democompany1016.local
+SchemaMaster          : DC01.corp.democompany1016.local
+Sites                 : {Default-First-Site-Name}
+SPNSuffixes           : {}
+UPNSuffixes           : {}
+

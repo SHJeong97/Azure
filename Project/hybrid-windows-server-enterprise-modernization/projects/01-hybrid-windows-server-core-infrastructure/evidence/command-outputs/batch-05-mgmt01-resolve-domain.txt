@@ -1,0 +1,6 @@
+
+Name                                           Type   TTL   Section    IPAddress
+----                                           ----   ---   -------    ---------
+corp.democompany1016.local                     A      600   Answer     10.10.1.11
+corp.democompany1016.local                     A      600   Answer     10.10.1.10
+

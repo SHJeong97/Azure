@@ -1,0 +1,6 @@
+
+Display Name                                            Name                       Install State
+------------                                            ----                       -------------
+                                                        RSAT-AD-Tools                  Installed
+                                                        RSAT-DNS-Server                Installed
+

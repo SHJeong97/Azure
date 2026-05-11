@@ -1,0 +1,6 @@
+
+Name                      InterfaceDescription                    ifIndex Status       MacAddress             LinkSpeed
+----                      --------------------                    ------- ------       ----------             ---------
+Ethernet 3                Mellanox ConnectX-4 Lx Virtual Eth...#2      11 Up           7C-1E-52-81-35-62        50 Gbps
+Ethernet                  Microsoft Hyper-V Network Adapter             6 Up           7C-1E-52-81-35-62        50 Gbps
+

@@ -1,0 +1,22 @@
+
+Name                                     Type   TTL   Section    NameTarget                     Priority Weight Port
+----                                     ----   ---   -------    ----------                     -------- ------ ----
+_ldap._tcp.dc._msdcs.corp.democompany101 SRV    600   Answer     dc02.corp.democompany1016.loca 0        100    389
+6.local                                                          l
+_ldap._tcp.dc._msdcs.corp.democompany101 SRV    600   Answer     dc01.corp.democompany1016.loca 0        100    389
+6.local                                                          l
+
+Name       : dc02.corp.democompany1016.local
+QueryType  : A
+TTL        : 3600
+Section    : Additional
+IP4Address : 10.10.1.11
+
+
+Name       : dc01.corp.democompany1016.local
+QueryType  : A
+TTL        : 3600
+Section    : Additional
+IP4Address : 10.10.1.10
+
+

@@ -1,0 +1,29 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MGMT01
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : rxjjuu3plzyezpjzr4kytybt1b.bx.internal.cloudapp.net
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : rxjjuu3plzyezpjzr4kytybt1b.bx.internal.cloudapp.net
+   Description . . . . . . . . . . . : Microsoft Hyper-V Network Adapter
+   Physical Address. . . . . . . . . : 7C-1E-52-81-35-62
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1f91:56e8:8aed:1503%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.10.2.10(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, May 11, 2026 3:43:59 PM
+   Lease Expires . . . . . . . . . . : Friday, June 18, 2162 12:38:16 AM
+   Default Gateway . . . . . . . . . : 10.10.2.1
+   DHCP Server . . . . . . . . . . . : 168.63.129.16
+   DHCPv6 IAID . . . . . . . . . . . : 108797522
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-31-93-4C-63-7C-1E-52-81-35-62
+   DNS Servers . . . . . . . . . . . : 10.10.1.10
+                                       127.0.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled

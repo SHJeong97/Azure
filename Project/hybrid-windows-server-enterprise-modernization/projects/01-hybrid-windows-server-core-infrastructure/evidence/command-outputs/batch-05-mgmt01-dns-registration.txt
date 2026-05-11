@@ -1,0 +1,6 @@
+
+Name                                           Type   TTL   Section    IPAddress
+----                                           ----   ---   -------    ---------
+MGMT01.corp.democompany1016.local              AAAA   1200  Question   fe80::1f91:56e8:8aed:1503
+MGMT01.corp.democompany1016.local              A      1200  Question   10.10.2.10
+
