@@ -42,6 +42,14 @@ The key architecture decisions were:
 - Cost controls must be configured before deploying virtual machines.
 - EMS E5 will support identity security, Conditional Access, Intune, and endpoint management scenarios later in the portfolio.
 
+### Batch 2 — Azure Network Foundation
+
+Batch 2 created the Azure resource group, virtual network, four subnets, and subnet-level network security groups.
+
+The network separates domain controllers, management systems, member servers, and workstation testing into different subnets. This supports future security hardening while avoiding unnecessary complexity during the initial AD DS build.
+
+The NSG baseline does not expose RDP broadly to the internet. Internal communication is allowed during the foundation phase so AD DS, DNS, Kerberos, LDAP, SMB, and Group Policy can function correctly.
+
 ## Results & Validation
 
 Batch 1 validation items:
@@ -55,6 +63,13 @@ Batch 1 validation items:
 - Domain plan CSV created
 - Azure budget alert configured
 
+- Resource group rg-srmg-hybrid-core created
+- Virtual network vnet-srmg-hybrid-eastus created
+- Four subnets created
+- Four NSGs created
+- NSGs associated to their matching subnets
+- No VMs deployed yet
+
 ## Validation Walkthrough
 
 Evidence to collect:
@@ -64,6 +79,15 @@ Evidence to collect:
 - Architecture decision document
 - Cost-control document
 - Subscription/license document
+
+Batch 2 validation evidence:
+
+- Screenshot of resource group
+- Screenshot of VNet address space and subnets
+- Screenshot of NSG list
+- Screenshot of NSG subnet associations
+- Azure CLI output showing VNet/subnet configuration
+- Azure CLI output showing subnet-to-NSG associations
 
 ## Key Takeaways
 
