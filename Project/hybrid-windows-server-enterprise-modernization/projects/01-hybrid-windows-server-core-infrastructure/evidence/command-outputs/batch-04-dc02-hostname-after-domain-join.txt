@@ -1,0 +1,2 @@
+PS C:\Users\srmgadmin> hostname
+DC02
