@@ -1,0 +1,5 @@
+NIC        PrivateIP    Allocation
+---------  -----------  ------------
+dc01406    10.10.1.10   Static
+dc02384    10.10.1.11   Static
+mgmt01521  10.10.2.10   Static
