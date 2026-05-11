@@ -1,0 +1,20 @@
+PS C:\Users\srmgadmin> Add-DnsServerForwarder -IPAddress 168.63.129.16 -PassThru
+WARNING: IP address: 168.63.129.16 already configured as forwarder on server DC01.
+
+
+UseRootHint        : True
+Timeout(s)         : 3
+EnableReordering   : True
+IPAddress          : 168.63.129.16
+ReorderedIPAddress : 168.63.129.16
+
+
+
+PS C:\Users\srmgadmin> Get-DnsServerForwarder
+
+
+UseRootHint        : True
+Timeout(s)         : 3
+EnableReordering   : True
+IPAddress          : 168.63.129.16
+ReorderedIPAddress : 168.63.129.16
