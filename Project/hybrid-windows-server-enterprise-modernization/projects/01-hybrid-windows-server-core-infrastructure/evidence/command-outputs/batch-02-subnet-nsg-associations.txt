@@ -1,0 +1,7 @@
+Name                         Location
+---------------------------  ----------
+nsg-srmg-domain-controllers  eastus
+nsg-srmg-management          eastus
+nsg-srmg-member-servers      eastus
+nsg-srmg-workstations        eastus
+PS /home/seunghun> az network vnet sub
