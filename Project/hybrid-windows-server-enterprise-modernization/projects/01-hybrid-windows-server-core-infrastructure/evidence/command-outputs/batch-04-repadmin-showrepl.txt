@@ -1,0 +1,35 @@
+PS C:\Users\srmgadmin> repadmin /showrepl
+
+Repadmin: running command /showrepl against full DC localhost
+Default-First-Site-Name\DC01
+DSA Options: IS_GC
+Site Options: (none)
+DSA object GUID: 369c75b9-6048-44c4-9e39-7b52a9801610
+DSA invocationID: 369c75b9-6048-44c4-9e39-7b52a9801610
+
+==== INBOUND NEIGHBORS ======================================
+
+DC=corp,DC=democompany1016,DC=local
+    Default-First-Site-Name\DC02 via RPC
+        DSA object GUID: 3b295289-46b9-4266-8817-6177dc6fb09e
+        Last attempt @ 2026-05-11 17:20:16 was successful.
+
+CN=Configuration,DC=corp,DC=democompany1016,DC=local
+    Default-First-Site-Name\DC02 via RPC
+        DSA object GUID: 3b295289-46b9-4266-8817-6177dc6fb09e
+        Last attempt @ 2026-05-11 17:20:46 was successful.
+
+CN=Schema,CN=Configuration,DC=corp,DC=democompany1016,DC=local
+    Default-First-Site-Name\DC02 via RPC
+        DSA object GUID: 3b295289-46b9-4266-8817-6177dc6fb09e
+        Last attempt @ 2026-05-11 17:20:17 was successful.
+
+DC=DomainDnsZones,DC=corp,DC=democompany1016,DC=local
+    Default-First-Site-Name\DC02 via RPC
+        DSA object GUID: 3b295289-46b9-4266-8817-6177dc6fb09e
+        Last attempt @ 2026-05-11 17:20:17 was successful.
+
+DC=ForestDnsZones,DC=corp,DC=democompany1016,DC=local
+    Default-First-Site-Name\DC02 via RPC
+        DSA object GUID: 3b295289-46b9-4266-8817-6177dc6fb09e
+        Last attempt @ 2026-05-11 17:20:17 was successful.
