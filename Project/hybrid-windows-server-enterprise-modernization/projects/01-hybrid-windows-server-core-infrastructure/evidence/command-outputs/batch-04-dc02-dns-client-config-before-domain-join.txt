@@ -1,0 +1,6 @@
+PS C:\Users\srmgadmin> Get-NetAdapter
+
+Name                      InterfaceDescription                    ifIndex Status       MacAddress             LinkSpeed
+----                      --------------------                    ------- ------       ----------             ---------
+Ethernet                  Microsoft Hyper-V Network Adapter             7 Up           7C-1E-52-57-80-63        50 Gbps
+Ethernet 3                Mellanox ConnectX-4 Lx Virtual Eth...#2      11 Up           7C-1E-52-57-80-63        50 Gbps
