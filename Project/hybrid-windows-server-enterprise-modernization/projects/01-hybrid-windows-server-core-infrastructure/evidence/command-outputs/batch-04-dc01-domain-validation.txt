@@ -1,0 +1,35 @@
+PS C:\Users\srmgadmin> Get-ADDomain                                                                                     
+
+AllowedDNSSuffixes                 : {}
+ChildDomains                       : {}
+ComputersContainer                 : CN=Computers,DC=corp,DC=democompany1016,DC=local
+DeletedObjectsContainer            : CN=Deleted Objects,DC=corp,DC=democompany1016,DC=local
+DistinguishedName                  : DC=corp,DC=democompany1016,DC=local
+DNSRoot                            : corp.democompany1016.local
+DomainControllersContainer         : OU=Domain Controllers,DC=corp,DC=democompany1016,DC=local
+DomainMode                         : Windows2016Domain
+DomainSID                          : S-1-5-21-2883454746-3266159495-1236467775
+ForeignSecurityPrincipalsContainer : CN=ForeignSecurityPrincipals,DC=corp,DC=democompany1016,DC=local
+Forest                             : corp.democompany1016.local
+InfrastructureMaster               : DC01.corp.democompany1016.local
+LastLogonReplicationInterval       :
+LinkedGroupPolicyObjects           : {CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=corp,DC=democo
+                                     mpany1016,DC=local}
+LostAndFoundContainer              : CN=LostAndFound,DC=corp,DC=democompany1016,DC=local
+ManagedBy                          :
+Name                               : corp
+NetBIOSName                        : CORP
+ObjectClass                        : domainDNS
+ObjectGUID                         : 8d3b732b-6480-4636-a383-8be58c2a7980
+ParentDomain                       :
+PDCEmulator                        : DC01.corp.democompany1016.local
+PublicKeyRequiredPasswordRolling   : True
+QuotasContainer                    : CN=NTDS Quotas,DC=corp,DC=democompany1016,DC=local
+ReadOnlyReplicaDirectoryServers    : {}
+ReplicaDirectoryServers            : {DC01.corp.democompany1016.local}
+RIDMaster                          : DC01.corp.democompany1016.local
+SubordinateReferences              : {DC=ForestDnsZones,DC=corp,DC=democompany1016,DC=local,
+                                     DC=DomainDnsZones,DC=corp,DC=democompany1016,DC=local,
+                                     CN=Configuration,DC=corp,DC=democompany1016,DC=local}
+SystemsContainer                   : CN=System,DC=corp,DC=democompany1016,DC=local
+UsersContainer                     : CN=Users,DC=corp,DC=democompany1016,DC=local
