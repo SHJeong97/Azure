@@ -1,0 +1,13 @@
+PS /home/seunghun> az network vnet subnet list `                                                                                                             
+>>   --resource-group rg-srmg-hybrid-core `
+>>   --vnet-name vnet-srmg-hybrid-eastus `
+>>   --query "[].{Subnet:name, AddressPrefix:addressPrefix, NSG:networkSecurityGroup.id}" `
+>>   --output table `
+>> 
+Subnet                  NSG
+----------------------  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+net-domain-controllers  /subscriptions/2779059e-3f56-4f6e-a7c0-8a265e542744/resourceGroups/rg-srmg-hybrid-core/providers/Microsoft.Network/networkSecurityGroups/nsg-srmg-domain-controllers
+snet-member-servers     /subscriptions/2779059e-3f56-4f6e-a7c0-8a265e542744/resourceGroups/rg-srmg-hybrid-core/providers/Microsoft.Network/networkSecurityGroups/nsg-srmg-member-servers
+net-management          /subscriptions/2779059e-3f56-4f6e-a7c0-8a265e542744/resourceGroups/rg-srmg-hybrid-core/providers/Microsoft.Network/networkSecurityGroups/nsg-srmg-management
+snet-workstation        /subscriptions/2779059e-3f56-4f6e-a7c0-8a265e542744/resourceGroups/rg-srmg-hybrid-core/providers/Microsoft.Network/networkSecurityGroups/nsg-srmg-workstations
+^C
