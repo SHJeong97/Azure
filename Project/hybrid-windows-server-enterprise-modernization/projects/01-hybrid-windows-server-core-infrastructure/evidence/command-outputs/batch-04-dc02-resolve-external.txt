@@ -1,0 +1,8 @@
+PS C:\Users\srmgadmin.CORP> Resolve-DnsName microsoft.com
+
+Name                                           Type   TTL   Section    IPAddress
+----                                           ----   ---   -------    ---------
+microsoft.com                                  AAAA   206   Answer     2620:1ec:46::40
+microsoft.com                                  AAAA   206   Answer     2620:1ec:bdf::40
+microsoft.com                                  A      728   Answer     13.107.213.40
+microsoft.com                                  A      728   Answer     13.107.246.40
