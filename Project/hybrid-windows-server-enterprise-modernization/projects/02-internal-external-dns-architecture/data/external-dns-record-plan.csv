@@ -1,1 +1,9 @@
-
+RecordName,Zone,RecordType,Value,Purpose,ProjectPhase
+@,summitridge-mfg.com,TXT,Microsoft 365 verification TXT value,Verify domain ownership in Microsoft 365,Project 03
+@,summitridge-mfg.com,MX,Exchange Online MX target,Route inbound mail to Exchange Online,Project 03
+@,summitridge-mfg.com,TXT,v=spf1 include:spf.protection.outlook.com -all,Authorize Microsoft 365 as valid sender,Project 03
+autodiscover,summitridge-mfg.com,CNAME,autodiscover.outlook.com,Outlook Autodiscover,Project 03
+selector1._domainkey,summitridge-mfg.com,CNAME,Microsoft 365 DKIM selector 1 target,DKIM email signing,Project 03
+selector2._domainkey,summitridge-mfg.com,CNAME,Microsoft 365 DKIM selector 2 target,DKIM email signing,Project 03
+_dmarc,summitridge-mfg.com,TXT,v=DMARC1; p=none; rua=mailto:dmarc@summitridge-mfg.com,DMARC monitoring policy,Project 03
+hrportal,summitridge-mfg.com,CNAME,Future Application Proxy custom domain,Future internal app publishing,Project 07
