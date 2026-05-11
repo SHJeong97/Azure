@@ -1,0 +1,5 @@
+PS C:\Users\srmgadmin.CORP> Resolve-DnsName DC01.corp.democompany1016.local
+
+Name                                           Type   TTL   Section    IPAddress
+----                                           ----   ---   -------    ---------
+DC01.corp.democompany1016.local                A      3600  Answer     10.10.1.10
