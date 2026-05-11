@@ -1,0 +1,42 @@
+PS C:\Users\srmgadmin> Get-ADDomainController -Identity DC01
+
+
+
+
+
+
+
+
+
+
+
+
+ComputerObjectDN           : CN=DC01,OU=Domain Controllers,DC=corp,DC=democompany1016,DC=local
+DefaultPartition           : DC=corp,DC=democompany1016,DC=local
+Domain                     : corp.democompany1016.local
+Enabled                    : True
+Forest                     : corp.democompany1016.local
+HostName                   : DC01.corp.democompany1016.local
+InvocationId               : 369c75b9-6048-44c4-9e39-7b52a9801610
+IPv4Address                : 10.10.1.10
+IPv6Address                :
+IsGlobalCatalog            : True
+IsReadOnly                 : False
+LdapPort                   : 389
+Name                       : DC01
+NTDSSettingsObjectDN       : CN=NTDS Settings,CN=DC01,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,D
+                             C=corp,DC=democompany1016,DC=local
+OperatingSystem            : Windows Server 2022 Datacenter Azure Edition
+OperatingSystemHotfix      :
+OperatingSystemServicePack :
+OperatingSystemVersion     : 10.0 (20348)
+OperationMasterRoles       : {SchemaMaster, DomainNamingMaster, PDCEmulator, RIDMaster...}
+Partitions                 : {DC=ForestDnsZones,DC=corp,DC=democompany1016,DC=local,
+                             DC=DomainDnsZones,DC=corp,DC=democompany1016,DC=local,
+                             CN=Schema,CN=Configuration,DC=corp,DC=democompany1016,DC=local,
+                             CN=Configuration,DC=corp,DC=democompany1016,DC=local...}
+ServerObjectDN             : CN=DC01,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=corp,DC=democom
+                             pany1016,DC=local
+ServerObjectGuid           : adc9c610-1012-4faf-86a5-212ebc3d0a25
+Site                       : Default-First-Site-Name
+SslPort                    : 636
