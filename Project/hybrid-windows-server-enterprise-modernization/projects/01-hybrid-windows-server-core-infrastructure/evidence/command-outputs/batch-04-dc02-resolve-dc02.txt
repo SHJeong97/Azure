@@ -1,0 +1,6 @@
+PS C:\Users\srmgadmin.CORP> Resolve-DnsName DC02.corp.democompany1016.local
+
+Name                                           Type   TTL   Section    IPAddress
+----                                           ----   ---   -------    ---------
+DC02.corp.democompany1016.local                AAAA   1200  Question   fe80::728b:19f7:7f96:a885
+DC02.corp.democompany1016.local                A      1200  Question   10.10.1.11
