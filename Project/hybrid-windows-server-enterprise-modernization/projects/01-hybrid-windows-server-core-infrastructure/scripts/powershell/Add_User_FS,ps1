@@ -1,0 +1,10 @@
+$FileGroupReport = foreach ($Group in (Get-ADGroup -Filter 'Name -like "GG-FS-*"' | Select-Object -ExpandProperty Name)) {
+    "===== $Group ====="
+    Get-ADGroupMember $Group | Select-Object Name,SamAccountName,ObjectClass
+    ""
+}
+
+$FileGroupReport |
+Out-File "C:\LabEvidence\Project01\Batch06\batch-06-file-access-group-membership.txt"
+
+$FileGroupReport
