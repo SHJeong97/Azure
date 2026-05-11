@@ -1,0 +1,6 @@
+PS /home/seunghun> az group show `                                                                                                                           
+>>   --name rg-srmg-hybrid-core `
+>>   --output table
+Location    Name
+----------  -------------------
+eastus      rg-srmg-hybrid-core
