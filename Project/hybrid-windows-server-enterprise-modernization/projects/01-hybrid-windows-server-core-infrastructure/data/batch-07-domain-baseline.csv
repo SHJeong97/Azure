@@ -1,0 +1,2 @@
+"DNSRoot","NetBIOSName","DomainMode","PDCEmulator","RIDMaster","InfrastructureMaster"
+"corp.democompany1016.local","CORP","Windows2016Domain","DC01.corp.democompany1016.local","DC01.corp.democompany1016.local","DC01.corp.democompany1016.local"

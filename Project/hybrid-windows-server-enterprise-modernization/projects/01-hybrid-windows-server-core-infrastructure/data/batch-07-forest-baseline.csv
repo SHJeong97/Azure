@@ -1,0 +1,2 @@
+"Name","RootDomain","ForestMode","SchemaMaster","DomainNamingMaster","UPNSuffixes"
+"corp.democompany1016.local","corp.democompany1016.local","Windows2016Forest","DC01.corp.democompany1016.local","DC01.corp.democompany1016.local","Microsoft.ActiveDirectory.Management.ADPropertyValueCollection"
