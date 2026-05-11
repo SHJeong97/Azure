@@ -1,1 +1,8 @@
-
+RecordName,Zone,RecordType,TargetOrIP,Purpose,ProjectPhase
+dc01,corp.democompany1016.local,A,10.10.1.10,Primary domain controller and DNS,Project 01
+dc02,corp.democompany1016.local,A,10.10.1.11,Secondary domain controller and DNS,Project 01
+mgmt01,corp.democompany1016.local,A,10.10.2.10,Management server,Project 01
+fs01,corp.democompany1016.local,A,10.10.3.10,Future file server,Project 06
+app01,corp.democompany1016.local,A,10.10.3.20,Future internal app server,Project 07
+files,corp.democompany1016.local,CNAME,fs01.corp.democompany1016.local,User-friendly file server alias,Project 02
+intranet,corp.democompany1016.local,CNAME,app01.corp.democompany1016.local,Internal web app alias,Project 02
