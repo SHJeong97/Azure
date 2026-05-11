@@ -1,0 +1,2 @@
+PS C:\Users\srmgadmin> (Get-WmiObject Win32_ComputerSystem).Domain
+corp.democompany1016.local
