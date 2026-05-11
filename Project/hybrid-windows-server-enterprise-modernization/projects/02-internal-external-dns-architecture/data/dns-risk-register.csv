@@ -1,1 +1,8 @@
-
+RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
+DNS-001,Internal AD DNS unavailable,Users may fail to authenticate or access domain resources,Medium,Reduce with DC01/DC02 redundancy and AD-integrated DNS,IT Infrastructure,Open
+DNS-002,Public DNS misconfigured,Microsoft 365 domain verification or mail delivery may fail,Medium,Reduce with documented DNS record plan and staged validation,Cloud Administrator,Open
+DNS-003,Internal AD DNS exposed publicly,Internal AD records may be enumerated by attackers,Low,Avoid by using managed public DNS and keeping AD DNS private,Security Administrator,Open
+DNS-004,Incorrect MX record,Inbound email may route to wrong mail system,Medium,Delay MX cutover until Project 03 validation,Messaging Administrator,Open
+DNS-005,Incorrect SPF record,Mail may fail authentication or spoofing risk may increase,Medium,Use Microsoft 365 SPF format and validate after publishing,Messaging Administrator,Open
+DNS-006,Overly strict DMARC policy too early,Legitimate mail may be rejected,Medium,Start with p=none for monitoring before enforcement,Messaging Administrator,Open
+DNS-007,Unclear DNS ownership,Record updates may be delayed during incidents,Medium,Document DNS owner and hosting provider,IT Management,Open
