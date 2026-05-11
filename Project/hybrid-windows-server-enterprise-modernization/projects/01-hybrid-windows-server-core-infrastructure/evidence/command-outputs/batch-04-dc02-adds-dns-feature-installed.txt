@@ -1,0 +1,11 @@
+PS C:\Users\srmgadmin> Install-WindowsFeature AD-Domain-Services,DNS -IncludeManagementTools
+WARNING: The following recommended condition is not met for DNS: No static IP addresses were found on this computer. If
+ the IP address changes, clients might not be able to contact this server. Please configure a static IP address on this  computer before installing DNS Server.                                                                                                                                                                                                         Success Restart Needed Exit Code      Feature Result                                                                    ------- -------------- ---------      --------------                                                                    True    No             Success        {Active Directory Domain Services, DNS Ser...
+
+
+PS C:\Users\srmgadmin> Get-WindowsFeature AD-Domain-Services,DNS
+
+Display Name                                            Name                       Install State
+------------                                            ----                       -------------
+[X] Active Directory Domain Services                    AD-Domain-Services             Installed
+[X] DNS Server                                          DNS                            Installed
