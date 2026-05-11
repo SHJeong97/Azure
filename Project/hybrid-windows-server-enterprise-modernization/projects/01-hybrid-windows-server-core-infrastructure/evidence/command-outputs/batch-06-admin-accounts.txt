@@ -1,0 +1,19 @@
+
+Name              : ADM Cloud Admin
+SamAccountName    : adm.cloudadmin
+UserPrincipalName : adm.cloudadmin@corp.democompany1016.local
+Title             : Tier 0 Domain Administrator
+Enabled           : False
+
+Name              : ADM Helpdesk
+SamAccountName    : adm.helpdesk
+UserPrincipalName : adm.helpdesk@corp.democompany1016.local
+Title             : Tier 2 Helpdesk Administrator
+Enabled           : False
+
+Name              : ADM Server Admin
+SamAccountName    : adm.serveradmin
+UserPrincipalName : adm.serveradmin@corp.democompany1016.local
+Title             : Tier 1 Server Administrator
+Enabled           : False
+

@@ -1,0 +1,7 @@
+
+Name           GroupScope GroupCategory
+----           ---------- -------------
+GG-LIC-EMS-E5      Global      Security
+GG-LIC-O365-E3     Global      Security
+GG-LIC-O365-E5     Global      Security
+

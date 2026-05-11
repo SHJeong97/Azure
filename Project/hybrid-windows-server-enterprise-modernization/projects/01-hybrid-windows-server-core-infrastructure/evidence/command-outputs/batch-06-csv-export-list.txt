@@ -1,0 +1,8 @@
+
+Name                         Length LastWriteTime
+----                         ------ -------------
+batch-06-computer-export.csv    169 5/11/2026 7:42:29 PM
+batch-06-group-export.csv      3277 5/11/2026 7:42:28 PM
+batch-06-ou-export.csv         1936 5/11/2026 7:42:28 PM
+batch-06-user-export.csv       3492 5/11/2026 7:42:28 PM
+

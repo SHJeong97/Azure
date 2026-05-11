@@ -1,0 +1,9 @@
+
+Name                        GroupScope GroupCategory
+----                        ---------- -------------
+GG-Admin-DNSAdmins              Global      Security
+GG-Admin-GPOAdmins              Global      Security
+GG-Admin-Tier0-DomainAdmins     Global      Security
+GG-Admin-Tier1-ServerAdmins     Global      Security
+GG-Admin-Tier2-Helpdesk         Global      Security
+

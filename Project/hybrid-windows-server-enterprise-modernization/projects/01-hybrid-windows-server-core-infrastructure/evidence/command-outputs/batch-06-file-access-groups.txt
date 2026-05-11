@@ -1,0 +1,15 @@
+
+Name                GroupScope GroupCategory
+----                ---------- -------------
+GG-FS-Finance-RO        Global      Security
+GG-FS-Finance-RW        Global      Security
+GG-FS-HR-RO             Global      Security
+GG-FS-HR-RW             Global      Security
+GG-FS-IT-RO             Global      Security
+GG-FS-IT-RW             Global      Security
+GG-FS-Operations-RO     Global      Security
+GG-FS-Operations-RW     Global      Security
+GG-FS-Public-Modify     Global      Security
+GG-FS-Sales-RO          Global      Security
+GG-FS-Sales-RW          Global      Security
+

@@ -1,0 +1,48 @@
+===== GG-FS-Finance-RO =====
+
+===== GG-FS-Finance-RW =====
+
+Name            SamAccountName  ObjectClass
+----            --------------  -----------
+Olivia Brown    olivia.brown    user
+Michael Lee     michael.lee     user
+
+===== GG-FS-HR-RO =====
+
+===== GG-FS-HR-RW =====
+Emma Wilson     emma.wilson     user
+Daniel Kim      daniel.kim      user
+
+===== GG-FS-IT-RO =====
+
+===== GG-FS-IT-RW =====
+Sophia Martinez sophia.martinez user
+Ethan Park      ethan.park      user
+
+===== GG-FS-Operations-RO =====
+
+===== GG-FS-Operations-RW =====
+Mia Davis       mia.davis       user
+James Miller    james.miller    user
+
+===== GG-FS-Public-Modify =====
+Emma Wilson     emma.wilson     user
+Daniel Kim      daniel.kim      user
+Olivia Brown    olivia.brown    user
+Michael Lee     michael.lee     user
+Sophia Martinez sophia.martinez user
+Ethan Park      ethan.park      user
+Ava Garcia      ava.garcia      user
+Noah Johnson    noah.johnson    user
+Mia Davis       mia.davis       user
+James Miller    james.miller    user
+Grace Chen      grace.chen      user
+Ryan Anderson   ryan.anderson   user
+
+===== GG-FS-Sales-RO =====
+
+===== GG-FS-Sales-RW =====
+Ava Garcia      ava.garcia      user
+Noah Johnson    noah.johnson    user
+
+

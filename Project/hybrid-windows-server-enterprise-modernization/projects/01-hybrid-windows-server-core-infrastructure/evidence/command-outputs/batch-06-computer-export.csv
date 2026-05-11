@@ -1,0 +1,2 @@
+"Name","DNSHostName","DistinguishedName"
+"MGMT01","MGMT01.corp.democompany1016.local","CN=MGMT01,OU=Management,OU=Servers,OU=SRMG,DC=corp,DC=democompany1016,DC=local"

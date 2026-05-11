@@ -1,0 +1,85 @@
+
+Name              : Grace Chen
+SamAccountName    : grace.chen
+UserPrincipalName : grace.chen@corp.democompany1016.local
+Department        : Executives
+Title             : Chief Operating Officer
+Enabled           : True
+
+Name              : Ryan Anderson
+SamAccountName    : ryan.anderson
+UserPrincipalName : ryan.anderson@corp.democompany1016.local
+Department        : Executives
+Title             : Chief Financial Officer
+Enabled           : True
+
+Name              : Michael Lee
+SamAccountName    : michael.lee
+UserPrincipalName : michael.lee@corp.democompany1016.local
+Department        : Finance
+Title             : Accountant
+Enabled           : True
+
+Name              : Olivia Brown
+SamAccountName    : olivia.brown
+UserPrincipalName : olivia.brown@corp.democompany1016.local
+Department        : Finance
+Title             : Finance Manager
+Enabled           : True
+
+Name              : Daniel Kim
+SamAccountName    : daniel.kim
+UserPrincipalName : daniel.kim@corp.democompany1016.local
+Department        : HR
+Title             : HR Specialist
+Enabled           : True
+
+Name              : Emma Wilson
+SamAccountName    : emma.wilson
+UserPrincipalName : emma.wilson@corp.democompany1016.local
+Department        : HR
+Title             : HR Manager
+Enabled           : True
+
+Name              : Ethan Park
+SamAccountName    : ethan.park
+UserPrincipalName : ethan.park@corp.democompany1016.local
+Department        : IT
+Title             : Helpdesk Technician
+Enabled           : True
+
+Name              : Sophia Martinez
+SamAccountName    : sophia.martinez
+UserPrincipalName : sophia.martinez@corp.democompany1016.local
+Department        : IT
+Title             : Systems Administrator
+Enabled           : True
+
+Name              : James Miller
+SamAccountName    : james.miller
+UserPrincipalName : james.miller@corp.democompany1016.local
+Department        : Operations
+Title             : Operations Coordinator
+Enabled           : True
+
+Name              : Mia Davis
+SamAccountName    : mia.davis
+UserPrincipalName : mia.davis@corp.democompany1016.local
+Department        : Operations
+Title             : Operations Manager
+Enabled           : True
+
+Name              : Ava Garcia
+SamAccountName    : ava.garcia
+UserPrincipalName : ava.garcia@corp.democompany1016.local
+Department        : Sales
+Title             : Sales Manager
+Enabled           : True
+
+Name              : Noah Johnson
+SamAccountName    : noah.johnson
+UserPrincipalName : noah.johnson@corp.democompany1016.local
+Department        : Sales
+Title             : Sales Representative
+Enabled           : True
+

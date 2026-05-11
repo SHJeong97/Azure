@@ -1,0 +1,5 @@
+
+Name   DistinguishedName
+----   -----------------
+MGMT01 CN=MGMT01,OU=Management,OU=Servers,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+

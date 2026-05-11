@@ -1,0 +1,6 @@
+
+Name                        SamAccountName              ObjectClass
+----                        --------------              -----------
+srmgadmin                   srmgadmin                   user
+GG-Admin-Tier0-DomainAdmins GG-Admin-Tier0-DomainAdmins group
+
