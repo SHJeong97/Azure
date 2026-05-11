@@ -1,0 +1,5 @@
+Name    PowerState    PrivateIPs    PublicIPs      Size
+------  ------------  ------------  -------------  ---------------
+DC01    VM running    10.10.1.10                   Standard_D2s_v3
+DC02    VM running    10.10.1.11                   Standard_D2s_v3
+MGMT01  VM running    10.10.2.10    20.228.155.68  Standard_D2s_v3
