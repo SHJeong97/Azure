@@ -1,0 +1,31 @@
+                                                                                                                        PS C:\Users\srmgadmin> Get-ADDomainController -Filter * |                                                               >> Select-Object HostName,Site,IPv4Address,IsGlobalCatalog,OperatingSystem                                              
+
+HostName        : DC01.corp.democompany1016.local
+Site            : Default-First-Site-Name
+IPv4Address     : 10.10.1.10
+IsGlobalCatalog : True
+OperatingSystem : Windows Server 2022 Datacenter Azure Edition
+
+HostName        : DC02.corp.democompany1016.local
+Site            : Default-First-Site-Name
+IPv4Address     : 10.10.1.11
+IsGlobalCatalog : True
+OperatingSystem : Windows Server 2022 Datacenter Azure Edition
+
+
+
+PS C:\Users\srmgadmin> repadmin /replsummary
+Replication Summary Start Time: 2026-05-11 17:21:07
+
+Beginning data collection for replication summary, this may take awhile:
+  .....
+
+
+Source DSA          largest delta    fails/total %%   error
+ DC01                      11m:07s    0 /   5    0
+ DC02                         :51s    0 /   5    0
+
+
+Destination DSA     largest delta    fails/total %%   error
+ DC01                         :51s    0 /   5    0
+ DC02                      11m:07s    0 /   5    0
