@@ -50,6 +50,14 @@ The network separates domain controllers, management systems, member servers, an
 
 The NSG baseline does not expose RDP broadly to the internet. Internal communication is allowed during the foundation phase so AD DS, DNS, Kerberos, LDAP, SMB, and Group Policy can function correctly.
 
+### Batch 3 — Windows Server VM Deployment
+
+Batch 3 deployed the first three Windows Server VMs for the hybrid lab: DC01, DC02, and MGMT01.
+
+DC01 and DC02 were placed in the domain controller subnet and assigned static private IP addresses for future AD DS and DNS use. MGMT01 was placed in the management subnet and prepared as the administrative access point.
+
+The design avoids public IP addresses on the domain controllers. If direct RDP is needed, temporary access is limited to MGMT01 from the administrator's current public IP only.
+
 ## Results & Validation
 
 Batch 1 validation items:
@@ -63,12 +71,23 @@ Batch 1 validation items:
 - Domain plan CSV created
 - Azure budget alert configured
 
+Batch 2 validation items:
 - Resource group rg-srmg-hybrid-core created
 - Virtual network vnet-srmg-hybrid-eastus created
 - Four subnets created
 - Four NSGs created
 - NSGs associated to their matching subnets
 - No VMs deployed yet
+  
+Batch 3 validation items:
+- DC01 deployed
+- DC02 deployed
+- MGMT01 deployed
+- DC01 private IP set to 10.10.1.10
+- DC02 private IP set to 10.10.1.11
+- MGMT01 private IP set to 10.10.2.10
+- Auto-shutdown enabled
+- Domain controllers not exposed directly to the internet
 
 ## Validation Walkthrough
 
@@ -88,6 +107,16 @@ Batch 2 validation evidence:
 - Screenshot of NSG subnet associations
 - Azure CLI output showing VNet/subnet configuration
 - Azure CLI output showing subnet-to-NSG associations
+
+  Batch 3 validation evidence:
+
+- Screenshot of VM list
+- Screenshot of DC01 static private IP
+- Screenshot of DC02 static private IP
+- Screenshot of MGMT01 static private IP
+- Screenshot of MGMT01 temporary RDP rule if used
+- Azure CLI output showing VM names, private IPs, public IPs, power state, and VM sizes
+- Test-NetConnection output from MGMT01 to DC01 and DC02
 
 ## Key Takeaways
 
