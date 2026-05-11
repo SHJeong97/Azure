@@ -1,0 +1,9 @@
+PS C:\Users\srmgadmin> Get-DnsServerZone
+
+ZoneName                            ZoneType        IsAutoCreated   IsDsIntegrated  IsReverseLookupZone  IsSigned
+--------                            --------        -------------   --------------  -------------------  --------
+_msdcs.corp.democompany1016.local   Primary         False           True            False                False
+0.in-addr.arpa                      Primary         True            False           True                 False
+127.in-addr.arpa                    Primary         True            False           True                 False
+255.in-addr.arpa                    Primary         True            False           True                 False
+corp.democompany1016.local          Primary         False           True            False                False
