@@ -15,3 +15,8 @@ M365-DOM-016,Current Exchange Online mailboxes exported,Mailbox export completed
 M365-DOM-017,Pilot mailbox lookup completed,Mailbox lookup result documented,Completed
 M365-DOM-018,Pilot email address plan created,Email address plan CSV created,Completed
 M365-DOM-019,Public MX state checked,MX safety check documented,Completed
+M365-DOM-020,SPF record validated,Single Microsoft 365 SPF record found,Completed
+M365-DOM-021,DMARC record validated,p=none monitoring policy found,Completed
+M365-DOM-022,DKIM selector DNS records checked,selector1 and selector2 checks completed,Completed - selectors missing
+M365-DOM-023,DKIM signing configuration checked,Get-DkimSigningConfig output captured,Completed
+M365-DOM-024,DMARC enforcement decision documented,p=none retained for monitoring,Completed
