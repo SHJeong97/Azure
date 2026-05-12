@@ -1,1 +1,12 @@
-
+Phase,Task,TargetSystem,Owner,Risk,Status
+1,Confirm public domain ownership,summitridge-mfg.com,Cloud Administrator,Domain unavailable or wrong registrar,Planned
+2,Add custom domain to Microsoft 365,Microsoft 365 admin center,Cloud Administrator,Wrong domain entered,Planned
+3,Add TXT verification record,Public DNS host,Cloud Administrator,Verification failure,Planned
+4,Verify domain in Microsoft 365,Microsoft 365 admin center,Cloud Administrator,DNS propagation delay,Planned
+5,Prepare Microsoft 365 service DNS records,Public DNS host,Messaging Administrator,Service record typo,Planned
+6,Select pilot users,Active Directory,Identity Administrator,Wrong users selected,Planned
+7,Export current UPNs,Active Directory,Identity Administrator,Rollback data missing,Planned
+8,Change pilot UPNs,Active Directory,Identity Administrator,Sign-in disruption,Planned
+9,Validate Microsoft 365 identity,Microsoft Entra ID,Identity Administrator,Identity mismatch,Planned
+10,Plan email aliases,Exchange Online,Messaging Administrator,Mail address conflict,Planned
+11,Delay MX cutover until ready,Public DNS host,Messaging Administrator,Mail flow disruption,Planned
