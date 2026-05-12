@@ -1,0 +1,8 @@
+RecordPurpose,RecordType,HostName,Value,Priority,TTL,ActionThisBatch,Notes
+Domain verification,TXT,@,MS=ms########,N/A,3600,Already completed,Used in Batch 2
+Exchange Online mail routing,MX,@,PASTE-M365-MX-TARGET-HERE,0,3600,Do not create yet,MX cutover delayed
+SPF,TXT,@,v=spf1 include:spf.protection.outlook.com -all,N/A,3600,Planned safe record,Only one SPF TXT record should exist
+Autodiscover,CNAME,autodiscover,autodiscover.outlook.com,N/A,3600,Planned safe record,Supports Outlook discovery later
+DKIM selector 1,CNAME,selector1._domainkey,PASTE-M365-DKIM-SELECTOR1-HERE,N/A,3600,Document only,Detailed DKIM work in Batch 8
+DKIM selector 2,CNAME,selector2._domainkey,PASTE-M365-DKIM-SELECTOR2-HERE,N/A,3600,Document only,Detailed DKIM work in Batch 8
+DMARC,TXT,_dmarc,v=DMARC1; p=none; rua=mailto:dmarc@summitridge-mfg.com,N/A,3600,Planned monitoring record,Do not enforce quarantine/reject yet
