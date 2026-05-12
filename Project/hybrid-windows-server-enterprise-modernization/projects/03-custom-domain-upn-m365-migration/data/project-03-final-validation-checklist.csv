@@ -1,0 +1,18 @@
+CheckID,ValidationItem,Result,Status
+P03-FINAL-001,Custom domain verified in Microsoft 365,summitridge-mfg.com verified,Completed
+P03-FINAL-002,Custom domain visible in Microsoft Entra,summitridge-mfg.com verified,Completed
+P03-FINAL-003,SPF validated,Single valid SPF record found,Completed
+P03-FINAL-004,MX checked,MX exists and mail-flow state documented,Completed
+P03-FINAL-005,Autodiscover checked,Autodiscover record found,Completed
+P03-FINAL-006,DMARC checked,Monitoring record found,Completed
+P03-FINAL-007,DKIM selector 1 checked,Missing - future action,Completed
+P03-FINAL-008,DKIM selector 2 checked,Missing - future action,Completed
+P03-FINAL-009,AD pilot UPNs changed,Three pilot users changed,Completed
+P03-FINAL-010,Only pilot users changed,Only pilot users use summitridge-mfg.com UPN,Completed
+P03-FINAL-011,AD replication checked,repadmin validation completed,Completed
+P03-FINAL-012,Microsoft 365 users exported,Final user export completed,Completed
+P03-FINAL-013,AD-to-cloud comparison completed,Comparison CSV created,Completed
+P03-FINAL-014,Exchange accepted domain checked,summitridge-mfg.com checked,Completed
+P03-FINAL-015,Pilot mailbox state checked,Mailbox lookup completed,Completed
+P03-FINAL-016,DKIM signing config checked,DKIM readiness documented,Completed
+P03-FINAL-017,Final validation summary created,Summary evidence saved,Completed
