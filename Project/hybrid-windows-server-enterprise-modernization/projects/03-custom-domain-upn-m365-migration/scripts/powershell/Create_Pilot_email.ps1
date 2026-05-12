@@ -1,0 +1,35 @@
+$PilotEmailPlan = @(
+    [PSCustomObject]@{
+        User = "emma.wilson"
+        Department = "HR"
+        UPN = "emma.wilson@summitridge-mfg.com"
+        PlannedPrimarySMTP = "emma.wilson@summitridge-mfg.com"
+        PlannedAlias1 = "emma.wilson@democompany1016.onmicrosoft.com"
+        PlannedAlias2 = "emma.wilson@corp.democompany1016.local"
+        MailboxAction = "Plan only"
+        Status = "Planned"
+    }
+    [PSCustomObject]@{
+        User = "olivia.brown"
+        Department = "Finance"
+        UPN = "olivia.brown@summitridge-mfg.com"
+        PlannedPrimarySMTP = "olivia.brown@summitridge-mfg.com"
+        PlannedAlias1 = "olivia.brown@democompany1016.onmicrosoft.com"
+        PlannedAlias2 = "olivia.brown@corp.democompany1016.local"
+        MailboxAction = "Plan only"
+        Status = "Planned"
+    }
+    [PSCustomObject]@{
+        User = "sophia.martinez"
+        Department = "IT"
+        UPN = "sophia.martinez@summitridge-mfg.com"
+        PlannedPrimarySMTP = "sophia.martinez@summitridge-mfg.com"
+        PlannedAlias1 = "sophia.martinez@democompany1016.onmicrosoft.com"
+        PlannedAlias2 = "sophia.martinez@corp.democompany1016.local"
+        MailboxAction = "Plan only"
+        Status = "Planned"
+    }
+)
+
+$PilotEmailPlan |
+Export-Csv "C:\LabEvidence\Project03\Batch07\batch-07-pilot-email-address-plan.csv" -NoTypeInformation
