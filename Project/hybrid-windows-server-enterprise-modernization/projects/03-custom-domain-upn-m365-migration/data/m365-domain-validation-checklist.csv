@@ -4,3 +4,8 @@ M365-DOM-002,TXT verification record created,TXT record exists in public DNS,Com
 M365-DOM-003,Domain verification completed,Microsoft 365 shows domain as verified,Completed
 M365-DOM-004,Domain visible in Microsoft Entra,Domain appears under custom domain names,Completed
 M365-DOM-008,MX cutover delayed,No production MX change during planning phase,Completed
+M365-DOM-009,Microsoft Graph connection established,Graph context returned successfully,Completed
+M365-DOM-010,summitridge-mfg.com validated through Graph domain output,Domain shows IsVerified True,Completed
+M365-DOM-011,Current Microsoft 365 users exported,User export completed,Completed
+M365-DOM-012,Pilot users checked in Microsoft 365,Cloud lookup completed,Completed
+M365-DOM-013,AD-to-cloud identity comparison completed,Comparison CSV created,Completed
