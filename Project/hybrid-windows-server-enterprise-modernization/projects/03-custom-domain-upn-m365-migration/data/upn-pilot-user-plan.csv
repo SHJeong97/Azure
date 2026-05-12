@@ -1,1 +1,4 @@
-
+PilotUser,Department,CurrentUPN,FutureUPN,MigrationType,RollbackUPN,Status
+emma.wilson,HR,emma.wilson@corp.democompany1016.local,emma.wilson@summitridge-mfg.com,Pilot,emma.wilson@corp.democompany1016.local,Planned
+olivia.brown,Finance,olivia.brown@corp.democompany1016.local,olivia.brown@summitridge-mfg.com,Pilot,olivia.brown@corp.democompany1016.local,Planned
+sophia.martinez,IT,sophia.martinez@corp.democompany1016.local,sophia.martinez@summitridge-mfg.com,Pilot,sophia.martinez@corp.democompany1016.local,Planned
