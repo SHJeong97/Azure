@@ -1,0 +1,6 @@
+"HostName","RecordType","Timestamp"
+"@","NS",
+"@","NS",
+"@","SOA",
+"10","PTR",
+"20","PTR",
