@@ -1,0 +1,7 @@
+Item,Value,Purpose,ProjectPhase
+PublicDomain,summitridge-mfg.com,Future public business domain,Project 02
+RegistrarDnsOption,Registrar DNS or Cloudflare,Low-cost public DNS option,Project 02
+DelegationRequired,No if using registrar DNS directly,Records stay at registrar DNS host,Project 02
+Microsoft365Records,TXT MX SPF DKIM DMARC Autodiscover,Required for Microsoft 365 services,Project 03
+MXCutoverTiming,Project 03 only,Avoid mail flow changes during Project 02,Project 02
+Risk,Wrong public DNS records can break mail or verification,Document and validate before cutover,Project 02
