@@ -9,3 +9,9 @@ M365-DOM-010,summitridge-mfg.com validated through Graph domain output,Domain sh
 M365-DOM-011,Current Microsoft 365 users exported,User export completed,Completed
 M365-DOM-012,Pilot users checked in Microsoft 365,Cloud lookup completed,Completed
 M365-DOM-013,AD-to-cloud identity comparison completed,Comparison CSV created,Completed
+M365-DOM-014,Exchange Online connection established,Exchange Online PowerShell connected,Completed
+M365-DOM-015,summitridge-mfg.com accepted domain checked,Domain appears in accepted domains,Completed
+M365-DOM-016,Current Exchange Online mailboxes exported,Mailbox export completed,Completed
+M365-DOM-017,Pilot mailbox lookup completed,Mailbox lookup result documented,Completed
+M365-DOM-018,Pilot email address plan created,Email address plan CSV created,Completed
+M365-DOM-019,Public MX state checked,MX safety check documented,Completed
