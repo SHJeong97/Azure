@@ -1,0 +1,55 @@
+# Template only. Do not run until Project 03.
+# Replace placeholder values with exact values from Microsoft 365.
+
+RG="rg-srmg-hybrid-core"
+ZONE="summitridge-mfg.com"
+
+# TXT domain verification
+az network dns record-set txt add-record \
+  --resource-group $RG \
+  --zone-name $ZONE \
+  --record-set-name "@" \
+  --value "MS=msXXXXXXXX"
+
+# SPF
+az network dns record-set txt add-record \
+  --resource-group $RG \
+  --zone-name $ZONE \
+  --record-set-name "@" \
+  --value "v=spf1 include:spf.protection.outlook.com -all"
+
+# MX
+az network dns record-set mx add-record \
+  --resource-group $RG \
+  --zone-name $ZONE \
+  --record-set-name "@" \
+  --exchange "REPLACE-WITH-M365-MX-TARGET" \
+  --preference 0
+
+# Autodiscover
+az network dns record-set cname set-record \
+  --resource-group $RG \
+  --zone-name $ZONE \
+  --record-set-name "autodiscover" \
+  --cname "autodiscover.outlook.com"
+
+# DKIM selector 1
+az network dns record-set cname set-record \
+  --resource-group $RG \
+  --zone-name $ZONE \
+  --record-set-name "selector1._domainkey" \
+  --cname "REPLACE-WITH-M365-DKIM-SELECTOR1-TARGET"
+
+# DKIM selector 2
+az network dns record-set cname set-record \
+  --resource-group $RG \
+  --zone-name $ZONE \
+  --record-set-name "selector2._domainkey" \
+  --cname "REPLACE-WITH-M365-DKIM-SELECTOR2-TARGET"
+
+# DMARC monitoring
+az network dns record-set txt add-record \
+  --resource-group $RG \
+  --zone-name $ZONE \
+  --record-set-name "_dmarc" \
+  --value "v=DMARC1; p=none; rua=mailto:dmarc@summitridge-mfg.com"
