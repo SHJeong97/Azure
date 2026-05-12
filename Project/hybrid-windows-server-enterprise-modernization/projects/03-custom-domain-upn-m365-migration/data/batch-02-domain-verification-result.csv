@@ -1,0 +1,2 @@
+Domain,RecordType,HostName,Value,VerificationResult,MXChanged,SPFChanged,DKIMChanged,DMARCChanged
+summitridge-mfg.com,TXT,@,MS=ms########,Verified,No,No,No,No
