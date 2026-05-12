@@ -1,1 +1,9 @@
-
+RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
+P03-001,Incorrect TXT verification record,Microsoft 365 domain verification fails,Medium,Copy exact value from Microsoft 365 admin center,Cloud Administrator,Open
+P03-002,Wrong MX record,Inbound email may fail,Medium,Delay MX cutover until mailbox readiness,Messaging Administrator,Open
+P03-003,Multiple SPF records,SPF validation may fail,Medium,Maintain only one SPF TXT record,Messaging Administrator,Open
+P03-004,Incorrect DKIM selector values,DKIM cannot be enabled,Medium,Copy exact Microsoft 365 CNAME values,Messaging Administrator,Open
+P03-005,DMARC enforcement too early,Legitimate email may be rejected,Medium,Start with p=none,Messaging Administrator,Open
+P03-006,Pilot UPN change causes sign-in issue,User cannot access Microsoft 365,Medium,Export current UPN and prepare rollback command,Identity Administrator,Open
+P03-007,Changing too many users at once,Helpdesk ticket surge,Medium,Use pilot group first,IT Management,Open
+P03-008,Internal and external DNS confusion,Wrong DNS records created in wrong zone,Medium,Keep AD DNS and public DNS separated,Cloud Administrator,Open
