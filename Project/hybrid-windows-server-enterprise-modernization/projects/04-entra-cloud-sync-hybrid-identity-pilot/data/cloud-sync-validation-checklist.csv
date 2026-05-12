@@ -1,1 +1,12 @@
-
+CheckID,ValidationItem,ExpectedResult,Status
+P04-SYNC-001,Project folder structure created,Project 04 folders exist,Completed
+P04-SYNC-002,Lab evidence folder created,C:\LabEvidence\Project04\Batch01 exists,Completed
+P04-SYNC-003,Business scenario documented,01-business-scenario.md created,Completed
+P04-SYNC-004,Sync design decision documented,02-sync-design-decision.md created,Completed
+P04-SYNC-005,Admin access and license checklist created,03-admin-access-license-checklist.md created,Completed
+P04-SYNC-006,Risk and rollback plan created,04-sync-risk-and-rollback-plan.md created,Completed
+P04-SYNC-007,Pilot sync scope created,pilot-sync-scope.csv created,Completed
+P04-SYNC-008,Pre-sync AD user validation pending,Validate in Batch 2,Planned
+P04-SYNC-009,Provisioning agent install pending,Install in Batch 3,Planned
+P04-SYNC-010,Cloud Sync configuration pending,Configure in Batch 4,Planned
+P04-SYNC-011,Pilot sync validation pending,Validate in Batch 5,Planned
