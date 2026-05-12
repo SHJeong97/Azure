@@ -7,3 +7,7 @@ P03-005,DMARC enforcement too early,Legitimate email may be rejected,Medium,Star
 P03-006,Pilot UPN change causes sign-in issue,User cannot access Microsoft 365,Medium,Export current UPN and prepare rollback command,Identity Administrator,Open
 P03-007,Changing too many users at once,Helpdesk ticket surge,Medium,Use pilot group first,IT Management,Open
 P03-008,Internal and external DNS confusion,Wrong DNS records created in wrong zone,Medium,Keep AD DNS and public DNS separated,Cloud Administrator,Open
+P03-009,Primary SMTP changed before mailbox readiness,Users may have incorrect or missing email addresses,Medium,Plan email addresses before applying mailbox changes,Messaging Administrator,Open
+P03-010,Duplicate email proxy address,Mail delivery or address assignment may fail,Medium,Validate recipient addresses before changes,Messaging Administrator,Open
+P03-011,MX auto-created by Domain Connect,Inbound mail may route to Microsoft 365 earlier than planned,Medium,Document MX state and validate mailbox readiness,Messaging Administrator,Open
+P03-012,UPN and primary SMTP mismatch,Users may be confused by sign-in and sender address differences,Medium,Plan to align UPN and primary SMTP where appropriate,Identity Administrator,Open
