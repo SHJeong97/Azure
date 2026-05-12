@@ -10,3 +10,8 @@ DNS-008,Wrong public DNS hosting choice,Public DNS may become harder to operate 
 DNS-009,Incorrect Azure DNS delegation,Public domain may fail to resolve,Medium,Copy Azure DNS name servers carefully and validate delegation,Cloud Administrator,Open
 DNS-010,Premature MX cutover,Inbound email may route incorrectly,Medium,Do not change MX until Project 03 mailbox validation,Messaging Administrator,Open
 DNS-011,Public Windows DNS exposure,Public attack surface and open resolver risk,Low,Reject self-hosted public Windows DNS,Security Administrator,Closed by design
+DNS-012,Incorrect Microsoft 365 verification TXT record,Domain verification may fail,Medium,Copy exact value from Microsoft 365 admin center,Cloud Administrator,Open
+DNS-013,Incorrect MX record,Inbound email may fail or route to wrong destination,Medium,Delay MX cutover until mailbox readiness and validation,Messaging Administrator,Open
+DNS-014,Multiple SPF records,SPF validation may fail,Medium,Maintain only one SPF TXT record per domain,Messaging Administrator,Open
+DNS-015,DKIM CNAME values copied incorrectly,DKIM signing cannot be enabled,Medium,Copy selector values directly from Microsoft 365,Messaging Administrator,Open
+DNS-016,DMARC policy too strict too early,Legitimate mail may be rejected,Medium,Start with p=none and review reports before enforcement,Messaging Administrator,Open
