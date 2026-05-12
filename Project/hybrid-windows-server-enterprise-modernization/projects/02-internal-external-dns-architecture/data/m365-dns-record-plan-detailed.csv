@@ -1,0 +1,8 @@
+RecordID,Service,RecordType,HostName,Value,Priority,TTL,Purpose,ImplementationTiming,Owner,Status
+M365-DNS-001,Microsoft 365 Domain Verification,TXT,@,Provided by Microsoft 365,N/A,3600,Verify ownership of summitridge-mfg.com,Project 03,Cloud Administrator,Planned
+M365-DNS-002,Exchange Online,MX,@,Provided by Microsoft 365,0,3600,Route inbound email to Exchange Online,Project 03 after mailbox readiness,Messaging Administrator,Planned
+M365-DNS-003,Exchange Online Protection,TXT,@,v=spf1 include:spf.protection.outlook.com -all,N/A,3600,Authorize Microsoft 365 to send email for the domain,Project 03,Messaging Administrator,Planned
+M365-DNS-004,Exchange Online Autodiscover,CNAME,autodiscover,autodiscover.outlook.com,N/A,3600,Allow Outlook to discover mailbox settings,Project 03,Messaging Administrator,Planned
+M365-DNS-005,Exchange Online DKIM,CNAME,selector1._domainkey,Provided by Microsoft 365,N/A,3600,DKIM selector 1 for signed outbound mail,Project 03 after domain verification,Messaging Administrator,Planned
+M365-DNS-006,Exchange Online DKIM,CNAME,selector2._domainkey,Provided by Microsoft 365,N/A,3600,DKIM selector 2 for signed outbound mail,Project 03 after domain verification,Messaging Administrator,Planned
+M365-DNS-007,DMARC,TXT,_dmarc,v=DMARC1; p=none; rua=mailto:dmarc@summitridge-mfg.com,N/A,3600,Monitor SPF and DKIM alignment before enforcement,Project 03,Messaging Administrator,Planned
