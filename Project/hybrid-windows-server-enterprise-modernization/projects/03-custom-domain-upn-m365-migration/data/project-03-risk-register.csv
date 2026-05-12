@@ -11,3 +11,7 @@ P03-009,Primary SMTP changed before mailbox readiness,Users may have incorrect o
 P03-010,Duplicate email proxy address,Mail delivery or address assignment may fail,Medium,Validate recipient addresses before changes,Messaging Administrator,Open
 P03-011,MX auto-created by Domain Connect,Inbound mail may route to Microsoft 365 earlier than planned,Medium,Document MX state and validate mailbox readiness,Messaging Administrator,Open
 P03-012,UPN and primary SMTP mismatch,Users may be confused by sign-in and sender address differences,Medium,Plan to align UPN and primary SMTP where appropriate,Identity Administrator,Open
+P03-013,Multiple SPF TXT records,SPF validation may fail,Medium,Validate only one SPF record exists for the root domain,Messaging Administrator,Closed - single SPF record validated
+P03-014,DKIM selector records missing,DKIM cannot be enabled yet,Medium,Create selector1 and selector2 CNAME records before enabling DKIM,Messaging Administrator,Open
+P03-015,DMARC enforcement too early,Legitimate email may be rejected,Medium,Keep p=none until SPF and DKIM alignment are validated,Messaging Administrator,Open
+P03-016,Unknown third-party senders,Legitimate mail may fail authentication later,Medium,Review DMARC reports before enforcement,Messaging Administrator,Open
