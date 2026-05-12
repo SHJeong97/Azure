@@ -1,0 +1,2 @@
+Domain,RecordType,HostName,Value,TTL,Purpose,Status
+summitridge-mfg.com,TXT,@,PASTE-MICROSOFT-PROVIDED-VALUE-HERE,3600,Microsoft 365 domain ownership verification,Captured
