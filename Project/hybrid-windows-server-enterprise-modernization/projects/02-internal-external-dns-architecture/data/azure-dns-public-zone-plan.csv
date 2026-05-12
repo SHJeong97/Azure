@@ -1,0 +1,8 @@
+Item,Value,Purpose,ProjectPhase
+PublicDomain,summitridge-mfg.com,Future public business domain,Project 02
+PreferredDnsHost,Azure DNS Public Zone,Azure-native public DNS management,Project 02
+ResourceGroup,rg-srmg-hybrid-core,Existing project resource group,Project 02
+DnsZoneName,summitridge-mfg.com,Azure DNS public zone name,Project 02
+DelegationRequired,Yes,Registrar must point to Azure DNS name servers,Project 02
+RecordsToCreateLater,TXT MX SPF DKIM DMARC Autodiscover,Microsoft 365 and Exchange Online readiness,Project 03
+DoNotCreatePublicWindowsDns,True,Avoid public Windows DNS attack surface,Project 02
