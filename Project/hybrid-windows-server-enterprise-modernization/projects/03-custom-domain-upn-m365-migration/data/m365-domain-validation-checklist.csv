@@ -1,9 +1,6 @@
 CheckID,ValidationItem,ExpectedResult,Status
-M365-DOM-001,Domain added to Microsoft 365 admin center,summitridge-mfg.com appears in Domains page,Planned
-M365-DOM-002,TXT verification record created,TXT record exists in public DNS,Planned
-M365-DOM-003,Domain verification completed,Microsoft 365 shows domain as verified,Planned
-M365-DOM-004,Domain visible in Microsoft Entra,Domain appears under custom domain names,Planned
-M365-DOM-005,Exchange DNS records documented,MX SPF Autodiscover records documented,Planned
-M365-DOM-006,DKIM records documented,selector1 and selector2 CNAME values documented,Planned
-M365-DOM-007,DMARC record planned,p=none monitoring record documented,Planned
-M365-DOM-008,MX cutover delayed,No production MX change during planning phase,Planned
+M365-DOM-001,Domain added to Microsoft 365 admin center,summitridge-mfg.com appears in Domains page,Completed
+M365-DOM-002,TXT verification record created,TXT record exists in public DNS,Completed
+M365-DOM-003,Domain verification completed,Microsoft 365 shows domain as verified,Completed
+M365-DOM-004,Domain visible in Microsoft Entra,Domain appears under custom domain names,Completed
+M365-DOM-008,MX cutover delayed,No production MX change during planning phase,Completed
