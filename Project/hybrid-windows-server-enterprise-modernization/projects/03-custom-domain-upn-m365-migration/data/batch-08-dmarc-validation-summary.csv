@@ -1,0 +1,2 @@
+"Domain","RecordName","DMARCRecordFound","CurrentPolicy","RecommendedCurrentPolicy","Status"
+"summitridge-mfg.com","_dmarc.summitridge-mfg.com","Yes","p=quarantine","p=none","Review required"

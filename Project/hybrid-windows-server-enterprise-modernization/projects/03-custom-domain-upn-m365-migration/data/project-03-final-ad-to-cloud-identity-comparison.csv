@@ -1,0 +1,4 @@
+"SamAccountName","ADName","ADUserPrincipalName","TargetCloudUPN","Department","Title","ADEnabled","CloudUserFound","CloudDisplayName","CloudUserPrincipalName","CloudMail","IdentityState"
+"emma.wilson","Emma Wilson","emma.wilson@summitridge-mfg.com","emma.wilson@summitridge-mfg.com","HR","HR Manager","True","No","","","","AD-only; not synced or not created in cloud yet"
+"olivia.brown","Olivia Brown","olivia.brown@summitridge-mfg.com","olivia.brown@summitridge-mfg.com","Finance","Finance Manager","True","No","","","","AD-only; not synced or not created in cloud yet"
+"sophia.martinez","Sophia Martinez","sophia.martinez@summitridge-mfg.com","sophia.martinez@summitridge-mfg.com","IT","Systems Administrator","True","No","","","","AD-only; not synced or not created in cloud yet"

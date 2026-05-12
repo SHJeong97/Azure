@@ -1,0 +1,7 @@
+"Record","Type","Name","Found","Status"
+"SPF","TXT","@","Yes","Valid single SPF record"
+"MX","MX","@","Yes","MX exists; document mail-flow state"
+"Autodiscover","CNAME","autodiscover","Yes","Autodiscover exists"
+"DMARC","TXT","_dmarc","Yes","Monitoring record present"
+"DKIM Selector 1","CNAME","selector1._domainkey","No","Missing; future action"
+"DKIM Selector 2","CNAME","selector2._domainkey","No","Missing; future action"

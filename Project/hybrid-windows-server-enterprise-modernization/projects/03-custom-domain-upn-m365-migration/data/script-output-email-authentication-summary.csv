@@ -1,0 +1,2 @@
+"Domain","SPFRecordCount","SPFStatus","DMARCRecordFound","DKIMSelector1Found","DKIMSelector2Found","RecommendedDMARCPolicyAtThisStage"
+"summitridge-mfg.com","1","Valid single SPF record found","Yes","No","No","p=none"

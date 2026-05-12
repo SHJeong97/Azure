@@ -1,0 +1,4 @@
+"PilotUser","Department","CurrentUPN","TargetUPN","RollbackUPN","MigrationType","Status"
+"emma.wilson","HR","emma.wilson@corp.democompany1016.local","emma.wilson@summitridge-mfg.com","emma.wilson@corp.democompany1016.local","Pilot","Planned"
+"olivia.brown","Finance","olivia.brown@corp.democompany1016.local","olivia.brown@summitridge-mfg.com","olivia.brown@corp.democompany1016.local","Pilot","Planned"
+"sophia.martinez","IT","sophia.martinez@corp.democompany1016.local","sophia.martinez@summitridge-mfg.com","sophia.martinez@corp.democompany1016.local","Pilot","Planned"
