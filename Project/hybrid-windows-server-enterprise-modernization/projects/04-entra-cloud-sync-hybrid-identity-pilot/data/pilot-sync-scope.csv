@@ -1,1 +1,5 @@
 
+PilotUser,Department,CurrentADUPN,TargetCloudUPN,SyncScope,Reason,Status
+emma.wilson,HR,emma.wilson@summitridge-mfg.com,emma.wilson@summitridge-mfg.com,Pilot,HR business-user validation,Planned
+olivia.brown,Finance,olivia.brown@summitridge-mfg.com,olivia.brown@summitridge-mfg.com,Pilot,Finance sensitive-user validation,Planned
+sophia.martinez,IT,sophia.martinez@summitridge-mfg.com,sophia.martinez@summitridge-mfg.com,Pilot,IT technical validation,Planned
