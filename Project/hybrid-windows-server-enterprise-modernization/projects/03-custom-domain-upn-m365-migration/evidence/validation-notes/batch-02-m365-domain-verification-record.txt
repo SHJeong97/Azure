@@ -1,0 +1,25 @@
+Project 03 Batch 2 — Microsoft 365 Domain Verification Record
+
+Domain:
+summitridge-mfg.com
+
+Record type:
+TXT
+
+Host/Name:
+@
+
+TXT value:
+PASTE-MICROSOFT-PROVIDED-VALUE-HERE
+
+TTL:
+3600 or registrar default
+
+Source:
+Microsoft 365 admin center → Settings → Domains → summitridge-mfg.com
+
+Status:
+Captured, not verified yet
+
+Safety note:
+MX records were not changed during this step.
