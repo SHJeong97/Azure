@@ -6,3 +6,7 @@ DNS-004,Incorrect MX record,Inbound email may route to wrong mail system,Medium,
 DNS-005,Incorrect SPF record,Mail may fail authentication or spoofing risk may increase,Medium,Use Microsoft 365 SPF format and validate after publishing,Messaging Administrator,Open
 DNS-006,Overly strict DMARC policy too early,Legitimate mail may be rejected,Medium,Start with p=none for monitoring before enforcement,Messaging Administrator,Open
 DNS-007,Unclear DNS ownership,Record updates may be delayed during incidents,Medium,Document DNS owner and hosting provider,IT Management,Open
+DNS-008,Wrong public DNS hosting choice,Public DNS may become harder to operate or secure,Medium,Use managed DNS provider and document ownership,Cloud Administrator,Open
+DNS-009,Incorrect Azure DNS delegation,Public domain may fail to resolve,Medium,Copy Azure DNS name servers carefully and validate delegation,Cloud Administrator,Open
+DNS-010,Premature MX cutover,Inbound email may route incorrectly,Medium,Do not change MX until Project 03 mailbox validation,Messaging Administrator,Open
+DNS-011,Public Windows DNS exposure,Public attack surface and open resolver risk,Low,Reject self-hosted public Windows DNS,Security Administrator,Closed by design
