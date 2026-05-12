@@ -1,0 +1,33 @@
+Project 03 Batch 7 — Exchange Online Email Address Planning Summary
+
+Domain:
+summitridge-mfg.com
+
+Accepted domain status:
+summitridge-mfg.com was checked in Exchange Online accepted domains.
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Mailbox state:
+REPLACE WITH ONE:
+1. Pilot mailboxes exist in Exchange Online.
+2. Pilot mailboxes do not exist yet, so this batch remains planning-only.
+
+Planned primary SMTP format:
+first.last@summitridge-mfg.com
+
+Planned aliases:
+- first.last@democompany1016.onmicrosoft.com
+- first.last@corp.democompany1016.local
+
+Mail-flow safety:
+This batch does not intentionally change MX records.
+
+Implementation decision:
+No mailbox email address changes were required in this batch unless pilot mailboxes already existed and were intentionally changed.
+
+Evidence location:
+C:\LabEvidence\Project03\Batch07

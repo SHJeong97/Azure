@@ -1,0 +1,7 @@
+
+Id                                   IsVerified IsDefault SupportedServices
+--                                   ---------- --------- -----------------
+democompany1016.onmicrosoft.com            True      True {Email, OfficeCommunicationsOnline}
+democompany1016.mail.onmicrosoft.com       True     False {}
+summitridge-mfg.com                        True     False {Email, Intune}
+

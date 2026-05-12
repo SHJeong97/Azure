@@ -1,0 +1,9 @@
+
+Domain            : summitridge-mfg.com
+DKIMConfigFound   : No
+DKIMEnabled       : 
+DKIMStatus        : 
+Selector1CNAME    : 
+Selector2CNAME    : 
+RecommendedAction : Review Microsoft 365 DKIM page after Exchange Online readiness
+

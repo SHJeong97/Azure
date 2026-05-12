@@ -1,0 +1,31 @@
+Project 03 Batch 6 — Microsoft 365 Identity Validation Summary
+
+Domain:
+summitridge-mfg.com
+
+Domain status:
+Verified in Microsoft 365 / Microsoft Entra ID
+
+Pilot users changed in AD:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation performed:
+- Microsoft Graph connection
+- Entra domain validation
+- Microsoft 365 user export
+- Pilot user cloud lookup
+- AD pilot user export
+- AD-to-cloud comparison
+
+Identity state:
+REPLACE WITH ONE:
+1. Pilot users are AD-only because Entra Connect / Cloud Sync is not configured yet.
+2. Pilot users exist in Microsoft 365 and match the summitridge-mfg.com UPN.
+
+Business finding:
+UPN changes in AD require identity synchronization before Microsoft 365 can reflect them.
+
+Evidence location:
+C:\LabEvidence\Project03\Batch06

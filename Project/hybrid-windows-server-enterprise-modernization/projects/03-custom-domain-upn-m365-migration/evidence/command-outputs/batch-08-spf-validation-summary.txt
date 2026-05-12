@@ -1,0 +1,5 @@
+
+Domain              SPFRecordCount ExpectedSPF                                    Status
+------              -------------- -----------                                    ------
+summitridge-mfg.com              1 v=spf1 include:spf.protection.outlook.com -all Valid single SPF record found
+

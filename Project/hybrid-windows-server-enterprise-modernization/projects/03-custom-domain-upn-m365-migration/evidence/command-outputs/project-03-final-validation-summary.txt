@@ -1,0 +1,54 @@
+Project 03 Batch 9 — Final Validation Summary
+
+Project:
+Summit Ridge Custom Domain, UPN Suffix, and Microsoft 365 Domain Migration
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Public domain:
+summitridge-mfg.com
+
+Microsoft 365 domain result:
+summitridge-mfg.com was verified in Microsoft 365 / Microsoft Entra ID.
+
+Public DNS final result:
+- SPF: Found and valid
+- MX: Found
+- Autodiscover: Found
+- DMARC: Found with monitoring record
+- DKIM selector 1: Missing
+- DKIM selector 2: Missing
+
+Mail-flow note:
+MX exists, likely from Microsoft/GoDaddy auto DNS setup.
+Mail-flow risk was documented because inbound mail for @summitridge-mfg.com may route to Microsoft 365.
+
+AD pilot UPN result:
+The following pilot users were changed to @summitridge-mfg.com:
+- emma.wilson
+- olivia.brown
+- sophia.martinez
+
+Identity sync note:
+AD UPN changes do not automatically appear in Microsoft 365 unless Entra Connect / Cloud Sync is configured.
+
+Exchange Online result:
+summitridge-mfg.com was checked as an Exchange accepted domain.
+Pilot mailbox state was validated and documented.
+
+Email authentication result:
+SPF is valid.
+DMARC exists and remains in monitoring mode.
+DKIM is a future action because selector CNAME records are missing.
+
+Safety decisions:
+- No AD DS domain rename was performed.
+- Only pilot UPNs were changed.
+- No broad user migration was performed.
+- DKIM was not forced.
+- DMARC was not moved to quarantine or reject.
+- MX existence was documented as a risk condition due to auto DNS setup.
+
+Evidence location:
+C:\LabEvidence\Project03\Batch09

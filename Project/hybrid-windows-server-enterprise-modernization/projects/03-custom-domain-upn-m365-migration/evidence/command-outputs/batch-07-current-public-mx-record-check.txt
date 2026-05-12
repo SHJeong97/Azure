@@ -1,0 +1,34 @@
+
+Name                                     Type   TTL   Section    NameExchange                              Preference
+----                                     ----   ---   -------    ------------                              ----------
+summitridge-mfg.com                      MX     1777  Answer     summitridgemfg-com02i.mail.protection.out 0
+                                                                 look.com
+
+Name       : summitridgemfg-com02i.mail.protection.outlook.com
+QueryType  : A
+TTL        : 10
+Section    : Additional
+IP4Address : 52.101.41.22
+
+
+Name       : summitridgemfg-com02i.mail.protection.outlook.com
+QueryType  : A
+TTL        : 10
+Section    : Additional
+IP4Address : 52.101.9.24
+
+
+Name       : summitridgemfg-com02i.mail.protection.outlook.com
+QueryType  : A
+TTL        : 10
+Section    : Additional
+IP4Address : 52.101.41.6
+
+
+Name       : summitridgemfg-com02i.mail.protection.outlook.com
+QueryType  : A
+TTL        : 10
+Section    : Additional
+IP4Address : 52.101.41.180
+
+

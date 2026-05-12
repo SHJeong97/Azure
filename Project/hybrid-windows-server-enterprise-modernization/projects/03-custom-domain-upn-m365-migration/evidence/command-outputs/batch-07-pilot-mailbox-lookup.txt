@@ -1,0 +1,22 @@
+
+LookupUPN            : emma.wilson@summitridge-mfg.com
+MailboxFound         : No
+DisplayName          : 
+UserPrincipalName    : 
+PrimarySmtpAddress   : 
+RecipientTypeDetails : 
+
+LookupUPN            : olivia.brown@summitridge-mfg.com
+MailboxFound         : No
+DisplayName          : 
+UserPrincipalName    : 
+PrimarySmtpAddress   : 
+RecipientTypeDetails : 
+
+LookupUPN            : sophia.martinez@summitridge-mfg.com
+MailboxFound         : No
+DisplayName          : 
+UserPrincipalName    : 
+PrimarySmtpAddress   : 
+RecipientTypeDetails : 
+

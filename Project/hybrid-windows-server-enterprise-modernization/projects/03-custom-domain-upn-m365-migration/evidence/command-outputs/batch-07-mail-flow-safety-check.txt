@@ -1,0 +1,22 @@
+Project 03 Batch 7 — Mail Flow Safety Check
+
+Domain:
+summitridge-mfg.com
+
+Check performed:
+Public MX record lookup
+
+Command:
+Resolve-DnsName summitridge-mfg.com -Type MX
+
+Finding:
+REPLACE WITH ONE:
+1. MX exists and points to Microsoft 365. Inbound mail for @summitridge-mfg.com may route to Exchange Online.
+2. MX does not exist or has not been changed. Inbound mail routing has not been cut over.
+
+Safety decision:
+This batch does not intentionally change MX records.
+This batch only plans mailbox email addresses and aliases.
+
+Evidence location:
+C:\LabEvidence\Project03\Batch07

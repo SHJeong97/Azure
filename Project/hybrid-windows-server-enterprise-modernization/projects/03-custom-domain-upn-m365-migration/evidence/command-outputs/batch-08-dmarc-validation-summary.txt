@@ -1,0 +1,8 @@
+
+Domain                   : summitridge-mfg.com
+RecordName               : _dmarc.summitridge-mfg.com
+DMARCRecordFound         : Yes
+CurrentPolicy            : p=quarantine
+RecommendedCurrentPolicy : p=none
+Status                   : Review required
+

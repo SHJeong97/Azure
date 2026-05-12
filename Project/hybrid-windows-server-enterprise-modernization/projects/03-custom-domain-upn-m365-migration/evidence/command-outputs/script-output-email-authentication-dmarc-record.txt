@@ -1,0 +1,7 @@
+
+Name                                     Type   TTL   Section    Strings
+----                                     ----   ---   -------    -------
+_dmarc.summitridge-mfg.com               TXT    1344  Answer     {v=DMARC1; p=quarantine; adkim=r;
+                                                                 aspf=r;
+                                                                 rua=mailto:dmarc_rua@onsecureserver.net;}
+

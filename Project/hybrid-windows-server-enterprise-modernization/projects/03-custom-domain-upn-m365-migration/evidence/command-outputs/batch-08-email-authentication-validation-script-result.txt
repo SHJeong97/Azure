@@ -1,0 +1,31 @@
+Project 03 Batch 8 — Email Authentication Validation Script Result
+
+Domain:
+summitridge-mfg.com
+
+SPFRecordCount:
+1
+
+SPFStatus:
+Valid single SPF record found
+
+DMARCRecordFound:
+Yes
+
+DKIMSelector1Found:
+No
+
+DKIMSelector2Found:
+No
+
+RecommendedDMARCPolicyAtThisStage:
+p=none
+
+Summary:
+SPF is valid.
+DMARC exists and should remain in monitoring mode.
+DKIM is not ready yet because selector1 and selector2 CNAME records are missing from public DNS.
+
+Safety decision:
+Do not enable DKIM yet.
+Do not move DMARC to quarantine or reject yet.

@@ -1,0 +1,25 @@
+
+UserPrincipalName      : emma.wilson@summitridge-mfg.com
+MailboxFound           : No
+DisplayName            : 
+CurrentPrimarySMTP     : 
+PlannedPrimarySMTP     : emma.wilson@summitridge-mfg.com
+CanApplyEmailChangeNow : No
+RecommendedAction      : Plan only until cloud mailbox exists
+
+UserPrincipalName      : olivia.brown@summitridge-mfg.com
+MailboxFound           : No
+DisplayName            : 
+CurrentPrimarySMTP     : 
+PlannedPrimarySMTP     : olivia.brown@summitridge-mfg.com
+CanApplyEmailChangeNow : No
+RecommendedAction      : Plan only until cloud mailbox exists
+
+UserPrincipalName      : sophia.martinez@summitridge-mfg.com
+MailboxFound           : No
+DisplayName            : 
+CurrentPrimarySMTP     : 
+PlannedPrimarySMTP     : sophia.martinez@summitridge-mfg.com
+CanApplyEmailChangeNow : No
+RecommendedAction      : Plan only until cloud mailbox exists
+

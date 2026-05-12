@@ -1,0 +1,6 @@
+
+DisplayName    UserPrincipalName                             Mail                                          AccountEnable
+                                                                                                           d
+-----------    -----------------                             ----                                          -------------
+SeungHun Jeong SeungHunJeong@democompany1016.onmicrosoft.com SeungHunJeong@democompany1016.onmicrosoft.com True
+

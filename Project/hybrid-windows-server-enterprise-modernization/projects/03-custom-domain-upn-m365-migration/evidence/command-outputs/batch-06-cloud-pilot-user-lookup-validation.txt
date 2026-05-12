@@ -1,0 +1,28 @@
+
+LookupUPN         : emma.wilson@summitridge-mfg.com
+CloudUserFound    : No
+DisplayName       : 
+UserPrincipalName : 
+Mail              : 
+AccountEnabled    : 
+Id                : 
+Source            : Microsoft 365 / Entra ID
+
+LookupUPN         : olivia.brown@summitridge-mfg.com
+CloudUserFound    : No
+DisplayName       : 
+UserPrincipalName : 
+Mail              : 
+AccountEnabled    : 
+Id                : 
+Source            : Microsoft 365 / Entra ID
+
+LookupUPN         : sophia.martinez@summitridge-mfg.com
+CloudUserFound    : No
+DisplayName       : 
+UserPrincipalName : 
+Mail              : 
+AccountEnabled    : 
+Id                : 
+Source            : Microsoft 365 / Entra ID
+

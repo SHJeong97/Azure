@@ -1,0 +1,25 @@
+
+Name              : Emma Wilson
+SamAccountName    : emma.wilson
+UserPrincipalName : emma.wilson@summitridge-mfg.com
+Department        : HR
+Title             : HR Manager
+Enabled           : True
+Source            : Active Directory
+
+Name              : Olivia Brown
+SamAccountName    : olivia.brown
+UserPrincipalName : olivia.brown@summitridge-mfg.com
+Department        : Finance
+Title             : Finance Manager
+Enabled           : True
+Source            : Active Directory
+
+Name              : Sophia Martinez
+SamAccountName    : sophia.martinez
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+Department        : IT
+Title             : Systems Administrator
+Enabled           : True
+Source            : Active Directory
+

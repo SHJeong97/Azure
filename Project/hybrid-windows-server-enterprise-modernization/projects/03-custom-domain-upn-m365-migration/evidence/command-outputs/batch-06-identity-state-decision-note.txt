@@ -1,0 +1,26 @@
+Project 03 Batch 6 — Microsoft 365 Identity State
+
+Domain:
+summitridge-mfg.com
+
+Domain verification:
+Verified in Microsoft 365 / Microsoft Entra ID
+
+Pilot AD users changed in Batch 5:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Cloud lookup result:
+REPLACE WITH ONE:
+1. Pilot users do not exist in Microsoft 365 yet because Entra Connect / Cloud Sync is not configured.
+2. Pilot users exist in Microsoft 365 and were found with summitridge-mfg.com UPNs.
+
+Important design note:
+Changing on-prem AD UPNs does not automatically update Microsoft 365 unless hybrid identity synchronization is configured.
+
+Risk treatment:
+This batch documents the cloud identity state before broader identity synchronization or mailbox planning.
+
+Evidence location:
+C:\LabEvidence\Project03\Batch06

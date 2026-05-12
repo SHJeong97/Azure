@@ -1,0 +1,7 @@
+
+Name                                 DomainName                           DomainType    Default
+----                                 ----------                           ----------    -------
+summitridge-mfg.com                  summitridge-mfg.com                  Authoritative   False
+democompany1016.onmicrosoft.com      democompany1016.onmicrosoft.com      Authoritative    True
+democompany1016.mail.onmicrosoft.com democompany1016.mail.onmicrosoft.com Authoritative   False
+

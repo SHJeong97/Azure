@@ -1,0 +1,14 @@
+
+DisplayName              UserPrincipalName                                                                            Pr
+                                                                                                                      im
+                                                                                                                      ar
+                                                                                                                      yS
+                                                                                                                      mt
+                                                                                                                      pA
+                                                                                                                      dd
+                                                                                                                      re
+                                                                                                                      ss
+-----------              -----------------                                                                            --
+Discovery Search Mailbox DiscoverySearchMailbox{D919BA05-46A6-415f-80AD-7E09334BB852}@democompany1016.onmicrosoft.com D…
+SeungHun Jeong           SeungHunJeong@democompany1016.onmicrosoft.com                                                S…
+

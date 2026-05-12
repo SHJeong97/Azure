@@ -1,0 +1,32 @@
+Replication Summary Start Time: 2026-05-12 15:58:48
+
+
+
+Beginning data collection for replication summary, this may take awhile:
+
+  .....
+
+
+
+
+
+Source DSA          largest delta    fails/total %%   error
+
+ DC01                      12m:33s    0 /   5    0  
+
+ DC02                      12m:35s    0 /   5    0  
+
+
+
+
+
+Destination DSA     largest delta    fails/total %%   error
+
+ DC01                      12m:35s    0 /   5    0  
+
+ DC02                      12m:33s    0 /   5    0  
+
+
+
+
+

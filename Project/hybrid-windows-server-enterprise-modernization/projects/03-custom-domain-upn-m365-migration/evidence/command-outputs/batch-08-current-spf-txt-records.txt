@@ -1,0 +1,6 @@
+
+Name                                     Type   TTL   Section    Strings
+----                                     ----   ---   -------    -------
+summitridge-mfg.com                      TXT    1768  Answer     {v=spf1
+                                                                 include:spf.protection.outlook.com -all}
+

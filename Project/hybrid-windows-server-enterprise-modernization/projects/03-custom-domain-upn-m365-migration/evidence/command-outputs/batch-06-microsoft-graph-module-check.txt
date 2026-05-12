@@ -1,0 +1,7 @@
+
+    Directory: C:\Users\srmgadmin.CORP\Documents\PowerShell\Modules
+
+ModuleType Version    PreRelease Name                                PSEdition ExportedCommands
+---------- -------    ---------- ----                                --------- ----------------
+Manifest   2.37.0                Microsoft.Graph                     Core,Desk 
+

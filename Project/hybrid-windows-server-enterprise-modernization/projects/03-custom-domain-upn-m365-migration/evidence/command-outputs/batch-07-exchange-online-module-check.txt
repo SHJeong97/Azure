@@ -1,0 +1,7 @@
+
+    Directory: C:\Users\srmgadmin.CORP\Documents\PowerShell\Modules
+
+ModuleType Version    PreRelease Name                                PSEdition ExportedCommands
+---------- -------    ---------- ----                                --------- ----------------
+Script     3.9.2                 ExchangeOnlineManagement            Desk      {Add-VivaModuleFeaturePolicy, Add-VivaOr…
+

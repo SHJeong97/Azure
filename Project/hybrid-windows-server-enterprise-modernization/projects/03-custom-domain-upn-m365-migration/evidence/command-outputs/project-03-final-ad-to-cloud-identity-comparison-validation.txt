@@ -1,0 +1,40 @@
+
+SamAccountName         : emma.wilson
+ADName                 : Emma Wilson
+ADUserPrincipalName    : emma.wilson@summitridge-mfg.com
+TargetCloudUPN         : emma.wilson@summitridge-mfg.com
+Department             : HR
+Title                  : HR Manager
+ADEnabled              : True
+CloudUserFound         : No
+CloudDisplayName       : 
+CloudUserPrincipalName : 
+CloudMail              : 
+IdentityState          : AD-only; not synced or not created in cloud yet
+
+SamAccountName         : olivia.brown
+ADName                 : Olivia Brown
+ADUserPrincipalName    : olivia.brown@summitridge-mfg.com
+TargetCloudUPN         : olivia.brown@summitridge-mfg.com
+Department             : Finance
+Title                  : Finance Manager
+ADEnabled              : True
+CloudUserFound         : No
+CloudDisplayName       : 
+CloudUserPrincipalName : 
+CloudMail              : 
+IdentityState          : AD-only; not synced or not created in cloud yet
+
+SamAccountName         : sophia.martinez
+ADName                 : Sophia Martinez
+ADUserPrincipalName    : sophia.martinez@summitridge-mfg.com
+TargetCloudUPN         : sophia.martinez@summitridge-mfg.com
+Department             : IT
+Title                  : Systems Administrator
+ADEnabled              : True
+CloudUserFound         : No
+CloudDisplayName       : 
+CloudUserPrincipalName : 
+CloudMail              : 
+IdentityState          : AD-only; not synced or not created in cloud yet
+
