@@ -1,0 +1,8 @@
+RecordPurpose,RecordType,HostName,Value,AutoCreated,Validated,Notes
+Domain verification,TXT,@,MS=ms########,Yes,Yes,Created by Microsoft/GoDaddy auto setup
+Exchange Online mail routing,MX,@,PASTE-ACTUAL-MX-VALUE-HERE,Yes or No,Yes,Important because MX controls inbound mail routing
+SPF,TXT,@,v=spf1 include:spf.protection.outlook.com -all,Yes or No,Yes,Only one SPF TXT record should exist
+Autodiscover,CNAME,autodiscover,autodiscover.outlook.com,Yes or No,Yes,Supports Outlook discovery
+DKIM selector 1,CNAME,selector1._domainkey,PASTE-ACTUAL-SELECTOR1-VALUE-HERE,Yes or No,Yes or No,May be created later depending on DKIM setup
+DKIM selector 2,CNAME,selector2._domainkey,PASTE-ACTUAL-SELECTOR2-VALUE-HERE,Yes or No,Yes or No,May be created later depending on DKIM setup
+DMARC,TXT,_dmarc,PASTE-ACTUAL-DMARC-VALUE-HERE,Yes or No,Yes or No,Use p=none during monitoring stage
