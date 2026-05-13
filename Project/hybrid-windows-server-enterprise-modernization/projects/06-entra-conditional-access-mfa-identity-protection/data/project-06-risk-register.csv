@@ -3,10 +3,14 @@ P06-001,Admin lockout,Tenant administration blocked,Medium,Break-glass exclusion
 P06-002,Wrong users targeted,Unexpected MFA or blocked access,Medium,CA pilot group created with only three pilot users,Identity Administrator,Mitigated
 P06-003,Policy enforced too early,User disruption,Medium,No CA policies created or enforced in Batch 2,Identity Administrator,Open
 P06-004,Legacy authentication blocked unexpectedly,Application or protocol failure,Medium,Review sign-in logs before enforcement,Identity Administrator,Open
-P06-005,MFA registration incomplete,Users cannot satisfy MFA,Medium,Validate authentication methods and registration before enforcement,Identity Administrator,Open
+P06-005,MFA registration incomplete,Users cannot satisfy MFA,Medium,Pilot MFA registration validated before CA enforcement,Identity Administrator,Mitigated if all users registered
 P06-006,Risk policy misconfigured,Incorrect challenge or password reset behavior,Medium,Plan Identity Protection policies before enforcement,Security Administrator,Open
 P06-007,Break-glass account missing,Emergency recovery unavailable,High,Cloud-only emergency access account created and documented,Global Administrator,Mitigated
 P06-008,Exclusions not validated,Critical accounts affected,Medium,Break-glass exclusion group membership validated,Identity Administrator,Mitigated
 P06-009,Report-only results misread,Incorrect enforcement decision,Medium,Export and review sign-in logs before enabling policy,Identity Administrator,Open
 P06-010,Device compliance accidentally required,Users blocked due to missing Intune state,Low,Project explicitly avoids Intune compliant-device requirements,Identity Administrator,Mitigated
 P06-011,Security Defaults changed too early,Tenant protection behavior changes unexpectedly,Medium,Security Defaults state documented without changes,Identity Administrator,Mitigated
+P06-012,Authentication method not enabled for pilot users,MFA registration may fail,Medium,Microsoft Authenticator reviewed and validated for pilot group,Identity Administrator,Mitigated
+P06-013,Sensitive MFA registration evidence exposed,Authentication details leaked,Medium,Screenshots must hide QR codes phone numbers and device details,Identity Administrator,Mitigated
+P06-014,MFA report delay misread as failure,Incorrect readiness conclusion,Low,Wait and rerun registration report if values are delayed,Identity Administrator,Mitigated
+P06-015,Conditional Access enforced before MFA registration,Users may be blocked,Medium,No CA policy created or enforced in Batch 3,Identity Administrator,Mitigated
