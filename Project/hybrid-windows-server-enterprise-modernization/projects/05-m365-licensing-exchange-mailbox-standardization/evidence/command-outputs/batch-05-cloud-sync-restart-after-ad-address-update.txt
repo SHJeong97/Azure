@@ -1,0 +1,13 @@
+Project 05 Batch 5 — Cloud Sync Restart After AD Address Update
+
+Action:
+Restart provisioning / Restart sync was triggered after updating AD mail and proxyAddresses.
+
+Reason:
+Pilot users are synchronized from on-premises AD, so address standardization was applied at the AD source first.
+
+Expected result:
+Microsoft Entra ID and Exchange Online should reflect standardized mail/proxy address values after sync processing.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch05

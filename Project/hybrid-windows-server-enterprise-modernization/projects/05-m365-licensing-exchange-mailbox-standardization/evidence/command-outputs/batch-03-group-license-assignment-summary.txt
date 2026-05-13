@@ -1,0 +1,34 @@
+Project 05 Batch 3 — Group-Based License Assignment Summary
+
+Licensing group:
+GRP-M365-E5-Pilot-License
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Selected SKU:
+ENTERPRISEPREMIUM
+
+Selected SKU ID:
+c7df2760-2c81-4ef7-b578-5b5392b571df
+
+Validation completed:
+- Available tenant SKUs exported
+- Pilot license SKU selected
+- Licensing group created
+- Pilot users added to licensing group
+- Pre-assignment readiness validated
+- License assigned to group
+- Pilot user license application checked
+- Service plan details exported
+
+Expected next result:
+Exchange Online mailbox provisioning should begin after license assignment.
+
+Next batch:
+Batch 4 will validate mailbox provisioning in Exchange Online.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch03

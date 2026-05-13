@@ -1,0 +1,28 @@
+Project 05 Batch 3 — Group License Assignment Decision
+
+Licensing group:
+GRP-M365-E5-Pilot-License
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Selected SKU:
+
+
+Selected SKU ID:
+
+
+Assignment method:
+Microsoft 365 admin center group-based licensing
+
+Reason:
+Group-based licensing provides better operational control and prevents accidental broad direct-user licensing.
+
+Safety decision:
+Only the pilot licensing group was selected.
+No full-directory licensing was performed.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch03

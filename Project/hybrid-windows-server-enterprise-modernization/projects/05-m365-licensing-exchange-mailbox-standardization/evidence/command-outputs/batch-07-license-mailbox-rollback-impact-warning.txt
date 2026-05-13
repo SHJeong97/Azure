@@ -1,0 +1,32 @@
+Project 05 Batch 7 — License and Mailbox Rollback Impact Warning
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Current state:
+Pilot users are licensed.
+Pilot users have Exchange Online mailboxes.
+Pilot primary SMTP addresses are standardized to summitridge-mfg.com.
+
+Rollback warning:
+Removing an Exchange Online-capable license can affect mailbox availability and user access.
+Mailbox data retention behavior must be understood before removing licenses from production users.
+
+Rollback priority:
+1. Confirm issue scope.
+2. Export license and mailbox state.
+3. Remove only the affected user from the licensing group if needed.
+4. Revalidate license state.
+5. Revalidate mailbox state.
+6. Restore group membership if rollback was temporary.
+7. Do not delete cloud users during license rollback.
+
+Lab decision:
+No licenses are removed in this batch.
+No mailboxes are deleted in this batch.
+No aliases are removed in this batch.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch07

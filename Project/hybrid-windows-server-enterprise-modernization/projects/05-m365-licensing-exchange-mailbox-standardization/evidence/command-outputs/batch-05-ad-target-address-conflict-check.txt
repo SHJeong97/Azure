@@ -1,0 +1,49 @@
+
+TargetAddress     : emma.wilson@summitridge-mfg.com
+MatchFound        : Yes
+SamAccountName    : emma.wilson
+Name              : Emma Wilson
+UserPrincipalName : emma.wilson@summitridge-mfg.com
+Mail              : 
+ProxyAddresses    : 
+
+TargetAddress     : emma.wilson@democompany1016.onmicrosoft.com
+MatchFound        : No
+SamAccountName    : 
+Name              : 
+UserPrincipalName : 
+Mail              : 
+ProxyAddresses    : 
+
+TargetAddress     : olivia.brown@summitridge-mfg.com
+MatchFound        : Yes
+SamAccountName    : olivia.brown
+Name              : Olivia Brown
+UserPrincipalName : olivia.brown@summitridge-mfg.com
+Mail              : 
+ProxyAddresses    : 
+
+TargetAddress     : olivia.brown@democompany1016.onmicrosoft.com
+MatchFound        : No
+SamAccountName    : 
+Name              : 
+UserPrincipalName : 
+Mail              : 
+ProxyAddresses    : 
+
+TargetAddress     : sophia.martinez@summitridge-mfg.com
+MatchFound        : Yes
+SamAccountName    : sophia.martinez
+Name              : Sophia Martinez
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+Mail              : 
+ProxyAddresses    : 
+
+TargetAddress     : sophia.martinez@democompany1016.onmicrosoft.com
+MatchFound        : No
+SamAccountName    : 
+Name              : 
+UserPrincipalName : 
+Mail              : 
+ProxyAddresses    : 
+

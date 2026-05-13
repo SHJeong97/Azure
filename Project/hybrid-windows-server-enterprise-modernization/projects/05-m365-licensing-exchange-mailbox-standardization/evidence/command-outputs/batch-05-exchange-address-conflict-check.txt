@@ -1,0 +1,49 @@
+
+TargetAddress        : emma.wilson@summitridge-mfg.com
+ConflictFound        : Yes
+RecipientName        : 9106bbd9-226b-4dd5-9f29-18b472072115
+RecipientType        : UserMailbox
+RecipientTypeDetails : UserMailbox
+PrimarySmtpAddress   : emma.wilson@summitridge-mfg.com
+Note                 : Existing recipient owns this address
+
+TargetAddress        : emma.wilson@democompany1016.onmicrosoft.com
+ConflictFound        : Yes
+RecipientName        : 9106bbd9-226b-4dd5-9f29-18b472072115
+RecipientType        : UserMailbox
+RecipientTypeDetails : UserMailbox
+PrimarySmtpAddress   : emma.wilson@summitridge-mfg.com
+Note                 : Existing recipient owns this address
+
+TargetAddress        : olivia.brown@summitridge-mfg.com
+ConflictFound        : Yes
+RecipientName        : 6c64fdb8-a29d-4ce4-8472-1046845b0659
+RecipientType        : UserMailbox
+RecipientTypeDetails : UserMailbox
+PrimarySmtpAddress   : olivia.brown@summitridge-mfg.com
+Note                 : Existing recipient owns this address
+
+TargetAddress        : olivia.brown@democompany1016.onmicrosoft.com
+ConflictFound        : Yes
+RecipientName        : 6c64fdb8-a29d-4ce4-8472-1046845b0659
+RecipientType        : UserMailbox
+RecipientTypeDetails : UserMailbox
+PrimarySmtpAddress   : olivia.brown@summitridge-mfg.com
+Note                 : Existing recipient owns this address
+
+TargetAddress        : sophia.martinez@summitridge-mfg.com
+ConflictFound        : Yes
+RecipientName        : 13c04896-4d5e-4cfe-a8b7-950497fc474e
+RecipientType        : UserMailbox
+RecipientTypeDetails : UserMailbox
+PrimarySmtpAddress   : sophia.martinez@summitridge-mfg.com
+Note                 : Existing recipient owns this address
+
+TargetAddress        : sophia.martinez@democompany1016.onmicrosoft.com
+ConflictFound        : Yes
+RecipientName        : 13c04896-4d5e-4cfe-a8b7-950497fc474e
+RecipientType        : UserMailbox
+RecipientTypeDetails : UserMailbox
+PrimarySmtpAddress   : sophia.martinez@summitridge-mfg.com
+Note                 : Existing recipient owns this address
+

@@ -1,0 +1,30 @@
+Project 05 Batch 6 — Mail Flow Validation Note
+
+Domain:
+summitridge-mfg.com
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- MX record checked
+- SPF record checked
+- DMARC record checked
+- Autodiscover record checked
+- Accepted domain checked
+- Pilot mailbox readiness checked
+- Outlook on the web access tested if available
+- Internal mail-flow test messages sent
+- Message trace reviewed with Get-MessageTraceV2
+- Post-mail-flow mailbox statistics exported
+
+Important note:
+Message trace results may take several minutes to appear after messages are sent.
+
+DKIM note:
+DKIM remains a future action unless selector CNAME records have been created and DKIM has been enabled.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch06

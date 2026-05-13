@@ -1,0 +1,36 @@
+Project 05 Batch 7 — Rollback Readiness Summary
+
+Pilot licensing group:
+GRP-M365-E5-Pilot-License
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Rollback controls created:
+- remove-pilot-users-from-license-group.ps1
+- restore-pilot-users-to-license-group.ps1
+- monitor-pilot-license-state.ps1
+- monitor-pilot-mailbox-state.ps1
+
+Rollback principle:
+Do not delete cloud users.
+Do not delete mailboxes.
+Do not remove licenses without understanding mailbox retention and service impact.
+
+Recommended rollback order:
+1. Confirm the issue.
+2. Export current license and mailbox state.
+3. Remove affected user from the licensing group only if needed.
+4. Wait for license state to update.
+5. Validate mailbox state.
+6. Restore user to licensing group if rollback was temporary.
+7. Document the final state.
+
+Lab decision:
+No rollback action was executed.
+Rollback was documented only.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch07

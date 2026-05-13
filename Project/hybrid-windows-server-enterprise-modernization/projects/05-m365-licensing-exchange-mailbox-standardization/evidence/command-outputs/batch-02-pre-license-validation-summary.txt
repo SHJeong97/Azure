@@ -1,0 +1,38 @@
+Project 05 Batch 2 — Pre-License Validation Summary
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Microsoft Graph connected
+- Pilot cloud users validated
+- UsageLocation validated
+- License readiness checked
+- Available tenant SKUs exported
+- Target pilot SKU selected
+- Exchange Online connected using device-code authentication
+- Accepted domain validated
+- Pre-license mailbox lookup completed
+- Recipient address conflict check completed
+- MX and Autodiscover checked
+
+Expected current state:
+Pilot users are synced and ready for licensing.
+Pilot users should not have Exchange Online mailboxes yet before license assignment.
+Recipient address conflicts should not exist before primary SMTP standardization.
+
+Selected pilot SKU:
+
+
+Selected pilot SKU ID:
+
+
+Safety decision:
+No licenses assigned in Batch 2.
+No mailbox changes made in Batch 2.
+No SMTP changes made in Batch 2.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch02

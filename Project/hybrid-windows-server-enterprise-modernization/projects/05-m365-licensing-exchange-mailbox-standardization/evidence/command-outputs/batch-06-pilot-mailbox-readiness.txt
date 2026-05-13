@@ -1,0 +1,22 @@
+
+UserPrincipalName    : emma.wilson@summitridge-mfg.com
+DisplayName          : Emma Wilson
+PrimarySmtpAddress   : emma.wilson@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+EmailAddresses       : SIP:emma.wilson@summitridge-mfg.com;smtp:emma.wilson@democompany1016.onmicrosoft.com;SMTP:emma.wilson@summitridge-mfg.com
+MailboxReady         : Yes
+
+UserPrincipalName    : olivia.brown@summitridge-mfg.com
+DisplayName          : Olivia Brown
+PrimarySmtpAddress   : olivia.brown@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+EmailAddresses       : SIP:olivia.brown@summitridge-mfg.com;smtp:olivia.brown@democompany1016.onmicrosoft.com;SMTP:olivia.brown@summitridge-mfg.com
+MailboxReady         : Yes
+
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+DisplayName          : Sophia Martinez
+PrimarySmtpAddress   : sophia.martinez@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+EmailAddresses       : smtp:sophia.martinez@democompany1016.onmicrosoft.com;SIP:sophia.martinez@summitridge-mfg.com;SMTP:sophia.martinez@summitridge-mfg.com
+MailboxReady         : Yes
+

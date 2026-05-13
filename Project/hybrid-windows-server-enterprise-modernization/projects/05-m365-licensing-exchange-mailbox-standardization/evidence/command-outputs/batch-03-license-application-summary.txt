@@ -1,0 +1,19 @@
+
+UserPrincipalName   : emma.wilson@summitridge-mfg.com
+ExpectedSku         : ENTERPRISEPREMIUM
+ExpectedSkuAssigned : Yes
+LicenseState        : Licensed
+MailboxExpectedNext : Exchange Online mailbox provisioning expected in Batch 4
+
+UserPrincipalName   : olivia.brown@summitridge-mfg.com
+ExpectedSku         : ENTERPRISEPREMIUM
+ExpectedSkuAssigned : Yes
+LicenseState        : Licensed
+MailboxExpectedNext : Exchange Online mailbox provisioning expected in Batch 4
+
+UserPrincipalName   : sophia.martinez@summitridge-mfg.com
+ExpectedSku         : ENTERPRISEPREMIUM
+ExpectedSkuAssigned : Yes
+LicenseState        : Licensed
+MailboxExpectedNext : Exchange Online mailbox provisioning expected in Batch 4
+

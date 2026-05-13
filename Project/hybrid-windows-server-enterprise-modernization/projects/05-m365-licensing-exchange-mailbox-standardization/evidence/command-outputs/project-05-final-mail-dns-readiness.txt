@@ -1,0 +1,8 @@
+
+Record       Name         Found Status
+------       ----         ----- ------
+MX           @            Yes   MX exists
+SPF          @            Yes   Single SPF record found
+DMARC        _dmarc       Yes   DMARC record found
+Autodiscover autodiscover Yes   Autodiscover exists
+

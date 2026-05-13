@@ -1,0 +1,27 @@
+Project 05 Batch 2 — Pre-License Decision Note
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Cloud users found in Microsoft Entra ID
+- Users are synced from on-premises AD
+- UsageLocation validated
+- Current license count checked
+- Available tenant license SKUs exported
+- Target pilot SKU selected
+
+Selected pilot SKU:
+
+
+Selected pilot SKU ID:
+
+
+Decision:
+No license assignment is performed in Batch 2.
+License assignment will occur in Batch 3 after pre-license validation is complete.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch02

@@ -1,0 +1,31 @@
+Project 05 Batch 5 — Primary SMTP and Alias Standardization Summary
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Pre-standardization Exchange mailbox state exported
+- Pre-standardization AD mail/proxyAddresses state exported
+- Target email address plan created
+- Exchange Online address conflict check completed
+- AD address conflict check completed
+- AD mail and proxyAddresses updated
+- AD address standardization validated
+- Cloud Sync restarted after AD address update
+- Microsoft Entra cloud address state checked
+- Exchange Online mailbox address state checked
+- Address standardization result summary created
+
+Target primary SMTP format:
+first.last@summitridge-mfg.com
+
+Source-of-authority decision:
+Because the users are synchronized from on-premises AD, mail and proxyAddresses were updated in Active Directory first.
+
+Important safety decision:
+@corp.democompany1016.local was not added as an SMTP proxy address.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch05

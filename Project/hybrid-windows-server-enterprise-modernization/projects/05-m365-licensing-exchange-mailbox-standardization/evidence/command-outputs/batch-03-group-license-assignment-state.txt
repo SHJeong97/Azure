@@ -1,0 +1,8 @@
+
+DisplayName                : GRP-M365-E5-Pilot-License
+GroupId                    : 916ffaa5-de6f-4450-b7f7-b304c09f6587
+AssignedLicenseCount       : 1
+ExpectedSku                : ENTERPRISEPREMIUM
+ExpectedSkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ExpectedSkuAssignedToGroup : Yes
+

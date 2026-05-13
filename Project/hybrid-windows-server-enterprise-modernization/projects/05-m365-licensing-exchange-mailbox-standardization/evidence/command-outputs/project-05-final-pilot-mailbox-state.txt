@@ -1,0 +1,34 @@
+
+UserPrincipalName    : emma.wilson@summitridge-mfg.com
+DisplayName          : Emma Wilson
+PrimarySmtpAddress   : emma.wilson@summitridge-mfg.com
+WindowsEmailAddress  : emma.wilson@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+ExchangeGuid         : a3c2b926-525c-49d2-af93-da5459924039
+WhenMailboxCreated   : 5/13/2026 12:36:15 PM
+EmailAddresses       : SPO:SPO_6b92d425-bdb4-45b2-81af-84dab877fe6c@SPO_def8b52a-5647-46da-a21a-eae01169465e;SIP:emma.wilson@summitridge-mfg.com;smtp:emma.wilson@democompany1016.onmicrosoft.com;SMTP:emma.wilson@summitridge-mfg.com
+PrimaryMatchesUPN    : Yes
+FinalMailboxStatus   : Validated
+
+UserPrincipalName    : olivia.brown@summitridge-mfg.com
+DisplayName          : Olivia Brown
+PrimarySmtpAddress   : olivia.brown@summitridge-mfg.com
+WindowsEmailAddress  : olivia.brown@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+ExchangeGuid         : df2ad805-7f5e-4b2a-8dce-c229a7f64d04
+WhenMailboxCreated   : 5/13/2026 12:36:12 PM
+EmailAddresses       : SPO:SPO_6b188b85-0ba1-4881-9f29-05f3f5a441a1@SPO_def8b52a-5647-46da-a21a-eae01169465e;SIP:olivia.brown@summitridge-mfg.com;smtp:olivia.brown@democompany1016.onmicrosoft.com;SMTP:olivia.brown@summitridge-mfg.com
+PrimaryMatchesUPN    : Yes
+FinalMailboxStatus   : Validated
+
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+DisplayName          : Sophia Martinez
+PrimarySmtpAddress   : sophia.martinez@summitridge-mfg.com
+WindowsEmailAddress  : sophia.martinez@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+ExchangeGuid         : 16b564d5-2de1-4dd3-97fb-1ba5fc70d7a9
+WhenMailboxCreated   : 5/13/2026 12:36:14 PM
+EmailAddresses       : smtp:sophia.martinez@democompany1016.onmicrosoft.com;SIP:sophia.martinez@summitridge-mfg.com;SMTP:sophia.martinez@summitridge-mfg.com
+PrimaryMatchesUPN    : Yes
+FinalMailboxStatus   : Validated
+

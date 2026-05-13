@@ -1,0 +1,31 @@
+
+UserPrincipalName    : emma.wilson@summitridge-mfg.com
+DisplayName          : Emma Wilson
+AccountEnabled       : True
+UsageLocation        : US
+AssignedLicenseCount : 1
+ExpectedSku          : ENTERPRISEPREMIUM
+ExpectedSkuId        : c7df2760-2c81-4ef7-b578-5b5392b571df
+ExpectedSkuAssigned  : Yes
+LicenseState         : Licensed
+
+UserPrincipalName    : olivia.brown@summitridge-mfg.com
+DisplayName          : Olivia Brown
+AccountEnabled       : True
+UsageLocation        : US
+AssignedLicenseCount : 1
+ExpectedSku          : ENTERPRISEPREMIUM
+ExpectedSkuId        : c7df2760-2c81-4ef7-b578-5b5392b571df
+ExpectedSkuAssigned  : Yes
+LicenseState         : Licensed
+
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+DisplayName          : Sophia Martinez
+AccountEnabled       : True
+UsageLocation        : US
+AssignedLicenseCount : 1
+ExpectedSku          : ENTERPRISEPREMIUM
+ExpectedSkuId        : c7df2760-2c81-4ef7-b578-5b5392b571df
+ExpectedSkuAssigned  : Yes
+LicenseState         : Licensed
+

@@ -1,0 +1,22 @@
+
+UserPrincipalName    : emma.wilson@summitridge-mfg.com
+LookupUPN            : emma.wilson@summitridge-mfg.com
+MailboxFound         : Yes
+PrimarySmtpAddress   : emma.wilson@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+ProvisioningResult   : Mailbox provisioned successfully
+
+UserPrincipalName    : olivia.brown@summitridge-mfg.com
+LookupUPN            : olivia.brown@summitridge-mfg.com
+MailboxFound         : Yes
+PrimarySmtpAddress   : olivia.brown@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+ProvisioningResult   : Mailbox provisioned successfully
+
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+LookupUPN            : sophia.martinez@summitridge-mfg.com
+MailboxFound         : Yes
+PrimarySmtpAddress   : sophia.martinez@summitridge-mfg.com
+RecipientTypeDetails : UserMailbox
+ProvisioningResult   : Mailbox provisioned successfully
+

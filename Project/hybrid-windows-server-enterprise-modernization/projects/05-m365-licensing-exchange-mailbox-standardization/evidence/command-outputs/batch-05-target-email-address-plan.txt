@@ -1,0 +1,19 @@
+
+SamAccountName      : emma.wilson
+UserPrincipalName   : emma.wilson@summitridge-mfg.com
+TargetPrimarySMTP   : emma.wilson@summitridge-mfg.com
+TenantAlias         : emma.wilson@democompany1016.onmicrosoft.com
+LegacyInternalAlias : emma.wilson@corp.democompany1016.local
+
+SamAccountName      : olivia.brown
+UserPrincipalName   : olivia.brown@summitridge-mfg.com
+TargetPrimarySMTP   : olivia.brown@summitridge-mfg.com
+TenantAlias         : olivia.brown@democompany1016.onmicrosoft.com
+LegacyInternalAlias : olivia.brown@corp.democompany1016.local
+
+SamAccountName      : sophia.martinez
+UserPrincipalName   : sophia.martinez@summitridge-mfg.com
+TargetPrimarySMTP   : sophia.martinez@summitridge-mfg.com
+TenantAlias         : sophia.martinez@democompany1016.onmicrosoft.com
+LegacyInternalAlias : sophia.martinez@corp.democompany1016.local
+

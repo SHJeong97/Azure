@@ -1,0 +1,22 @@
+
+TargetAddress        : emma.wilson@summitridge-mfg.com
+ConflictFound        : No
+RecipientName        : 
+RecipientType        : 
+RecipientTypeDetails : 
+PrimarySmtpAddress   : 
+
+TargetAddress        : olivia.brown@summitridge-mfg.com
+ConflictFound        : No
+RecipientName        : 
+RecipientType        : 
+RecipientTypeDetails : 
+PrimarySmtpAddress   : 
+
+TargetAddress        : sophia.martinez@summitridge-mfg.com
+ConflictFound        : No
+RecipientName        : 
+RecipientType        : 
+RecipientTypeDetails : 
+PrimarySmtpAddress   : 
+

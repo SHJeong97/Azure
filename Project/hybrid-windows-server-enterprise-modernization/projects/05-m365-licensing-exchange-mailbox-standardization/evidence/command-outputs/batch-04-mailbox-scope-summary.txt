@@ -1,0 +1,5 @@
+
+ExpectedPilotMailboxCount ActualPilotMailboxCount ScopeStatus
+------------------------- ----------------------- -----------
+                        3                       3 All pilot mailboxes found
+

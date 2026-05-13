@@ -1,0 +1,25 @@
+
+TestID         : MF-001
+TestName       : Internal pilot mail flow
+Sender         : emma.wilson@summitridge-mfg.com
+Recipient      : olivia.brown@summitridge-mfg.com
+Subject        : Project05 MF-001 Internal Mail Flow Test
+ExpectedResult : Message delivered to Olivia Brown mailbox
+Status         : Planned
+
+TestID         : MF-002
+TestName       : Reverse internal pilot mail flow
+Sender         : olivia.brown@summitridge-mfg.com
+Recipient      : emma.wilson@summitridge-mfg.com
+Subject        : Project05 MF-002 Reverse Internal Mail Flow Test
+ExpectedResult : Message delivered to Emma Wilson mailbox
+Status         : Planned
+
+TestID         : MF-003
+TestName       : Admin-to-pilot inbound readiness
+Sender         : admin or tenant admin mailbox
+Recipient      : sophia.martinez@summitridge-mfg.com
+Subject        : Project05 MF-003 Admin to Pilot Mail Flow Test
+ExpectedResult : Message delivered to Sophia Martinez mailbox
+Status         : Planned
+

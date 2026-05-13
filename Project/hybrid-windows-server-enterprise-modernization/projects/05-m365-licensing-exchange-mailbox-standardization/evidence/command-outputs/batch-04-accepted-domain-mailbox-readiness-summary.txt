@@ -1,0 +1,9 @@
+
+Domain               : summitridge-mfg.com
+AcceptedDomainFound  : Yes
+AcceptedDomainType   : Authoritative
+ExpectedMailboxCount : 3
+ActualMailboxCount   : 3
+MailboxReadiness     : Pilot mailboxes provisioned
+NextAction           : Standardize primary SMTP and aliases in Batch 5
+

@@ -1,0 +1,31 @@
+
+UserPrincipalName     : emma.wilson@summitridge-mfg.com
+DisplayName           : Emma Wilson
+Mail                  : emma.wilson@summitridge-mfg.com
+ProxyAddresses        : smtp:emma.wilson@democompany1016.onmicrosoft.com;SMTP:emma.wilson@summitridge-mfg.com
+OnPremisesSyncEnabled : True
+AccountEnabled        : True
+ExpectedPrimarySMTP   : emma.wilson@summitridge-mfg.com
+CloudMailMatchesUPN   : Yes
+PrimaryAddressVisible : Yes
+
+UserPrincipalName     : olivia.brown@summitridge-mfg.com
+DisplayName           : Olivia Brown
+Mail                  : olivia.brown@summitridge-mfg.com
+ProxyAddresses        : smtp:olivia.brown@democompany1016.onmicrosoft.com;SMTP:olivia.brown@summitridge-mfg.com
+OnPremisesSyncEnabled : True
+AccountEnabled        : True
+ExpectedPrimarySMTP   : olivia.brown@summitridge-mfg.com
+CloudMailMatchesUPN   : Yes
+PrimaryAddressVisible : Yes
+
+UserPrincipalName     : sophia.martinez@summitridge-mfg.com
+DisplayName           : Sophia Martinez
+Mail                  : sophia.martinez@summitridge-mfg.com
+ProxyAddresses        : smtp:sophia.martinez@democompany1016.onmicrosoft.com;SMTP:sophia.martinez@summitridge-mfg.com
+OnPremisesSyncEnabled : True
+AccountEnabled        : True
+ExpectedPrimarySMTP   : sophia.martinez@summitridge-mfg.com
+CloudMailMatchesUPN   : Yes
+PrimaryAddressVisible : Yes
+

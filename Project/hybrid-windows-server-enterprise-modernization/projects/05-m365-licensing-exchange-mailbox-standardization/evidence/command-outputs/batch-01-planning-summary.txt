@@ -1,0 +1,32 @@
+Project 05 Batch 1 — Planning Summary
+
+Project:
+Microsoft 365 Licensing, Exchange Online Mailbox Enablement, and Address Standardization
+
+Company:
+Summit Ridge Manufacturing Group
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified public domain:
+summitridge-mfg.com
+
+Identity state:
+Pilot users synchronized to Microsoft Entra ID through Microsoft Entra Cloud Sync.
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Project goal:
+Assign Microsoft 365 licenses, validate Exchange Online mailbox provisioning, and standardize primary SMTP addresses for pilot users.
+
+Safety decision:
+No licenses assigned in Batch 1.
+No mailbox changes made in Batch 1.
+No SMTP changes made in Batch 1.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch01

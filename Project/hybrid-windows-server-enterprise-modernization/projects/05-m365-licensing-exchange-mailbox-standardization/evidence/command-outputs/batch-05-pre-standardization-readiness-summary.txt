@@ -1,0 +1,27 @@
+Project 05 Batch 5 — Pre-Standardization Readiness Summary
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Current Exchange Online mailbox address state exported
+- Current AD mail/proxyAddresses state exported
+- Target email address plan created
+- Exchange Online target address conflict check completed
+- AD target address conflict check completed
+
+Target primary SMTP format:
+first.last@summitridge-mfg.com
+
+Source-of-authority decision:
+Because the pilot users are synchronized from on-premises AD, mail and proxyAddresses will be standardized in Active Directory first.
+
+Safety decision:
+No broad email address policy was used.
+Only the three pilot users are in scope.
+Existing mailbox address state was exported before changes.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch05

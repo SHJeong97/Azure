@@ -1,0 +1,28 @@
+
+UserPrincipalName     : emma.wilson@summitridge-mfg.com
+DisplayName           : Emma Wilson
+AccountEnabled        : True
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 1
+LicenseState          : Licensed
+Id                    : 9106bbd9-226b-4dd5-9f29-18b472072115
+
+UserPrincipalName     : olivia.brown@summitridge-mfg.com
+DisplayName           : Olivia Brown
+AccountEnabled        : True
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 1
+LicenseState          : Licensed
+Id                    : 6c64fdb8-a29d-4ce4-8472-1046845b0659
+
+UserPrincipalName     : sophia.martinez@summitridge-mfg.com
+DisplayName           : Sophia Martinez
+AccountEnabled        : True
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 1
+LicenseState          : Licensed
+Id                    : 13c04896-4d5e-4cfe-a8b7-950497fc474e
+

@@ -1,0 +1,34 @@
+
+SamAccountName    : emma.wilson
+Name              : Emma Wilson
+UserPrincipalName : emma.wilson@summitridge-mfg.com
+Mail              : emma.wilson@summitridge-mfg.com
+ProxyAddresses    : SMTP:emma.wilson@summitridge-mfg.com;smtp:emma.wilson@democompany1016.onmicrosoft.com
+HasPrimarySMTP    : Yes
+Department        : HR
+Title             : HR Manager
+Enabled           : True
+DistinguishedName : CN=Emma Wilson,OU=HR,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+
+SamAccountName    : olivia.brown
+Name              : Olivia Brown
+UserPrincipalName : olivia.brown@summitridge-mfg.com
+Mail              : olivia.brown@summitridge-mfg.com
+ProxyAddresses    : SMTP:olivia.brown@summitridge-mfg.com;smtp:olivia.brown@democompany1016.onmicrosoft.com
+HasPrimarySMTP    : Yes
+Department        : Finance
+Title             : Finance Manager
+Enabled           : True
+DistinguishedName : CN=Olivia Brown,OU=Finance,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+
+SamAccountName    : sophia.martinez
+Name              : Sophia Martinez
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+Mail              : sophia.martinez@summitridge-mfg.com
+ProxyAddresses    : SMTP:sophia.martinez@summitridge-mfg.com;smtp:sophia.martinez@democompany1016.onmicrosoft.com
+HasPrimarySMTP    : Yes
+Department        : IT
+Title             : Systems Administrator
+Enabled           : True
+DistinguishedName : CN=Sophia Martinez,OU=IT,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+

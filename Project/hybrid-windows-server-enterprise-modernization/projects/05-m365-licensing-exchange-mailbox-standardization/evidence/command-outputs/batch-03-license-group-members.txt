@@ -1,0 +1,19 @@
+
+DisplayName           : Sophia Martinez
+UserPrincipalName     : sophia.martinez@summitridge-mfg.com
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 0
+
+DisplayName           : Olivia Brown
+UserPrincipalName     : olivia.brown@summitridge-mfg.com
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 0
+
+DisplayName           : Emma Wilson
+UserPrincipalName     : emma.wilson@summitridge-mfg.com
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 0
+

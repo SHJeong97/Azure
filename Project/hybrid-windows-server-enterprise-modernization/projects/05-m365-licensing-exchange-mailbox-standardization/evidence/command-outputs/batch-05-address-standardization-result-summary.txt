@@ -1,0 +1,22 @@
+
+UserPrincipalName     : emma.wilson@summitridge-mfg.com
+TargetPrimarySMTP     : emma.wilson@summitridge-mfg.com
+ActualPrimarySMTP     : emma.wilson@summitridge-mfg.com
+RecipientTypeDetails  : UserMailbox
+PrimaryMatchesTarget  : Yes
+StandardizationResult : Primary SMTP standardized successfully
+
+UserPrincipalName     : olivia.brown@summitridge-mfg.com
+TargetPrimarySMTP     : olivia.brown@summitridge-mfg.com
+ActualPrimarySMTP     : olivia.brown@summitridge-mfg.com
+RecipientTypeDetails  : UserMailbox
+PrimaryMatchesTarget  : Yes
+StandardizationResult : Primary SMTP standardized successfully
+
+UserPrincipalName     : sophia.martinez@summitridge-mfg.com
+TargetPrimarySMTP     : sophia.martinez@summitridge-mfg.com
+ActualPrimarySMTP     : sophia.martinez@summitridge-mfg.com
+RecipientTypeDetails  : UserMailbox
+PrimaryMatchesTarget  : Yes
+StandardizationResult : Primary SMTP standardized successfully
+

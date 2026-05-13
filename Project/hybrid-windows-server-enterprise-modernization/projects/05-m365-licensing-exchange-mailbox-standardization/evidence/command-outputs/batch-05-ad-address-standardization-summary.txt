@@ -1,0 +1,25 @@
+
+UserPrincipalName   : emma.wilson@summitridge-mfg.com
+Mail                : emma.wilson@summitridge-mfg.com
+ExpectedPrimarySMTP : emma.wilson@summitridge-mfg.com
+ExpectedTenantAlias : emma.wilson@democompany1016.onmicrosoft.com
+PrimarySMTPPresent  : Yes
+TenantAliasPresent  : Yes
+Result              : AD address standardization successful
+
+UserPrincipalName   : olivia.brown@summitridge-mfg.com
+Mail                : olivia.brown@summitridge-mfg.com
+ExpectedPrimarySMTP : olivia.brown@summitridge-mfg.com
+ExpectedTenantAlias : olivia.brown@democompany1016.onmicrosoft.com
+PrimarySMTPPresent  : Yes
+TenantAliasPresent  : Yes
+Result              : AD address standardization successful
+
+UserPrincipalName   : sophia.martinez@summitridge-mfg.com
+Mail                : sophia.martinez@summitridge-mfg.com
+ExpectedPrimarySMTP : sophia.martinez@summitridge-mfg.com
+ExpectedTenantAlias : sophia.martinez@democompany1016.onmicrosoft.com
+PrimarySMTPPresent  : Yes
+TenantAliasPresent  : Yes
+Result              : AD address standardization successful
+

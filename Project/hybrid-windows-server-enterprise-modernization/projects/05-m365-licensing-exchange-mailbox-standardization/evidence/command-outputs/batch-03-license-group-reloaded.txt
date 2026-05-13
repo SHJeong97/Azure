@@ -1,0 +1,7 @@
+
+Id              : 916ffaa5-de6f-4450-b7f7-b304c09f6587
+DisplayName     : GRP-M365-E5-Pilot-License
+MailEnabled     : False
+SecurityEnabled : True
+MailNickname    : GRP-M365-E5-Pilot-License
+

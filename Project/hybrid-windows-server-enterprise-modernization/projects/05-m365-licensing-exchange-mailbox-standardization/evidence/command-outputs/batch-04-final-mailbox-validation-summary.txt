@@ -1,0 +1,29 @@
+Project 05 Batch 4 — Mailbox Provisioning Validation Summary
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Pilot license state revalidated
+- Exchange service plan status exported
+- Exchange Online connected using device-code authentication
+- Pilot mailbox lookup completed
+- Mailbox email addresses exported
+- Mailbox scope summary created
+- Recipient validation completed
+- Mailbox statistics exported
+- Accepted domain and mailbox readiness summary created
+
+Expected successful result:
+Each pilot user has an Exchange Online mailbox with RecipientTypeDetails set to UserMailbox.
+
+Important note:
+New mailboxes may have zero items and blank LastLogonTime until users sign in or receive mail.
+
+Next batch:
+Batch 5 will standardize primary SMTP addresses and aliases after mailbox existence is confirmed.
+
+Evidence location:
+C:\LabEvidence\Project05\Batch04

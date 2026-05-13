@@ -1,0 +1,6 @@
+
+Name                           Type   TTL   Section    NameHost
+----                           ----   ---   -------    --------
+autodiscover.summitridge-mfg.c CNAME  1800  Answer     autodiscover.outlook.com
+om
+

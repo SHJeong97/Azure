@@ -1,0 +1,8 @@
+
+Record       Name         Found Status
+------       ----         ----- ------
+MX           @            Yes   MX exists for inbound mail routing
+SPF          @            Yes   Single SPF record found
+DMARC        _dmarc       Yes   DMARC monitoring record found
+Autodiscover autodiscover Yes   Autodiscover exists for Outlook/client discovery
+

@@ -1,0 +1,1753 @@
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ADALLOM_S_O365
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ATP_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : BI_AZURE_P2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Bing_Chat_Enterprise
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : BPOS_S_TODO_3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CDS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CLIPCHAMP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMON_DEFENDER_PLATFORM_FOR_OFFICE
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMUNICATIONS_COMPLIANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMUNICATIONS_DLP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Content_Explorer
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ContentExplorer_Standard
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CUSTOMER_KEY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CustomerLockboxA_Enterprise
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : DATA_INVESTIGATIONS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Deskless
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : DYN365_CDS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EQUIVIO_ANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCEL_PREMIUM
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCHANGE_ANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCHANGE_S_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : FLOW_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : FORMS_PLAN_E5
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : GRAPH_CONNECTORS_SEARCH_INDEX
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INFO_GOVERNANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INFORMATION_BARRIERS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INSIGHTS_BY_MYANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INTUNE_O365
+ProvisioningStatus : PendingActivation
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : KAIZALA_STANDALONE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : LOCKBOX_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : M365_ADVANCED_AUDITING
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : M365_LIGHTHOUSE_CUSTOMER_PLAN1
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOEV
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOMEETADV
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOSTANDARD
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_AVATARS_ADDITIONAL_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_AVATARS_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_IMMERSIVE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_IMMERSIVE_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_COMMUNICATION_COMPLIANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_ECDN
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_MYANALYTICS_FULL
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_SEARCH
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_TEAMS_EVENTS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFTBOOKINGS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_CLP1
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_CLP2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_Exchange
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MTP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MYANALYTICS_P2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Nucleus
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : OFFICESUBSCRIPTION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PAM_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PEOPLE_SKILLS_FOUNDATION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PLACES_CORE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : POWER_VIRTUAL_AGENTS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : POWERAPPS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PREMIUM_ENCRYPTION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PROJECT_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PROJECTWORKMANAGEMENT
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PURVIEW_DISCOVERY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : RECORDS_MANAGEMENT
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : RMS_S_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SHAREPOINTENTERPRISE
+ProvisioningStatus : PendingInput
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SHAREPOINTWAC
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : STREAM_O365_E5
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SWAY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : TEAMS1
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : THREAT_INTELLIGENCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : VIVA_LEARNING_SEEDED
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : VIVAENGAGE_CORE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : WHITEBOARD_PLAN3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : emma.wilson@summitridge-mfg.com
+DisplayName        : Emma Wilson
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : YAMMER_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ADALLOM_S_O365
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ATP_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : BI_AZURE_P2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Bing_Chat_Enterprise
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : BPOS_S_TODO_3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CDS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CLIPCHAMP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMON_DEFENDER_PLATFORM_FOR_OFFICE
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMUNICATIONS_COMPLIANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMUNICATIONS_DLP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Content_Explorer
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ContentExplorer_Standard
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CUSTOMER_KEY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CustomerLockboxA_Enterprise
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : DATA_INVESTIGATIONS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Deskless
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : DYN365_CDS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EQUIVIO_ANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCEL_PREMIUM
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCHANGE_ANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCHANGE_S_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : FLOW_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : FORMS_PLAN_E5
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : GRAPH_CONNECTORS_SEARCH_INDEX
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INFO_GOVERNANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INFORMATION_BARRIERS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INSIGHTS_BY_MYANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INTUNE_O365
+ProvisioningStatus : PendingActivation
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : KAIZALA_STANDALONE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : LOCKBOX_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : M365_ADVANCED_AUDITING
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : M365_LIGHTHOUSE_CUSTOMER_PLAN1
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOEV
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOMEETADV
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOSTANDARD
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_AVATARS_ADDITIONAL_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_AVATARS_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_IMMERSIVE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_IMMERSIVE_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_COMMUNICATION_COMPLIANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_ECDN
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_MYANALYTICS_FULL
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_SEARCH
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_TEAMS_EVENTS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFTBOOKINGS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_CLP1
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_CLP2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_Exchange
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MTP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MYANALYTICS_P2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Nucleus
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : OFFICESUBSCRIPTION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PAM_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PEOPLE_SKILLS_FOUNDATION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PLACES_CORE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : POWER_VIRTUAL_AGENTS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : POWERAPPS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PREMIUM_ENCRYPTION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PROJECT_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PROJECTWORKMANAGEMENT
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PURVIEW_DISCOVERY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : RECORDS_MANAGEMENT
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : RMS_S_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SHAREPOINTENTERPRISE
+ProvisioningStatus : PendingInput
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SHAREPOINTWAC
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : STREAM_O365_E5
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SWAY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : TEAMS1
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : THREAT_INTELLIGENCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : VIVA_LEARNING_SEEDED
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : VIVAENGAGE_CORE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : WHITEBOARD_PLAN3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : olivia.brown@summitridge-mfg.com
+DisplayName        : Olivia Brown
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : YAMMER_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ADALLOM_S_O365
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ATP_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : BI_AZURE_P2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Bing_Chat_Enterprise
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : BPOS_S_TODO_3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CDS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CLIPCHAMP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMON_DEFENDER_PLATFORM_FOR_OFFICE
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMUNICATIONS_COMPLIANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : COMMUNICATIONS_DLP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Content_Explorer
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : ContentExplorer_Standard
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CUSTOMER_KEY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : CustomerLockboxA_Enterprise
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : DATA_INVESTIGATIONS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Deskless
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : DYN365_CDS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EQUIVIO_ANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCEL_PREMIUM
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCHANGE_ANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : EXCHANGE_S_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : FLOW_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : FORMS_PLAN_E5
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : GRAPH_CONNECTORS_SEARCH_INDEX
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INFO_GOVERNANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INFORMATION_BARRIERS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INSIGHTS_BY_MYANALYTICS
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : INTUNE_O365
+ProvisioningStatus : PendingActivation
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : KAIZALA_STANDALONE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : LOCKBOX_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : M365_ADVANCED_AUDITING
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : M365_LIGHTHOUSE_CUSTOMER_PLAN1
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOEV
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOMEETADV
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MCOSTANDARD
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_AVATARS_ADDITIONAL_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_AVATARS_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_IMMERSIVE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MESH_IMMERSIVE_FOR_TEAMS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_COMMUNICATION_COMPLIANCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_ECDN
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_MYANALYTICS_FULL
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_SEARCH
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFT_TEAMS_EVENTS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MICROSOFTBOOKINGS
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_CLP1
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_CLP2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MIP_S_Exchange
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MTP
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : MYANALYTICS_P2
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : Nucleus
+ProvisioningStatus : Success
+AppliesTo          : Company
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : OFFICESUBSCRIPTION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PAM_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PEOPLE_SKILLS_FOUNDATION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PLACES_CORE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : POWER_VIRTUAL_AGENTS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : POWERAPPS_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PREMIUM_ENCRYPTION
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PROJECT_O365_P3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PROJECTWORKMANAGEMENT
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : PURVIEW_DISCOVERY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : RECORDS_MANAGEMENT
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : RMS_S_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SHAREPOINTENTERPRISE
+ProvisioningStatus : PendingInput
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SHAREPOINTWAC
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : STREAM_O365_E5
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : SWAY
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : TEAMS1
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : THREAT_INTELLIGENCE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : VIVA_LEARNING_SEEDED
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : VIVAENGAGE_CORE
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : WHITEBOARD_PLAN3
+ProvisioningStatus : Success
+AppliesTo          : User
+
+UserPrincipalName  : sophia.martinez@summitridge-mfg.com
+DisplayName        : Sophia Martinez
+SkuPartNumber      : ENTERPRISEPREMIUM
+SkuId              : c7df2760-2c81-4ef7-b578-5b5392b571df
+ServicePlanName    : YAMMER_ENTERPRISE
+ProvisioningStatus : Success
+AppliesTo          : User
+

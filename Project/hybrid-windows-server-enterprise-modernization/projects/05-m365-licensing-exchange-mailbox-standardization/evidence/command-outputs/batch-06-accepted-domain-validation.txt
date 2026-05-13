@@ -1,0 +1,5 @@
+
+Name                DomainName          DomainType    Default
+----                ----------          ----------    -------
+summitridge-mfg.com summitridge-mfg.com Authoritative   False
+
