@@ -32,3 +32,13 @@ P05-VAL-029,License assigned to group,Group-based license assignment completed,C
 P05-VAL-030,Pilot user license assignment validated,Expected SKU assigned to pilot users,Completed
 P05-VAL-031,License service plans exported,Service plan details exported,Completed
 P05-VAL-032,License application summary created,License application summary saved,Completed
+P05-VAL-033,Batch 4 evidence folder created,C:\LabEvidence\Project05\Batch04 exists,Completed
+P05-VAL-034,Pilot license state revalidated,Users show assigned licenses,Completed
+P05-VAL-035,Exchange service plans exported,Exchange service plan status captured,Completed
+P05-VAL-036,Exchange Online connected,Device-code connection completed,Completed
+P05-VAL-037,Pilot mailbox validation completed,Three pilot mailboxes checked,Completed
+P05-VAL-038,Mailbox email addresses exported,Primary SMTP and aliases exported,Completed
+P05-VAL-039,Mailbox scope summary created,Mailbox count summary exported,Completed
+P05-VAL-040,Pilot recipient validation completed,Recipients validated as mail-enabled,Completed
+P05-VAL-041,Mailbox statistics exported,Mailbox statistics captured,Completed
+P05-VAL-042,Accepted domain mailbox readiness summarized,Readiness summary created,Completed
