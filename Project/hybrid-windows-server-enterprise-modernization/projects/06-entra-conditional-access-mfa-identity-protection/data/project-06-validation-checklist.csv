@@ -60,3 +60,19 @@ P06-VAL-057,CA001 report-only evaluation exported,Report-only evaluation exporte
 P06-VAL-058,CA001 impact summary created,Report-only impact summary saved,Completed
 P06-VAL-059,CA001 sign-in log review completed,Sign-in log review note saved,Completed
 P06-VAL-060,CA001 implementation document created,Implementation document saved,Completed
+P06-VAL-061,Batch 5 evidence folder created,C:\LabEvidence\Project06\Batch05 exists,Completed
+P06-VAL-062,Microsoft Graph connected for CA002,Graph context returned,Completed
+P06-VAL-063,CA002 group scope loaded,Pilot and break-glass groups loaded,Completed
+P06-VAL-064,CA002 group members validated,Pilot and exclusion members confirmed,Completed
+P06-VAL-065,Existing CA policies exported before CA002,Existing policy state captured,Completed
+P06-VAL-066,CA002 policy design summary created,Policy design summary saved,Completed
+P06-VAL-067,CA002 created in report-only mode,Policy state is report-only,Completed
+P06-VAL-068,CA002 full configuration exported,Policy configuration JSON exported,Completed
+P06-VAL-069,CA002 portal validation completed,Policy validated in Entra admin center,Completed
+P06-VAL-070,Pilot modern sign-in tests performed,Pilot users signed in successfully,Completed
+P06-VAL-071,Recent pilot sign-in logs exported,Sign-in logs exported,Completed
+P06-VAL-072,CA002 report-only evaluation exported,Report-only evaluation exported or documented,Completed
+P06-VAL-073,Legacy authentication sign-ins exported,Legacy auth sign-in review completed,Completed
+P06-VAL-074,CA002 legacy auth impact summary created,Impact summary saved,Completed
+P06-VAL-075,CA002 sign-in log review completed,Sign-in log review note saved,Completed
+P06-VAL-076,CA002 implementation document created,Implementation document saved,Completed
