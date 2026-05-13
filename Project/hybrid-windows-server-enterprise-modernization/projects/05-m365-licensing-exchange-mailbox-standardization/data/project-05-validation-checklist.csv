@@ -67,3 +67,18 @@ P05-VAL-064,Message trace summary created,Trace result summary saved,Completed
 P05-VAL-065,Post-mail-flow mailbox statistics exported,Mailbox statistics exported after tests,Completed
 P05-VAL-066,Mail-flow readiness summary created,Readiness summary saved,Completed
 P05-VAL-067,Mail-flow implementation document created,Implementation document saved,Completed
+P05-VAL-068,Batch 7 evidence folder created,C:\LabEvidence\Project05\Batch07 exists,Completed
+P05-VAL-069,Current licensing group state exported,License group state captured,Completed
+P05-VAL-070,Current licensing group members exported,Only pilot users confirmed,Completed
+P05-VAL-071,Pilot license assignment state exported,License state captured,Completed
+P05-VAL-072,Pilot service plan state exported,Service plan details captured,Completed
+P05-VAL-073,Current pilot mailbox state exported,Mailbox state captured,Completed
+P05-VAL-074,Pilot mailbox monitoring stats exported,Mailbox statistics captured,Completed
+P05-VAL-075,Rollback impact warning documented,Rollback warning note created,Completed
+P05-VAL-076,License group rollback script created,Remove script created,Completed
+P05-VAL-077,License group restore script created,Restore script created,Completed
+P05-VAL-078,License monitoring script created,License monitoring script created,Completed
+P05-VAL-079,Mailbox monitoring script created,Mailbox monitoring script created,Completed
+P05-VAL-080,Rollback readiness summary created,Rollback summary saved,Completed
+P05-VAL-081,Operational monitoring summary created,Monitoring summary saved,Completed
+P05-VAL-082,Rollback and monitoring implementation document created,Implementation document saved,Completed
