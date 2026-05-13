@@ -1,0 +1,4 @@
+PilotUser,Department,UserPrincipalName,TargetLicense,TargetPrimarySMTP,MailboxAction,Status
+emma.wilson,HR,emma.wilson@summitridge-mfg.com,Office 365 E5,emma.wilson@summitridge-mfg.com,Provision mailbox after license assignment,Planned
+olivia.brown,Finance,olivia.brown@summitridge-mfg.com,Office 365 E5,olivia.brown@summitridge-mfg.com,Provision mailbox after license assignment,Planned
+sophia.martinez,IT,sophia.martinez@summitridge-mfg.com,Office 365 E5,sophia.martinez@summitridge-mfg.com,Provision mailbox after license assignment,Planned
