@@ -1,0 +1,19 @@
+CheckID,ValidationItem,ExpectedResult,Status
+P04-FINAL-001,Provisioning agent service health checked,Agent service exists and is healthy,Completed
+P04-FINAL-002,AD replication health checked,repadmin validation completed,Completed
+P04-FINAL-003,Pilot sync group membership validated,Three pilot users found,Completed
+P04-FINAL-004,Nested group scope checked,No nested groups found,Completed
+P04-FINAL-005,AD pilot users validated,Three pilot users found in AD,Completed
+P04-FINAL-006,AD pilot UPNs validated,All pilot users use summitridge-mfg.com,Completed
+P04-FINAL-007,Microsoft Graph connection validated,Graph context returned,Completed
+P04-FINAL-008,Synced pilot users validated in Entra ID,Three cloud users found,Completed
+P04-FINAL-009,On-prem sync status validated,OnPremisesSyncEnabled true for pilot users,Completed
+P04-FINAL-010,UsageLocation validated,US confirmed or set for pilot users,Completed
+P04-FINAL-011,summitridge-mfg.com cloud scope checked,Only expected pilot users found,Completed
+P04-FINAL-012,AD-to-cloud comparison completed,Comparison CSV created,Completed
+P04-FINAL-013,Tenant license inventory exported,Subscribed SKUs exported,Completed
+P04-FINAL-014,License assignment deferred,Licensing moved to Project 05,Completed
+P04-FINAL-015,Mailbox enablement deferred,Exchange mailbox work moved to Project 05,Completed
+P04-FINAL-016,Rollback readiness documented,Rollback notes and scripts created,Completed
+P04-FINAL-017,Operational monitoring documented,Monitoring summary created,Completed
+P04-FINAL-018,Final validation summary created,Final summary evidence saved,Completed
