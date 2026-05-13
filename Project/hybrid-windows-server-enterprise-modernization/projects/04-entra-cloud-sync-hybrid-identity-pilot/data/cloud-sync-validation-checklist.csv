@@ -35,3 +35,11 @@ P04-SYNC-033,Attribute mappings reviewed,Default mappings reviewed,Completed
 P04-SYNC-034,Provision on demand tested,Emma Wilson tested,Completed
 P04-SYNC-035,Scoped configuration enabled,Configuration enabled after testing,Completed
 P04-SYNC-036,Initial cloud lookup completed,Pilot users checked in Microsoft Entra ID,Completed
+P04-SYNC-037,Pilot group validated before sync,GRP-EntraCloudSync-Pilot members confirmed,Completed
+P04-SYNC-038,AD pilot UPNs validated before sync,Three pilot users use summitridge-mfg.com,Completed
+P04-SYNC-039,Provisioning restarted,Cloud Sync restart triggered,Completed
+P04-SYNC-040,Graph pilot user lookup completed,Pilot users checked in Entra ID,Completed
+P04-SYNC-041,Cloud scope check completed,summitridge-mfg.com cloud users reviewed,Completed
+P04-SYNC-042,Provisioning logs reviewed,Pilot provisioning status reviewed,Completed
+P04-SYNC-043,AD-to-cloud comparison completed,Comparison CSV created,Completed
+P04-SYNC-044,Final pilot sync status exported,Final pilot sync CSV created,Completed
