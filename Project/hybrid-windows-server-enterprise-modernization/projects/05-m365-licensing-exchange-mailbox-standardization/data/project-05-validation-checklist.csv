@@ -11,3 +11,13 @@ P05-VAL-009,Pre-license pilot user validation pending,Validate in Batch 2,Planne
 P05-VAL-010,License assignment pending,Assign in Batch 3,Planned
 P05-VAL-011,Mailbox provisioning validation pending,Validate in Batch 4,Planned
 P05-VAL-012,SMTP and alias standardization pending,Perform in Batch 5,Planned
+P05-VAL-013,Microsoft Graph connected,Graph context returned,Completed
+P05-VAL-014,Synced pilot users validated,Three synced users found,Completed
+P05-VAL-015,License readiness checked,UsageLocation and license state validated,Completed
+P05-VAL-016,Tenant license SKUs exported,Subscribed SKUs exported,Completed
+P05-VAL-017,Target pilot SKU selected,E5 or approved SKU selected,Completed
+P05-VAL-018,Exchange Online connected,Device-code connection completed,Completed
+P05-VAL-019,Accepted domain validated,summitridge-mfg.com found as accepted domain,Completed
+P05-VAL-020,Pre-license mailbox lookup completed,Mailbox state checked before licensing,Completed
+P05-VAL-021,Recipient address conflict check completed,Target SMTP conflicts checked,Completed
+P05-VAL-022,Mail DNS readiness checked,MX and Autodiscover checked,Completed
