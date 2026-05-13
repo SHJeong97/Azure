@@ -43,3 +43,10 @@ P04-SYNC-041,Cloud scope check completed,summitridge-mfg.com cloud users reviewe
 P04-SYNC-042,Provisioning logs reviewed,Pilot provisioning status reviewed,Completed
 P04-SYNC-043,AD-to-cloud comparison completed,Comparison CSV created,Completed
 P04-SYNC-044,Final pilot sync status exported,Final pilot sync CSV created,Completed
+P04-SYNC-045,Synced pilot users validated,Three pilot users found in Entra ID,Completed
+P04-SYNC-046,AD-to-cloud attributes compared,Attribute comparison CSV created,Completed
+P04-SYNC-047,License readiness checked,UsageLocation and license status reviewed,Completed
+P04-SYNC-048,Tenant licenses exported,Subscribed SKU export completed,Completed
+P04-SYNC-049,UsageLocation validated,US set or confirmed for pilot users,Completed
+P04-SYNC-050,Sign-in readiness documented,Identity ready and license pending state documented,Completed
+P04-SYNC-051,License assignment deferred,License assignment moved to Project 05,Completed
