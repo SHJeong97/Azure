@@ -1,11 +1,12 @@
 RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
 P05-001,License assigned to wrong users,Unexpected service access or cost,Medium,Use pilot scope only,Cloud Administrator,Open
-P05-002,UsageLocation missing,License assignment fails,Medium,Validate UsageLocation before licensing,Cloud Administrator,Open
-P05-003,Wrong SKU selected,Incorrect services enabled,Medium,Export tenant SKUs and select approved pilot SKU,Cloud Administrator,Open
+P05-002,UsageLocation missing,License assignment fails,Medium,UsageLocation validated before licensing,Cloud Administrator,Mitigated
+P05-003,Wrong SKU selected,Incorrect services enabled,Medium,Tenant SKUs exported and target SKU selected before assignment,Cloud Administrator,Mitigated
 P05-004,Mailbox does not provision,User cannot access Exchange Online,Medium,Validate mailbox after license assignment,Messaging Administrator,Open
 P05-005,Primary SMTP mismatch,User confusion and inconsistent sender address,Medium,Standardize primary SMTP after mailbox validation,Messaging Administrator,Open
-P05-006,Duplicate proxy address,Email address assignment may fail,Medium,Validate existing recipients and aliases before change,Messaging Administrator,Open
-P05-007,MX already routes to Microsoft 365,Inbound mail may arrive before mailbox readiness,Medium,Validate MX state and pilot mailbox readiness,Messaging Administrator,Open
+P05-006,Duplicate proxy address,Email address assignment may fail,Medium,Recipient address conflicts checked before SMTP standardization,Messaging Administrator,Mitigated
+P05-007,MX already routes to Microsoft 365,Inbound mail may arrive before mailbox readiness,Medium,MX and mailbox readiness validated before mail-flow testing,Messaging Administrator,Mitigated
 P05-008,Broad license assignment,Unplanned cost or service activation,Medium,Use only the pilot users or pilot licensing group,Cloud Administrator,Open
 P05-009,License removed without mailbox impact review,Mailbox disruption or retention issue,Medium,Document rollback impact before removing licenses,Messaging Administrator,Open
 P05-010,Mail flow validation skipped,Delivery problems go unnoticed,Medium,Validate internal and external mail flow after mailbox provisioning,Messaging Administrator,Open
+P05-011,Exchange Online WAM connection failure,Unable to validate Exchange objects,Medium,Device-code Exchange Online connection used,Messaging Administrator,Mitigated
