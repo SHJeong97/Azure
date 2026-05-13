@@ -76,3 +76,22 @@ P06-VAL-073,Legacy authentication sign-ins exported,Legacy auth sign-in review c
 P06-VAL-074,CA002 legacy auth impact summary created,Impact summary saved,Completed
 P06-VAL-075,CA002 sign-in log review completed,Sign-in log review note saved,Completed
 P06-VAL-076,CA002 implementation document created,Implementation document saved,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P06-VAL-077,Batch 6 evidence folder created,C:\LabEvidence\Project06\Batch06 exists,Completed
+P06-VAL-078,Microsoft Graph connected for Identity Protection,Graph context returned,Completed
+P06-VAL-079,Tenant SKUs exported for Identity Protection readiness,Tenant SKU state exported,Completed
+P06-VAL-080,Identity Protection license readiness summarized,P2/E5 readiness summary created,Completed
+P06-VAL-081,Risk policy pilot group members validated,GRP-CA-Pilot-Users members confirmed,Completed
+P06-VAL-082,Risk policy break-glass group members validated,GRP-CA-Excluded-BreakGlass members confirmed,Completed
+P06-VAL-083,Risky users exported,Risky users export created,Completed
+P06-VAL-084,Pilot risky user state exported,Pilot risk state export created,Completed
+P06-VAL-085,Risk detections exported,Risk detections export created,Completed
+P06-VAL-086,Identity Protection baseline summary created,Baseline summary saved,Completed
+P06-VAL-087,CA004 sign-in risk policy design created,CA004 design summary saved,Completed
+P06-VAL-088,CA005 user risk policy design created,CA005 design summary saved,Completed
+P06-VAL-089,Risk policy separation decision documented,Decision note saved,Completed
+P06-VAL-090,Risk policy rollout plan created,Rollout plan saved,Completed
+P06-VAL-091,Risk response matrix created,Risk response matrix saved,Completed
+P06-VAL-092,Risk-based CA planning summary created,Planning summary saved,Completed
+P06-VAL-093,Identity Protection portal reviewed,Portal review note saved,Completed
+P06-VAL-094,Identity Protection implementation document created,Implementation document saved,Completed
