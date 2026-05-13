@@ -42,3 +42,15 @@ P05-VAL-039,Mailbox scope summary created,Mailbox count summary exported,Complet
 P05-VAL-040,Pilot recipient validation completed,Recipients validated as mail-enabled,Completed
 P05-VAL-041,Mailbox statistics exported,Mailbox statistics captured,Completed
 P05-VAL-042,Accepted domain mailbox readiness summarized,Readiness summary created,Completed
+P05-VAL-043,Batch 5 evidence folder created,C:\LabEvidence\Project05\Batch05 exists,Completed
+P05-VAL-044,Pre-standardization mailbox state exported,Mailbox address state exported before changes,Completed
+P05-VAL-045,Pre-standardization AD proxy state exported,AD mail and proxyAddresses exported before changes,Completed
+P05-VAL-046,Target email address plan created,Target address plan CSV created,Completed
+P05-VAL-047,Exchange address conflict check completed,Target addresses checked in Exchange Online,Completed
+P05-VAL-048,AD address conflict check completed,Target addresses checked in Active Directory,Completed
+P05-VAL-049,AD mail/proxyAddresses updated,Three pilot users updated in AD,Completed
+P05-VAL-050,Post-standardization AD state validated,AD mail/proxyAddresses validated,Completed
+P05-VAL-051,Cloud Sync restarted after AD address update,Sync restart documented,Completed
+P05-VAL-052,Cloud address validation completed,Microsoft Entra mail/proxyAddresses checked,Completed
+P05-VAL-053,Exchange mailbox address validation completed,Primary SMTP state checked,Completed
+P05-VAL-054,Address standardization summary created,Final summary saved,Completed
