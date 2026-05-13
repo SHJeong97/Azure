@@ -7,7 +7,7 @@ P05-005,Primary SMTP mismatch,User confusion and inconsistent sender address,Med
 P05-006,Duplicate proxy address,Email address assignment may fail,Medium,AD and Exchange Online address conflict checks completed before changes,Messaging Administrator,Mitigated
 P05-007,MX already routes to Microsoft 365,Inbound mail may arrive before mailbox readiness,Medium,MX and mailbox readiness validated before mail-flow testing,Messaging Administrator,Mitigated
 P05-008,Broad license assignment,Unplanned cost or service activation,Medium,License assigned only to pilot group,Cloud Administrator,Mitigated
-P05-009,License removed without mailbox impact review,Mailbox disruption or retention issue,Medium,Document rollback impact before removing licenses,Messaging Administrator,Open
+P05-009,License removed without mailbox impact review,Mailbox disruption or retention issue,Medium,Rollback impact warning documented before any removal action,Messaging Administrator,Mitigated
 P05-010,Mail flow validation skipped,Delivery problems go unnoticed,Medium,Internal mail-flow tests and message trace reviewed,Messaging Administrator,Mitigated
 P05-011,Exchange Online WAM connection failure,Unable to validate Exchange objects,Medium,Device-code Exchange Online connection used,Messaging Administrator,Mitigated
 P05-012,License propagation delay,Mailbox provisioning may not start immediately,Medium,Exchange service plan and mailbox provisioning validated,Cloud Administrator,Mitigated
@@ -20,3 +20,8 @@ P05-018,Message trace delay misinterpreted,False assumption that delivery failed
 P05-019,Pilot user sign-in blocked,OWA access testing cannot complete,Medium,Documented AD password/PHS dependency and reset password if needed,Identity Administrator,Mitigated if access confirmed
 P05-020,DKIM missing treated as mailbox failure,Incorrect project conclusion,Low,Documented DKIM as future email-authentication action,Messaging Administrator,Mitigated
 P05-021,Mail DNS modified during validation,Mail-flow behavior changes unexpectedly,Medium,No DNS changes made during mail-flow validation,Messaging Administrator,Mitigated
+P05-022,Wrong user removed from licensing group,Unexpected service loss,Medium,Rollback script limited to named pilot users,Cloud Administrator,Mitigated
+P05-023,License rollback not reversible,Delayed service restoration,Medium,Restore script created for pilot licensing group,Cloud Administrator,Mitigated
+P05-024,Mailbox state not monitored after licensing,Mailbox issues may go unnoticed,Medium,Mailbox monitoring script and baseline exports created,Messaging Administrator,Mitigated
+P05-025,License state not monitored after assignment,Service plan issues may go unnoticed,Medium,License monitoring script and service plan exports created,Cloud Administrator,Mitigated
+P05-026,Cloud users deleted during rollback,Identity loss or service disruption,Low,Rollback notes specify not to delete cloud users,Identity Administrator,Mitigated
