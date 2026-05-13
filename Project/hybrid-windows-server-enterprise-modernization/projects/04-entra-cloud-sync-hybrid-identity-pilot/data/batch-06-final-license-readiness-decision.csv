@@ -1,0 +1,4 @@
+"UserPrincipalName","AccountEnabled","UsageLocation","OnPremisesSyncEnabled","AssignedLicenseCount","LicenseReady","LicenseDecision","Reason"
+"emma.wilson@summitridge-mfg.com","True","US","True","0","Yes","Defer license assignment to Project 05","Project 04 validates sync and readiness only"
+"olivia.brown@summitridge-mfg.com","True","US","True","0","Yes","Defer license assignment to Project 05","Project 04 validates sync and readiness only"
+"sophia.martinez@summitridge-mfg.com","True","US","True","0","Yes","Defer license assignment to Project 05","Project 04 validates sync and readiness only"

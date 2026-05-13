@@ -1,0 +1,4 @@
+"Name","SamAccountName","UserPrincipalName","mail","givenName","sn","displayName","Department","Title","Enabled","DistinguishedName","UPNReady","EnabledReady"
+"Emma Wilson","emma.wilson","emma.wilson@summitridge-mfg.com",,"Emma","Wilson","Emma Wilson","HR","HR Manager","True","CN=Emma Wilson,OU=HR,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local","Yes","Yes"
+"Olivia Brown","olivia.brown","olivia.brown@summitridge-mfg.com",,"Olivia","Brown","Olivia Brown","Finance","Finance Manager","True","CN=Olivia Brown,OU=Finance,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local","Yes","Yes"
+"Sophia Martinez","sophia.martinez","sophia.martinez@summitridge-mfg.com",,"Sophia","Martinez","Sophia Martinez","IT","Systems Administrator","True","CN=Sophia Martinez,OU=IT,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local","Yes","Yes"

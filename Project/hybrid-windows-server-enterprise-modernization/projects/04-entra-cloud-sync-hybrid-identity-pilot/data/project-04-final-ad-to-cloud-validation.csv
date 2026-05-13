@@ -1,0 +1,4 @@
+"SamAccountName","ADDisplayName","CloudDisplayName","ADUPN","CloudUPN","ADDepartment","CloudDepartment","ADTitle","CloudJobTitle","ADEnabled","CloudAccountEnabled","CloudUsageLocation","OnPremisesSyncEnabled","UPNMatch","FinalStatus"
+"emma.wilson","Emma Wilson","Emma Wilson","emma.wilson@summitridge-mfg.com","emma.wilson@summitridge-mfg.com","HR","HR","HR Manager","HR Manager","True","True","US","True","Yes","Validated"
+"olivia.brown","Olivia Brown","Olivia Brown","olivia.brown@summitridge-mfg.com","olivia.brown@summitridge-mfg.com","Finance","Finance","Finance Manager","Finance Manager","True","True","US","True","Yes","Validated"
+"sophia.martinez","Sophia Martinez","Sophia Martinez","sophia.martinez@summitridge-mfg.com","sophia.martinez@summitridge-mfg.com","IT","IT","Systems Administrator","Systems Administrator","True","True","US","True","Yes","Validated"

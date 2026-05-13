@@ -1,0 +1,4 @@
+"User","ADUPN","CloudUPN","CloudUserFound","OnPremisesSyncEnabled","ExpectedResult","ActualResult","Status"
+"emma.wilson","emma.wilson@summitridge-mfg.com","emma.wilson@summitridge-mfg.com","Yes","True","Cloud user exists with summitridge-mfg.com UPN","Synced successfully","Completed"
+"olivia.brown","olivia.brown@summitridge-mfg.com","olivia.brown@summitridge-mfg.com","Yes","True","Cloud user exists with summitridge-mfg.com UPN","Synced successfully","Completed"
+"sophia.martinez","sophia.martinez@summitridge-mfg.com","sophia.martinez@summitridge-mfg.com","Yes","True","Cloud user exists with summitridge-mfg.com UPN","Synced successfully","Completed"

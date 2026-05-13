@@ -1,0 +1,4 @@
+"LookupUPN","CloudUserFound","DisplayName","UserPrincipalName","Mail","AccountEnabled","OnPremisesSyncEnabled","Id","Status"
+"emma.wilson@summitridge-mfg.com","Yes","Emma Wilson","emma.wilson@summitridge-mfg.com",,"True","True","9106bbd9-226b-4dd5-9f29-18b472072115","Cloud user found"
+"olivia.brown@summitridge-mfg.com","Yes","Olivia Brown","olivia.brown@summitridge-mfg.com",,"True","True","6c64fdb8-a29d-4ce4-8472-1046845b0659","Cloud user found"
+"sophia.martinez@summitridge-mfg.com","Yes","Sophia Martinez","sophia.martinez@summitridge-mfg.com",,"True","True","13c04896-4d5e-4cfe-a8b7-950497fc474e","Cloud user found"
