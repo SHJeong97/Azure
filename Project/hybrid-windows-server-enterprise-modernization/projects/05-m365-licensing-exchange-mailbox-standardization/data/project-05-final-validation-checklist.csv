@@ -1,0 +1,22 @@
+CheckID,ValidationItem,ExpectedResult,Status
+P05-FINAL-001,Project 05 evidence folder created,C:\LabEvidence\Project05 exists,Completed
+P05-FINAL-002,Pilot users synced from Project 04,Three users exist in Microsoft Entra ID,Completed
+P05-FINAL-003,UsageLocation validated,US set for pilot users,Completed
+P05-FINAL-004,Available Microsoft 365 SKUs exported,Tenant SKUs exported,Completed
+P05-FINAL-005,Pilot licensing group created,GRP-M365-E5-Pilot-License exists,Completed
+P05-FINAL-006,Pilot users added to licensing group,Three pilot users are group members,Completed
+P05-FINAL-007,License assigned to pilot group,Group has assigned Microsoft 365 license,Completed
+P05-FINAL-008,Pilot user license state validated,Users show assigned license,Completed
+P05-FINAL-009,Service plan state exported,License service plans exported,Completed
+P05-FINAL-010,Exchange Online mailbox provisioning validated,Three UserMailbox recipients validated,Completed
+P05-FINAL-011,Primary SMTP standardized,Primary SMTP uses summitridge-mfg.com,Completed
+P05-FINAL-012,Mailbox statistics exported,Mailbox statistics captured,Completed
+P05-FINAL-013,MX readiness checked,MX record found,Completed
+P05-FINAL-014,SPF readiness checked,Single SPF record found,Completed
+P05-FINAL-015,DMARC readiness checked,DMARC record found,Completed
+P05-FINAL-016,Autodiscover readiness checked,Autodiscover record found,Completed
+P05-FINAL-017,Mail-flow test plan created,Mail-flow test cases documented,Completed
+P05-FINAL-018,Message trace reviewed,Message trace exported or documented,Completed
+P05-FINAL-019,Rollback controls created,Rollback helper scripts created,Completed
+P05-FINAL-020,Monitoring controls created,Monitoring helper scripts created,Completed
+P05-FINAL-021,Final validation summary created,Final summary saved,Completed
