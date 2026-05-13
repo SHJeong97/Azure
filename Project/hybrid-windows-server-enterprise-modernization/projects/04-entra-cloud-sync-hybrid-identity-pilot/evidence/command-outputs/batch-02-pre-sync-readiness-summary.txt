@@ -1,0 +1,38 @@
+Project 04 Batch 2 — Pre-Sync Readiness Summary
+
+Project:
+Microsoft Entra Cloud Sync for Hybrid Identity Pilot
+
+Pilot sync group:
+GRP-EntraCloudSync-Pilot
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Pre-sync AD validation:
+- AD domain validated
+- AD forest and UPN suffix validated
+- Domain controllers validated
+- AD replication validated
+- DNS resolution validated
+- Pilot users validated
+- Pilot users confirmed enabled
+- Pilot sync group created
+- Pilot users added as direct members
+- Nested group check completed
+
+Cloud pre-check:
+- summitridge-mfg.com verified in Microsoft Entra ID
+- Existing cloud user conflict check completed
+
+Important design decision:
+Use direct group membership only for the pilot sync group.
+Do not use nested groups for Cloud Sync pilot scoping.
+
+Current status:
+Ready for provisioning agent installation in Batch 3 if no cloud conflicts were found.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch02

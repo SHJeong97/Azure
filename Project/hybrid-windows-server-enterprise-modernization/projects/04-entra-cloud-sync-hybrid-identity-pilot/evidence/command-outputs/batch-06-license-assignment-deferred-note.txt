@@ -1,0 +1,27 @@
+Project 04 Batch 6 — License Assignment Decision
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Users exist in Microsoft Entra ID
+- Users are synchronized from on-premises AD
+- UPNs use summitridge-mfg.com
+- UsageLocation was validated or set to US
+- Available tenant licenses were exported
+- Sign-in readiness was documented
+
+License assignment decision:
+No licenses were assigned in Project 04.
+
+Reason:
+Project 04 focuses on Microsoft Entra Cloud Sync and hybrid identity validation.
+Project 05 will handle Microsoft 365 licensing, Exchange Online mailbox enablement, primary SMTP address standardization, and alias validation.
+
+Business reason:
+Separating synchronization from licensing reduces risk and avoids creating mailboxes or service access before identity validation is complete.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch06

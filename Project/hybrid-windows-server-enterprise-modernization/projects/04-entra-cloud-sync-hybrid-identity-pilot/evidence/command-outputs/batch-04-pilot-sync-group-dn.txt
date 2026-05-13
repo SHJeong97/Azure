@@ -1,0 +1,8 @@
+
+Name              : GRP-EntraCloudSync-Pilot
+SamAccountName    : GRP-EntraCloudSync-Pilot
+GroupCategory     : Security
+GroupScope        : Global
+DistinguishedName : CN=GRP-EntraCloudSync-Pilot,OU=Groups,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+Description       : Pilot group for Microsoft Entra Cloud Sync scoped synchronization
+

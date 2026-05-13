@@ -1,0 +1,28 @@
+
+User                  : emma.wilson
+ADUPN                 : emma.wilson@summitridge-mfg.com
+CloudUPN              : emma.wilson@summitridge-mfg.com
+CloudUserFound        : Yes
+OnPremisesSyncEnabled : True
+ExpectedResult        : Cloud user exists with summitridge-mfg.com UPN
+ActualResult          : Synced successfully
+Status                : Completed
+
+User                  : olivia.brown
+ADUPN                 : olivia.brown@summitridge-mfg.com
+CloudUPN              : olivia.brown@summitridge-mfg.com
+CloudUserFound        : Yes
+OnPremisesSyncEnabled : True
+ExpectedResult        : Cloud user exists with summitridge-mfg.com UPN
+ActualResult          : Synced successfully
+Status                : Completed
+
+User                  : sophia.martinez
+ADUPN                 : sophia.martinez@summitridge-mfg.com
+CloudUPN              : sophia.martinez@summitridge-mfg.com
+CloudUserFound        : Yes
+OnPremisesSyncEnabled : True
+ExpectedResult        : Cloud user exists with summitridge-mfg.com UPN
+ActualResult          : Synced successfully
+Status                : Completed
+

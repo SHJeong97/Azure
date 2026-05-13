@@ -1,0 +1,28 @@
+
+UserPrincipalName          : emma.wilson@summitridge-mfg.com
+AccountEnabled             : True
+OnPremisesSyncEnabled      : True
+UsageLocation              : US
+LicenseAssigned            : No
+PasswordHashSyncConfigured : Enabled in Cloud Sync configuration
+SignInReadiness            : Identity ready; license/service access pending
+NextAction                 : Assign Microsoft 365 license in Project 05
+
+UserPrincipalName          : olivia.brown@summitridge-mfg.com
+AccountEnabled             : True
+OnPremisesSyncEnabled      : True
+UsageLocation              : US
+LicenseAssigned            : No
+PasswordHashSyncConfigured : Enabled in Cloud Sync configuration
+SignInReadiness            : Identity ready; license/service access pending
+NextAction                 : Assign Microsoft 365 license in Project 05
+
+UserPrincipalName          : sophia.martinez@summitridge-mfg.com
+AccountEnabled             : True
+OnPremisesSyncEnabled      : True
+UsageLocation              : US
+LicenseAssigned            : No
+PasswordHashSyncConfigured : Enabled in Cloud Sync configuration
+SignInReadiness            : Identity ready; license/service access pending
+NextAction                 : Assign Microsoft 365 license in Project 05
+

@@ -1,0 +1,55 @@
+
+SamAccountName         : emma.wilson
+ADName                 : Emma Wilson
+ADUserPrincipalName    : emma.wilson@summitridge-mfg.com
+ADDepartment           : HR
+ADTitle                : HR Manager
+ADEnabled              : True
+ADMail                 : 
+ADDistinguishedName    : CN=Emma Wilson,OU=HR,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+CloudUserFound         : Yes
+CloudDisplayName       : Emma Wilson
+CloudUserPrincipalName : emma.wilson@summitridge-mfg.com
+CloudMail              : 
+CloudAccountEnabled    : True
+OnPremisesSyncEnabled  : True
+OnPremisesImmutableId  : JRLdIr9SKECjskZEIZGxtg==
+CreatedDateTime        : 5/13/2026 1:44:14 PM
+ValidationStatus       : Synced successfully
+
+SamAccountName         : olivia.brown
+ADName                 : Olivia Brown
+ADUserPrincipalName    : olivia.brown@summitridge-mfg.com
+ADDepartment           : Finance
+ADTitle                : Finance Manager
+ADEnabled              : True
+ADMail                 : 
+ADDistinguishedName    : CN=Olivia Brown,OU=Finance,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+CloudUserFound         : Yes
+CloudDisplayName       : Olivia Brown
+CloudUserPrincipalName : olivia.brown@summitridge-mfg.com
+CloudMail              : 
+CloudAccountEnabled    : True
+OnPremisesSyncEnabled  : True
+OnPremisesImmutableId  : oroeeQGfZUyKAn6bzOzVsw==
+CreatedDateTime        : 5/13/2026 1:44:14 PM
+ValidationStatus       : Synced successfully
+
+SamAccountName         : sophia.martinez
+ADName                 : Sophia Martinez
+ADUserPrincipalName    : sophia.martinez@summitridge-mfg.com
+ADDepartment           : IT
+ADTitle                : Systems Administrator
+ADEnabled              : True
+ADMail                 : 
+ADDistinguishedName    : CN=Sophia Martinez,OU=IT,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+CloudUserFound         : Yes
+CloudDisplayName       : Sophia Martinez
+CloudUserPrincipalName : sophia.martinez@summitridge-mfg.com
+CloudMail              : 
+CloudAccountEnabled    : True
+OnPremisesSyncEnabled  : True
+OnPremisesImmutableId  : jdIPhPxzLUOa23MBZoM3gA==
+CreatedDateTime        : 5/13/2026 1:44:14 PM
+ValidationStatus       : Synced successfully
+

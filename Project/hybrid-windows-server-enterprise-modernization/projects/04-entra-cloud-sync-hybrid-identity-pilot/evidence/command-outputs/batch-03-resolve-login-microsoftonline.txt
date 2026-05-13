@@ -1,0 +1,119 @@
+
+Name                           Type   TTL   Section    NameHost
+----                           ----   ---   -------    --------
+login.microsoftonline.com      CNAME  26    Answer     login.mso.msidentity.com
+login.mso.msidentity.com       CNAME  26    Answer     ak.privatelink.msidentity.com
+ak.privatelink.msidentity.com  CNAME  26    Answer     www.tm.a.prd.aadg.trafficmanager.net
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:f0::3
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:f0::4
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:f0::1
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:f8::3
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:f8::2
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:e8::3
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:f0::2
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : AAAA
+TTL        : 50
+Section    : Answer
+IP6Address : 2603:1036:3000:e8::2
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 20.190.190.131
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 20.190.190.194
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 20.190.190.130
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 40.126.62.129
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 20.190.190.129
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 40.126.62.132
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 20.190.190.193
+
+
+Name       : www.tm.a.prd.aadg.trafficmanager.net
+QueryType  : A
+TTL        : 2
+Section    : Answer
+IP4Address : 40.126.62.131
+
+

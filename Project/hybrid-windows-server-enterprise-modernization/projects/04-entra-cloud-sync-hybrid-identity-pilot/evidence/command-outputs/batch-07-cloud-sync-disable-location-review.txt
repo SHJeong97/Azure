@@ -1,0 +1,16 @@
+Project 04 Batch 7 — Cloud Sync Disable Location Review
+
+Configuration:
+corp.democompany1016.local
+
+Action:
+The disable/stop provisioning location was reviewed in Microsoft Entra admin center.
+
+Rollback decision:
+The configuration was not disabled because the pilot sync is healthy.
+
+Reason:
+Disabling is reserved for rollback, sync errors, scope mistakes, or unexpected provisioning behavior.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch07

@@ -1,0 +1,5 @@
+
+DNSRoot                    NetBIOSName        DomainMode PDCEmulator
+-------                    -----------        ---------- -----------
+corp.democompany1016.local CORP        Windows2016Domain DC01.corp.democompany1016.local
+

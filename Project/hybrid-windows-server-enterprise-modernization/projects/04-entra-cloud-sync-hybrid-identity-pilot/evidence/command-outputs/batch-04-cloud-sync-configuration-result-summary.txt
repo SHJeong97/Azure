@@ -1,0 +1,43 @@
+Project 04 Batch 4 — Cloud Sync Configuration Result
+
+Configuration type:
+AD to Microsoft Entra ID sync
+
+AD domain:
+corp.democompany1016.local
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Provisioning agent:
+MGMT01
+
+Pilot scope:
+GRP-EntraCloudSync-Pilot
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Scoping method:
+Selected security group
+
+Nested groups used:
+No
+
+Provision on demand:
+Tested with Emma Wilson before enabling scoped sync.
+
+Configuration status:
+Enabled after successful pilot test.
+
+Cloud user lookup:
+Graph lookup completed after configuration enablement.
+
+Safety decision:
+Full directory sync was not selected.
+Only the scoped pilot group is in scope.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch04

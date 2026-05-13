@@ -1,0 +1,52 @@
+Project 04 Batch 8 — Final Validation Summary
+
+Project:
+Microsoft Entra Cloud Sync for Hybrid Identity Pilot
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+AD domain:
+corp.democompany1016.local
+
+Verified public domain:
+summitridge-mfg.com
+
+Provisioning agent:
+MGMT01
+
+Pilot sync group:
+GRP-EntraCloudSync-Pilot
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Final validation completed:
+- Provisioning agent service health checked
+- AD replication health checked
+- Pilot sync group membership validated
+- Nested group scope checked
+- AD pilot users validated
+- Microsoft Graph connected
+- Synced pilot cloud users validated
+- summitridge-mfg.com cloud scope checked
+- AD-to-cloud comparison completed
+- Tenant license inventory exported
+
+Final result:
+Microsoft Entra Cloud Sync pilot successfully synchronized selected AD pilot users to Microsoft Entra ID.
+
+Safety decisions:
+- Full directory sync was not used
+- Nested groups were not used
+- Licensing was deferred to Project 05
+- Exchange mailbox enablement was deferred to Project 05
+- Rollback and monitoring controls were documented
+
+Business value:
+The company now has a controlled hybrid identity path from on-premises AD to Microsoft Entra ID using professional UPNs.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch08

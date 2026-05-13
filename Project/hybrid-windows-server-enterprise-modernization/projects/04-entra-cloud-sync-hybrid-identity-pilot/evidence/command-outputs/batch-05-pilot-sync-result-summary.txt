@@ -1,0 +1,30 @@
+Project 04 Batch 5 — Pilot Sync Result Summary
+
+Configuration:
+corp.democompany1016.local
+
+Pilot sync group:
+GRP-EntraCloudSync-Pilot
+
+Pilot users expected:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation performed:
+- AD pilot group membership checked
+- AD pilot UPNs checked
+- Cloud Sync restart triggered
+- Microsoft Graph connected
+- Pilot cloud users looked up
+- summitridge-mfg.com cloud user scope checked
+
+Expected success result:
+The three pilot users exist in Microsoft Entra ID with @summitridge-mfg.com UPNs and OnPremisesSyncEnabled set to True.
+
+Safety decision:
+Only scoped pilot users should appear.
+Full directory sync was not used.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch05

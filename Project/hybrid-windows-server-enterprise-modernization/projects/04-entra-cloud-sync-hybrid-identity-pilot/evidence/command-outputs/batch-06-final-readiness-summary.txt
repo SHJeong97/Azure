@@ -1,0 +1,28 @@
+Project 04 Batch 6 — UPN, Attribute, License, and Sign-In Readiness Summary
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Synced pilot users validated in Microsoft Entra ID
+- AD-to-cloud attributes compared
+- UsageLocation validated or set to US
+- Available tenant licenses exported
+- License readiness checked
+- Sign-in readiness documented
+
+License assignment:
+Deferred to Project 05
+
+Reason:
+Project 04 validates hybrid identity synchronization.
+Project 05 will handle Microsoft 365 license assignment and Exchange Online mailbox enablement.
+
+Final readiness state:
+Pilot users are identity-ready.
+Service access and mailbox creation are pending licensing.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch06

@@ -1,0 +1,34 @@
+Project 04 Batch 7 — Operational Monitoring Summary
+
+Configuration:
+corp.democompany1016.local
+
+Provisioning agent:
+MGMT01
+
+Monitoring areas:
+- Provisioning agent service health
+- AD replication health
+- Pilot sync group membership
+- Nested group presence
+- Microsoft Entra synced user state
+- Cloud Sync provisioning logs
+- Configuration health
+- Accidental-delete protection
+- Scope control
+
+Healthy state:
+- Provisioning agent service is running
+- AD replication has no failures
+- Pilot group contains only direct pilot users
+- No nested groups are used
+- Pilot users are synced to Microsoft Entra ID
+- Configuration status is healthy
+- Password hash sync is enabled
+- Accidental-delete protection is reviewed
+
+Operational risk:
+Cloud Sync should not be expanded until the pilot state remains stable and monitoring confirms no provisioning errors.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch07

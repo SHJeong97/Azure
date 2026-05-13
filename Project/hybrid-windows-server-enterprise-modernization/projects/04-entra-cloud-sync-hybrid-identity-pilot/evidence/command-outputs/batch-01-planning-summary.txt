@@ -1,0 +1,40 @@
+Project 04 Batch 1 — Planning Summary
+
+Project:
+Microsoft Entra Cloud Sync for Hybrid Identity Pilot
+
+Company:
+Summit Ridge Manufacturing Group
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified public domain:
+summitridge-mfg.com
+
+Internal AD DS domain:
+corp.democompany1016.local
+
+Problem being solved:
+Project 03 changed pilot AD users to @summitridge-mfg.com, but Microsoft 365 does not automatically know about AD users without identity synchronization.
+
+Selected solution:
+Microsoft Entra Cloud Sync
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Safety decision:
+Do not sync the full directory first.
+Use scoped pilot synchronization.
+
+Batch 1 status:
+Planning complete.
+No agent installed yet.
+No sync configured yet.
+No cloud users changed yet.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch01

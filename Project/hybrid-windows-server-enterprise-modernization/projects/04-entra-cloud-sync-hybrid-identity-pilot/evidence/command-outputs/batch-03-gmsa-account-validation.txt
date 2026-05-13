@@ -1,0 +1,7 @@
+
+Name              : provAgentgMSA
+SamAccountName    : pGMSA_8b7f7514$
+Enabled           : True
+DNSHostName       : 
+DistinguishedName : CN=provAgentgMSA,CN=Managed Service Accounts,DC=corp,DC=democompany1016,DC=local
+

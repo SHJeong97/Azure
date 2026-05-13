@@ -1,0 +1,31 @@
+
+LookupUPN             : emma.wilson@summitridge-mfg.com
+CloudUserFound        : Yes
+DisplayName           : Emma Wilson
+UserPrincipalName     : emma.wilson@summitridge-mfg.com
+Mail                  : 
+AccountEnabled        : True
+OnPremisesSyncEnabled : True
+Id                    : 9106bbd9-226b-4dd5-9f29-18b472072115
+Status                : Cloud user found
+
+LookupUPN             : olivia.brown@summitridge-mfg.com
+CloudUserFound        : Yes
+DisplayName           : Olivia Brown
+UserPrincipalName     : olivia.brown@summitridge-mfg.com
+Mail                  : 
+AccountEnabled        : True
+OnPremisesSyncEnabled : True
+Id                    : 6c64fdb8-a29d-4ce4-8472-1046845b0659
+Status                : Cloud user found
+
+LookupUPN             : sophia.martinez@summitridge-mfg.com
+CloudUserFound        : Yes
+DisplayName           : Sophia Martinez
+UserPrincipalName     : sophia.martinez@summitridge-mfg.com
+Mail                  : 
+AccountEnabled        : True
+OnPremisesSyncEnabled : True
+Id                    : 13c04896-4d5e-4cfe-a8b7-950497fc474e
+Status                : Cloud user found
+

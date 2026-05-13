@@ -1,0 +1,33 @@
+Project 04 Batch 7 — Cloud Sync Rollback Readiness
+
+Configuration:
+corp.democompany1016.local
+
+Pilot sync group:
+GRP-EntraCloudSync-Pilot
+
+Provisioning agent:
+MGMT01
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Rollback scenario:
+If Cloud Sync creates unexpected users, syncs incorrect attributes, or causes identity issues, the first rollback action is to disable the Cloud Sync configuration.
+
+Recommended rollback order:
+1. Disable the Cloud Sync configuration in Microsoft Entra admin center.
+2. Confirm provisioning stops.
+3. Review provisioning logs.
+4. Confirm pilot users remain scoped.
+5. Do not delete cloud users until impact is understood.
+6. Remove users from pilot sync group only if needed.
+7. Document result before re-enabling.
+
+Important:
+Rollback does not automatically mean deleting synced cloud users.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch07

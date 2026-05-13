@@ -1,0 +1,119 @@
+
+Name                           Type   TTL   Section    NameHost
+----                           ----   ---   -------    --------
+login.microsoftonline.com      CNAME  14    Answer     login.mso.msidentity.com
+login.mso.msidentity.com       CNAME  14    Answer     ak.privatelink.msidentity.com
+ak.privatelink.msidentity.com  CNAME  14    Answer     www.tm.a.prd.aadg.akadns.net
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1037:1:130::3
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1037:1:128::6
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1037:1:128::7
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1036:3000:138::3
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1037:1:128::9
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1036:3000:138::4
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1036:3000:138::5
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : AAAA
+TTL        : 232
+Section    : Answer
+IP6Address : 2603:1036:3000:138::6
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 20.190.190.195
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 20.190.190.130
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 20.190.190.129
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 20.190.190.131
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 20.190.190.193
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 20.190.190.194
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 20.190.190.132
+
+
+Name       : www.tm.a.prd.aadg.akadns.net
+QueryType  : A
+TTL        : 177
+Section    : Answer
+IP4Address : 40.126.62.129
+
+

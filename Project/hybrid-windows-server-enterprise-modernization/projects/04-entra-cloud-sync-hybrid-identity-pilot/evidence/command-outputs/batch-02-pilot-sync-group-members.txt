@@ -1,0 +1,7 @@
+
+Name            SamAccountName  objectClass DistinguishedName
+----            --------------  ----------- -----------------
+Emma Wilson     emma.wilson     user        CN=Emma Wilson,OU=HR,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+Olivia Brown    olivia.brown    user        CN=Olivia Brown,OU=Finance,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+Sophia Martinez sophia.martinez user        CN=Sophia Martinez,OU=IT,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+

@@ -1,0 +1,37 @@
+
+DisplayName           : Emma Wilson
+UserPrincipalName     : emma.wilson@summitridge-mfg.com
+Mail                  : 
+AccountEnabled        : True
+UsageLocation         : US
+Department            : HR
+JobTitle              : HR Manager
+OnPremisesSyncEnabled : True
+OnPremisesImmutableId : JRLdIr9SKECjskZEIZGxtg==
+AssignedLicenseCount  : 0
+Id                    : 9106bbd9-226b-4dd5-9f29-18b472072115
+
+DisplayName           : Olivia Brown
+UserPrincipalName     : olivia.brown@summitridge-mfg.com
+Mail                  : 
+AccountEnabled        : True
+UsageLocation         : US
+Department            : Finance
+JobTitle              : Finance Manager
+OnPremisesSyncEnabled : True
+OnPremisesImmutableId : oroeeQGfZUyKAn6bzOzVsw==
+AssignedLicenseCount  : 0
+Id                    : 6c64fdb8-a29d-4ce4-8472-1046845b0659
+
+DisplayName           : Sophia Martinez
+UserPrincipalName     : sophia.martinez@summitridge-mfg.com
+Mail                  : 
+AccountEnabled        : True
+UsageLocation         : US
+Department            : IT
+JobTitle              : Systems Administrator
+OnPremisesSyncEnabled : True
+OnPremisesImmutableId : jdIPhPxzLUOa23MBZoM3gA==
+AssignedLicenseCount  : 0
+Id                    : 13c04896-4d5e-4cfe-a8b7-950497fc474e
+

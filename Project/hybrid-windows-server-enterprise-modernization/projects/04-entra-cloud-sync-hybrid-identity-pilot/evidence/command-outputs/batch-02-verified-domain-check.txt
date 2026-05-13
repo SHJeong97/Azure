@@ -1,0 +1,5 @@
+
+Id                  IsVerified IsDefault SupportedServices
+--                  ---------- --------- -----------------
+summitridge-mfg.com       True     False {Email, Intune}
+

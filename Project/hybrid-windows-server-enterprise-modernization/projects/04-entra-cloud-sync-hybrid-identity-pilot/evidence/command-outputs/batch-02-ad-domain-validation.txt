@@ -1,0 +1,8 @@
+
+DNSRoot              : corp.democompany1016.local
+NetBIOSName          : CORP
+DomainMode           : Windows2016Domain
+PDCEmulator          : DC01.corp.democompany1016.local
+RIDMaster            : DC01.corp.democompany1016.local
+InfrastructureMaster : DC01.corp.democompany1016.local
+

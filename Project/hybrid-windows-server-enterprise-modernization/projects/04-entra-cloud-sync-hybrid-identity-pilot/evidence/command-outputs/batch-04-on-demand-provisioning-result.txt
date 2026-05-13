@@ -1,0 +1,22 @@
+Project 04 Batch 4 — On-Demand Provisioning Test Result
+
+Test user:
+Emma Wilson
+
+Test user UPN:
+emma.wilson@summitridge-mfg.com
+
+Test method:
+Microsoft Entra Cloud Sync Provision on demand
+
+Result:
+Provision on demand completed successfully.
+
+Configuration scope:
+GRP-EntraCloudSync-Pilot
+
+Important note:
+Only one pilot user was tested before enabling the scoped configuration.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch04

@@ -1,0 +1,37 @@
+Project 04 Batch 3 — Provisioning Agent Installation Summary
+
+Server:
+MGMT01
+
+Domain:
+corp.democompany1016.local
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Provisioning agent:
+Microsoft Entra provisioning agent installed.
+
+Issue encountered:
+Initial configuration was blocked because KDS Root Key / gMSA readiness was missing on DC01.
+
+Fix applied:
+KDS service was started and configured.
+KDS Root Key was created/validated.
+AD replication was validated after KDS correction.
+
+gMSA:
+provAgentgMSA was used/created for the provisioning agent configuration.
+
+Portal validation:
+Provisioning agent checked in Microsoft Entra admin center under Cloud Sync agents.
+
+Current status:
+Provisioning agent installation completed.
+Cloud Sync configuration has not been created yet.
+
+Next step:
+Configure scoped Cloud Sync for GRP-EntraCloudSync-Pilot in Batch 4.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch03

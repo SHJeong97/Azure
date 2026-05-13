@@ -1,0 +1,36 @@
+Project 04 Batch 5 — Final Pilot Sync Validation Summary
+
+Configuration:
+corp.democompany1016.local
+
+Provisioning agent:
+MGMT01
+
+Pilot scope:
+GRP-EntraCloudSync-Pilot
+
+Expected pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- AD pilot group membership validated
+- AD pilot UPNs validated
+- Cloud Sync restart triggered
+- Microsoft Graph lookup completed
+- Provisioning logs reviewed
+- AD-to-cloud comparison created
+- Final pilot sync status exported
+- Scope check completed
+
+Safety result:
+Full directory sync was not used.
+Pilot group scope was maintained.
+Nested groups were not used.
+
+Business result:
+The environment is ready for Batch 6 validation of UPN, attributes, licenses, and sign-in readiness.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch05

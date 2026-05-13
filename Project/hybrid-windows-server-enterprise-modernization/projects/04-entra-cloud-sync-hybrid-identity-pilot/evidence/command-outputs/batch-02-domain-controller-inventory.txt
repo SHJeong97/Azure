@@ -1,0 +1,13 @@
+
+HostName        : DC01.corp.democompany1016.local
+Site            : Default-First-Site-Name
+IPv4Address     : 10.10.1.10
+IsGlobalCatalog : True
+OperatingSystem : Windows Server 2022 Datacenter Azure Edition
+
+HostName        : DC02.corp.democompany1016.local
+Site            : Default-First-Site-Name
+IPv4Address     : 10.10.1.11
+IsGlobalCatalog : True
+OperatingSystem : Windows Server 2022 Datacenter Azure Edition
+

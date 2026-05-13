@@ -1,0 +1,43 @@
+
+Name              : Emma Wilson
+SamAccountName    : emma.wilson
+UserPrincipalName : emma.wilson@summitridge-mfg.com
+mail              : 
+givenName         : Emma
+sn                : Wilson
+displayName       : Emma Wilson
+Department        : HR
+Title             : HR Manager
+Enabled           : True
+DistinguishedName : CN=Emma Wilson,OU=HR,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+UPNReady          : Yes
+EnabledReady      : Yes
+
+Name              : Olivia Brown
+SamAccountName    : olivia.brown
+UserPrincipalName : olivia.brown@summitridge-mfg.com
+mail              : 
+givenName         : Olivia
+sn                : Brown
+displayName       : Olivia Brown
+Department        : Finance
+Title             : Finance Manager
+Enabled           : True
+DistinguishedName : CN=Olivia Brown,OU=Finance,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+UPNReady          : Yes
+EnabledReady      : Yes
+
+Name              : Sophia Martinez
+SamAccountName    : sophia.martinez
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+mail              : 
+givenName         : Sophia
+sn                : Martinez
+displayName       : Sophia Martinez
+Department        : IT
+Title             : Systems Administrator
+Enabled           : True
+DistinguishedName : CN=Sophia Martinez,OU=IT,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+UPNReady          : Yes
+EnabledReady      : Yes
+

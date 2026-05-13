@@ -1,0 +1,27 @@
+
+Name                           Type   TTL   Section    NameHost
+----                           ----   ---   -------    --------
+entra.microsoft.com            CNAME  20    Answer     portal.azure.com
+portal.azure.com               CNAME  20    Answer     portal.azure.com.trafficmanager.net
+portal.azure.com.trafficmanage CNAME  20    Answer     azureportal.z01.azurefd.net
+r.net
+azureportal.z01.azurefd.net    CNAME  20    Answer     azurefd-p-prod.trafficmanager.net
+azurefd-p-prod.trafficmanager. CNAME  20    Answer     shed.s-part-0021.p-0010.p-msedge.net
+net
+shed.s-part-0021.p-0010.p-msed CNAME  20    Answer     s-part-0021.p-0010.p-msedge.net
+ge.net
+
+Name       : s-part-0021.p-0010.p-msedge.net
+QueryType  : AAAA
+TTL        : 21
+Section    : Answer
+IP6Address : 2603:1061:11::21
+
+
+Name       : s-part-0021.p-0010.p-msedge.net
+QueryType  : A
+TTL        : 48
+Section    : Answer
+IP4Address : 150.171.84.21
+
+

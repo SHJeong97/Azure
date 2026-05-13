@@ -1,0 +1,28 @@
+
+LookupUPN         : emma.wilson@summitridge-mfg.com
+CloudUserExists   : No
+DisplayName       : 
+UserPrincipalName : 
+Mail              : 
+AccountEnabled    : 
+Id                : 
+ConflictRisk      : No direct UPN conflict found
+
+LookupUPN         : olivia.brown@summitridge-mfg.com
+CloudUserExists   : No
+DisplayName       : 
+UserPrincipalName : 
+Mail              : 
+AccountEnabled    : 
+Id                : 
+ConflictRisk      : No direct UPN conflict found
+
+LookupUPN         : sophia.martinez@summitridge-mfg.com
+CloudUserExists   : No
+DisplayName       : 
+UserPrincipalName : 
+Mail              : 
+AccountEnabled    : 
+Id                : 
+ConflictRisk      : No direct UPN conflict found
+

@@ -1,0 +1,5 @@
+
+Name                       RootDomain                        ForestMode UPNSuffixes
+----                       ----------                        ---------- -----------
+corp.democompany1016.local corp.democompany1016.local Windows2016Forest {summitridge-mfg.com}
+

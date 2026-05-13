@@ -1,0 +1,118 @@
+
+Name                           Type   TTL   Section    NameHost
+----                           ----   ---   -------    --------
+graph.microsoft.com            CNAME  246   Answer     ags.privatelink.msidentity.com
+ags.privatelink.msidentity.com CNAME  246   Answer     www.tm.prd.ags.trafficmanager.net
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1037:1:130::81
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1036:3000:130::81
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1037:1:128::81
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1037:1:130::80
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1037:1:138::82
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1037:1:138::83
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1036:3000:128::81
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : AAAA
+TTL        : 247
+Section    : Answer
+IP6Address : 2603:1036:3000:130::80
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 40.126.23.38
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 20.190.151.38
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 40.126.23.99
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 40.126.23.96
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 40.126.23.97
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 20.190.151.100
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 20.190.151.37
+
+
+Name       : www.tm.prd.ags.trafficmanager.net
+QueryType  : A
+TTL        : 172
+Section    : Answer
+IP4Address : 40.126.23.98
+
+

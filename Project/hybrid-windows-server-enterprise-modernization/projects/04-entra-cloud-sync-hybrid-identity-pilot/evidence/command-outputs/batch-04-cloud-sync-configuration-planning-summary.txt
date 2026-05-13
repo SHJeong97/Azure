@@ -1,0 +1,42 @@
+Project 04 Batch 4 — Cloud Sync Configuration Planning Summary
+
+Configuration type:
+AD to Microsoft Entra ID sync
+
+AD domain:
+corp.democompany1016.local
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified public UPN suffix:
+summitridge-mfg.com
+
+Provisioning agent:
+Installed on MGMT01
+
+Pilot scope method:
+Selected security group
+
+Pilot group:
+GRP-EntraCloudSync-Pilot
+
+Pilot group DN:
+CN=GRP-EntraCloudSync-Pilot,OU=Groups,OU=SRMG,DC=corp,DC=democompany1016,DC=local
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Password hash sync:
+Enabled for pilot configuration if selected in portal
+
+Safety decisions:
+- All users was not selected
+- Nested groups were not used
+- Full directory sync was not selected
+- Configuration will be tested before broad validation
+
+Evidence location:
+C:\LabEvidence\Project04\Batch04

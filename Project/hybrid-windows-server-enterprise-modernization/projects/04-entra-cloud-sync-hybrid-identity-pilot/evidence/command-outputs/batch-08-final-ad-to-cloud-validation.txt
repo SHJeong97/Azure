@@ -1,0 +1,49 @@
+
+SamAccountName        : emma.wilson
+ADDisplayName         : Emma Wilson
+CloudDisplayName      : Emma Wilson
+ADUPN                 : emma.wilson@summitridge-mfg.com
+CloudUPN              : emma.wilson@summitridge-mfg.com
+ADDepartment          : HR
+CloudDepartment       : HR
+ADTitle               : HR Manager
+CloudJobTitle         : HR Manager
+ADEnabled             : True
+CloudAccountEnabled   : True
+CloudUsageLocation    : US
+OnPremisesSyncEnabled : True
+UPNMatch              : Yes
+FinalStatus           : Validated
+
+SamAccountName        : olivia.brown
+ADDisplayName         : Olivia Brown
+CloudDisplayName      : Olivia Brown
+ADUPN                 : olivia.brown@summitridge-mfg.com
+CloudUPN              : olivia.brown@summitridge-mfg.com
+ADDepartment          : Finance
+CloudDepartment       : Finance
+ADTitle               : Finance Manager
+CloudJobTitle         : Finance Manager
+ADEnabled             : True
+CloudAccountEnabled   : True
+CloudUsageLocation    : US
+OnPremisesSyncEnabled : True
+UPNMatch              : Yes
+FinalStatus           : Validated
+
+SamAccountName        : sophia.martinez
+ADDisplayName         : Sophia Martinez
+CloudDisplayName      : Sophia Martinez
+ADUPN                 : sophia.martinez@summitridge-mfg.com
+CloudUPN              : sophia.martinez@summitridge-mfg.com
+ADDepartment          : IT
+CloudDepartment       : IT
+ADTitle               : Systems Administrator
+CloudJobTitle         : Systems Administrator
+ADEnabled             : True
+CloudAccountEnabled   : True
+CloudUsageLocation    : US
+OnPremisesSyncEnabled : True
+UPNMatch              : Yes
+FinalStatus           : Validated
+

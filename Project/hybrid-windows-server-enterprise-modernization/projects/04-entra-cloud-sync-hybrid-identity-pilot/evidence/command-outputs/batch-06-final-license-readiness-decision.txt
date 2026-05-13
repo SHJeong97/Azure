@@ -1,0 +1,28 @@
+
+UserPrincipalName     : emma.wilson@summitridge-mfg.com
+AccountEnabled        : True
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 0
+LicenseReady          : Yes
+LicenseDecision       : Defer license assignment to Project 05
+Reason                : Project 04 validates sync and readiness only
+
+UserPrincipalName     : olivia.brown@summitridge-mfg.com
+AccountEnabled        : True
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 0
+LicenseReady          : Yes
+LicenseDecision       : Defer license assignment to Project 05
+Reason                : Project 04 validates sync and readiness only
+
+UserPrincipalName     : sophia.martinez@summitridge-mfg.com
+AccountEnabled        : True
+UsageLocation         : US
+OnPremisesSyncEnabled : True
+AssignedLicenseCount  : 0
+LicenseReady          : Yes
+LicenseDecision       : Defer license assignment to Project 05
+Reason                : Project 04 validates sync and readiness only
+

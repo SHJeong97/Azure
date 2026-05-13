@@ -1,0 +1,21 @@
+Project 04 Batch 5 — Provisioning Log Review
+
+Configuration:
+corp.democompany1016.local
+
+Pilot users reviewed:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Provisioning log result:
+Pilot users were reviewed in Microsoft Entra Cloud Sync provisioning logs.
+
+Result:
+Provisioning completed successfully or users appeared in Microsoft Entra ID after scoped sync.
+
+Scope validation:
+Only the pilot group GRP-EntraCloudSync-Pilot was used.
+
+Evidence location:
+C:\LabEvidence\Project04\Batch05
