@@ -1,1 +1,11 @@
-
+ScopeItem,Name,Purpose,InitialState
+Pilot group,GRP-CA-Pilot-Users,Conditional Access pilot user scope,Planned
+Break-glass exclusion group,GRP-CA-Excluded-BreakGlass,Emergency access exclusion from CA policies,Planned
+Pilot user,emma.wilson@summitridge-mfg.com,HR pilot user,Planned
+Pilot user,olivia.brown@summitridge-mfg.com,Finance pilot user,Planned
+Pilot user,sophia.martinez@summitridge-mfg.com,IT pilot user,Planned
+Policy,CA001-Require-MFA-Pilot-Users,Require MFA for pilot users,Report-only planned
+Policy,CA002-Block-Legacy-Authentication,Block legacy authentication,Report-only planned
+Policy,CA003-Require-MFA-For-Admin-Portals,Require MFA for admin portals,Report-only planned
+Policy,CA004-SignIn-Risk-MFA,Require MFA for risky sign-ins,Planning
+Policy,CA005-User-Risk-Password-Change,Require password change for risky users,Planning
