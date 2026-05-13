@@ -1,1 +1,16 @@
-
+CheckID,ValidationItem,ExpectedResult,Status
+P06-VAL-001,Project 06 folder structure created,Project folders exist,Completed
+P06-VAL-002,Lab evidence folder created,C:\LabEvidence\Project06\Batch01 exists,Completed
+P06-VAL-003,Project 06 base files created,README implementation data and script files created,Completed
+P06-VAL-004,Business scenario documented,01-business-scenario.md created,Completed
+P06-VAL-005,Conditional Access design documented,02-conditional-access-design.md created,Completed
+P06-VAL-006,Policy rollout plan documented,03-policy-rollout-plan.md created,Completed
+P06-VAL-007,Risk and rollback plan documented,04-risk-and-rollback-plan.md created,Completed
+P06-VAL-008,Policy scope CSV created,project-06-policy-scope.csv created,Completed
+P06-VAL-009,Risk register created,project-06-risk-register.csv created,Completed
+P06-VAL-010,Validation checklist created,project-06-validation-checklist.csv created,Completed
+P06-VAL-011,Tenant readiness validation pending,Validate in Batch 2,Planned
+P06-VAL-012,Pilot groups pending,Create in Batch 2,Planned
+P06-VAL-013,Authentication methods pending,Validate in Batch 3,Planned
+P06-VAL-014,Conditional Access MFA policy pending,Create in Batch 4,Planned
+P06-VAL-015,Legacy authentication policy pending,Create in Batch 5,Planned
