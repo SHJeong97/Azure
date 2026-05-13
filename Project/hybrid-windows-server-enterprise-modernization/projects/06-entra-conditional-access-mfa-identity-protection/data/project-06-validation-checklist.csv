@@ -31,3 +31,18 @@ P06-VAL-029,Break-glass role assignment documented,Global Administrator assignme
 P06-VAL-030,Pilot and exclusion group summary created,Group readiness summary saved,Completed
 P06-VAL-031,Break-glass documentation note created,Documentation note saved,Completed
 P06-VAL-032,Tenant readiness implementation document created,Implementation document saved,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P06-VAL-033,Batch 3 evidence folder created,C:\LabEvidence\Project06\Batch03 exists,Completed
+P06-VAL-034,Microsoft Graph connected for MFA readiness,Graph context returned,Completed
+P06-VAL-035,CA pilot group revalidated,GRP-CA-Pilot-Users members confirmed,Completed
+P06-VAL-036,Pre-registration MFA details exported,Pilot MFA registration report exported,Completed
+P06-VAL-037,Pilot MFA readiness summary created,Readiness summary saved,Completed
+P06-VAL-038,Authentication methods policy reviewed,Policy review documented,Completed
+P06-VAL-039,Microsoft Authenticator validated for pilot group,Authenticator pilot configuration documented,Completed
+P06-VAL-040,MFA registration test plan created,Test plan CSV created,Completed
+P06-VAL-041,Pilot MFA registration evidence note created,Registration evidence note saved,Completed
+P06-VAL-042,Post-registration MFA details exported,Post-registration report exported,Completed
+P06-VAL-043,Pilot authentication methods exported,Authentication methods CSV created,Completed
+P06-VAL-044,Post-registration MFA readiness summary created,Readiness summary saved,Completed
+P06-VAL-045,MFA registration completion summary created,Completion summary saved,Completed
+P06-VAL-046,MFA readiness implementation document created,Implementation document saved,Completed
