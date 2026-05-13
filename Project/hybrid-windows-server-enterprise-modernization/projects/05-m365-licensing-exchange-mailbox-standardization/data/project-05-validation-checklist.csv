@@ -21,3 +21,14 @@ P05-VAL-019,Accepted domain validated,summitridge-mfg.com found as accepted doma
 P05-VAL-020,Pre-license mailbox lookup completed,Mailbox state checked before licensing,Completed
 P05-VAL-021,Recipient address conflict check completed,Target SMTP conflicts checked,Completed
 P05-VAL-022,Mail DNS readiness checked,MX and Autodiscover checked,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P05-VAL-023,Microsoft Graph connected for license assignment,Graph context returned,Completed
+P05-VAL-024,Available SKUs exported before assignment,Tenant SKUs exported,Completed
+P05-VAL-025,Pilot SKU selected,E5 or approved SKU selected,Completed
+P05-VAL-026,Licensing group created,GRP-M365-E5-Pilot-License created,Completed
+P05-VAL-027,Pilot users added to licensing group,Three pilot users added,Completed
+P05-VAL-028,Pre-assignment readiness validated,Users ready for license assignment,Completed
+P05-VAL-029,License assigned to group,Group-based license assignment completed,Completed
+P05-VAL-030,Pilot user license assignment validated,Expected SKU assigned to pilot users,Completed
+P05-VAL-031,License service plans exported,Service plan details exported,Completed
+P05-VAL-032,License application summary created,License application summary saved,Completed
