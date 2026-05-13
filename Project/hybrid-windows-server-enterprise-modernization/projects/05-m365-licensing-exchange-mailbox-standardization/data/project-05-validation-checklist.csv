@@ -1,0 +1,13 @@
+CheckID,ValidationItem,ExpectedResult,Status
+P05-VAL-001,Project folder structure created,Project 05 folders exist,Completed
+P05-VAL-002,Lab evidence folder created,C:\LabEvidence\Project05\Batch01 exists,Completed
+P05-VAL-003,Business scenario documented,01-business-scenario.md created,Completed
+P05-VAL-004,Licensing and mailbox design documented,02-licensing-and-mailbox-design.md created,Completed
+P05-VAL-005,Email address standardization plan documented,03-email-address-standardization-plan.md created,Completed
+P05-VAL-006,Risk and rollback plan documented,04-risk-and-rollback-plan.md created,Completed
+P05-VAL-007,Pilot license mailbox scope created,pilot-license-mailbox-scope.csv created,Completed
+P05-VAL-008,Project risk register created,project-05-risk-register.csv created,Completed
+P05-VAL-009,Pre-license pilot user validation pending,Validate in Batch 2,Planned
+P05-VAL-010,License assignment pending,Assign in Batch 3,Planned
+P05-VAL-011,Mailbox provisioning validation pending,Validate in Batch 4,Planned
+P05-VAL-012,SMTP and alias standardization pending,Perform in Batch 5,Planned
