@@ -27,3 +27,11 @@ P04-SYNC-025,gMSA validated,provAgentgMSA exists or agent service account config
 P04-SYNC-026,Provisioning agent services validated,Agent services checked,Completed
 P04-SYNC-027,Provisioning agent visible in Entra portal,Agent appears under Cloud Sync agents,Completed
 P04-SYNC-028,Cloud Sync configuration pending,Configure scoped sync in Batch 4,Planned
+P04-SYNC-029,Cloud Sync configuration created,AD to Microsoft Entra ID configuration created,Completed
+P04-SYNC-030,Provisioning agent selected,MGMT01 agent selected or associated,Completed
+P04-SYNC-031,Pilot group scoping configured,GRP-EntraCloudSync-Pilot selected,Completed
+P04-SYNC-032,Nested groups avoided,Only direct pilot users scoped,Completed
+P04-SYNC-033,Attribute mappings reviewed,Default mappings reviewed,Completed
+P04-SYNC-034,Provision on demand tested,Emma Wilson tested,Completed
+P04-SYNC-035,Scoped configuration enabled,Configuration enabled after testing,Completed
+P04-SYNC-036,Initial cloud lookup completed,Pilot users checked in Microsoft Entra ID,Completed
