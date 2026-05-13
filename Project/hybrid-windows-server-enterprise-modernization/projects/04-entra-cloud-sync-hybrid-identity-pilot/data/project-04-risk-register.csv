@@ -2,11 +2,11 @@
 RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
 P04-001,Full directory synced accidentally,Too many users created in Entra ID,Medium,Selected security group scope used instead of all users,Identity Administrator,Mitigated
 P04-002,Wrong OU or group selected,Incorrect users synchronized,Medium,Validated GRP-EntraCloudSync-Pilot before configuration,Identity Administrator,Mitigated
-P04-003,Duplicate cloud users,Sign-in and licensing confusion,Medium,Checked existing cloud users before sync,Identity Administrator,Mitigated if no conflicts found
+P04-003,Duplicate cloud users,Sign-in and licensing confusion,Medium,Cloud conflict check and post-sync comparison completed,Identity Administrator,Mitigated
 P04-004,UPN suffix mismatch,Users may receive incorrect cloud UPNs,Medium,Verified summitridge-mfg.com in AD and Microsoft Entra ID,Identity Administrator,Mitigated
 P04-005,Missing AD attributes,Cloud user objects may be incomplete,Low,Validate user attributes before sync,Identity Administrator,Open
 P04-006,Provisioning agent install failure,Sync cannot run,Medium,KDS/gMSA issue resolved and agent installed,Hybrid Identity Administrator,Mitigated
-P04-007,Sync error not monitored,Issues may go unnoticed,Medium,Validate provisioning logs and portal status,Hybrid Identity Administrator,Open
+P04-007,Sync error not monitored,Issues may go unnoticed,Medium,Provisioning logs reviewed after pilot sync,Hybrid Identity Administrator,Mitigated
 P04-008,Accidental object deletion or disable behavior,Cloud identity disruption,Medium,Understand rollback and deletion behavior before broad rollout,Identity Administrator,Open
 P04-009,Licensing applied too early,Licensing confusion or mailbox creation before readiness,Low,Separate sync validation from license assignment,Cloud Administrator,Open
 P04-010,Helpdesk impact from sign-in changes,User support volume increases,Medium,Pilot first and document user impact,IT Management,Open
@@ -15,3 +15,5 @@ P04-012,KDS Root Key missing,gMSA creation fails,Medium,Created or validated KDS
 P04-013,Provisioning agent not visible in Entra portal,Cloud Sync cannot be configured,Medium,Validated agent registration in Microsoft Entra admin center,Hybrid Identity Administrator,Mitigated
 P04-014,Cloud Sync enabled without testing,Unexpected provisioning result,Medium,Provision on demand tested before scoped validation,Hybrid Identity Administrator,Mitigated
 P04-015,Attribute mapping changed unnecessarily,Unexpected cloud identity attributes,Low,Default mappings reviewed and kept for pilot,Hybrid Identity Administrator,Mitigated
+P04-016,Pilot users do not provision,Cloud users missing after sync,Medium,Graph lookup and provisioning logs reviewed,Hybrid Identity Administrator,Mitigated if users found
+P04-017,Unexpected users provisioned,Scope breach and accidental broad sync,Medium,Reviewed summitridge-mfg.com cloud user scope after sync,Identity Administrator,Mitigated if only pilot users found
