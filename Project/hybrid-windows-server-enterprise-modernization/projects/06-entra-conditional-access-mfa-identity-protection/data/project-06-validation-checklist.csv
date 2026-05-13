@@ -46,3 +46,17 @@ P06-VAL-043,Pilot authentication methods exported,Authentication methods CSV cre
 P06-VAL-044,Post-registration MFA readiness summary created,Readiness summary saved,Completed
 P06-VAL-045,MFA registration completion summary created,Completion summary saved,Completed
 P06-VAL-046,MFA readiness implementation document created,Implementation document saved,Completed
+P06-VAL-047,Batch 4 evidence folder created,C:\LabEvidence\Project06\Batch04 exists,Completed
+P06-VAL-048,Microsoft Graph connected for CA001,Graph context returned,Completed
+P06-VAL-049,CA001 group scope loaded,Pilot and break-glass groups loaded,Completed
+P06-VAL-050,CA001 group members validated,Pilot and exclusion members confirmed,Completed
+P06-VAL-051,CA001 policy design summary created,Policy design summary saved,Completed
+P06-VAL-052,CA001 created in report-only mode,Policy state is report-only,Completed
+P06-VAL-053,CA001 full configuration exported,Policy configuration JSON exported,Completed
+P06-VAL-054,CA001 portal validation completed,Policy validated in Entra admin center,Completed
+P06-VAL-055,Pilot sign-in tests performed,Pilot users signed in for report-only evaluation,Completed
+P06-VAL-056,Recent pilot sign-in logs exported,Sign-in logs exported,Completed
+P06-VAL-057,CA001 report-only evaluation exported,Report-only evaluation exported,Completed
+P06-VAL-058,CA001 impact summary created,Report-only impact summary saved,Completed
+P06-VAL-059,CA001 sign-in log review completed,Sign-in log review note saved,Completed
+P06-VAL-060,CA001 implementation document created,Implementation document saved,Completed
