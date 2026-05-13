@@ -6,8 +6,8 @@ P04-003,Duplicate cloud users,Sign-in and licensing confusion,Medium,Cloud confl
 P04-004,UPN suffix mismatch,Users may receive incorrect cloud UPNs,Medium,Verified summitridge-mfg.com in AD and Microsoft Entra ID,Identity Administrator,Mitigated
 P04-005,Missing AD attributes,Cloud user objects may be incomplete,Low,Validate user attributes before sync,Identity Administrator,Open
 P04-006,Provisioning agent install failure,Sync cannot run,Medium,KDS/gMSA issue resolved and agent installed,Hybrid Identity Administrator,Mitigated
-P04-007,Sync error not monitored,Issues may go unnoticed,Medium,Provisioning logs reviewed after pilot sync,Hybrid Identity Administrator,Mitigated
-P04-008,Accidental object deletion or disable behavior,Cloud identity disruption,Medium,Understand rollback and deletion behavior before broad rollout,Identity Administrator,Open
+P04-007,Sync error not monitored,Issues may go unnoticed,Medium,Provisioning logs and configuration health reviewed,Hybrid Identity Administrator,Mitigated
+P04-008,Accidental object deletion or disable behavior,Cloud identity disruption,Medium,Accidental-delete protection reviewed and rollback plan documented,Identity Administrator,Mitigated
 P04-009,Licensing applied too early,Licensing confusion or mailbox creation before readiness,Low,Deferred license assignment to Project 05,Cloud Administrator,Mitigated
 P04-010,Helpdesk impact from sign-in changes,User support volume increases,Medium,Pilot first and document user impact,IT Management,Open
 P04-011,Nested group used for Cloud Sync pilot scope,Nested members may not sync,Medium,Used direct pilot users only,Identity Administrator,Mitigated
@@ -16,7 +16,9 @@ P04-013,Provisioning agent not visible in Entra portal,Cloud Sync cannot be conf
 P04-014,Cloud Sync enabled without testing,Unexpected provisioning result,Medium,Provision on demand tested before scoped validation,Hybrid Identity Administrator,Mitigated
 P04-015,Attribute mapping changed unnecessarily,Unexpected cloud identity attributes,Low,Default mappings reviewed and kept for pilot,Hybrid Identity Administrator,Mitigated
 P04-016,Pilot users do not provision,Cloud users missing after sync,Medium,Graph lookup and provisioning logs reviewed,Hybrid Identity Administrator,Mitigated if users found
-P04-017,Unexpected users provisioned,Scope breach and accidental broad sync,Medium,Reviewed summitridge-mfg.com cloud user scope after sync,Identity Administrator,Mitigated if only pilot users found
+P04-017,Unexpected users provisioned,Scope breach and accidental broad sync,Medium,Reviewed synced user scope and pilot group membership,Identity Administrator,Mitigated
 P04-018,UsageLocation missing,License assignment fails later,Medium,Validated or set UsageLocation to US before license planning,Cloud Administrator,Mitigated
 P04-019,Service access assumed before licensing,Users may not access Microsoft 365 services,Medium,Documented identity ready but service access pending,Cloud Administrator,Mitigated
 P04-020,UPN or attribute mismatch after sync,User identity confusion,Medium,Completed AD-to-cloud attribute comparison,Identity Administrator,Mitigated
+P04-021,Agent service failure,Provisioning may stop,Medium,Agent service health validation added to monitoring,Hybrid Identity Administrator,Mitigated
+P04-022,Rollback steps unclear,Recovery delayed during incident,Medium,Rollback and restore scripts created,Identity Administrator,Mitigated
