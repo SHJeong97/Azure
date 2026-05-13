@@ -1,0 +1,15 @@
+Component,Configuration,Result
+AD DS domain,corp.democompany1016.local,Validated
+Public UPN suffix,summitridge-mfg.com,Validated
+Provisioning agent server,MGMT01,Installed and validated
+Sync method,Microsoft Entra Cloud Sync,Configured
+Sync direction,Active Directory to Microsoft Entra ID,Configured
+Pilot scope method,Selected security group,Configured
+Pilot sync group,GRP-EntraCloudSync-Pilot,Validated
+Nested groups,Not used,Validated
+Password hash sync,Enabled,Validated
+Pilot cloud users,Three users synchronized,Validated
+Licensing,Deferred to Project 05,Documented
+Exchange mailbox enablement,Deferred to Project 05,Documented
+Rollback controls,Documented,Completed
+Monitoring controls,Documented,Completed
