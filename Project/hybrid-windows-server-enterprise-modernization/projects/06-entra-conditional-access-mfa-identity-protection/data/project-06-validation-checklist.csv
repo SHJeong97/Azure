@@ -14,3 +14,20 @@ P06-VAL-012,Pilot groups pending,Create in Batch 2,Planned
 P06-VAL-013,Authentication methods pending,Validate in Batch 3,Planned
 P06-VAL-014,Conditional Access MFA policy pending,Create in Batch 4,Planned
 P06-VAL-015,Legacy authentication policy pending,Create in Batch 5,Planned
+P06-VAL-016,Batch 2 evidence folder created,C:\LabEvidence\Project06\Batch02 exists,Completed
+P06-VAL-017,Microsoft Graph connected,Graph context returned,Completed
+P06-VAL-018,Tenant organization details exported,Tenant details saved,Completed
+P06-VAL-019,Tenant license SKUs exported,License SKUs saved,Completed
+P06-VAL-020,Pilot users validated for CA readiness,Three pilot users ready,Completed
+P06-VAL-021,Existing Conditional Access policies exported,Current CA policy state documented,Completed
+P06-VAL-022,Security Defaults state documented,Security Defaults current state saved,Completed
+P06-VAL-023,Tenant readiness summary created,Readiness summary saved,Completed
+P06-VAL-024,CA pilot group created,GRP-CA-Pilot-Users created,Completed
+P06-VAL-025,Pilot users added to CA pilot group,Three pilot users added,Completed
+P06-VAL-026,Break-glass exclusion group created,GRP-CA-Excluded-BreakGlass created,Completed
+P06-VAL-027,Break-glass account created,Emergency access account created,Completed
+P06-VAL-028,Break-glass account added to exclusion group,Emergency account excluded,Completed
+P06-VAL-029,Break-glass role assignment documented,Global Administrator assignment documented,Completed
+P06-VAL-030,Pilot and exclusion group summary created,Group readiness summary saved,Completed
+P06-VAL-031,Break-glass documentation note created,Documentation note saved,Completed
+P06-VAL-032,Tenant readiness implementation document created,Implementation document saved,Completed
