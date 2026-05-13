@@ -1,0 +1,17 @@
+Component,Configuration,Result
+Microsoft 365 tenant,democompany1016.onmicrosoft.com,Validated
+Verified mail domain,summitridge-mfg.com,Validated
+Identity source,On-prem AD synced through Microsoft Entra Cloud Sync,Validated
+Pilot licensing group,GRP-M365-E5-Pilot-License,Created and validated
+License assignment method,Group-based licensing,Implemented
+Pilot users,Emma Olivia Sophia,Licensed
+Exchange Online mailbox state,UserMailbox,Validated
+Primary SMTP format,first.last@summitridge-mfg.com,Standardized
+Tenant alias format,first.last@democompany1016.onmicrosoft.com,Documented
+MX record,summitridge-mfg.com MX,Validated
+SPF record,Single SPF record,Validated
+DMARC record,Monitoring record,Validated
+Autodiscover record,autodiscover.summitridge-mfg.com,Validated
+DKIM selector records,Future action if not configured,Documented
+Rollback controls,License group removal and restore scripts,Created
+Monitoring controls,License and mailbox monitoring scripts,Created
