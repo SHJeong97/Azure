@@ -19,3 +19,11 @@ P04-SYNC-017,Pilot sync group created,GRP-EntraCloudSync-Pilot created,Completed
 P04-SYNC-018,Pilot group direct members validated,Three direct users found,Completed
 P04-SYNC-019,Nested group check completed,No nested groups found,Completed
 P04-SYNC-020,Existing cloud user conflict check completed,No direct UPN conflicts found,Completed
+P04-SYNC-021,Provisioning agent installer downloaded,AADConnectProvisioningAgentSetup.exe downloaded,Completed
+P04-SYNC-022,KDS service validated,KdsSvc running or available,Completed
+P04-SYNC-023,KDS Root Key validated,KDS Root Key exists,Completed
+P04-SYNC-024,Provisioning agent installed,Agent installation completed,Completed
+P04-SYNC-025,gMSA validated,provAgentgMSA exists or agent service account configured,Completed
+P04-SYNC-026,Provisioning agent services validated,Agent services checked,Completed
+P04-SYNC-027,Provisioning agent visible in Entra portal,Agent appears under Cloud Sync agents,Completed
+P04-SYNC-028,Cloud Sync configuration pending,Configure scoped sync in Batch 4,Planned
