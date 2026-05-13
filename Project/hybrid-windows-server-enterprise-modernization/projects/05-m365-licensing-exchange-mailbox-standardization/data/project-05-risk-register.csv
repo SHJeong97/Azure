@@ -1,20 +1,20 @@
 RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
-P05-001,License assigned to wrong users,Unexpected service access or cost,Medium,Dedicated pilot licensing group used,Cloud Administrator,Mitigated
+P05-001,License assigned to wrong users,Unexpected service access or cost,Medium,Final licensing group membership validated,Cloud Administrator,Mitigated
 P05-002,UsageLocation missing,License assignment fails,Medium,UsageLocation validated before licensing,Cloud Administrator,Mitigated
 P05-003,Wrong SKU selected,Incorrect services enabled,Medium,Available SKUs exported and selected SKU documented,Cloud Administrator,Mitigated
-P05-004,Mailbox does not provision,User cannot access Exchange Online,Medium,Mailbox provisioning validated after license assignment,Messaging Administrator,Mitigated if all mailboxes found
-P05-005,Primary SMTP mismatch,User confusion and inconsistent sender address,Medium,Primary SMTP standardized after mailbox validation,Messaging Administrator,Mitigated if primary matches target
+P05-004,Mailbox does not provision,User cannot access Exchange Online,Medium,Final mailbox state validated as UserMailbox,Messaging Administrator,Mitigated
+P05-005,Primary SMTP mismatch,User confusion and inconsistent sender address,Medium,Final primary SMTP validation completed,Messaging Administrator,Mitigated
 P05-006,Duplicate proxy address,Email address assignment may fail,Medium,AD and Exchange Online address conflict checks completed before changes,Messaging Administrator,Mitigated
 P05-007,MX already routes to Microsoft 365,Inbound mail may arrive before mailbox readiness,Medium,MX and mailbox readiness validated before mail-flow testing,Messaging Administrator,Mitigated
 P05-008,Broad license assignment,Unplanned cost or service activation,Medium,License assigned only to pilot group,Cloud Administrator,Mitigated
 P05-009,License removed without mailbox impact review,Mailbox disruption or retention issue,Medium,Rollback impact warning documented before any removal action,Messaging Administrator,Mitigated
-P05-010,Mail flow validation skipped,Delivery problems go unnoticed,Medium,Internal mail-flow tests and message trace reviewed,Messaging Administrator,Mitigated
+P05-010,Mail flow validation skipped,Delivery problems go unnoticed,Medium,Mail-flow readiness and message trace validation documented,Messaging Administrator,Mitigated
 P05-011,Exchange Online WAM connection failure,Unable to validate Exchange objects,Medium,Device-code Exchange Online connection used,Messaging Administrator,Mitigated
 P05-012,License propagation delay,Mailbox provisioning may not start immediately,Medium,Exchange service plan and mailbox provisioning validated,Cloud Administrator,Mitigated
 P05-013,Mailbox assumed before provisioning completed,SMTP changes may fail,Medium,Mailbox existence validated before Batch 5 address changes,Messaging Administrator,Mitigated
 P05-014,Wrong source of authority used,Cloud-side changes may not persist for synced users,Medium,AD mail/proxyAddresses updated first for synced users,Messaging Administrator,Mitigated
 P05-015,Internal AD domain added as SMTP alias,Unwanted or invalid email address exposure,Low,Internal AD domain kept as documentation only and not added as SMTP alias,Messaging Administrator,Mitigated
-P05-016,Sync propagation delay after address update,Mailbox address may not update immediately,Medium,Cloud Sync restarted and post-sync validation documented,Messaging Administrator,Open
+P05-016,Sync propagation delay after address update,Mailbox address may not update immediately,Medium,Final mailbox address validation completed after sync,Messaging Administrator,Mitigated
 P05-017,Autodiscover not validated,Outlook client setup may fail,Medium,Autodiscover DNS record checked before client readiness validation,Messaging Administrator,Mitigated
 P05-018,Message trace delay misinterpreted,False assumption that delivery failed,Low,Documented trace delay and waited before validation,Messaging Administrator,Mitigated
 P05-019,Pilot user sign-in blocked,OWA access testing cannot complete,Medium,Documented AD password/PHS dependency and reset password if needed,Identity Administrator,Mitigated if access confirmed
@@ -25,3 +25,4 @@ P05-023,License rollback not reversible,Delayed service restoration,Medium,Resto
 P05-024,Mailbox state not monitored after licensing,Mailbox issues may go unnoticed,Medium,Mailbox monitoring script and baseline exports created,Messaging Administrator,Mitigated
 P05-025,License state not monitored after assignment,Service plan issues may go unnoticed,Medium,License monitoring script and service plan exports created,Cloud Administrator,Mitigated
 P05-026,Cloud users deleted during rollback,Identity loss or service disruption,Low,Rollback notes specify not to delete cloud users,Identity Administrator,Mitigated
+P05-027,Project handoff incomplete,Next project starts without service activation baseline,Medium,Final validation checklist architecture summary and README prep created,Cloud Administrator,Mitigated
