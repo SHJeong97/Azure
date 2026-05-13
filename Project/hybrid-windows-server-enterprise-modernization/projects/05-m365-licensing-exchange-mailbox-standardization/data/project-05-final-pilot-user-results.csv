@@ -1,0 +1,4 @@
+User,Department,UserPrincipalName,LicenseState,MailboxState,PrimarySMTP,MailFlowReadiness,FinalStatus
+Emma Wilson,HR,emma.wilson@summitridge-mfg.com,Licensed,UserMailbox,emma.wilson@summitridge-mfg.com,Validated,Completed
+Olivia Brown,Finance,olivia.brown@summitridge-mfg.com,Licensed,UserMailbox,olivia.brown@summitridge-mfg.com,Validated,Completed
+Sophia Martinez,IT,sophia.martinez@summitridge-mfg.com,Licensed,UserMailbox,sophia.martinez@summitridge-mfg.com,Validated,Completed
