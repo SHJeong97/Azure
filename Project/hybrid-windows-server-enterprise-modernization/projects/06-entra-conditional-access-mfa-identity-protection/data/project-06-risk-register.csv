@@ -4,7 +4,7 @@ P06-002,Wrong users targeted,Unexpected MFA or blocked access,Medium,CA001 scope
 P06-003,Policy enforced too early,User disruption,Medium,CA001 created in report-only mode first,Identity Administrator,Mitigated
 P06-004,Legacy authentication blocked unexpectedly,Application or protocol failure,Medium,CA002 created in report-only mode and legacy sign-ins reviewed before enforcement,Identity Administrator,Mitigated
 P06-005,MFA registration incomplete,Users cannot satisfy MFA,Medium,MFA registration readiness validated before CA001 creation,Identity Administrator,Mitigated
-P06-006,Risk policy misconfigured,Incorrect challenge or password reset behavior,Medium,Plan Identity Protection policies before enforcement,Security Administrator,Open
+P06-006,Risk policy misconfigured,Incorrect challenge or password reset behavior,Medium,Sign-in risk and user risk policies planned separately before enforcement,Security Administrator,Mitigated
 P06-007,Break-glass account missing,Emergency recovery unavailable,High,Cloud-only emergency access account created and documented,Global Administrator,Mitigated
 P06-008,Exclusions not validated,Critical accounts affected,Medium,Break-glass exclusion group validated before CA002 creation,Identity Administrator,Mitigated
 P06-009,Report-only results misread,Incorrect enforcement decision,Medium,CA002 report-only logs and legacy auth impact summary exported,Identity Administrator,Mitigated
@@ -17,3 +17,9 @@ P06-015,Conditional Access enforced before MFA registration,Users may be blocked
 P06-016,CA001 report-only logs delayed,Policy may appear missing from sign-in logs,Low,Wait and rerun sign-in log export if report-only results are delayed,Identity Administrator,Open
 P06-017,No legacy auth activity found,Policy impact may be difficult to prove in lab,Low,Documented no observed legacy auth activity in current sign-in window,Identity Administrator,Mitigated
 P06-018,CA002 enforcement enabled too early,Legacy apps or protocols may fail,Medium,CA002 remains report-only until sign-in review is complete,Identity Administrator,Open
+P06-019,User risk and sign-in risk combined incorrectly,Policy behavior becomes difficult to predict,Medium,Risk policy separation decision documented,Security Administrator,Mitigated
+P06-020,Risk-based policy enforced too early,Users may be challenged or blocked unexpectedly,Medium,Risk policies planned only and not enforced in Batch 6,Security Administrator,Mitigated
+P06-021,Clean lab risk results misread as failure,Incorrect conclusion that Identity Protection is not working,Low,Documented that no risky users or detections is acceptable in clean lab,Security Administrator,Mitigated
+P06-022,Break-glass account affected by risk policy,Emergency recovery access disrupted,Medium,Break-glass exclusion group validated before risk policy planning,Identity Administrator,Mitigated
+P06-023,Password change required unexpectedly,User disruption,Medium,User risk password-change policy planned only and not enforced in Batch 6,Security Administrator,Mitigated
+P06-024,Device compliance accidentally required,Users blocked due to missing Intune state,Low,Risk policy planning excludes compliant-device and Intune requirements,Identity Administrator,Mitigated
