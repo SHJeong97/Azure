@@ -54,3 +54,16 @@ P05-VAL-051,Cloud Sync restarted after AD address update,Sync restart documented
 P05-VAL-052,Cloud address validation completed,Microsoft Entra mail/proxyAddresses checked,Completed
 P05-VAL-053,Exchange mailbox address validation completed,Primary SMTP state checked,Completed
 P05-VAL-054,Address standardization summary created,Final summary saved,Completed
+P05-VAL-055,Batch 6 evidence folder created,C:\LabEvidence\Project05\Batch06 exists,Completed
+P05-VAL-056,Exchange Online connected,Device-code connection completed,Completed
+P05-VAL-057,Mail DNS readiness checked,MX SPF DMARC and Autodiscover checked,Completed
+P05-VAL-058,Accepted domain validated,summitridge-mfg.com accepted domain validated,Completed
+P05-VAL-059,Pilot mailbox readiness checked,Three pilot mailboxes ready,Completed
+P05-VAL-060,Mail-flow test plan created,MF-001 MF-002 and MF-003 planned,Completed
+P05-VAL-061,OWA access tested,Outlook on the web access tested or documented,Completed
+P05-VAL-062,Internal mail-flow tests sent,Internal pilot messages sent or documented,Completed
+P05-VAL-063,Message trace reviewed,Message trace exports created,Completed
+P05-VAL-064,Message trace summary created,Trace result summary saved,Completed
+P05-VAL-065,Post-mail-flow mailbox statistics exported,Mailbox statistics exported after tests,Completed
+P05-VAL-066,Mail-flow readiness summary created,Readiness summary saved,Completed
+P05-VAL-067,Mail-flow implementation document created,Implementation document saved,Completed
