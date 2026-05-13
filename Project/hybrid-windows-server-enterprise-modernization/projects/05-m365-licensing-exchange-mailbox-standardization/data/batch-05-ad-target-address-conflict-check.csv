@@ -1,0 +1,7 @@
+"TargetAddress","MatchFound","SamAccountName","Name","UserPrincipalName","Mail","ProxyAddresses"
+"emma.wilson@summitridge-mfg.com","Yes","emma.wilson","Emma Wilson","emma.wilson@summitridge-mfg.com",,""
+"emma.wilson@democompany1016.onmicrosoft.com","No","","","","",""
+"olivia.brown@summitridge-mfg.com","Yes","olivia.brown","Olivia Brown","olivia.brown@summitridge-mfg.com",,""
+"olivia.brown@democompany1016.onmicrosoft.com","No","","","","",""
+"sophia.martinez@summitridge-mfg.com","Yes","sophia.martinez","Sophia Martinez","sophia.martinez@summitridge-mfg.com",,""
+"sophia.martinez@democompany1016.onmicrosoft.com","No","","","","",""

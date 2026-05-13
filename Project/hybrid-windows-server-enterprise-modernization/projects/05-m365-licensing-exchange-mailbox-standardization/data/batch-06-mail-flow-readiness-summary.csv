@@ -1,0 +1,2 @@
+"Domain","MXFound","SPFFound","DMARCFound","AutodiscoverFound","AcceptedDomainFound","PilotMailboxCount","InternalTraceTestsCompleted","OverallReadiness"
+"summitridge-mfg.com","Yes","Yes","Yes","Yes","Yes","3","1","Mail flow and client readiness validated for pilot scope"

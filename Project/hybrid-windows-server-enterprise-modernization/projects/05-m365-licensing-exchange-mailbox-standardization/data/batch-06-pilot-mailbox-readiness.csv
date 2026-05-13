@@ -1,0 +1,4 @@
+"UserPrincipalName","DisplayName","PrimarySmtpAddress","RecipientTypeDetails","EmailAddresses","MailboxReady"
+"emma.wilson@summitridge-mfg.com","Emma Wilson","emma.wilson@summitridge-mfg.com","UserMailbox","SIP:emma.wilson@summitridge-mfg.com;smtp:emma.wilson@democompany1016.onmicrosoft.com;SMTP:emma.wilson@summitridge-mfg.com","Yes"
+"olivia.brown@summitridge-mfg.com","Olivia Brown","olivia.brown@summitridge-mfg.com","UserMailbox","SIP:olivia.brown@summitridge-mfg.com;smtp:olivia.brown@democompany1016.onmicrosoft.com;SMTP:olivia.brown@summitridge-mfg.com","Yes"
+"sophia.martinez@summitridge-mfg.com","Sophia Martinez","sophia.martinez@summitridge-mfg.com","UserMailbox","smtp:sophia.martinez@democompany1016.onmicrosoft.com;SIP:sophia.martinez@summitridge-mfg.com;SMTP:sophia.martinez@summitridge-mfg.com","Yes"

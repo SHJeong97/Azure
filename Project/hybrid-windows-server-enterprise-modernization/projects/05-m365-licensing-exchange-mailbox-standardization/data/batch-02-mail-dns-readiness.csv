@@ -1,0 +1,3 @@
+"Record","Name","Domain","Found","Status"
+"MX","@","summitridge-mfg.com","Yes","MX exists; mail-flow readiness must be validated after mailbox provisioning"
+"Autodiscover","autodiscover","summitridge-mfg.com","Yes","Autodiscover exists"

@@ -1,0 +1,4 @@
+"UserPrincipalName","Mail","ExpectedPrimarySMTP","ExpectedTenantAlias","PrimarySMTPPresent","TenantAliasPresent","Result"
+"emma.wilson@summitridge-mfg.com","emma.wilson@summitridge-mfg.com","emma.wilson@summitridge-mfg.com","emma.wilson@democompany1016.onmicrosoft.com","Yes","Yes","AD address standardization successful"
+"olivia.brown@summitridge-mfg.com","olivia.brown@summitridge-mfg.com","olivia.brown@summitridge-mfg.com","olivia.brown@democompany1016.onmicrosoft.com","Yes","Yes","AD address standardization successful"
+"sophia.martinez@summitridge-mfg.com","sophia.martinez@summitridge-mfg.com","sophia.martinez@summitridge-mfg.com","sophia.martinez@democompany1016.onmicrosoft.com","Yes","Yes","AD address standardization successful"

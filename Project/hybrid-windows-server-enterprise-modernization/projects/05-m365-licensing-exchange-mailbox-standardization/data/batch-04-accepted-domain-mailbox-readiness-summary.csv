@@ -1,0 +1,2 @@
+"Domain","AcceptedDomainFound","AcceptedDomainType","ExpectedMailboxCount","ActualMailboxCount","MailboxReadiness","NextAction"
+"summitridge-mfg.com","Yes","Authoritative","3","3","Pilot mailboxes provisioned","Standardize primary SMTP and aliases in Batch 5"

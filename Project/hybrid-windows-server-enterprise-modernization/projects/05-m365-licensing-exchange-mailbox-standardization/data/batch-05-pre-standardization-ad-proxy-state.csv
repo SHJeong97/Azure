@@ -1,0 +1,4 @@
+"SamAccountName","Name","UserPrincipalName","Mail","ProxyAddresses","Department","Title","Enabled","DistinguishedName"
+"emma.wilson","Emma Wilson","emma.wilson@summitridge-mfg.com",,"","HR","HR Manager","True","CN=Emma Wilson,OU=HR,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local"
+"olivia.brown","Olivia Brown","olivia.brown@summitridge-mfg.com",,"","Finance","Finance Manager","True","CN=Olivia Brown,OU=Finance,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local"
+"sophia.martinez","Sophia Martinez","sophia.martinez@summitridge-mfg.com",,"","IT","Systems Administrator","True","CN=Sophia Martinez,OU=IT,OU=Users,OU=SRMG,DC=corp,DC=democompany1016,DC=local"

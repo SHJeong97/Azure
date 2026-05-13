@@ -1,0 +1,4 @@
+"UserPrincipalName","DisplayName","Mail","ProxyAddresses","OnPremisesSyncEnabled","AccountEnabled","ExpectedPrimarySMTP","CloudMailMatchesUPN","PrimaryAddressVisible"
+"emma.wilson@summitridge-mfg.com","Emma Wilson","emma.wilson@summitridge-mfg.com","smtp:emma.wilson@democompany1016.onmicrosoft.com;SMTP:emma.wilson@summitridge-mfg.com","True","True","emma.wilson@summitridge-mfg.com","Yes","Yes"
+"olivia.brown@summitridge-mfg.com","Olivia Brown","olivia.brown@summitridge-mfg.com","smtp:olivia.brown@democompany1016.onmicrosoft.com;SMTP:olivia.brown@summitridge-mfg.com","True","True","olivia.brown@summitridge-mfg.com","Yes","Yes"
+"sophia.martinez@summitridge-mfg.com","Sophia Martinez","sophia.martinez@summitridge-mfg.com","smtp:sophia.martinez@democompany1016.onmicrosoft.com;SMTP:sophia.martinez@summitridge-mfg.com","True","True","sophia.martinez@summitridge-mfg.com","Yes","Yes"

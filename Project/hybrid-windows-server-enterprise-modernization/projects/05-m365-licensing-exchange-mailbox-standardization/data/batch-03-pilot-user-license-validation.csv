@@ -1,0 +1,4 @@
+"UserPrincipalName","DisplayName","AccountEnabled","UsageLocation","AssignedLicenseCount","ExpectedSku","ExpectedSkuId","ExpectedSkuAssigned","LicenseState"
+"emma.wilson@summitridge-mfg.com","Emma Wilson","True","US","1","ENTERPRISEPREMIUM","c7df2760-2c81-4ef7-b578-5b5392b571df","Yes","Licensed"
+"olivia.brown@summitridge-mfg.com","Olivia Brown","True","US","1","ENTERPRISEPREMIUM","c7df2760-2c81-4ef7-b578-5b5392b571df","Yes","Licensed"
+"sophia.martinez@summitridge-mfg.com","Sophia Martinez","True","US","1","ENTERPRISEPREMIUM","c7df2760-2c81-4ef7-b578-5b5392b571df","Yes","Licensed"

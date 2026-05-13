@@ -1,0 +1,3 @@
+"TestID","Sender","Recipient","Subject","TraceFound","Status","Result"
+"MF-001","emma.wilson@summitridge-mfg.com","olivia.brown@summitridge-mfg.com","Project05 MF-001 Internal Mail Flow Test","Yes","Delivered","Delivered"
+"MF-002","olivia.brown@summitridge-mfg.com","emma.wilson@summitridge-mfg.com","Project05 MF-002 Reverse Internal Mail Flow Test","No","Not found","Review required"
