@@ -5,9 +5,11 @@ P04-002,Wrong OU or group selected,Incorrect users synchronized,Medium,Validated
 P04-003,Duplicate cloud users,Sign-in and licensing confusion,Medium,Checked existing cloud users before sync,Identity Administrator,Mitigated if no conflicts found
 P04-004,UPN suffix mismatch,Users may receive incorrect cloud UPNs,Medium,Verified summitridge-mfg.com in AD and Microsoft Entra ID,Identity Administrator,Mitigated
 P04-005,Missing AD attributes,Cloud user objects may be incomplete,Low,Validate user attributes before sync,Identity Administrator,Open
-P04-006,Provisioning agent install failure,Sync cannot run,Medium,Confirm prerequisites and admin access,Hybrid Identity Administrator,Open
+P04-006,Provisioning agent install failure,Sync cannot run,Medium,KDS/gMSA issue resolved and agent installed,Hybrid Identity Administrator,Mitigated
 P04-007,Sync error not monitored,Issues may go unnoticed,Medium,Validate provisioning logs and portal status,Hybrid Identity Administrator,Open
 P04-008,Accidental object deletion or disable behavior,Cloud identity disruption,Medium,Understand rollback and deletion behavior before broad rollout,Identity Administrator,Open
 P04-009,Licensing applied too early,Licensing confusion or mailbox creation before readiness,Low,Separate sync validation from license assignment,Cloud Administrator,Open
 P04-010,Helpdesk impact from sign-in changes,User support volume increases,Medium,Pilot first and document user impact,IT Management,Open
 P04-011,Nested group used for Cloud Sync pilot scope,Nested members may not sync,Medium,Use direct pilot group members only,Identity Administrator,Mitigated
+P04-012,KDS Root Key missing,gMSA creation fails,Medium,Created or validated KDS Root Key before completing agent setup,Identity Administrator,Mitigated
+P04-013,Provisioning agent not visible in Entra portal,Cloud Sync cannot be configured,Medium,Validated agent registration in Microsoft Entra admin center,Hybrid Identity Administrator,Mitigated
