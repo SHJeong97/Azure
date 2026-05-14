@@ -1,0 +1,21 @@
+Component,Configuration,Result
+Microsoft 365 tenant,democompany1016.onmicrosoft.com,Validated
+Verified public domain,summitridge-mfg.com,Validated
+Pilot users,Emma Wilson; Olivia Brown; Sophia Martinez,Validated
+Pilot mailbox readiness,Exchange Online mailboxes for pilot users,Validated
+Exchange Online Protection baseline,Anti-spam anti-malware connection filter baseline exported,Validated
+Anti-phishing policy,P08-Pilot-AntiPhishing,Configured
+Anti-phishing rule,P08-Pilot-AntiPhishing-Rule,Configured
+Safe Links policy,P08-Pilot-SafeLinks,Configured
+Safe Links rule,P08-Pilot-SafeLinks-Rule,Configured
+Safe Attachments policy,P08-Pilot-SafeAttachments,Configured
+Safe Attachments rule,P08-Pilot-SafeAttachments-Rule,Configured
+Preset security policies,Built-in Standard and Strict reviewed,Reviewed only
+Spoof intelligence,Portal and PowerShell review completed,Validated
+Tenant Allow/Block List,Summary counts exported without sensitive entries,Validated
+Quarantine workflow,Reviewed and documented,Validated
+Threat submissions workflow,Reviewed and documented,Validated
+Alerts and incidents workflow,Reviewed and documented,Validated
+Mail flow validation,Safe pilot messages sent and traced,Validated
+Message trace method,Get-MessageTraceV2,Validated
+Evidence privacy,IP location headers routing details and private content excluded,Implemented
