@@ -5,7 +5,7 @@ P07-002,Admin roles removed too early,Loss of required administrative access,Med
 P07-003,Standing privileged access remains unreviewed,Increased compromise risk,Medium,Standing privileged access review completed,Identity Administrator,Mitigated
 P07-004,PIM activation settings misconfigured,Admins cannot activate needed roles,Medium,PIM activation control design documented before activation testing,Identity Administrator,Mitigated
 P07-005,Privileged roles assigned too broadly,Over-permissioned users,Medium,Eligible assignments limited to Sophia Martinez and low-risk pilot roles,Identity Administrator,Mitigated
-P07-006,Access reviews scoped incorrectly,Wrong assignments reviewed or missed,Medium,Document access review scope before creation,Security Administrator,Open
+P07-006,Access reviews scoped incorrectly,Wrong assignments reviewed or missed,Medium,Manual review records created after portal could not support exact Sophia-only scope,Security Administrator,Mitigated
 P07-007,Audit evidence exposes public IP or location,Privacy issue,Medium,IP and location fields excluded from evidence exports,Security Administrator,Mitigated
 P07-008,Role activation not monitored,Privileged activity missed,Medium,Export role activation and audit logs,Security Administrator,Open
 P07-007,Audit evidence exposes public IP or location,Privacy issue,Medium,IP and location fields excluded from evidence exports,Security Administrator,Mitigated
@@ -24,3 +24,9 @@ P07-021,Temporary admin access used to modify production objects,Unauthorized ch
 P07-022,PIM activation audit evidence incomplete,Activation workflow not provable,Medium,Activation requests and sanitized audit logs exported,Security Administrator,Mitigated
 P07-023,Emergency access changed during PIM testing,Tenant recovery risk,High,Emergency access was not modified during activation testing,Identity Administrator,Mitigated
 P07-024,Public IP or location exposed in activation evidence,Privacy issue,Medium,Activation and audit evidence excluded IP/location fields and screenshots must be sanitized,Security Administrator,Mitigated
+P07-025,Access review results auto-applied accidentally,Privileged access removed unexpectedly,Medium,Auto-apply disabled and manual review records used,Identity Administrator,Mitigated
+P07-026,Emergency access removed by access review,Tenant recovery blocked,High,Emergency access review decision was approve/preserve and no access removal occurred,Identity Administrator,Mitigated
+P07-027,Portal limitation undocumented,README may overstate review implementation,Medium,Portal limitation documented in review note and implementation document,Identity Administrator,Mitigated
+P07-028,Standing admin access not reviewed,Privileged access governance incomplete,Medium,Standing admin access review record created for future PIM conversion,Security Administrator,Mitigated
+P07-029,Manual review evidence considered insufficient,Audit story weaker than portal-created review,Low,Manual review records evidence notes and portal state screenshot captured,Security Administrator,Mitigated
+P07-030,Public IP or location exposed in access review evidence,Privacy issue,Medium,No IP/location fields exported and screenshots must be sanitized,Security Administrator,Mitigated
