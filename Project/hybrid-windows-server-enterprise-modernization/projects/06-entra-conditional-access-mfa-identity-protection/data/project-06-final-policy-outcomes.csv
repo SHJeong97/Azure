@@ -1,0 +1,5 @@
+Policy,Purpose,IncludedScope,ExcludedScope,GrantControl,FinalState,Result
+CA001-Require-MFA-Pilot-Users,Require MFA for pilot users,GRP-CA-Pilot-Users,GRP-CA-Excluded-BreakGlass,Require multifactor authentication,Enabled,Validated for pilot enforcement
+CA002-Block-Legacy-Authentication,Block legacy authentication,GRP-CA-Pilot-Users,GRP-CA-Excluded-BreakGlass,Block access,Enabled or Report-only based on review,Validated or documented based on legacy-auth activity
+CA004-SignIn-Risk-MFA,Require MFA for medium or high sign-in risk,GRP-CA-Pilot-Users,GRP-CA-Excluded-BreakGlass,Require multifactor authentication,Planned,Documented only
+CA005-User-Risk-Password-Change,Require password change for high user risk,GRP-CA-Pilot-Users,GRP-CA-Excluded-BreakGlass,Require password change,Planned,Documented only
