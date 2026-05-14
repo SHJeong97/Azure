@@ -1,0 +1,17 @@
+
+Project                     : Project 08
+Batch                       : Batch 2
+AntiPhishPolicyCount        : 2
+AntiPhishRuleCount          : 1
+SafeLinksPolicyCount        : 2
+SafeLinksRuleCount          : 1
+SafeAttachmentPolicyCount   : 2
+SafeAttachmentRuleCount     : 1
+TransportRuleCount          : 3
+InboundConnectorCount       : 0
+OutboundConnectorCount      : 0
+MailSecurityPoliciesChanged : No
+PublicIpExported            : No
+LocationExported            : No
+InventoryResult             : Defender and Exchange Online mail security inventory exported
+

@@ -1,0 +1,36 @@
+
+WorkflowArea             : Defender alerts
+PortalLocation           : Microsoft Defender portal > Incidents & alerts > Alerts
+ReviewPurpose            : Review email security alerts such as phishing, malware, and suspicious message activity
+LabAction                : Review only
+AutoRemediationPerformed : No
+EvidenceRule             : Sanitize users, subjects, URLs, message IDs, IP addresses, and location data
+
+WorkflowArea             : Defender incidents
+PortalLocation           : Microsoft Defender portal > Incidents & alerts > Incidents
+ReviewPurpose            : Review grouped security events and investigation context
+LabAction                : Review only
+AutoRemediationPerformed : No
+EvidenceRule             : Sanitize incident entities and affected assets
+
+WorkflowArea             : Email entity investigation
+PortalLocation           : Microsoft Defender portal > Email entity page
+ReviewPurpose            : Understand message timeline, detection technology, delivery location, and threat verdict
+LabAction                : Document workflow only
+AutoRemediationPerformed : No
+EvidenceRule             : Do not expose message body, headers, sender infrastructure, or routing details
+
+WorkflowArea             : URL investigation
+PortalLocation           : Microsoft Defender portal > URL entity or alert evidence
+ReviewPurpose            : Review Safe Links and URL verdict context
+LabAction                : Document workflow only
+AutoRemediationPerformed : No
+EvidenceRule             : Do not expose malicious URLs or credential harvesting links
+
+WorkflowArea             : Attachment investigation
+PortalLocation           : Microsoft Defender portal > Attachment evidence or alert details
+ReviewPurpose            : Review Safe Attachments verdict and attachment handling
+LabAction                : Document workflow only
+AutoRemediationPerformed : No
+EvidenceRule             : Do not upload or expose real malware or sensitive files
+

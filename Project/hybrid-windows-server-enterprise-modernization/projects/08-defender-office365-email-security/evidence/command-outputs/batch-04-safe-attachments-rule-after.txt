@@ -1,0 +1,12 @@
+
+Name                      : P08-Pilot-SafeAttachments-Rule
+State                     : Enabled
+Priority                  : 1
+SafeAttachmentPolicy      : P08-Pilot-SafeAttachments
+SentTo                    : {emma.wilson@summitridge-mfg.com, olivia.brown@summitridge-mfg.com, sophia.martinez@summitridge-mfg.com}
+SentToMemberOf            : 
+RecipientDomainIs         : 
+ExceptIfSentTo            : 
+ExceptIfSentToMemberOf    : 
+ExceptIfRecipientDomainIs : 
+

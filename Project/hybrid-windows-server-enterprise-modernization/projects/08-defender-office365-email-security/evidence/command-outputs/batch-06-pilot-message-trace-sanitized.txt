@@ -1,0 +1,79 @@
+
+Received              : 5/14/2026 11:02:43 PM
+SenderAddress         : olivia.brown@summitridge-mfg.com
+RecipientAddress      : sophia.martinez@summitridge-mfg.com
+Status                : Delivered
+Size                  : 37087
+MessageTraceId        : b8f3f070-2f43-4c34-6c8d-08deb20ce7fc
+SubjectExported       : No
+MessageHeaderExported : No
+SenderIPExported      : No
+RecipientIPExported   : No
+PublicIpExported      : No
+LocationExported      : No
+
+Received              : 5/14/2026 11:01:22 PM
+SenderAddress         : emma.wilson@summitridge-mfg.com
+RecipientAddress      : olivia.brown@summitridge-mfg.com
+Status                : Delivered
+Size                  : 37247
+MessageTraceId        : 454d8c4a-4e40-4f82-c551-08deb20cb7f2
+SubjectExported       : No
+MessageHeaderExported : No
+SenderIPExported      : No
+RecipientIPExported   : No
+PublicIpExported      : No
+LocationExported      : No
+
+Received              : 5/14/2026 4:20:25 PM
+SenderAddress         : MSSecurity-noreply@microsoft.com
+RecipientAddress      : sophia.martinez@summitridge-mfg.com
+Status                : Delivered
+Size                  : 156671
+MessageTraceId        : 9c1de1a4-db03-43c8-c017-08deb1d4b472
+SubjectExported       : No
+MessageHeaderExported : No
+SenderIPExported      : No
+RecipientIPExported   : No
+PublicIpExported      : No
+LocationExported      : No
+
+Received              : 5/14/2026 4:19:12 PM
+SenderAddress         : MSSecurity-noreply@microsoft.com
+RecipientAddress      : sophia.martinez@summitridge-mfg.com
+Status                : Delivered
+Size                  : 156288
+MessageTraceId        : 202e1bcf-8a2a-40d4-34f9-08deb1d488f5
+SubjectExported       : No
+MessageHeaderExported : No
+SenderIPExported      : No
+RecipientIPExported   : No
+PublicIpExported      : No
+LocationExported      : No
+
+Received              : 5/14/2026 3:29:25 PM
+SenderAddress         : MSSecurity-noreply@microsoft.com
+RecipientAddress      : sophia.martinez@summitridge-mfg.com
+Status                : Delivered
+Size                  : 169333
+MessageTraceId        : 92654ca9-5dc6-4bac-580c-08deb1cd9488
+SubjectExported       : No
+MessageHeaderExported : No
+SenderIPExported      : No
+RecipientIPExported   : No
+PublicIpExported      : No
+LocationExported      : No
+
+Received              : 5/14/2026 3:29:24 PM
+SenderAddress         : MSSecurity-noreply@microsoft.com
+RecipientAddress      : sophia.martinez@summitridge-mfg.com
+Status                : Delivered
+Size                  : 169706
+MessageTraceId        : 3b57e44a-6922-4e2f-e45d-08deb1cd9420
+SubjectExported       : No
+MessageHeaderExported : No
+SenderIPExported      : No
+RecipientIPExported   : No
+PublicIpExported      : No
+LocationExported      : No
+

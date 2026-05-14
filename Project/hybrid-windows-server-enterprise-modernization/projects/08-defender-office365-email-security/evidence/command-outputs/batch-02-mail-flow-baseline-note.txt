@@ -1,0 +1,36 @@
+Project 08 Batch 2 — Mail Flow Baseline Note
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified domain:
+summitridge-mfg.com
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Baseline completed:
+- Accepted domains exported
+- Pilot mailbox readiness exported
+- Mailbox inventory summary exported
+- EOP anti-spam baseline exported
+- EOP anti-malware baseline exported
+- Connection filter policy exported without IP lists
+- Anti-phishing baseline exported
+- Safe Links baseline exported
+- Safe Attachments baseline exported
+- Transport rules exported
+- Connectors exported without IP fields
+
+Safety decisions:
+No mail security policies were changed.
+No phishing simulation was sent.
+No quarantine action was performed.
+No real malware was used.
+No connector IP allow/block lists were exported.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch02

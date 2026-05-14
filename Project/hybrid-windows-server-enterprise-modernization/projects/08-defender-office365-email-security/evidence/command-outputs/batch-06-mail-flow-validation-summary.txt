@@ -1,0 +1,16 @@
+
+Project                 : Project 08
+Batch                   : Batch 6
+ReviewWindow            : Last 24 hours
+PilotUsers              : emma.wilson@summitridge-mfg.com;olivia.brown@summitridge-mfg.com;sophia.martinez@summitridge-mfg.com
+PlannedTestMessageCount : 3
+MessageTraceRecordCount : 6
+SafeMessagesSent        : Yes
+RealPhishingSent        : No
+RealMalwareSent         : No
+MessageHeadersExported  : No
+MessageSubjectsExported : No
+PublicIpExported        : No
+LocationExported        : No
+Result                  : Pilot mail flow validation evidence exported with sanitized fields
+

@@ -1,0 +1,25 @@
+Project 08 Batch 6 — Defender Monitoring Portal Review Note
+
+Reviewed locations:
+- Exchange admin center > Mail flow > Message trace
+- Microsoft Defender portal > Email & collaboration > Explorer
+- Microsoft Defender portal > Email & collaboration > Real-time detections
+- Microsoft Defender portal > Email & collaboration > Policies & rules > Threat policies
+
+Review purpose:
+Validate safe pilot mail flow and review Defender monitoring visibility.
+
+Expected lab behavior:
+Safe internal pilot messages should be traceable.
+No real phishing or malware detections are expected because no unsafe test content was used.
+
+Safety decisions:
+No real phishing was sent.
+No real malware was sent.
+No suspicious message was released.
+No message headers were exported.
+No routing details were exported.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch06

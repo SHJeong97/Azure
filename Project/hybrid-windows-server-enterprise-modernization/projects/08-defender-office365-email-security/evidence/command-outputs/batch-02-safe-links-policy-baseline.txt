@@ -1,0 +1,27 @@
+
+Name                     : Built-In Protection Policy
+IsDefault                : 
+EnableSafeLinksForEmail  : True
+EnableSafeLinksForTeams  : True
+EnableSafeLinksForOffice : True
+TrackClicks              : True
+AllowClickThrough        : True
+ScanUrls                 : True
+EnableForInternalSenders : False
+DeliverMessageAfterScan  : True
+DisableUrlRewrite        : True
+DoNotRewriteUrls         : {}
+
+Name                     : LinkPolicy1
+IsDefault                : 
+EnableSafeLinksForEmail  : True
+EnableSafeLinksForTeams  : True
+EnableSafeLinksForOffice : True
+TrackClicks              : True
+AllowClickThrough        : True
+ScanUrls                 : True
+EnableForInternalSenders : True
+DeliverMessageAfterScan  : True
+DisableUrlRewrite        : True
+DoNotRewriteUrls         : {}
+

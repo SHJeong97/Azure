@@ -1,0 +1,16 @@
+
+Project                     : Project 08
+Batch                       : Batch 2
+Tenant                      : democompany1016.onmicrosoft.com
+InboundAntiSpamPolicyCount  : 2
+InboundAntiSpamRuleCount    : 1
+OutboundSpamPolicyCount     : 1
+OutboundSpamRuleCount       : 0
+MalwarePolicyCount          : 1
+MalwareRuleCount            : 0
+ConnectionFilterPolicyCount : 1
+MailSecurityPoliciesChanged : No
+PublicIpExported            : No
+LocationExported            : No
+BaselineResult              : Exchange Online Protection baseline exported
+

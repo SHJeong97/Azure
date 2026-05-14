@@ -1,0 +1,30 @@
+Project 08 Batch 5 — Defender Alerts and Investigation Review Note
+
+Reviewed locations:
+- Microsoft Defender portal > Incidents & alerts > Alerts
+- Microsoft Defender portal > Incidents & alerts > Incidents
+
+Reviewed workflow areas:
+- Email security alerts
+- Defender incidents
+- Email investigation workflow
+- URL investigation workflow
+- Attachment investigation workflow
+
+Lab action:
+Review and document only.
+
+Expected lab result:
+It is acceptable if there are no active alerts or incidents in the lab tenant.
+
+Actions not performed:
+- No alert remediation action was performed
+- No message was released from quarantine
+- No message was deleted
+- No real phishing was submitted
+- No real malware was submitted
+- No private message content was exported
+- No public IP or location fields were exported
+
+Evidence location:
+C:\LabEvidence\Project08\Batch05

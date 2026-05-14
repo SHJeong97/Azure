@@ -1,0 +1,37 @@
+Project 08 Batch 1 — Final Planning Summary
+
+Project:
+Microsoft Defender for Office 365 Email Security Baseline
+
+Company:
+Summit Ridge Manufacturing Group
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified domain:
+summitridge-mfg.com
+
+Batch 1 completed:
+- Project folder structure created
+- Lab evidence folder created
+- Base files created
+- Business scenario documented
+- Email security design documented
+- Defender rollout plan documented
+- Policy scope CSV created
+- Risk register CSV created
+- Validation checklist CSV created
+- Risk and rollback plan documented
+- README skeleton created
+- File inventory created
+
+Safety decisions:
+No mail security policies were changed.
+No phishing simulation was sent.
+No quarantine action was performed.
+No real malware was used.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch01

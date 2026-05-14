@@ -1,0 +1,15 @@
+
+Project                 : Project 08
+Batch                   : Batch 5
+ReviewWindow            : Last 30 days
+QuarantineMessageCount  : 0
+QuarantinePolicyCount   : 0
+MessagesReleased        : No
+MessagesDeleted         : No
+MessageSubjectsExported : No
+SenderAddressesExported : No
+MessageHeadersExported  : No
+PublicIpExported        : No
+LocationExported        : No
+Result                  : Quarantine baseline reviewed with sanitized evidence
+

@@ -1,0 +1,25 @@
+
+DisplayName       : Emma Wilson
+UserPrincipalName : emma.wilson@summitridge-mfg.com
+ItemCount         : 117
+TotalItemSize     : 1.405 MB (1,473,672 bytes)
+LastLogonTime     : 
+MailboxGuid       : a3c2b926-525c-49d2-af93-da5459924039
+StatisticsFound   : Yes
+
+DisplayName       : Olivia Brown
+UserPrincipalName : olivia.brown@summitridge-mfg.com
+ItemCount         : 119
+TotalItemSize     : 1.383 MB (1,450,181 bytes)
+LastLogonTime     : 
+MailboxGuid       : df2ad805-7f5e-4b2a-8dce-c229a7f64d04
+StatisticsFound   : Yes
+
+DisplayName       : Sophia Martinez
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+ItemCount         : 117
+TotalItemSize     : 1.574 MB (1,649,961 bytes)
+LastLogonTime     : 
+MailboxGuid       : 16b564d5-2de1-4dd3-97fb-1ba5fc70d7a9
+StatisticsFound   : Yes
+

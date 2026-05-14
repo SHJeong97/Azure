@@ -1,0 +1,12 @@
+
+Name                      : DP02-SharedMailbox-Inbound-AntiSpam
+State                     : Enabled
+Priority                  : 0
+HostedContentFilterPolicy : DP02-SharedMailbox-Inbound-AntiSpam
+SentTo                    : {hr@democompany1016.onmicrosoft.com, finance@democompany1016.onmicrosoft.com, operations@democompany1016.onmicrosoft.com}
+SentToMemberOf            : 
+RecipientDomainIs         : 
+ExceptIfSentTo            : 
+ExceptIfSentToMemberOf    : 
+ExceptIfRecipientDomainIs : 
+

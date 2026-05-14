@@ -1,0 +1,31 @@
+Project 08 Batch 1 — Planning Summary
+
+Project:
+Microsoft Defender for Office 365 Email Security Baseline
+
+Company:
+Summit Ridge Manufacturing Group
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified domain:
+summitridge-mfg.com
+
+Previous project baseline:
+Project 04 synchronized pilot users.
+Project 05 licensed pilot users and provisioned Exchange Online mailboxes.
+Project 06 implemented Conditional Access MFA and legacy authentication controls.
+Project 07 implemented privileged access governance using PIM, access review documentation, monitoring, and rollback controls.
+
+Project 08 goal:
+Create an email security baseline using Microsoft Defender for Office 365, Exchange Online Protection, anti-phishing controls, anti-spam controls, anti-malware controls, Safe Links, Safe Attachments, quarantine workflow, alerts, and sanitized validation evidence.
+
+Safety decisions:
+No mail security policies changed in Batch 1.
+No phishing simulation sent in Batch 1.
+No quarantine action performed in Batch 1.
+No public IP or location fields exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch01

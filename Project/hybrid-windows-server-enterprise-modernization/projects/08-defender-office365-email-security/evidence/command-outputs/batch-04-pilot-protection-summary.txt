@@ -1,0 +1,18 @@
+
+Project                        : Project 08
+Batch                          : Batch 4
+SafeLinksPolicy                : P08-Pilot-SafeLinks
+SafeLinksRule                  : P08-Pilot-SafeLinks-Rule
+SafeAttachmentsPolicy          : P08-Pilot-SafeAttachments
+SafeAttachmentsRule            : P08-Pilot-SafeAttachments-Rule
+PilotUsers                     : emma.wilson@summitridge-mfg.com;olivia.brown@summitridge-mfg.com;sophia.martinez@summitridge-mfg.com
+SafeLinksConfigured            : Yes
+SafeAttachmentsConfigured      : Yes
+PresetSecurityPoliciesReviewed : Yes
+TenantWidePresetExpansion      : No
+RealPhishingLinksUsed          : No
+RealMalwareUsed                : No
+PublicIpExported               : No
+LocationExported               : No
+Result                         : Pilot Safe Links and Safe Attachments baseline configured
+

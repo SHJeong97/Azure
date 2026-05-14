@@ -1,0 +1,25 @@
+
+Name               : democompany1016.mail.onmicrosoft.com
+DomainName         : democompany1016.mail.onmicrosoft.com
+DomainType         : Authoritative
+Default            : False
+InitialDomain      : False
+AddressBookEnabled : True
+MatchSubDomains    : False
+
+Name               : democompany1016.onmicrosoft.com
+DomainName         : democompany1016.onmicrosoft.com
+DomainType         : Authoritative
+Default            : True
+InitialDomain      : True
+AddressBookEnabled : True
+MatchSubDomains    : False
+
+Name               : summitridge-mfg.com
+DomainName         : summitridge-mfg.com
+DomainType         : Authoritative
+Default            : False
+InitialDomain      : False
+AddressBookEnabled : True
+MatchSubDomains    : False
+

@@ -1,0 +1,21 @@
+
+ConnectionId                    : 2af19fe9-b83e-4c7c-b785-ba26719e1d5d
+State                           : Connected
+Id                              : 1
+Name                            : ExchangeOnline_1
+UserPrincipalName               : SeungHunJeong@democompany1016.onmicrosoft.com
+ConnectionUri                   : https://outlook.office365.com
+AzureAdAuthorizationEndpointUri : https://login.microsoftonline.com/organizations
+TokenExpiryTimeUTC              : 5/15/2026 10:08:48 PM +00:00
+CertificateAuthentication       : False
+ModuleName                      : C:\Users\srmgadmin.CORP\AppData\Local\Temp\tmpEXO_33zqrzov.4sv
+ModulePrefix                    : 
+Organization                    : 
+DelegatedOrganization           : 
+AppId                           : 
+PageSize                        : 1000
+TenantID                        : def8b52a-5647-46da-a21a-eae01169465e
+TokenStatus                     : Active
+ConnectionUsedForInbuiltCmdlets : True
+IsEopSession                    : False
+

@@ -1,0 +1,12 @@
+
+Name                      : LinkPolicy1
+State                     : Enabled
+Priority                  : 0
+SafeLinksPolicy           : LinkPolicy1
+SentTo                    : 
+SentToMemberOf            : 
+RecipientDomainIs         : {democompany1016.onmicrosoft.com}
+ExceptIfSentTo            : 
+ExceptIfSentToMemberOf    : 
+ExceptIfRecipientDomainIs : 
+

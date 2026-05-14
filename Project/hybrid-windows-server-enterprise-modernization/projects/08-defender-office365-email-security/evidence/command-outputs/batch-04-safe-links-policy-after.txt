@@ -1,0 +1,12 @@
+
+Name                     : P08-Pilot-SafeLinks
+EnableSafeLinksForEmail  : True
+EnableSafeLinksForTeams  : True
+EnableSafeLinksForOffice : True
+TrackClicks              : True
+AllowClickThrough        : False
+ScanUrls                 : True
+EnableForInternalSenders : True
+DeliverMessageAfterScan  : True
+DisableUrlRewrite        : False
+

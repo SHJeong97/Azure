@@ -1,0 +1,17 @@
+
+Project                            : Project 08
+Batch                              : Batch 3
+AntiPhishPolicyName                : 
+AntiPhishRuleName                  : 
+AntiPhishPilotScope                : Emma Wilson;Olivia Brown;Sophia Martinez
+AntiSpamPoliciesReviewed           : 2
+AntiMalwarePoliciesReviewed        : 1
+SpoofIntelligenceReviewed          : Yes
+TenantAllowBlockListSummaryCreated : Yes
+TenantWideExpansion                : No
+RealPhishingSent                   : No
+RealMalwareUsed                    : No
+PublicIpExported                   : No
+LocationExported                   : No
+Result                             : Pilot anti-phishing configured and EOP protection baseline reviewed
+

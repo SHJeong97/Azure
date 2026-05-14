@@ -1,0 +1,39 @@
+Project 08 Batch 6 — Sanitized Message Trace Result Note
+
+Trace method:
+Get-MessageTraceV2
+
+Review window:
+Last 24 hours
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Evidence exported:
+- Received time
+- Sender address
+- Recipient address
+- Delivery status
+- Message size
+- Message trace ID
+
+Evidence intentionally not exported:
+- Message subject
+- Message body
+- Message headers
+- FromIP
+- ToIP
+- Public IP address
+- Location data
+- Routing details
+
+Safety decisions:
+No real phishing was sent.
+No real malware was sent.
+No message headers were exported.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch06

@@ -1,0 +1,25 @@
+
+ReviewArea              : Message trace
+PortalLocation          : Exchange admin center > Mail flow > Message trace
+EvidenceType            : Sanitized message trace
+ExpectedResult          : Safe pilot messages delivered or traceable
+SensitiveFieldsExcluded : Subject;Headers;IP;Location;Routing details
+
+ReviewArea              : Defender Explorer
+PortalLocation          : Microsoft Defender portal > Email & collaboration > Explorer
+EvidenceType            : Portal screenshot
+ExpectedResult          : No real threat detections expected
+SensitiveFieldsExcluded : Message preview;Sender infrastructure;URLs;IP;Location
+
+ReviewArea              : Real-time detections
+PortalLocation          : Microsoft Defender portal > Email & collaboration > Real-time detections
+EvidenceType            : Portal screenshot if Explorer unavailable
+ExpectedResult          : No real threat detections expected
+SensitiveFieldsExcluded : Message preview;URLs;File hashes;IP;Location
+
+ReviewArea              : Pilot policies
+PortalLocation          : Defender portal > Threat policies
+EvidenceType            : Policy and rule validation
+ExpectedResult          : Anti-phishing, Safe Links, and Safe Attachments pilot policies exist
+SensitiveFieldsExcluded : None required
+

@@ -1,0 +1,25 @@
+Project 08 Batch 6 — Safe Mail Flow Test Note
+
+Test messages:
+- P08 Mail Flow Validation Test 001
+- P08 Mail Flow Validation Test 002
+- P08 Mail Flow Validation Test 003
+
+Test type:
+Safe internal pilot mail flow validation.
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Safety decisions:
+No real phishing was sent.
+No real malware was sent.
+No credential-harvesting URL was used.
+No attachments were required.
+No message headers were exported.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch06

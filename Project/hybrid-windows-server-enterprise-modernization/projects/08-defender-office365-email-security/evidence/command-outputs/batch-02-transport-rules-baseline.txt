@@ -1,0 +1,49 @@
+
+Name                              : MF01-Tag-External-Inbound-Mail
+State                             : Enabled
+Mode                              : Enforce
+Priority                          : 0
+Comments                          : 
+From                              : 
+SentTo                            : 
+SentToMemberOf                    : 
+RecipientDomainIs                 : 
+SubjectContainsWords              : 
+ApplyHtmlDisclaimerLocation       : 
+ApplyHtmlDisclaimerFallbackAction : 
+RejectMessageReasonText           : 
+Quarantine                        : False
+StopRuleProcessing                : False
+
+Name                              : MF02-Warn-External-Mail-To-Shared-Mailboxes
+State                             : Enabled
+Mode                              : Enforce
+Priority                          : 1
+Comments                          : 
+From                              : 
+SentTo                            : {hr@democompany1016.onmicrosoft.com, finance@democompany1016.onmicrosoft.com, operations@democompany1016.onmicrosoft.com}
+SentToMemberOf                    : 
+RecipientDomainIs                 : 
+SubjectContainsWords              : 
+ApplyHtmlDisclaimerLocation       : Prepend
+ApplyHtmlDisclaimerFallbackAction : Wrap
+RejectMessageReasonText           : 
+Quarantine                        : False
+StopRuleProcessing                : False
+
+Name                              : MF03-Block-Inbound-Executable-Attachments
+State                             : Enabled
+Mode                              : Enforce
+Priority                          : 2
+Comments                          : 
+From                              : 
+SentTo                            : 
+SentToMemberOf                    : 
+RecipientDomainIs                 : 
+SubjectContainsWords              : 
+ApplyHtmlDisclaimerLocation       : 
+ApplyHtmlDisclaimerFallbackAction : 
+RejectMessageReasonText           : Executable attachments from external senders are blocked by DemoCompany mail policy.
+Quarantine                        : False
+StopRuleProcessing                : False
+

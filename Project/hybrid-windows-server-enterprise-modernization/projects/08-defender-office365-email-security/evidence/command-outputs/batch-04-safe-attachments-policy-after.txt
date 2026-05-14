@@ -1,0 +1,9 @@
+
+Name            : P08-Pilot-SafeAttachments
+Action          : DynamicDelivery
+ActionOnError   : 
+Enable          : True
+Redirect        : False
+RedirectAddress : 
+QuarantineTag   : AdminOnlyAccessPolicy
+

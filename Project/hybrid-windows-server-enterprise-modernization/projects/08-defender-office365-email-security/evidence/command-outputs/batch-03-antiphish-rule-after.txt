@@ -1,0 +1,12 @@
+
+Name                      : DP01-Exec-SharedMailbox-AntiPhish
+State                     : Enabled
+Priority                  : 0
+AntiPhishPolicy           : DP01-Exec-SharedMailbox-AntiPhish
+SentTo                    : {hr@democompany1016.onmicrosoft.com, finance@democompany1016.onmicrosoft.com, operations@democompany1016.onmicrosoft.com, emma.reed@democompany1016.onmicrosoft.com…}
+SentToMemberOf            : 
+RecipientDomainIs         : 
+ExceptIfSentTo            : 
+ExceptIfSentToMemberOf    : 
+ExceptIfRecipientDomainIs : 
+

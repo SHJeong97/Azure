@@ -1,0 +1,29 @@
+
+Name                             : Default
+IsDefault                        : True
+SpamAction                       : MoveToJmf
+HighConfidenceSpamAction         : MoveToJmf
+PhishSpamAction                  : MoveToJmf
+HighConfidencePhishAction        : Quarantine
+BulkSpamAction                   : MoveToJmf
+BulkThreshold                    : 7
+QuarantineRetentionPeriod        : 15
+RedirectToRecipients             : {}
+TestModeAction                   : None
+EnableEndUserSpamNotifications   : 
+EndUserSpamNotificationFrequency : 
+
+Name                             : DP02-SharedMailbox-Inbound-AntiSpam
+IsDefault                        : False
+SpamAction                       : Quarantine
+HighConfidenceSpamAction         : Quarantine
+PhishSpamAction                  : Quarantine
+HighConfidencePhishAction        : Quarantine
+BulkSpamAction                   : MoveToJmf
+BulkThreshold                    : 6
+QuarantineRetentionPeriod        : 15
+RedirectToRecipients             : {}
+TestModeAction                   : None
+EnableEndUserSpamNotifications   : 
+EndUserSpamNotificationFrequency : 
+

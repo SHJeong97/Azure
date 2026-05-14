@@ -1,0 +1,51 @@
+Project 08 Batch 4 — Final Safe Links and Safe Attachments Summary
+
+Project:
+Microsoft Defender for Office 365 Email Security Baseline
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified domain:
+summitridge-mfg.com
+
+Batch 4 validation completed:
+- Batch 4 evidence folder created
+- Exchange Online connected
+- Pilot policy scope created
+- Safe Links state exported before changes
+- Pilot Safe Links policy created or confirmed
+- Pilot Safe Links rule created or confirmed
+- Safe Links policy and rule validated after creation
+- Safe Links configuration summary created
+- Safe Attachments state exported before changes
+- Pilot Safe Attachments policy created or confirmed
+- Pilot Safe Attachments rule created or confirmed
+- Safe Attachments policy and rule validated after creation
+- Safe Attachments configuration summary created
+- Preset security policies reviewed
+- Preset security policy review note created
+- Batch 4 pilot protection summary created
+- Implementation document created
+- Validation checklist updated
+- Risk register updated
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Pilot policies configured:
+- P08-Pilot-SafeLinks
+- P08-Pilot-SafeAttachments
+
+Safety decisions:
+No real phishing links were used.
+No real malware was used.
+No tenant-wide preset security policy expansion was performed.
+No Safe Links tenant-wide expansion was performed.
+No Safe Attachments tenant-wide expansion was performed.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch04

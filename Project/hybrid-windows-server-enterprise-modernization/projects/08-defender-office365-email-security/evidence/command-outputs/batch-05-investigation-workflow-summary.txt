@@ -1,0 +1,18 @@
+
+Project                         : Project 08
+Batch                           : Batch 5
+QuarantineReviewed              : Yes
+ThreatSubmissionsReviewed       : Yes
+DefenderAlertsReviewed          : Yes
+DefenderIncidentsReviewed       : Yes
+InvestigationWorkflowDocumented : Yes
+MessagesReleased                : No
+MessagesDeleted                 : No
+RealPhishingSubmitted           : No
+RealMalwareSubmitted            : No
+AutoRemediationPerformed        : No
+MessageContentExported          : No
+PublicIpExported                : No
+LocationExported                : No
+Result                          : Quarantine, submission, alert, and investigation workflow documented safely
+

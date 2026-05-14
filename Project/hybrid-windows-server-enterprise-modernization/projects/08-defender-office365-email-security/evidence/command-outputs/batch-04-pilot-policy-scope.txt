@@ -1,0 +1,28 @@
+
+TargetUser            : emma.wilson@summitridge-mfg.com
+SafeLinksPolicy       : P08-Pilot-SafeLinks
+SafeLinksRule         : P08-Pilot-SafeLinks-Rule
+SafeAttachmentsPolicy : P08-Pilot-SafeAttachments
+SafeAttachmentsRule   : P08-Pilot-SafeAttachments-Rule
+Scope                 : Pilot users only
+TenantWide            : No
+Status                : Planned
+
+TargetUser            : olivia.brown@summitridge-mfg.com
+SafeLinksPolicy       : P08-Pilot-SafeLinks
+SafeLinksRule         : P08-Pilot-SafeLinks-Rule
+SafeAttachmentsPolicy : P08-Pilot-SafeAttachments
+SafeAttachmentsRule   : P08-Pilot-SafeAttachments-Rule
+Scope                 : Pilot users only
+TenantWide            : No
+Status                : Planned
+
+TargetUser            : sophia.martinez@summitridge-mfg.com
+SafeLinksPolicy       : P08-Pilot-SafeLinks
+SafeLinksRule         : P08-Pilot-SafeLinks-Rule
+SafeAttachmentsPolicy : P08-Pilot-SafeAttachments
+SafeAttachmentsRule   : P08-Pilot-SafeAttachments-Rule
+Scope                 : Pilot users only
+TenantWide            : No
+Status                : Planned
+

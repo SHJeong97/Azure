@@ -1,0 +1,31 @@
+
+Name                                : DP01-Exec-SharedMailbox-AntiPhish
+Enabled                             : True
+EnableTargetedUserProtection        : True
+EnableTargetedDomainsProtection     : True
+EnableOrganizationDomainsProtection : True
+EnableMailboxIntelligence           : True
+EnableMailboxIntelligenceProtection : True
+EnableSpoofIntelligence             : True
+AuthenticationFailAction            : MoveToJmf
+PhishThresholdLevel                 : 3
+TargetedUserProtectionAction        : Quarantine
+TargetedDomainProtectionAction      : Quarantine
+MailboxIntelligenceProtectionAction : MoveToJmf
+QuarantineTag                       : 
+
+Name                                : Office365 AntiPhish Default
+Enabled                             : True
+EnableTargetedUserProtection        : False
+EnableTargetedDomainsProtection     : False
+EnableOrganizationDomainsProtection : False
+EnableMailboxIntelligence           : True
+EnableMailboxIntelligenceProtection : False
+EnableSpoofIntelligence             : True
+AuthenticationFailAction            : MoveToJmf
+PhishThresholdLevel                 : 1
+TargetedUserProtectionAction        : NoAction
+TargetedDomainProtectionAction      : NoAction
+MailboxIntelligenceProtectionAction : NoAction
+QuarantineTag                       : 
+

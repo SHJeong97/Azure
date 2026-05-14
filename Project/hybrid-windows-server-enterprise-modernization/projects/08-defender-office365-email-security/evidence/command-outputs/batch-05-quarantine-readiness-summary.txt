@@ -1,0 +1,14 @@
+
+Project                          : Project 08
+Batch                            : Batch 5
+QuarantinePolicyBaselineExported : Yes
+QuarantineMessagesReviewed       : Yes
+DefenderPortalQuarantineReviewed : Yes
+ReleaseWorkflowDocumented        : Yes
+MessagesReleased                 : No
+MessagesDeleted                  : No
+MessageContentExported           : No
+PublicIpExported                 : No
+LocationExported                 : No
+Result                           : Quarantine workflow documented safely
+

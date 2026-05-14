@@ -1,0 +1,28 @@
+Project 08 Batch 4 — Preset Security Policy Review Note
+
+Reviewed location:
+Microsoft Defender portal > Email & collaboration > Policies & rules > Threat policies > Preset security policies
+
+Reviewed areas:
+- Built-in protection
+- Standard protection
+- Strict protection
+
+Decision:
+Do not enable or expand tenant-wide preset security policies in this batch.
+
+Reason:
+Project 08 uses pilot-scoped custom policies first to avoid broad mail flow impact.
+
+Pilot policies configured:
+- P08-Pilot-SafeLinks
+- P08-Pilot-SafeAttachments
+
+Safety decisions:
+No tenant-wide preset policy expansion was performed.
+No real phishing links were used.
+No real malware was used.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch04

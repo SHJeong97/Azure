@@ -1,0 +1,23 @@
+
+PolicyName                : Default
+IsDefault                 : True
+SpamAction                : MoveToJmf
+HighConfidenceSpamAction  : MoveToJmf
+HighConfidencePhishAction : Quarantine
+BulkThreshold             : 7
+QuarantineRetentionPeriod : 15
+Batch3Action              : Review only
+ChangeMade                : No
+Recommendation            : Document current EOP baseline before making future tuning decisions
+
+PolicyName                : DP02-SharedMailbox-Inbound-AntiSpam
+IsDefault                 : False
+SpamAction                : Quarantine
+HighConfidenceSpamAction  : Quarantine
+HighConfidencePhishAction : Quarantine
+BulkThreshold             : 6
+QuarantineRetentionPeriod : 15
+Batch3Action              : Review only
+ChangeMade                : No
+Recommendation            : Document current EOP baseline before making future tuning decisions
+

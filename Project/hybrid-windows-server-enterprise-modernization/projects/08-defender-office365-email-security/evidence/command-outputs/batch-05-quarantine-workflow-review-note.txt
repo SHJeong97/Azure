@@ -1,0 +1,27 @@
+Project 08 Batch 5 — Quarantine Workflow Review Note
+
+Reviewed location:
+Microsoft Defender portal > Email & collaboration > Review > Quarantine
+
+Review purpose:
+Document the quarantine review workflow for Microsoft Defender for Office 365 and Exchange Online Protection.
+
+Actions performed:
+- Reviewed quarantine policy baseline
+- Exported sanitized quarantine message evidence
+- Reviewed quarantine portal workflow
+- Created quarantine message summary
+
+Actions not performed:
+- No quarantined messages released
+- No quarantined messages deleted
+- No message body content exported
+- No message headers exported
+- No sender infrastructure exported
+- No public IP or location fields exported
+
+Expected lab result:
+It is acceptable if no quarantined messages exist in this lab tenant.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch05

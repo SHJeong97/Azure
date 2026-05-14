@@ -1,0 +1,52 @@
+Project 08 Batch 2 — Final Tenant Readiness, EOP Baseline, and Mail Flow Inventory Summary
+
+Project:
+Microsoft Defender for Office 365 Email Security Baseline
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified domain:
+summitridge-mfg.com
+
+Batch 2 validation completed:
+- Batch 2 evidence folder created
+- Exchange Online connected
+- Exchange organization configuration exported
+- Accepted domains exported
+- Pilot mailbox readiness exported
+- Pilot mailbox statistics exported
+- Mailbox inventory summary exported
+- Tenant readiness summary created
+- Inbound anti-spam policy baseline exported
+- Inbound anti-spam rules exported
+- Outbound spam policy baseline exported
+- Outbound spam rules exported
+- Anti-malware policy baseline exported
+- Anti-malware rules exported
+- Connection filter policy exported without IP lists
+- EOP baseline inventory summary created
+- Anti-phishing policy baseline exported
+- Anti-phishing rules exported
+- Safe Links policy baseline exported
+- Safe Links rules exported
+- Safe Attachments policy baseline exported
+- Safe Attachments rules exported
+- Transport rules baseline exported
+- Connectors exported without IP fields
+- Defender policy inventory summary created
+- Mail flow baseline note created
+- Implementation document created
+- Validation checklist updated
+- Risk register updated
+
+Safety decisions:
+No mail security policies were changed.
+No phishing simulation was sent.
+No quarantine action was performed.
+No real malware was used.
+No connector IP allow/block lists were exported.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch02

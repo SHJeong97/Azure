@@ -1,0 +1,29 @@
+Project 08 Batch 5 — Threat Submission Review Note
+
+Reviewed location:
+Microsoft Defender portal > Email & collaboration > Submissions
+
+Reviewed areas:
+- Emails
+- URLs
+- Email attachments
+- Files
+- User reported messages
+
+Lab action:
+Review only.
+
+Actions not performed:
+- No real phishing message submitted
+- No real malware submitted
+- No credential-harvesting URL submitted
+- No sensitive file uploaded
+- No private mailbox content exported
+- No message headers exported
+- No public IP or location fields exported
+
+Purpose:
+Document the Defender threat submission workflow without introducing unsafe content into the tenant.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch05

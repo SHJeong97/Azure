@@ -1,0 +1,37 @@
+Project 08 Batch 7 — Final Privacy-Safe Evidence Note
+
+Project:
+Microsoft Defender for Office 365 Email Security Baseline
+
+Privacy decision:
+Public IP address, location data, private message content, message headers, routing details, sender infrastructure, malicious URLs, and malware samples were intentionally excluded from Project 08 evidence.
+
+Fields and data intentionally excluded:
+- IpAddress
+- Location
+- City
+- State
+- CountryOrRegion
+- FromIP
+- ToIP
+- Message headers
+- Message body
+- Routing details
+- Sender infrastructure
+- Private mailbox content
+- Credential-harvesting URLs
+- Malware samples
+- Sensitive attachments
+
+Screenshot handling:
+Screenshots must be cropped or blurred if Microsoft Defender portal or Exchange admin center displays message preview, sender infrastructure, URLs, file hashes, public IP addresses, location details, device details, session metadata, message IDs, or private mailbox content.
+
+Final evidence exports:
+- Final pilot policy state exported
+- Final pilot mailbox readiness exported
+- Final sanitized message trace exported using Get-MessageTraceV2
+- Final architecture summary created
+- Final security outcomes created
+
+Evidence location:
+C:\LabEvidence\Project08\Batch07

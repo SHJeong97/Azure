@@ -1,0 +1,49 @@
+Project 08 Batch 3 — Final Anti-Phishing and EOP Protection Baseline Summary
+
+Project:
+Microsoft Defender for Office 365 Email Security Baseline
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified domain:
+summitridge-mfg.com
+
+Batch 3 validation completed:
+- Batch 3 evidence folder created
+- Exchange Online connected
+- Anti-phishing pilot scope created
+- Anti-phishing state exported before changes
+- Pilot anti-phishing policy created or confirmed
+- Pilot anti-phishing rule created or confirmed
+- Anti-phishing policy and rule validated after creation
+- Anti-phishing configuration summary created
+- Anti-spam review baseline exported
+- Anti-spam review decision matrix created
+- Anti-malware review baseline exported
+- Anti-malware review decision matrix created
+- Spoof intelligence exported without SendingInfrastructure
+- Tenant Allow/Block List summary created without IP entries
+- Spoofed senders portal reviewed
+- Safe baseline review note created
+- Batch 3 protection baseline summary created
+- Implementation document created
+- Validation checklist updated
+- Risk register updated
+
+Final observed spoof intelligence portal result:
+0 spoofed domain activity was shown in the portal.
+No spoofed sender entries were available.
+No action was required.
+
+Safety decisions:
+No real phishing email was sent.
+No real malware was used.
+No anti-spam policy was changed.
+No anti-malware policy was changed.
+No tenant-wide policy expansion was performed.
+No Tenant Allow/Block List IP entries were exported.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project08\Batch03

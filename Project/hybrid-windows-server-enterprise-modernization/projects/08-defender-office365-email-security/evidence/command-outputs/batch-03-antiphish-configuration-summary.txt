@@ -1,0 +1,18 @@
+
+Project                       : Project 08
+Batch                         : Batch 3
+PolicyName                    : 
+RuleName                      : 
+PilotUsers                    : 
+ProtectedDomain               : summitridge-mfg.com
+UserImpersonationProtection   : {True, False}
+DomainImpersonationProtection : {True, False}
+OrganizationDomainProtection  : {True, False}
+MailboxIntelligence           : {True, True}
+SpoofIntelligence             : {True, True}
+TenantWidePolicy              : No
+RealPhishingSent              : No
+PublicIpExported              : No
+LocationExported              : No
+Result                        : Pilot anti-phishing policy configured
+

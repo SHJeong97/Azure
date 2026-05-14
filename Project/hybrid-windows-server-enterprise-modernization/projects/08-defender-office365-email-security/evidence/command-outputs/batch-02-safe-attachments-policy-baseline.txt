@@ -1,0 +1,19 @@
+
+Name            : AttachmentPolicy1
+IsDefault       : False
+Action          : DynamicDelivery
+ActionOnError   : 
+Enable          : True
+Redirect        : True
+RedirectAddress : jonis@democompany1016.onmicrosoft.com
+QuarantineTag   : AdminOnlyAccessPolicy
+
+Name            : Built-In Protection Policy
+IsDefault       : False
+Action          : Block
+ActionOnError   : 
+Enable          : True
+Redirect        : False
+RedirectAddress : 
+QuarantineTag   : AdminOnlyAccessPolicy
+

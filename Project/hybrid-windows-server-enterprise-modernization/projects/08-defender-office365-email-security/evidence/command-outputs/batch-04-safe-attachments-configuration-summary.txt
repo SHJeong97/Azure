@@ -1,0 +1,16 @@
+
+Project          : Project 08
+Batch            : Batch 4
+PolicyName       : P08-Pilot-SafeAttachments
+RuleName         : P08-Pilot-SafeAttachments-Rule
+PilotUsers       : emma.wilson@summitridge-mfg.com;olivia.brown@summitridge-mfg.com;sophia.martinez@summitridge-mfg.com
+Action           : DynamicDelivery
+ActionOnError    : 
+Enabled          : True
+Redirect         : False
+TenantWidePolicy : No
+RealMalwareUsed  : No
+PublicIpExported : No
+LocationExported : No
+Result           : Pilot Safe Attachments policy configured
+

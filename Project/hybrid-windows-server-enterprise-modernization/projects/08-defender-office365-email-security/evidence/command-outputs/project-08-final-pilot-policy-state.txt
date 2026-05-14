@@ -1,0 +1,28 @@
+
+PolicyArea  : Anti-phishing
+PolicyName  : P08-Pilot-AntiPhishing
+PolicyFound : No
+RuleName    : P08-Pilot-AntiPhishing-Rule
+RuleFound   : No
+RuleState   : 
+Scope       : Pilot users only
+TenantWide  : No
+
+PolicyArea  : Safe Links
+PolicyName  : P08-Pilot-SafeLinks
+PolicyFound : Yes
+RuleName    : P08-Pilot-SafeLinks-Rule
+RuleFound   : Yes
+RuleState   : Enabled
+Scope       : Pilot users only
+TenantWide  : No
+
+PolicyArea  : Safe Attachments
+PolicyName  : P08-Pilot-SafeAttachments
+PolicyFound : Yes
+RuleName    : P08-Pilot-SafeAttachments-Rule
+RuleFound   : Yes
+RuleState   : Enabled
+Scope       : Pilot users only
+TenantWide  : No
+

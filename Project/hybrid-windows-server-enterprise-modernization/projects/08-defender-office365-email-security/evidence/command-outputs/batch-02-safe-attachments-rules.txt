@@ -1,0 +1,12 @@
+
+Name                      : AttachmentPolicy1
+State                     : Enabled
+Priority                  : 0
+SafeAttachmentPolicy      : AttachmentPolicy1
+SentTo                    : 
+SentToMemberOf            : 
+RecipientDomainIs         : {democompany1016.onmicrosoft.com}
+ExceptIfSentTo            : 
+ExceptIfSentToMemberOf    : 
+ExceptIfRecipientDomainIs : 
+

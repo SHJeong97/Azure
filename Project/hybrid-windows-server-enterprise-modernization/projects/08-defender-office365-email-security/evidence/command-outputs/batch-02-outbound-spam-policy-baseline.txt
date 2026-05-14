@@ -1,0 +1,12 @@
+
+Name                          : Default
+IsDefault                     : True
+RecipientLimitExternalPerHour : 0
+RecipientLimitInternalPerHour : 0
+RecipientLimitPerDay          : 0
+ActionWhenThresholdReached    : BlockUserForToday
+AutoForwardingMode            : Automatic
+BccSuspiciousOutboundMail     : False
+NotifyOutboundSpam            : False
+NotifyOutboundSpamRecipients  : {}
+
