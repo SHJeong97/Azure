@@ -97,3 +97,18 @@ P08-VAL-094,Alert and investigation workflow matrix created,Investigation workfl
 P08-VAL-095,Defender alerts review note created,Defender alerts review note saved,Completed
 P08-VAL-096,Batch 5 investigation workflow summary created,Investigation workflow summary saved,Completed
 P08-VAL-097,Quarantine and investigation workflow document created,Implementation document saved,Completed
+P08-VAL-098,Batch 6 evidence folder created,C:\LabEvidence\Project08\Batch06 exists,Completed
+P08-VAL-099,Exchange Online connected for Batch 6,Exchange connection validated,Completed
+P08-VAL-100,Mail flow validation test plan created,Safe pilot mail flow test plan saved,Completed
+P08-VAL-101,Safe validation emails sent manually,Safe test messages sent between pilot users,Completed
+P08-VAL-102,Safe mail flow test note created,Safe mail flow note saved,Completed
+P08-VAL-103,Sanitized message trace exported,Message trace exported without subject headers or IP fields,Completed
+P08-VAL-104,Mail flow validation summary created,Mail flow validation summary saved,Completed
+P08-VAL-105,Final pilot protection policy state validated,Anti-phishing Safe Links and Safe Attachments policy state saved,Completed
+P08-VAL-106,Sanitized message trace result note created,Get-MessageTraceV2 note saved,Completed
+P08-VAL-107,Message trace reviewed in Exchange admin center,Sanitized message trace screenshot saved,Completed
+P08-VAL-108,Defender Explorer or Real-time detections reviewed,Defender monitoring screenshot saved,Completed
+P08-VAL-109,Defender monitoring review matrix created,Monitoring review matrix saved,Completed
+P08-VAL-110,Defender monitoring portal review note created,Portal review note saved,Completed
+P08-VAL-111,Batch 6 monitoring validation summary created,Monitoring validation summary saved,Completed
+P08-VAL-112,Mail flow validation and monitoring document created,Implementation document saved,Completed
