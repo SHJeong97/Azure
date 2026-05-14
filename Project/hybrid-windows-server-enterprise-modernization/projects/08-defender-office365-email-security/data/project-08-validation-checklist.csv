@@ -81,3 +81,19 @@ P08-VAL-078,Preset security policies reviewed,Built-in Standard and Strict polic
 P08-VAL-079,Preset security policy review note created,Review note saved,Completed
 P08-VAL-080,Batch 4 pilot protection summary created,Pilot protection summary saved,Completed
 P08-VAL-081,Safe Links and Safe Attachments implementation document created,Implementation document saved,Completed
+P08-VAL-082,Batch 5 evidence folder created,C:\LabEvidence\Project08\Batch05 exists,Completed
+P08-VAL-083,Exchange Online connected for Batch 5,Exchange connection validated,Completed
+P08-VAL-084,Quarantine policy baseline exported,Quarantine policy baseline saved,Completed
+P08-VAL-085,Sanitized quarantine messages exported,Quarantine message evidence saved without sensitive fields,Completed
+P08-VAL-086,Quarantine message summary created,Quarantine message summary saved,Completed
+P08-VAL-087,Quarantine portal reviewed,Quarantine workflow screenshot saved,Completed
+P08-VAL-088,Quarantine workflow note created,Quarantine workflow note saved,Completed
+P08-VAL-089,Quarantine readiness summary created,Quarantine readiness summary saved,Completed
+P08-VAL-090,Threat submissions portal reviewed,Submissions workflow screenshot saved,Completed
+P08-VAL-091,Threat submission workflow matrix created,Threat submission workflow matrix saved,Completed
+P08-VAL-092,Threat submission review note created,Threat submission review note saved,Completed
+P08-VAL-093,Defender alerts and incidents reviewed,Alerts and incidents screenshot saved,Completed
+P08-VAL-094,Alert and investigation workflow matrix created,Investigation workflow matrix saved,Completed
+P08-VAL-095,Defender alerts review note created,Defender alerts review note saved,Completed
+P08-VAL-096,Batch 5 investigation workflow summary created,Investigation workflow summary saved,Completed
+P08-VAL-097,Quarantine and investigation workflow document created,Implementation document saved,Completed
