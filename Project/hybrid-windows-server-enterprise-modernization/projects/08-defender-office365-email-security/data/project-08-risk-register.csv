@@ -37,3 +37,12 @@ P08-035,Real malware uploaded during attachment or file submission,Security inci
 P08-036,Alert remediation performed without approval,Unexpected message or security action,Medium,Alerts and incidents were reviewed only with no remediation performed,Security Administrator,Mitigated
 P08-037,No quarantine or alert activity available,Validation confusion,Low,No-data result documented as acceptable for small lab tenant,Security Administrator,Mitigated
 P08-038,Investigation workflow not documented,Operational evidence incomplete,Medium,Threat submission alert incident and investigation workflow matrices were created,Security Administrator,Mitigated
+P08-039,Mail flow validation not completed,Project cannot prove pilot mail behavior,Medium,Safe pilot messages were sent and message trace evidence exported,Messaging Administrator,Mitigated
+P08-040,Message trace exports expose sensitive fields,Privacy issue,Medium,Message trace exported without subject body headers IP fields or routing details,Messaging Administrator,Mitigated
+P08-041,Deprecated message trace cmdlet used,Future command compatibility issue,Low,Get-MessageTraceV2 used and documented,Messaging Administrator,Mitigated
+P08-042,Safe test messages mistaken for real threat testing,Portfolio accuracy issue,Low,Safe mail flow test note documents plain-text lab messages only,Security Administrator,Mitigated
+P08-043,Real phishing or malware used during mail flow validation,Security incident risk,High,Only safe plain-text internal messages were used,Security Administrator,Mitigated
+P08-044,Pilot policy state not validated after mail flow testing,README may overstate configured protection,Medium,Final pilot policy state exported for anti-phishing Safe Links and Safe Attachments,Security Administrator,Mitigated
+P08-045,Defender monitoring has no threat detections,Validation confusion,Low,No-detection result documented as expected because safe messages were used,Security Administrator,Mitigated
+P08-046,Portal screenshots expose mailbox content or routing details,Privacy issue,Medium,Screenshots must be sanitized and no headers or routing details captured,Security Administrator,Mitigated
+P08-047,Message trace evidence exposes public IP or location,Privacy issue,Medium,No IP or location fields exported in Batch 6 message trace evidence,Messaging Administrator,Mitigated
