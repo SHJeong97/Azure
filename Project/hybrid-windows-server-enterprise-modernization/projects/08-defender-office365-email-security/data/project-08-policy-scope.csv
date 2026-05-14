@@ -1,0 +1,10 @@
+PolicyArea,PolicyName,ScopeType,TargetUsers,TargetDomain,InitialMode,FinalIntent,Status
+Anti-phishing,Project08-Pilot-AntiPhishing,User scope,Emma Wilson;Olivia Brown;Sophia Martinez,summitridge-mfg.com,Pilot,Protect pilot users from impersonation and spoofing,Planned
+Anti-spam,Default anti-spam policy review,Tenant baseline review,All mailboxes,summitridge-mfg.com,Review only,Document spam filtering baseline,Planned
+Anti-malware,Default anti-malware policy review,Tenant baseline review,All mailboxes,summitridge-mfg.com,Review only,Document malware filtering baseline,Planned
+Safe Links,Project08-Pilot-SafeLinks,User scope,Emma Wilson;Olivia Brown;Sophia Martinez,summitridge-mfg.com,Pilot,Enable time-of-click URL protection for pilot users,Planned
+Safe Attachments,Project08-Pilot-SafeAttachments,User scope,Emma Wilson;Olivia Brown;Sophia Martinez,summitridge-mfg.com,Pilot,Enable attachment detonation for pilot users,Planned
+Quarantine,Quarantine workflow review,Admin workflow,Security administrator review,summitridge-mfg.com,Document only,Document message review and release process,Planned
+Threat submissions,Submission workflow review,Admin workflow,Security administrator review,summitridge-mfg.com,Document only,Document suspicious message submission process,Planned
+Alerts,Defender alert workflow review,Admin workflow,Security administrator review,summitridge-mfg.com,Document only,Review Defender alert visibility,Planned
+Mail flow,Project08 mail flow validation,Pilot validation,Emma Wilson;Olivia Brown;Sophia Martinez,summitridge-mfg.com,Validation,Confirm expected mail behavior,Planned
