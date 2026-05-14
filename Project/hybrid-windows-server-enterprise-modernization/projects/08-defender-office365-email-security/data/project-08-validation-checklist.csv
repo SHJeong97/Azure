@@ -63,3 +63,21 @@ P08-VAL-061,Spoofed senders portal reviewed,Portal review screenshot saved,Compl
 P08-VAL-062,Safe baseline review note created,Review note saved,Completed
 P08-VAL-063,Batch 3 protection baseline summary created,Protection baseline summary saved,Completed
 P08-VAL-064,Anti-phishing and EOP protection baseline document created,Implementation document saved,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P08-VAL-065,Batch 4 evidence folder created,C:\LabEvidence\Project08\Batch04 exists,Completed
+P08-VAL-066,Exchange Online connected for Batch 4,Exchange connection validated,Completed
+P08-VAL-067,Batch 4 pilot policy scope created,Pilot users and policy names documented,Completed
+P08-VAL-068,Safe Links state exported before changes,Safe Links before-state evidence saved,Completed
+P08-VAL-069,Pilot Safe Links policy created or confirmed,P08-Pilot-SafeLinks exists,Completed
+P08-VAL-070,Pilot Safe Links rule created or confirmed,P08-Pilot-SafeLinks-Rule exists,Completed
+P08-VAL-071,Safe Links policy and rule validated after creation,Safe Links after-state evidence saved,Completed
+P08-VAL-072,Safe Links configuration summary created,Safe Links summary saved,Completed
+P08-VAL-073,Safe Attachments state exported before changes,Safe Attachments before-state evidence saved,Completed
+P08-VAL-074,Pilot Safe Attachments policy created or confirmed,P08-Pilot-SafeAttachments exists,Completed
+P08-VAL-075,Pilot Safe Attachments rule created or confirmed,P08-Pilot-SafeAttachments-Rule exists,Completed
+P08-VAL-076,Safe Attachments policy and rule validated after creation,Safe Attachments after-state evidence saved,Completed
+P08-VAL-077,Safe Attachments configuration summary created,Safe Attachments summary saved,Completed
+P08-VAL-078,Preset security policies reviewed,Built-in Standard and Strict policies reviewed,Completed
+P08-VAL-079,Preset security policy review note created,Review note saved,Completed
+P08-VAL-080,Batch 4 pilot protection summary created,Pilot protection summary saved,Completed
+P08-VAL-081,Safe Links and Safe Attachments implementation document created,Implementation document saved,Completed
