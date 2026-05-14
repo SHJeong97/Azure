@@ -1,0 +1,2 @@
+"Project","Batch","AntiPhishPolicyName","AntiPhishRuleName","AntiPhishPilotScope","AntiSpamPoliciesReviewed","AntiMalwarePoliciesReviewed","SpoofIntelligenceReviewed","TenantAllowBlockListSummaryCreated","TenantWideExpansion","RealPhishingSent","RealMalwareUsed","PublicIpExported","LocationExported","Result"
+"Project 08","Batch 3",,,"Emma Wilson;Olivia Brown;Sophia Martinez","2","1","Yes","Yes","No","No","No","No","No","Pilot anti-phishing configured and EOP protection baseline reviewed"

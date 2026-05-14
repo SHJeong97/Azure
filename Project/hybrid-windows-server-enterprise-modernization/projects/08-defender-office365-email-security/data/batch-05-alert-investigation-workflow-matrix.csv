@@ -1,0 +1,6 @@
+"WorkflowArea","PortalLocation","ReviewPurpose","LabAction","AutoRemediationPerformed","EvidenceRule"
+"Defender alerts","Microsoft Defender portal > Incidents & alerts > Alerts","Review email security alerts such as phishing, malware, and suspicious message activity","Review only","No","Sanitize users, subjects, URLs, message IDs, IP addresses, and location data"
+"Defender incidents","Microsoft Defender portal > Incidents & alerts > Incidents","Review grouped security events and investigation context","Review only","No","Sanitize incident entities and affected assets"
+"Email entity investigation","Microsoft Defender portal > Email entity page","Understand message timeline, detection technology, delivery location, and threat verdict","Document workflow only","No","Do not expose message body, headers, sender infrastructure, or routing details"
+"URL investigation","Microsoft Defender portal > URL entity or alert evidence","Review Safe Links and URL verdict context","Document workflow only","No","Do not expose malicious URLs or credential harvesting links"
+"Attachment investigation","Microsoft Defender portal > Attachment evidence or alert details","Review Safe Attachments verdict and attachment handling","Document workflow only","No","Do not upload or expose real malware or sensitive files"

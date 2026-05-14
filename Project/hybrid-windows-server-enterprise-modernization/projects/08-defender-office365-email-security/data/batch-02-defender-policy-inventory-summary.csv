@@ -1,0 +1,2 @@
+"Project","Batch","AntiPhishPolicyCount","AntiPhishRuleCount","SafeLinksPolicyCount","SafeLinksRuleCount","SafeAttachmentPolicyCount","SafeAttachmentRuleCount","TransportRuleCount","InboundConnectorCount","OutboundConnectorCount","MailSecurityPoliciesChanged","PublicIpExported","LocationExported","InventoryResult"
+"Project 08","Batch 2","2","1","2","1","2","1","3","0","0","No","No","No","Defender and Exchange Online mail security inventory exported"

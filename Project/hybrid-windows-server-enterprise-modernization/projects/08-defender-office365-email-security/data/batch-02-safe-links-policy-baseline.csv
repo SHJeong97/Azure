@@ -1,0 +1,3 @@
+"Name","IsDefault","EnableSafeLinksForEmail","EnableSafeLinksForTeams","EnableSafeLinksForOffice","TrackClicks","AllowClickThrough","ScanUrls","EnableForInternalSenders","DeliverMessageAfterScan","DisableUrlRewrite","DoNotRewriteUrls"
+"Built-In Protection Policy",,"True","True","True","True","True","True","False","True","True",""
+"LinkPolicy1",,"True","True","True","True","True","True","True","True","True",""

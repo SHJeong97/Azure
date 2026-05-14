@@ -1,0 +1,4 @@
+"TestID","Sender","Recipient","TestType","SafeSubject","ContentType","ExpectedResult"
+"P08-MF-001","emma.wilson@summitridge-mfg.com","olivia.brown@summitridge-mfg.com","Internal pilot mail","P08 Mail Flow Validation Test 001","Safe plain-text lab message","Delivered"
+"P08-MF-002","olivia.brown@summitridge-mfg.com","sophia.martinez@summitridge-mfg.com","Internal pilot mail","P08 Mail Flow Validation Test 002","Safe plain-text lab message","Delivered"
+"P08-MF-003","sophia.martinez@summitridge-mfg.com","emma.wilson@summitridge-mfg.com","Internal pilot mail","P08 Mail Flow Validation Test 003","Safe plain-text lab message","Delivered"

@@ -1,0 +1,2 @@
+"Name","State","Priority","AntiPhishPolicy","SentTo","SentToMemberOf","RecipientDomainIs","ExceptIfSentTo","ExceptIfSentToMemberOf","ExceptIfRecipientDomainIs"
+"DP01-Exec-SharedMailbox-AntiPhish","Enabled","0","DP01-Exec-SharedMailbox-AntiPhish","hr@democompany1016.onmicrosoft.com finance@democompany1016.onmicrosoft.com operations@democompany1016.onmicrosoft.com emma.reed@democompany1016.onmicrosoft.com david.cho@democompany1016.onmicrosoft.com",,,,,

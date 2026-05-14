@@ -1,0 +1,2 @@
+"Name","IsDefault","RecipientLimitExternalPerHour","RecipientLimitInternalPerHour","RecipientLimitPerDay","ActionWhenThresholdReached","AutoForwardingMode","BccSuspiciousOutboundMail","NotifyOutboundSpam","NotifyOutboundSpamRecipients"
+"Default","True","0","0","0","BlockUserForToday","Automatic","False","False",""

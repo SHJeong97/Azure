@@ -1,0 +1,2 @@
+"Project","Batch","PilotPolicyStateValidated","MessageTraceMethod","MessageTraceExported","MessageTraceSanitized","DefenderExplorerReviewed","RealTimeDetectionsReviewed","SafeMessagesUsed","RealPhishingSent","RealMalwareSent","MessageHeadersExported","RoutingDetailsExported","PublicIpExported","LocationExported","Result"
+"Project 08","Batch 6","Yes","Get-MessageTraceV2","Yes","Yes","Yes","Yes or unavailable documented","Yes","No","No","No","No","No","No","Mail flow and Defender monitoring evidence validated with sanitized fields"

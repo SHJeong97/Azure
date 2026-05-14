@@ -1,0 +1,3 @@
+"Name","IsDefault","Action","ActionOnError","Enable","Redirect","RedirectAddress","QuarantineTag"
+"AttachmentPolicy1","False","DynamicDelivery",,"True","True","jonis@democompany1016.onmicrosoft.com","AdminOnlyAccessPolicy"
+"Built-In Protection Policy","False","Block",,"True","False","","AdminOnlyAccessPolicy"

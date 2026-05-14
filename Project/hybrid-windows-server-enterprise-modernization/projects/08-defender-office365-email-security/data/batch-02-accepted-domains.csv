@@ -1,0 +1,4 @@
+"Name","DomainName","DomainType","Default","InitialDomain","AddressBookEnabled","MatchSubDomains"
+"democompany1016.mail.onmicrosoft.com","democompany1016.mail.onmicrosoft.com","Authoritative","False","False","True","False"
+"democompany1016.onmicrosoft.com","democompany1016.onmicrosoft.com","Authoritative","True","True","True","False"
+"summitridge-mfg.com","summitridge-mfg.com","Authoritative","False","False","True","False"

@@ -1,0 +1,2 @@
+"Project","Batch","Tenant","VerifiedDomain","AcceptedDomainFound","PilotMailboxCount","ExpectedPilotMailboxCount","MailSecurityPoliciesChanged","PhishingSimulationSent","QuarantineActionPerformed","PublicIpExported","LocationExported","ReadinessResult"
+"Project 08","Batch 2","democompany1016.onmicrosoft.com","summitridge-mfg.com","Yes","3","3","No","No","No","No","No","Ready for EOP and Defender baseline export"

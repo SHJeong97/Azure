@@ -1,0 +1,2 @@
+"Project","Batch","ReviewWindow","QuarantineMessageCount","QuarantinePolicyCount","MessagesReleased","MessagesDeleted","MessageSubjectsExported","SenderAddressesExported","MessageHeadersExported","PublicIpExported","LocationExported","Result"
+"Project 08","Batch 5","Last 30 days","0","0","No","No","No","No","No","No","No","Quarantine baseline reviewed with sanitized evidence"

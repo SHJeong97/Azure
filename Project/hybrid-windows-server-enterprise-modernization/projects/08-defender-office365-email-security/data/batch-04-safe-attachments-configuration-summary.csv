@@ -1,0 +1,2 @@
+"Project","Batch","PolicyName","RuleName","PilotUsers","Action","ActionOnError","Enabled","Redirect","TenantWidePolicy","RealMalwareUsed","PublicIpExported","LocationExported","Result"
+"Project 08","Batch 4","P08-Pilot-SafeAttachments","P08-Pilot-SafeAttachments-Rule","emma.wilson@summitridge-mfg.com;olivia.brown@summitridge-mfg.com;sophia.martinez@summitridge-mfg.com","DynamicDelivery",,"True","False","No","No","No","No","Pilot Safe Attachments policy configured"

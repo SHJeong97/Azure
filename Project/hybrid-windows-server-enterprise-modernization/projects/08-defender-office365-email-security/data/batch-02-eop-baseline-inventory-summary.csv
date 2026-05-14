@@ -1,0 +1,2 @@
+"Project","Batch","Tenant","InboundAntiSpamPolicyCount","InboundAntiSpamRuleCount","OutboundSpamPolicyCount","OutboundSpamRuleCount","MalwarePolicyCount","MalwareRuleCount","ConnectionFilterPolicyCount","MailSecurityPoliciesChanged","PublicIpExported","LocationExported","BaselineResult"
+"Project 08","Batch 2","democompany1016.onmicrosoft.com","2","1","1","0","1","0","1","No","No","No","Exchange Online Protection baseline exported"

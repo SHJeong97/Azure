@@ -1,0 +1,2 @@
+"Name","Action","ActionOnError","Enable","Redirect","RedirectAddress","QuarantineTag"
+"P08-Pilot-SafeAttachments","DynamicDelivery",,"True","False","","AdminOnlyAccessPolicy"

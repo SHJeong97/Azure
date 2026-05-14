@@ -1,0 +1,3 @@
+"Name","IsDefault","SpamAction","HighConfidenceSpamAction","PhishSpamAction","HighConfidencePhishAction","BulkSpamAction","BulkThreshold","QuarantineRetentionPeriod","RedirectToRecipients","TestModeAction","EnableEndUserSpamNotifications","EndUserSpamNotificationFrequency"
+"Default","True","MoveToJmf","MoveToJmf","MoveToJmf","Quarantine","MoveToJmf","7","15","","None",,
+"DP02-SharedMailbox-Inbound-AntiSpam","False","Quarantine","Quarantine","Quarantine","Quarantine","MoveToJmf","6","15","","None",,

@@ -1,0 +1,2 @@
+"Name","State","Priority","SafeAttachmentPolicy","SentTo","SentToMemberOf","RecipientDomainIs","ExceptIfSentTo","ExceptIfSentToMemberOf","ExceptIfRecipientDomainIs"
+"P08-Pilot-SafeAttachments-Rule","Enabled","1","P08-Pilot-SafeAttachments","emma.wilson@summitridge-mfg.com olivia.brown@summitridge-mfg.com sophia.martinez@summitridge-mfg.com",,,,,

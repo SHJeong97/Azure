@@ -1,0 +1,2 @@
+"Name","EnableSafeLinksForEmail","EnableSafeLinksForTeams","EnableSafeLinksForOffice","TrackClicks","AllowClickThrough","ScanUrls","EnableForInternalSenders","DeliverMessageAfterScan","DisableUrlRewrite"
+"P08-Pilot-SafeLinks","True","True","True","True","False","True","True","True","False"

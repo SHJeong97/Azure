@@ -1,0 +1,4 @@
+"Name","State","Mode","Priority","Comments","From","SentTo","SentToMemberOf","RecipientDomainIs","SubjectContainsWords","ApplyHtmlDisclaimerLocation","ApplyHtmlDisclaimerFallbackAction","RejectMessageReasonText","Quarantine","StopRuleProcessing"
+"MF01-Tag-External-Inbound-Mail","Enabled","Enforce","0",,,,,,,,,,"False","False"
+"MF02-Warn-External-Mail-To-Shared-Mailboxes","Enabled","Enforce","1",,,"hr@democompany1016.onmicrosoft.com finance@democompany1016.onmicrosoft.com operations@democompany1016.onmicrosoft.com",,,,"Prepend","Wrap",,"False","False"
+"MF03-Block-Inbound-Executable-Attachments","Enabled","Enforce","2",,,,,,,,,"Executable attachments from external senders are blocked by DemoCompany mail policy.","False","False"

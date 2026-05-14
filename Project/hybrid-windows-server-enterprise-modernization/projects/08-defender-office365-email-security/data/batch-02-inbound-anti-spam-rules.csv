@@ -1,0 +1,2 @@
+"Name","State","Priority","HostedContentFilterPolicy","SentTo","SentToMemberOf","RecipientDomainIs","ExceptIfSentTo","ExceptIfSentToMemberOf","ExceptIfRecipientDomainIs"
+"DP02-SharedMailbox-Inbound-AntiSpam","Enabled","0","DP02-SharedMailbox-Inbound-AntiSpam","hr@democompany1016.onmicrosoft.com finance@democompany1016.onmicrosoft.com operations@democompany1016.onmicrosoft.com",,,,,

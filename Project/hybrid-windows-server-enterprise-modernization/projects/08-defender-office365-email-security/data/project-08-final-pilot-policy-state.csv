@@ -1,0 +1,4 @@
+"PolicyArea","PolicyName","PolicyFound","RuleName","RuleFound","RuleState","Scope","TenantWide"
+"Anti-phishing","P08-Pilot-AntiPhishing","No","P08-Pilot-AntiPhishing-Rule","No","","Pilot users only","No"
+"Safe Links","P08-Pilot-SafeLinks","Yes","P08-Pilot-SafeLinks-Rule","Yes","Enabled","Pilot users only","No"
+"Safe Attachments","P08-Pilot-SafeAttachments","Yes","P08-Pilot-SafeAttachments-Rule","Yes","Enabled","Pilot users only","No"

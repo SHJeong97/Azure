@@ -1,0 +1,6 @@
+"SubmissionType","PortalLocation","LabAction","RealThreatSubmitted","EvidenceRule","WorkflowPurpose"
+"Email message","Microsoft Defender portal > Email & collaboration > Submissions > Emails","Review only","No","Do not export message body, sender infrastructure, headers, or private mailbox content","Document how suspicious emails would be submitted for Microsoft analysis"
+"URL","Microsoft Defender portal > Email & collaboration > Submissions > URLs","Review only","No","Do not export live malicious URLs or credential-harvesting links","Document how suspicious URLs would be submitted"
+"Email attachment","Microsoft Defender portal > Email & collaboration > Submissions > Email attachments","Review only","No","Do not upload real malware or sensitive attachments","Document how suspicious attachments would be submitted"
+"File","Microsoft Defender portal > Email & collaboration > Submissions > Files","Review only","No","Do not upload malware or private company files","Document file submission workflow"
+"User reported message","Microsoft Defender portal > Email & collaboration > Submissions > User reported","Review only","No","Sanitize sender recipient subject preview and message details","Document user-reported message review workflow"

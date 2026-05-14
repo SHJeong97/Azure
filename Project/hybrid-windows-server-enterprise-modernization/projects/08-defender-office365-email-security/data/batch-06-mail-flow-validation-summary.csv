@@ -1,0 +1,2 @@
+"Project","Batch","ReviewWindow","PilotUsers","PlannedTestMessageCount","MessageTraceRecordCount","SafeMessagesSent","RealPhishingSent","RealMalwareSent","MessageHeadersExported","MessageSubjectsExported","PublicIpExported","LocationExported","Result"
+"Project 08","Batch 6","Last 24 hours","emma.wilson@summitridge-mfg.com;olivia.brown@summitridge-mfg.com;sophia.martinez@summitridge-mfg.com","3","6","Yes","No","No","No","No","No","No","Pilot mail flow validation evidence exported with sanitized fields"

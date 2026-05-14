@@ -1,0 +1,2 @@
+"Project","Batch","PolicyName","RuleName","PilotUsers","ProtectedDomain","UserImpersonationProtection","DomainImpersonationProtection","OrganizationDomainProtection","MailboxIntelligence","SpoofIntelligence","TenantWidePolicy","RealPhishingSent","PublicIpExported","LocationExported","Result"
+"Project 08","Batch 3",,,"","summitridge-mfg.com","System.Object[]","System.Object[]","System.Object[]","System.Object[]","System.Object[]","No","No","No","No","Pilot anti-phishing policy configured"

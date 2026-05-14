@@ -1,0 +1,5 @@
+"ReviewArea","PortalLocation","EvidenceType","ExpectedResult","SensitiveFieldsExcluded"
+"Message trace","Exchange admin center > Mail flow > Message trace","Sanitized message trace","Safe pilot messages delivered or traceable","Subject;Headers;IP;Location;Routing details"
+"Defender Explorer","Microsoft Defender portal > Email & collaboration > Explorer","Portal screenshot","No real threat detections expected","Message preview;Sender infrastructure;URLs;IP;Location"
+"Real-time detections","Microsoft Defender portal > Email & collaboration > Real-time detections","Portal screenshot if Explorer unavailable","No real threat detections expected","Message preview;URLs;File hashes;IP;Location"
+"Pilot policies","Defender portal > Threat policies","Policy and rule validation","Anti-phishing, Safe Links, and Safe Attachments pilot policies exist","None required"

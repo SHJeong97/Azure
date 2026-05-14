@@ -1,0 +1,3 @@
+"Name","Enabled","EnableTargetedUserProtection","EnableTargetedDomainsProtection","EnableOrganizationDomainsProtection","EnableMailboxIntelligence","EnableMailboxIntelligenceProtection","EnableSpoofIntelligence","AuthenticationFailAction","PhishThresholdLevel","TargetedUserProtectionAction","TargetedDomainProtectionAction","MailboxIntelligenceProtectionAction","QuarantineTag"
+"DP01-Exec-SharedMailbox-AntiPhish","True","True","True","True","True","True","True","MoveToJmf","3","Quarantine","Quarantine","MoveToJmf",
+"Office365 AntiPhish Default","True","False","False","False","True","False","True","MoveToJmf","1","NoAction","NoAction","NoAction",

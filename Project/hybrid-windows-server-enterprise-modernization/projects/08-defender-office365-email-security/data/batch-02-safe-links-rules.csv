@@ -1,0 +1,2 @@
+"Name","State","Priority","SafeLinksPolicy","SentTo","SentToMemberOf","RecipientDomainIs","ExceptIfSentTo","ExceptIfSentToMemberOf","ExceptIfRecipientDomainIs"
+"LinkPolicy1","Enabled","0","LinkPolicy1",,,"democompany1016.onmicrosoft.com",,,
