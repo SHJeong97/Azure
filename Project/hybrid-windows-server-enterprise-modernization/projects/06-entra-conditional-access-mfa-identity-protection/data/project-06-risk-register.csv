@@ -32,3 +32,11 @@ P06-030,Break-glass account used without review,Security event missed,Medium,Bre
 P06-031,Conditional Access policy changes not reviewed,Unauthorized or accidental changes missed,Medium,Policy change audit log review documented,Identity Administrator,Mitigated
 P06-032,Public IP or location exposed in evidence,User privacy issue,Medium,Sanitized sign-in exports created without IP/location fields,Identity Administrator,Mitigated
 P06-033,Rollback deletes policies instead of disabling enforcement,Loss of policy configuration,Low,Rollback scripts set policies to report-only and do not delete policies,Identity Administrator,Mitigated
+P06-034,Final CA state not validated,README may claim unsupported policy result,Medium,Final CA policy states exported before README creation,Identity Administrator,Mitigated
+P06-035,Final policy scope not validated,Wrong users or exclusions may be documented,Medium,Final pilot and break-glass group membership validated,Identity Administrator,Mitigated
+P06-036,MFA readiness not validated before final handoff,Final project may miss user readiness issue,Medium,Final MFA readiness report exported,Identity Administrator,Mitigated
+P06-037,Final sign-in evidence exposes public IP,User privacy issue,Medium,Final sign-in exports exclude IP and location fields,Identity Administrator,Mitigated
+P06-038,Final CA result evidence exposes location data,User privacy issue,Medium,Final CA result exports exclude IP and location fields,Identity Administrator,Mitigated
+P06-039,Identity Protection risk evidence exposes IP/location data,User privacy issue,Medium,Risk detections exported without IP/location fields,Security Administrator,Mitigated
+P06-040,README overstates risk-policy enforcement,Portfolio accuracy issue,Low,CA004 and CA005 documented as planned only,Security Administrator,Mitigated
+P06-041,Project handoff incomplete,Next project starts without final baseline,Medium,Final validation summary architecture summary and README prep created,Identity Administrator,Mitigated
