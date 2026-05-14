@@ -45,3 +45,29 @@ P07-VAL-042,Eligible assignments created or confirmed,User Administrator and Hel
 P07-VAL-043,Eligible assignments validated after creation,Post-change eligible assignments saved,Completed
 P07-VAL-044,Eligible assignment evidence note created,Evidence note saved,Completed
 P07-VAL-045,PIM eligible assignment implementation document created,Implementation document saved,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P07-VAL-046,Batch 4 evidence folder created,C:\LabEvidence\Project07\Batch04 exists,Completed
+P07-VAL-047,Microsoft Graph connected for activation baseline,Graph context returned,Completed
+P07-VAL-048,Sophia eligible assignments revalidated,Eligible assignments exported,Completed
+P07-VAL-049,Sophia active assignments exported before activation,Pre-activation active assignment state saved,Completed
+P07-VAL-050,PIM activation test plan created,Activation test plan saved,Completed
+P07-VAL-051,PIM activation baseline summary created,Baseline summary saved,Completed
+P07-VAL-052,Sophia My Roles portal reviewed,Eligible roles visible in My Roles,Completed
+P07-VAL-053,My Roles review note created,Review note saved,Completed
+P07-VAL-054,User Administrator activation reviewed,Eligible state documented,Completed
+P07-VAL-055,Helpdesk Administrator activated,Activation completed or documented,Completed
+P07-VAL-056,PIM activation test note created,Activation note saved,Completed
+P07-VAL-057,Microsoft Graph reconnected after activation,Graph context saved,Completed
+P07-VAL-058,Sophia active assignments exported after activation,Post-activation active assignments saved,Completed
+P07-VAL-059,PIM activation requests exported,Activation requests saved,Completed
+P07-VAL-060,Sanitized activation audit logs exported,Audit logs saved without IP/location fields,Completed
+P07-VAL-061,PIM activation result summary created,Activation result summary saved,Completed
+P07-VAL-062,Admin capability validation completed,View-only admin validation documented,Completed
+P07-VAL-063,Admin capability validation note created,Validation note saved,Completed
+P07-VAL-064,User Administrator deactivation reviewed,Eligible-only not-active state documented,Completed
+P07-VAL-065,Helpdesk Administrator deactivated,Active assignment deactivated,Completed
+P07-VAL-066,Deactivation evidence note created,Deactivation note saved,Completed
+P07-VAL-067,Sophia active assignments exported after deactivation,Post-deactivation active assignment state saved,Completed
+P07-VAL-068,Deactivation requests exported,Deactivation requests saved,Completed
+P07-VAL-069,Activation lifecycle summary created,Lifecycle summary saved,Completed
+P07-VAL-070,PIM activation workflow implementation document created,Implementation document saved,Completed
