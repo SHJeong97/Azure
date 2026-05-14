@@ -1,8 +1,8 @@
 RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
 P09-001,Purview feature unavailable due to licensing,Configuration cannot be completed as planned,Medium,Purview portal areas and command availability reviewed before configuration,Compliance Administrator,Mitigated
 P09-002,Compliance roles missing,Admin cannot configure labels DLP retention or audit,Medium,Purview role group visibility and membership reviewed before configuration,Compliance Administrator,Mitigated
-P09-003,Sensitivity labels published too broadly,Users see unvalidated classification labels,Medium,Publish labels to pilot users first,Information Protection Administrator,Open
-P09-004,Sensitivity label configuration too complex,User confusion and poor adoption,Medium,Use simple Public Internal Confidential Highly Confidential model,Information Protection Administrator,Open
+P09-003,Sensitivity labels published too broadly,Users see unvalidated classification labels,Medium,Labels published only to pilot users,Information Protection Administrator,Mitigated
+P09-004,Sensitivity label configuration too complex,User confusion and poor adoption,Medium,Simple Public Internal Confidential and Highly Confidential model used,Information Protection Administrator,Mitigated
 P09-005,DLP policy enforced too early,Legitimate business sharing blocked,High,Use test mode first and avoid full enforcement during initial validation,DLP Administrator,Open
 P09-006,DLP policy scoped incorrectly,Wrong users or locations affected,Medium,Use documented pilot scope and validate policy state,DLP Administrator,Open
 P09-007,Retention policy deletes content unexpectedly,Data loss or compliance issue,High,Avoid destructive retention behavior during lab planning,Compliance Administrator,Open
@@ -19,3 +19,12 @@ P09-017,Audit readiness not validated before compliance work,Audit evidence may 
 P09-018,Role membership changed unintentionally,Compliance permissions altered unexpectedly,Medium,Role groups were reviewed only and no role assignments were changed,Compliance Administrator,Mitigated
 P09-019,Content Explorer exposes item-level content,Privacy issue,Medium,Content Explorer was review-only and no item-level content was exported,Compliance Administrator,Mitigated
 P09-020,Activity Explorer unavailable or empty,Validation confusion,Low,Feature availability limitations are documented as acceptable in lab tenant,Compliance Administrator,Mitigated
+P09-021,Sensitivity labels not validated after creation,README may overstate label configuration,Medium,Labels exported after creation and summary evidence created,Information Protection Administrator,Mitigated
+P09-022,Label publishing policy missing,Labels may not appear for pilot users,Medium,Pilot label publishing policy created or confirmed,Information Protection Administrator,Mitigated
+P09-023,Label policy scoped tenant-wide accidentally,Unvalidated labels exposed to all users,Medium,Label policy scoped to pilot users only,Information Protection Administrator,Mitigated
+P09-024,Mandatory labeling enabled too early,User productivity impact,Medium,Mandatory labeling was not enabled during pilot validation,Information Protection Administrator,Mitigated
+P09-025,Default label applied before validation,Unexpected classification applied to user content,Medium,No default label configured in pilot publishing policy,Information Protection Administrator,Mitigated
+P09-026,Encryption enabled before pilot readiness,Access or sharing disruption,Medium,Encryption enforcement was not configured for Project 09 labels,Information Protection Administrator,Mitigated
+P09-027,Auto-labeling enabled too early,Unexpected classification behavior,Medium,Auto-labeling was not enabled during Batch 3,Information Protection Administrator,Mitigated
+P09-028,Private document or email content exposed during label validation,Privacy issue,High,Label visibility reviewed with blank or safe lab-only draft and no private content exported,Compliance Administrator,Mitigated
+P09-029,Label propagation delay misunderstood as failure,Validation confusion,Low,Propagation delay documented as expected behavior,Information Protection Administrator,Mitigated
