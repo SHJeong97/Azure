@@ -114,3 +114,10 @@ P06-VAL-110,Post-enforcement sign-in logs exported,Logs exported without IP/loca
 P06-VAL-111,Post-enforcement CA results exported,CA results exported without IP/location fields,Completed
 P06-VAL-112,Pilot enforcement result summary created,Enforcement result summary saved,Completed
 P06-VAL-113,Pilot enforcement implementation document created,Implementation document saved,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P06-VAL-114,Rollback scripts validated,CA001 and CA002 rollback scripts exist,Completed
+P06-VAL-115,Rollback readiness note created,Rollback readiness documented,Completed
+P06-VAL-116,Final Batch 7 policy states exported,Final policy states saved,Completed
+P06-VAL-117,Batch 7 final summary created,Final summary saved,Completed
+P06-VAL-118,Batch 7 file inventory created,File inventory saved,Completed
+P06-VAL-119,Batch 7 evidence copied,Evidence copied to GitHub folders,Completed
