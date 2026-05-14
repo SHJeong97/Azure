@@ -1,0 +1,17 @@
+Component,Configuration,Result
+Microsoft Entra tenant,democompany1016.onmicrosoft.com,Validated
+Verified public domain,summitridge-mfg.com,Validated
+Identity source,On-prem AD synced through Microsoft Entra Cloud Sync,Validated
+Privileged access platform,Microsoft Entra Privileged Identity Management,Validated
+Target admin account,srmgadmin@democompany1016.onmicrosoft.com,Reviewed
+Emergency access account,emergency.access01@democompany1016.onmicrosoft.com,Preserved and monitored
+PIM pilot user,sophia.martinez@summitridge-mfg.com,Validated
+Eligible PIM role,User Administrator,Created or confirmed
+Eligible PIM role,Helpdesk Administrator,Created or confirmed
+PIM activation workflow,Helpdesk Administrator activated and deactivated,Validated
+User Administrator state,Eligible but not active during deactivation review,Documented
+Access reviews,Manual documented reviews due to portal scoping limitation,Documented
+Audit monitoring,Privileged audit logs exported with sanitized fields,Validated
+Sign-in monitoring,Privileged sign-ins exported without IP/location fields,Validated
+Rollback controls,Operational runbook and rollback procedure created,Validated
+Privacy-safe evidence,IP and location fields excluded,Implemented
