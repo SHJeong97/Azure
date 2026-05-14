@@ -1,0 +1,5 @@
+User,Department,UserPrincipalName,PilotGroup,MFACapable,ConditionalAccessScope,FinalStatus
+Emma Wilson,HR,emma.wilson@summitridge-mfg.com,GRP-CA-Pilot-Users,Validated,Included in CA pilot scope,Completed
+Olivia Brown,Finance,olivia.brown@summitridge-mfg.com,GRP-CA-Pilot-Users,Validated,Included in CA pilot scope,Completed
+Sophia Martinez,IT,sophia.martinez@summitridge-mfg.com,GRP-CA-Pilot-Users,Validated,Included in CA pilot scope,Completed
+Emergency Access 01,Emergency access,emergency.access01@democompany1016.onmicrosoft.com,GRP-CA-Excluded-BreakGlass,Not used for daily MFA testing,Excluded from CA enforcement,Protected
