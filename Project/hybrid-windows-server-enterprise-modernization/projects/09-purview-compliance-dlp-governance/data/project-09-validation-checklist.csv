@@ -1,0 +1,22 @@
+CheckID,ValidationItem,ExpectedResult,Status
+P09-VAL-001,Project 09 folder structure created,Project folders exist,Completed
+P09-VAL-002,Lab evidence folder created,C:\LabEvidence\Project09\Batch01 exists,Completed
+P09-VAL-003,Project 09 base files created,README implementation data and script files created,Completed
+P09-VAL-004,Batch 1 planning summary created,Planning summary saved,Completed
+P09-VAL-005,Business scenario documented,01-business-scenario.md created,Completed
+P09-VAL-006,Compliance governance design documented,02-compliance-governance-design.md created,Completed
+P09-VAL-007,Purview rollout plan documented,03-purview-rollout-plan.md created,Completed
+P09-VAL-008,Risk register created,project-09-risk-register.csv created,Completed
+P09-VAL-009,Validation checklist created,project-09-validation-checklist.csv created,Completed
+P09-VAL-010,Purview readiness validation pending,Validate in Batch 2,Planned
+P09-VAL-011,Compliance roles review pending,Review in Batch 2,Planned
+P09-VAL-012,Audit baseline review pending,Review in Batch 2,Planned
+P09-VAL-013,Data classification inventory pending,Review in Batch 2,Planned
+P09-VAL-014,Sensitivity label design pending,Create in Batch 3,Planned
+P09-VAL-015,Sensitivity label publishing pending,Configure in Batch 3,Planned
+P09-VAL-016,DLP policy design pending,Create in Batch 4,Planned
+P09-VAL-017,DLP test mode validation pending,Validate in Batch 4,Planned
+P09-VAL-018,Retention label planning pending,Create in Batch 5,Planned
+P09-VAL-019,Retention policy planning pending,Create in Batch 5,Planned
+P09-VAL-020,Audit and eDiscovery workflow pending,Document in Batch 6,Planned
+P09-VAL-021,Final README pending,Generate in Batch 7,Planned
