@@ -36,3 +36,11 @@ P07-033,PIM activation activity not explainable,Weak audit trail for temporary p
 P07-034,Manual access review activity missing from audit logs,Access review evidence appears incomplete,Low,Batch 5 manual review documentation and Batch 6 audit interpretation documented,Security Administrator,Mitigated
 P07-035,Sign-in log screenshots expose public IP or location,Privacy issue,Medium,Portal screenshot sanitization required before GitHub upload,Security Administrator,Mitigated
 P07-036,Monitoring process not documented,Future admin activity review inconsistent,Medium,Privileged admin activity matrix and implementation document created,Security Administrator,Mitigated
+P07-037,Emergency access weakened during operational changes,Tenant recovery blocked,High,Emergency access protection documented in operational runbook,Identity Administrator,Mitigated
+P07-038,Sophia active role remains after testing,Temporary privilege remains active,Medium,Sophia active assignment monitoring script created,Identity Administrator,Mitigated
+P07-039,Sophia eligible assignments removed too early,PIM activation testing cannot continue,Medium,Eligible assignment rollback decision requires final validation before removal,Identity Administrator,Mitigated
+P07-040,Unexpected privileged role assignment missed,Excessive access remains undetected,Medium,Privileged role assignment monitoring script created,Security Administrator,Mitigated
+P07-041,Emergency access account not monitored,Emergency account misuse missed,High,Emergency access monitoring script created,Security Administrator,Mitigated
+P07-042,Rollback process unclear during incident,Delayed recovery from access issue,Medium,PIM rollback procedure created,Identity Administrator,Mitigated
+P07-043,Operational monitoring inconsistent,Privileged activity review becomes unreliable,Medium,Privileged access operational runbook created,Security Administrator,Mitigated
+P07-044,Public IP or location exposed in operational evidence,Privacy issue,Medium,Sanitized sign-in monitoring script and evidence rule documented,Security Administrator,Mitigated
