@@ -1,0 +1,25 @@
+Project 07 Batch 8 — Final Privacy-Safe Evidence Note
+
+Project:
+Privileged Identity Management, Admin Roles, and Access Reviews
+
+Privacy decision:
+Public IP address and location data were intentionally excluded from final evidence exports.
+
+Fields intentionally excluded:
+- IpAddress
+- Location
+- City
+- State
+- CountryOrRegion
+
+Screenshot handling:
+Screenshots must be cropped or blurred if the Microsoft Entra admin center displays public IP address, geographic location, device details, browser details, session metadata, phone numbers, QR codes, or authenticator device details.
+
+Final evidence exports:
+- Final privileged sign-in evidence was exported with sanitized fields.
+- Final privileged audit evidence was exported with sanitized fields.
+- Final emergency access sign-in evidence was exported without IP/location fields.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch08

@@ -1,0 +1,25 @@
+
+UserPrincipalName : emergency.access01@democompany1016.onmicrosoft.com
+DisplayName       : Emergency Access 01
+AccountEnabled    : True
+RoleName          : Global Administrator
+AssignmentType    : Active
+ReviewRequired    : Yes
+GovernanceAction  : Review for PIM eligibility or documented standing access
+
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+DisplayName       : Sophia Martinez
+AccountEnabled    : True
+RoleName          : No active privileged role found
+AssignmentType    : None
+ReviewRequired    : No
+GovernanceAction  : No current privileged role assignment found
+
+UserPrincipalName : srmgadmin@democompany1016.onmicrosoft.com
+DisplayName       : 
+AccountEnabled    : 
+RoleName          : User not found
+AssignmentType    : 
+ReviewRequired    : Yes
+GovernanceAction  : Validate account existence
+

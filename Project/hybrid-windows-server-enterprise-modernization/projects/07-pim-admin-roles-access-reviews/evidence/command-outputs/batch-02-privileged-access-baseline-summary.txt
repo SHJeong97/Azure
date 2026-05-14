@@ -1,0 +1,17 @@
+
+Project                           : Project 07
+Batch                             : Batch 2
+Tenant                            : democompany1016.onmicrosoft.com
+TargetAdminAccountCount           : 3
+ActiveRoleAssignmentCount         : 6
+TargetAdminStandingPrivilegeCount : 1
+EmergencyAccessAccount            : emergency.access01@democompany1016.onmicrosoft.com
+EmergencyAccessFound              : Yes
+EmergencyAccessRoleAssignments    : 1
+RoleChangesMade                   : No
+PIMAssignmentsChanged             : No
+AccessReviewsCreated              : No
+PublicIpExported                  : No
+LocationExported                  : No
+BaselineResult                    : Privileged access baseline documented
+

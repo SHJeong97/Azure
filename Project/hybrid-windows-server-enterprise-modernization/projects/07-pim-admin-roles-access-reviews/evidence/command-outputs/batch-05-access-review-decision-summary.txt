@@ -1,0 +1,28 @@
+
+ReviewName       : AR-P07-PIM-Eligible-Assignments-Sophia
+ReviewType       : Manual documented access review
+Target           : sophia.martinez@summitridge-mfg.com
+AccessReviewed   : Eligible User Administrator and Helpdesk Administrator
+Decision         : Approve for lab
+Reason           : Required for Project 07 PIM activation workflow testing
+AutoApplyResults : No
+AccessRemoved    : No
+
+ReviewName       : AR-P07-Emergency-Access-Exception
+ReviewType       : Manual documented access review
+Target           : emergency.access01@democompany1016.onmicrosoft.com
+AccessReviewed   : Emergency administrative access
+Decision         : Approve / preserve
+Reason           : Required for tenant recovery
+AutoApplyResults : No
+AccessRemoved    : No
+
+ReviewName       : AR-P07-Standing-Admin-Access
+ReviewType       : Manual documented access review
+Target           : Current privileged role assignments
+AccessReviewed   : Active Microsoft Entra role assignments
+Decision         : Document and review for future PIM conversion
+Reason           : Reduce standing privilege after baseline validation
+AutoApplyResults : No
+AccessRemoved    : No
+

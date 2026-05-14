@@ -1,0 +1,16 @@
+
+Project                             : Project 07
+ProjectName                         : Privileged Identity Management, Admin Roles, and Access Reviews
+Tenant                              : democompany1016.onmicrosoft.com
+TargetAdminAccountCount             : 3
+ActivePrivilegedRoleAssignmentCount : 0
+SophiaEligibleAssignmentCount       : 2
+SophiaActiveAssignmentCount         : 0
+EmergencyAccessAccount              : emergency.access01@democompany1016.onmicrosoft.com
+EmergencyAccessRemoved              : No
+PrivilegedAssignmentsRemoved        : No
+AccessReviewResultsApplied          : No
+PublicIpExported                    : No
+LocationExported                    : No
+FinalResult                         : Privileged access governance baseline validated
+

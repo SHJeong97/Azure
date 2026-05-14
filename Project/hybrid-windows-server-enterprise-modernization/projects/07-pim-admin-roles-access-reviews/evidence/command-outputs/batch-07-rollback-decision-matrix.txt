@@ -1,0 +1,36 @@
+
+Scenario              : Sophia eligible assignment no longer needed
+AffectedAccess        : User Administrator or Helpdesk Administrator eligible assignment
+RollbackAction        : Remove eligible assignment only after final validation
+EmergencyAccessImpact : None
+ApprovalNeeded        : Lab admin confirmation
+ExecuteInBatch7       : No
+
+Scenario              : Sophia role remains active unexpectedly
+AffectedAccess        : Active User Administrator or Helpdesk Administrator
+RollbackAction        : Deactivate active assignment through PIM My roles
+EmergencyAccessImpact : None
+ApprovalNeeded        : Lab admin confirmation
+ExecuteInBatch7       : Only if active assignment is found unexpectedly
+
+Scenario              : Emergency access missing or disabled
+AffectedAccess        : Emergency access account
+RollbackAction        : Stop privileged access changes and restore emergency access
+EmergencyAccessImpact : Critical
+ApprovalNeeded        : Immediate admin action
+ExecuteInBatch7       : No unless issue is found
+
+Scenario              : Unexpected active admin role assignment found
+AffectedAccess        : Standing privileged role
+RollbackAction        : Document and review before removal
+EmergencyAccessImpact : Depends on role
+ApprovalNeeded        : Yes
+ExecuteInBatch7       : No
+
+Scenario              : Audit evidence exposes IP/location
+AffectedAccess        : Evidence privacy
+RollbackAction        : Delete/sanitize evidence before GitHub upload
+EmergencyAccessImpact : None
+ApprovalNeeded        : No
+ExecuteInBatch7       : As needed
+

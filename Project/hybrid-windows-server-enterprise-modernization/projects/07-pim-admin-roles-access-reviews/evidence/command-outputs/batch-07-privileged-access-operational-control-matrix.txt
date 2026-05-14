@@ -1,0 +1,10 @@
+
+ControlArea              Control                                                                          EvidenceSource
+-----------              -------                                                                          --------------                    
+Emergency access         Preserve and monitor emergency access account                                    Account readiness, role assignmen…
+PIM eligible assignments Review Sophia eligible User Administrator and Helpdesk Administrator assignments Role eligibility schedule instanc…
+PIM active assignments   Confirm temporary activations are not left active                                Role assignment schedule instances
+Role management audit    Review role assignment and PIM activity                                          Directory audit logs              
+Access reviews           Document review decisions and portal limitations                                 Manual review records and portal …
+Privacy-safe evidence    Exclude IP/location fields and sanitize screenshots                              CSV exports and screenshot review 
+

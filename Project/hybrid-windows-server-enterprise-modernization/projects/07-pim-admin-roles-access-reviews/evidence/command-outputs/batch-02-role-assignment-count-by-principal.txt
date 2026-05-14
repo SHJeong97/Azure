@@ -1,0 +1,8 @@
+
+PrincipalDisplayName                                  ActiveRoleAssignmentCount AssignedRoles
+--------------------                                  ------------------------- -------------                                               
+SeungHun Jeong                                                                3 AI Administrator;Global Administrator;SharePoint Administra…
+Emergency Access 01                                                           1 Global Administrator                                        
+Microsoft.Azure.SyncFabric                                                    1 Directory Readers                                           
+On-Premises Directory Synchronization Service Account                         1 Directory Synchronization Accounts                          
+

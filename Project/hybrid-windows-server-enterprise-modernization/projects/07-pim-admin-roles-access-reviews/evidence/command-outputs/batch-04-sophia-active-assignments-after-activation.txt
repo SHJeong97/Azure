@@ -1,0 +1,19 @@
+
+PrincipalDisplayName : Sophia Martinez
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+RoleName             : Helpdesk Administrator
+RoleDefinitionId     : 729827e3-9c14-49f7-bb1b-9608f156bbb8
+DirectoryScopeId     : /
+StartDateTime        : 5/14/2026 4:20:12 PM
+EndDateTime          : 5/14/2026 6:20:12 PM
+AssignmentType       : Active
+
+PrincipalDisplayName : Sophia Martinez
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+RoleName             : User Administrator
+RoleDefinitionId     : fe930be7-5e62-47db-91af-98c3a49a38b1
+DirectoryScopeId     : /
+StartDateTime        : 5/14/2026 4:19:01 PM
+EndDateTime          : 5/14/2026 5:19:00 PM
+AssignmentType       : Active
+

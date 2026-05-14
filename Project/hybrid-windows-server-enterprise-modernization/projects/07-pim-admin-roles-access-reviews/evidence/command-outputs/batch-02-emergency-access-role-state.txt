@@ -1,0 +1,8 @@
+
+UserPrincipalName        : emergency.access01@democompany1016.onmicrosoft.com
+DisplayName              : Emergency Access 01
+AccountEnabled           : True
+RoleName                 : Global Administrator
+EmergencyAccessRoleFound : Yes
+RecommendedAction        : Preserve and monitor
+

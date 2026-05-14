@@ -1,0 +1,42 @@
+Project 07 Batch 5 — Sophia Eligible Assignment Manual Review Evidence Note
+
+Review name:
+AR-P07-PIM-Eligible-Assignments-Sophia
+
+Review type:
+Manual documented access review
+
+Reason for manual review:
+The portal did not allow the exact Sophia-only PIM eligible assignment review scope with the available options in this tenant.
+
+Target user:
+sophia.martinez@summitridge-mfg.com
+
+Access reviewed:
+- Eligible User Administrator
+- Eligible Helpdesk Administrator
+
+Reviewer:
+srmgadmin@democompany1016.onmicrosoft.com
+
+Review decision:
+Approve for Project 07 lab testing.
+
+Reason:
+Sophia is the IT pilot user for PIM activation workflow validation.
+
+Automatic result application:
+No
+
+Access removal:
+No automatic removal.
+No access removed.
+
+Safety decisions:
+No privileged assignments were removed.
+No emergency access was changed.
+No access review results were auto-applied.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch05

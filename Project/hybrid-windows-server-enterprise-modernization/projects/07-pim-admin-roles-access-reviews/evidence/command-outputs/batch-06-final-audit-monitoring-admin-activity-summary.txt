@@ -1,0 +1,54 @@
+Project 07 Batch 6 — Final Audit Monitoring and Admin Activity Review Summary
+
+Project:
+Privileged Identity Management, Admin Roles, and Access Reviews
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Batch 6 validation completed:
+- Batch 6 evidence folder created
+- Microsoft Graph connected
+- Privileged monitoring target list created
+- Privileged audit logs exported with sanitized fields
+- PIM-specific audit activity exported
+- Role management audit activity exported
+- Access review audit activity exported or blank result documented
+- Audit monitoring summary created
+- Privileged target sign-ins exported with sanitized fields
+- Emergency access sign-ins exported with sanitized fields
+- Emergency access monitoring note created
+- Privileged admin activity matrix created
+- Monitoring findings summary created
+- Audit logs reviewed in Microsoft Entra admin center
+- Sign-in logs reviewed in Microsoft Entra admin center
+- Portal monitoring review note created
+- Implementation document created
+- Validation checklist updated
+- Risk register updated
+
+Monitored accounts:
+- srmgadmin@democompany1016.onmicrosoft.com
+- emergency.access01@democompany1016.onmicrosoft.com
+- sophia.martinez@summitridge-mfg.com
+
+Monitoring areas:
+- PIM activation and deactivation activity
+- Role assignment and role management activity
+- Access review activity or manual review documentation
+- Emergency access sign-in activity
+- Privileged monitoring target sign-ins
+
+Privacy controls:
+No public IP address fields were exported.
+No location fields were exported.
+Screenshots must be sanitized before GitHub upload.
+
+Safety decisions:
+No emergency access was removed.
+No privileged assignments were removed.
+No access review results were applied.
+No Global Administrator assignment was changed.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch06

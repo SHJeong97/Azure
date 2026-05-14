@@ -1,0 +1,9 @@
+
+AccessType                             Decision            Reason                                     ActionAfterReview
+----------                             --------            ------                                     -----------------
+Emergency access                       Approve             Required for tenant recovery               Preserve and monitor
+Sophia eligible User Administrator     Approve for lab     Needed for PIM activation workflow testing Keep eligible during Project 07
+Sophia eligible Helpdesk Administrator Approve for lab     Needed for PIM activation workflow testing Keep eligible during Project 07
+Unexpected standing privileged access  Review              May indicate excessive privilege           Document for future PIM conversion
+Unknown admin assignment               Deny or investigate No documented business need                Do not auto-remove in lab; document o…
+

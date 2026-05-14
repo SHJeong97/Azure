@@ -1,0 +1,28 @@
+Project 07 Batch 1 — Planning Summary
+
+Project:
+Privileged Identity Management, Admin Roles, and Access Reviews
+
+Company:
+Summit Ridge Manufacturing Group
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Previous project baseline:
+Project 04 synchronized pilot users.
+Project 05 licensed pilot users and provisioned Exchange Online mailboxes.
+Project 06 implemented Conditional Access MFA and legacy authentication controls.
+
+Project 07 goal:
+Create a privileged access governance baseline using Microsoft Entra PIM, admin role inventory, access review planning, rollback controls, and monitoring.
+
+Safety decisions:
+No admin roles removed in Batch 1.
+No PIM role assignments changed in Batch 1.
+No access reviews created in Batch 1.
+Emergency access is not removed.
+No IP or location fields are exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch01

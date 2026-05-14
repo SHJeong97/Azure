@@ -1,0 +1,16 @@
+
+Project                       : Project 07
+Batch                         : Batch 5
+ReviewMethod                  : Manual documented access reviews due to portal scoping limitations
+ReviewsDocumented             : AR-P07-PIM-Eligible-Assignments-Sophia;AR-P07-Emergency-Access-Exception;AR-P07-Standing-Admin-Access
+SophiaEligibleReviewDecision  : Approve for Project 07 testing
+EmergencyAccessReviewDecision : Approve / preserve for tenant recovery
+StandingAdminAccessDecision   : Review for future PIM conversion
+PortalLimitationDocumented    : Yes
+AutoApplyResults              : No
+AccessRemoved                 : No
+EmergencyAccessChanged        : No
+PublicIpExported              : No
+LocationExported              : No
+Result                        : Access review workflow documented manually without automatic access removal
+

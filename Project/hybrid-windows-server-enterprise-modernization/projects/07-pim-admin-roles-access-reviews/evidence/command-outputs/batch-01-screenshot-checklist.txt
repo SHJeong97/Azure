@@ -1,0 +1,22 @@
+Project 07 Batch 1 Screenshot Checklist
+
+Save sanitized screenshots to:
+projects/07-pim-admin-roles-access-reviews/evidence/screenshots/
+
+Required screenshots:
+- batch-01-project-07-folder-structure.png
+- batch-01-labevidence-folder-created.png
+- batch-01-project-07-base-files-created.png
+- batch-01-business-scenario-created.png
+- batch-01-privileged-access-design-created.png
+- batch-01-pim-rollout-plan-created.png
+- batch-01-risk-rollback-plan-created.png
+- batch-01-privileged-role-scope-created.png
+- batch-01-risk-register-created.png
+- batch-01-validation-checklist-created.png
+- batch-01-readme-skeleton-created.png
+- batch-01-planning-summary-created.png
+- batch-01-project-07-file-inventory-created.png
+
+Privacy reminder:
+Do not include public IP address, location, device details, or session metadata in screenshots.

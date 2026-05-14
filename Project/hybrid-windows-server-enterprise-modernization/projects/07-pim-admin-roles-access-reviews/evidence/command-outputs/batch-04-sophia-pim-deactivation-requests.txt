@@ -1,0 +1,13 @@
+
+PrincipalDisplayName : Sophia Martinez
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+RoleName             : Helpdesk Administrator
+Action               : selfDeactivate
+Status               : Revoked
+RequestType          : 
+Justification        : Deactivation request
+CreatedDateTime      : 5/14/2026 5:37:40 PM
+CompletedDateTime    : 
+ApprovalId           : 
+DirectoryScopeId     : /
+

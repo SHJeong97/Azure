@@ -1,0 +1,15 @@
+
+Project                              : Project 07
+Batch                                : Batch 4
+PilotUser                            : sophia.martinez@summitridge-mfg.com
+ExpectedActivationRoles              : User Administrator;Helpdesk Administrator
+ActiveAssignmentCountAfterActivation : 2
+ActivatedRolesFound                  : Helpdesk Administrator;User Administrator
+ActivationRequestCount               : 2
+AuditLogRecordsFound                 : 9
+EmergencyAccessChanged               : No
+GlobalAdministratorChanged           : No
+PublicIpExported                     : No
+LocationExported                     : No
+Result                               : PIM activation workflow tested and evidence exported
+

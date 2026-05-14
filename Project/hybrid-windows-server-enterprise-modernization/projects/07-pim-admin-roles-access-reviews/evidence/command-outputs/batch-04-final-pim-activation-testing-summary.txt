@@ -1,0 +1,59 @@
+Project 07 Batch 4 — Final PIM Activation Testing Summary
+
+Project:
+Privileged Identity Management, Admin Roles, and Access Reviews
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Pilot user:
+sophia.martinez@summitridge-mfg.com
+
+Roles tested:
+- User Administrator
+- Helpdesk Administrator
+
+Batch 4 validation completed:
+- Batch 4 evidence folder created
+- Microsoft Graph connected
+- Sophia eligible assignments revalidated
+- Sophia active assignments exported before activation
+- PIM activation test plan created
+- PIM activation baseline summary created
+- Sophia My Roles portal reviewed
+- My Roles review note created
+- User Administrator eligible state reviewed
+- Helpdesk Administrator activated
+- PIM activation test note created
+- Microsoft Graph reconnected after activation
+- Sophia active assignments exported after activation
+- PIM activation requests exported
+- Sanitized PIM activation audit logs exported
+- PIM activation result summary created
+- Admin capability validation completed with view-only testing
+- Admin capability validation note created
+- User Administrator documented as eligible but not active during deactivation review
+- Helpdesk Administrator deactivated
+- Deactivation evidence note created
+- Sophia active assignments exported after deactivation
+- Deactivation requests exported
+- Activation lifecycle summary created
+- Implementation document created
+- Validation checklist updated
+- Risk register updated
+
+Final observed role state:
+User Administrator was eligible but not active during deactivation review.
+Helpdesk Administrator was activated and then deactivated.
+
+Safety decisions:
+No emergency access was removed.
+No Global Administrator assignment was changed.
+No active administrator assignments were removed.
+No users were modified.
+No groups were modified.
+No passwords were reset.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch04

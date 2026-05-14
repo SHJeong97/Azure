@@ -1,0 +1,24 @@
+Project 07 Batch 3 — Eligible Assignment Evidence Note
+
+Pilot user:
+sophia.martinez@summitridge-mfg.com
+
+Eligible roles created or validated:
+- User Administrator
+- Helpdesk Administrator
+
+Assignment type:
+Eligible through Microsoft Entra Privileged Identity Management
+
+Purpose:
+Prepare Sophia Martinez for PIM activation workflow testing in the next batch.
+
+Safety decisions:
+No emergency access was removed.
+No Global Administrator assignment was changed.
+No active admin assignment was removed.
+No tenant-wide admin cleanup was performed.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch03

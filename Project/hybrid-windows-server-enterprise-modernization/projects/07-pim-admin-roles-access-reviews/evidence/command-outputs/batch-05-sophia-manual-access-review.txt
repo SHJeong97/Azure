@@ -1,0 +1,23 @@
+
+ReviewName       : AR-P07-PIM-Eligible-Assignments-Sophia
+ReviewType       : Manual documented review
+TargetUser       : sophia.martinez@summitridge-mfg.com
+AccessReviewed   : Eligible User Administrator
+Reviewer         : srmgadmin@democompany1016.onmicrosoft.com
+Decision         : Approve for lab
+Reason           : Required for Project 07 PIM activation workflow testing
+AutoApplyResults : No
+AccessRemoved    : No
+PortalLimitation : Portal did not allow exact Sophia-only scoped PIM review with available options
+
+ReviewName       : AR-P07-PIM-Eligible-Assignments-Sophia
+ReviewType       : Manual documented review
+TargetUser       : sophia.martinez@summitridge-mfg.com
+AccessReviewed   : Eligible Helpdesk Administrator
+Reviewer         : srmgadmin@democompany1016.onmicrosoft.com
+Decision         : Approve for lab
+Reason           : Required for Project 07 PIM activation workflow testing
+AutoApplyResults : No
+AccessRemoved    : No
+PortalLimitation : Portal did not allow exact Sophia-only scoped PIM review with available options
+

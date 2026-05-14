@@ -1,0 +1,5 @@
+
+DisplayName     UserPrincipalName                   AccountEnabled Id
+-----------     -----------------                   -------------- --
+Sophia Martinez sophia.martinez@summitridge-mfg.com           True 13c04896-4d5e-4cfe-a8b7-950497fc474e
+

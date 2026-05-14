@@ -1,0 +1,14 @@
+
+Project                      : Project 07
+Batch                        : Batch 6
+AuditWindow                  : Last 14 days
+PrivilegedAuditLogCount      : 25
+PIMAuditLogCount             : 20
+RoleManagementAuditLogCount  : 25
+AccessReviewAuditLogCount    : 1
+PublicIpExported             : No
+LocationExported             : No
+EmergencyAccessChanged       : No
+PrivilegedAssignmentsRemoved : No
+Result                       : Sanitized privileged access audit evidence exported
+

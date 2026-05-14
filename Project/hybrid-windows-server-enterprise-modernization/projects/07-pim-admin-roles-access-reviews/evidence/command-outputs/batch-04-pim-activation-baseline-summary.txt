@@ -1,0 +1,13 @@
+
+Project                               : Project 07
+Batch                                 : Batch 4
+PilotUser                             : sophia.martinez@summitridge-mfg.com
+EligibleAssignmentCount               : 2
+ActiveAssignmentCountBeforeActivation : 0
+PlannedActivationRoles                : User Administrator;Helpdesk Administrator
+EmergencyAccessChanged                : No
+GlobalAdministratorChanged            : No
+PublicIpExported                      : No
+LocationExported                      : No
+BaselineResult                        : Ready for PIM activation testing
+

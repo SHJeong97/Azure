@@ -1,0 +1,25 @@
+
+PrincipalDisplayName : Sophia Martinez
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+RoleName             : Helpdesk Administrator
+Action               : selfActivate
+Status               : Provisioned
+RequestType          : 
+Justification        : Justification: Project 07 PIM activation workflow validation for Helpdesk Administrator role.
+CreatedDateTime      : 5/14/2026 4:20:12 PM
+CompletedDateTime    : 5/14/2026 4:20:42 PM
+ApprovalId           : 
+DirectoryScopeId     : /
+
+PrincipalDisplayName : Sophia Martinez
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+RoleName             : User Administrator
+Action               : selfActivate
+Status               : Provisioned
+RequestType          : 
+Justification        : Justification: Project 07 PIM activation workflow validation for User Administrator role.
+CreatedDateTime      : 5/14/2026 4:19:00 PM
+CompletedDateTime    : 5/14/2026 4:19:00 PM
+ApprovalId           : 
+DirectoryScopeId     : /
+

@@ -1,0 +1,201 @@
+
+ActivityDateTime    : 5/14/2026 5:37:40 PM
+ActivityDisplayName : Remove member from role completed (PIM deactivate)
+Result              : success
+ResultReason        : 
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Update
+InitiatedBy         : sophia.martinez@summitridge-mfg.com
+TargetResources     : Helpdesk Administrator;demo company;demo company;Sophia Martinez;;;
+
+ActivityDateTime    : 5/14/2026 5:37:33 PM
+ActivityDisplayName : Remove member from role requested (PIM deactivate)
+Result              : success
+ResultReason        : Deactivation request
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : sophia.martinez@summitridge-mfg.com
+TargetResources     : Helpdesk Administrator;demo company;demo company;Sophia Martinez;;
+
+ActivityDateTime    : 5/14/2026 5:19:07 PM
+ActivityDisplayName : Remove member from role (PIM activation expired)
+Result              : success
+ResultReason        : 
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Delete
+InitiatedBy         : Unknown
+TargetResources     : User Administrator;demo company;demo company;Sophia Martinez;;;;;
+
+ActivityDateTime    : 5/14/2026 4:20:19 PM
+ActivityDisplayName : Add member to role completed (PIM activation)
+Result              : success
+ResultReason        : Justification: Project 07 PIM activation workflow validation for Helpdesk Administrator role.
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Update
+InitiatedBy         : sophia.martinez@summitridge-mfg.com
+TargetResources     : Helpdesk Administrator;demo company;demo company;Sophia Martinez;;;
+
+ActivityDateTime    : 5/14/2026 4:19:54 PM
+ActivityDisplayName : Add member to role requested (PIM activation)
+Result              : success
+ResultReason        : Justification: Project 07 PIM activation workflow validation for Helpdesk Administrator role.
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : sophia.martinez@summitridge-mfg.com
+TargetResources     : Helpdesk Administrator;demo company;demo company;Sophia Martinez;;;
+
+ActivityDateTime    : 5/14/2026 4:19:07 PM
+ActivityDisplayName : Add member to role completed (PIM activation)
+Result              : success
+ResultReason        : Justification: Project 07 PIM activation workflow validation for User Administrator role.
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Update
+InitiatedBy         : sophia.martinez@summitridge-mfg.com
+TargetResources     : User Administrator;demo company;demo company;Sophia Martinez;;;
+
+ActivityDateTime    : 5/14/2026 4:19:00 PM
+ActivityDisplayName : Add member to role requested (PIM activation)
+Result              : success
+ResultReason        : Justification: Project 07 PIM activation workflow validation for User Administrator role.
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : sophia.martinez@summitridge-mfg.com
+TargetResources     : User Administrator;demo company;demo company;Sophia Martinez;;;
+
+ActivityDateTime    : 5/14/2026 3:29:22 PM
+ActivityDisplayName : Add eligible member to role in PIM completed (permanent)
+Result              : success
+ResultReason        : Project 07 lab pilot eligible assignment for privileged access governance testing
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Update
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Helpdesk Administrator;demo company;demo company;Sophia Martinez;;
+
+ActivityDateTime    : 5/14/2026 3:29:22 PM
+ActivityDisplayName : Add eligible member to role
+Result              : success
+ResultReason        : 
+Category            : RoleManagement
+LoggedByService     : Core Directory
+OperationType       : Assign
+InitiatedBy         : MS-PIM
+TargetResources     : ;
+
+ActivityDateTime    : 5/14/2026 3:29:21 PM
+ActivityDisplayName : Add eligible member to role in PIM requested (permanent)
+Result              : success
+ResultReason        : Project 07 lab pilot eligible assignment for privileged access governance testing
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Helpdesk Administrator;demo company;demo company;Sophia Martinez;;
+
+ActivityDateTime    : 5/14/2026 3:29:20 PM
+ActivityDisplayName : Add eligible member to role in PIM completed (permanent)
+Result              : success
+ResultReason        : Project 07 lab pilot eligible assignment for privileged access governance testing
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Update
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : User Administrator;demo company;demo company;Sophia Martinez;;
+
+ActivityDateTime    : 5/14/2026 3:29:20 PM
+ActivityDisplayName : Add eligible member to role
+Result              : success
+ResultReason        : 
+Category            : RoleManagement
+LoggedByService     : Core Directory
+OperationType       : Assign
+InitiatedBy         : MS-PIM
+TargetResources     : ;
+
+ActivityDateTime    : 5/14/2026 3:29:20 PM
+ActivityDisplayName : Add eligible member to role in PIM requested (permanent)
+Result              : success
+ResultReason        : Project 07 lab pilot eligible assignment for privileged access governance testing
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : User Administrator;demo company;demo company;Sophia Martinez;;
+
+ActivityDateTime    : 5/13/2026 8:39:40 PM
+ActivityDisplayName : Process role removal request
+Result              : failure
+ResultReason        : ActiveDurationTooShort
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Global Administrator;demo company;demo company;Emergency Access 01;;
+
+ActivityDateTime    : 5/13/2026 8:39:24 PM
+ActivityDisplayName : Add member to role in PIM completed (permanent)
+Result              : success
+ResultReason        : brake glass account
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Update
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Global Administrator;demo company;demo company;Emergency Access 01;;
+
+ActivityDateTime    : 5/13/2026 8:39:24 PM
+ActivityDisplayName : Add member to role in PIM requested (permanent)
+Result              : success
+ResultReason        : brake glass account
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Global Administrator;demo company;demo company;Emergency Access 01;;
+
+ActivityDateTime    : 5/13/2026 8:38:05 PM
+ActivityDisplayName : Add eligible member to role in PIM completed (permanent)
+Result              : success
+ResultReason        : 
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Update
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Global Administrator;demo company;demo company;Emergency Access 01;;
+
+ActivityDateTime    : 5/13/2026 8:38:05 PM
+ActivityDisplayName : Add eligible member to role
+Result              : success
+ResultReason        : 
+Category            : RoleManagement
+LoggedByService     : Core Directory
+OperationType       : Assign
+InitiatedBy         : MS-PIM
+TargetResources     : ;
+
+ActivityDateTime    : 5/13/2026 8:38:05 PM
+ActivityDisplayName : Add eligible member to role in PIM requested (permanent)
+Result              : success
+ResultReason        : 
+Category            : RoleManagement
+LoggedByService     : PIM
+OperationType       : Create
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Global Administrator;demo company;demo company;Emergency Access 01;;
+
+ActivityDateTime    : 5/12/2026 6:48:13 PM
+ActivityDisplayName : Add app role assignment grant to user
+Result              : success
+ResultReason        : 
+Category            : UserManagement
+LoggedByService     : Core Directory
+OperationType       : Assign
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Microsoft Graph Command Line Tools;
+

@@ -1,0 +1,29 @@
+Project 07 Batch 6 — Portal Monitoring Review Note
+
+Reviewed locations:
+- Microsoft Entra admin center > Monitoring > Audit logs
+- Microsoft Entra admin center > Monitoring > Sign-in logs
+
+Reviewed activities:
+- PIM activation and deactivation activity
+- Role assignment and role management activity
+- Access review activity or manual review documentation
+- Emergency access account sign-in activity
+- Privileged monitoring target sign-ins
+
+Monitored accounts:
+- srmgadmin@democompany1016.onmicrosoft.com
+- emergency.access01@democompany1016.onmicrosoft.com
+- sophia.martinez@summitridge-mfg.com
+
+Privacy handling:
+Screenshots and exports must not include public IP address or location data.
+
+Safety decisions:
+No emergency access was removed.
+No privileged assignments were removed.
+No access review results were applied.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch06

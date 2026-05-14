@@ -1,0 +1,55 @@
+
+RoleName             : Global Administrator
+AssignmentStrategy   : Emergency active only
+TargetUser           : emergency.access01@democompany1016.onmicrosoft.com
+ActivationDuration   : Not used for daily activation
+RequireMFA           : Yes where supported
+RequireJustification : Yes for non-emergency use
+ApprovalRequired     : Recommended in production
+Batch3Action         : Preserve and monitor only
+
+RoleName             : Privileged Role Administrator
+AssignmentStrategy   : Keep limited active/admin control
+TargetUser           : srmgadmin@democompany1016.onmicrosoft.com
+ActivationDuration   : 2 hours recommended
+RequireMFA           : Yes
+RequireJustification : Yes
+ApprovalRequired     : Optional for lab; recommended in production
+Batch3Action         : Document settings
+
+RoleName             : Security Administrator
+AssignmentStrategy   : Eligible pilot assignment
+TargetUser           : sophia.martinez@summitridge-mfg.com
+ActivationDuration   : 2 hours
+RequireMFA           : Yes
+RequireJustification : Yes
+ApprovalRequired     : No for lab; yes recommended in production
+Batch3Action         : Prepare eligible assignment
+
+RoleName             : Conditional Access Administrator
+AssignmentStrategy   : Eligible pilot assignment
+TargetUser           : sophia.martinez@summitridge-mfg.com
+ActivationDuration   : 2 hours
+RequireMFA           : Yes
+RequireJustification : Yes
+ApprovalRequired     : No for lab; yes recommended in production
+Batch3Action         : Prepare eligible assignment
+
+RoleName             : User Administrator
+AssignmentStrategy   : Eligible pilot assignment
+TargetUser           : sophia.martinez@summitridge-mfg.com
+ActivationDuration   : 2 hours
+RequireMFA           : Yes
+RequireJustification : Yes
+ApprovalRequired     : No for lab
+Batch3Action         : Prepare eligible assignment
+
+RoleName             : Helpdesk Administrator
+AssignmentStrategy   : Eligible pilot assignment
+TargetUser           : sophia.martinez@summitridge-mfg.com
+ActivationDuration   : 2 hours
+RequireMFA           : Yes
+RequireJustification : Yes
+ApprovalRequired     : No for lab
+Batch3Action         : Prepare eligible assignment
+

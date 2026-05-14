@@ -1,0 +1,23 @@
+Project 07 Batch 4 — PIM Deactivation Evidence Note
+
+Pilot user:
+sophia.martinez@summitridge-mfg.com
+
+Roles deactivated:
+- User Administrator
+- Helpdesk Administrator
+
+Deactivation method:
+Microsoft Entra admin center > Identity governance > Privileged Identity Management > My roles > Microsoft Entra roles > Active assignments
+
+Expected result:
+Sophia no longer has active User Administrator or Helpdesk Administrator assignments after deactivation.
+
+Safety decisions:
+No emergency access was removed.
+No Global Administrator assignment was changed.
+No active administrator assignments were removed.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch04

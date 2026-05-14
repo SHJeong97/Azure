@@ -1,0 +1,22 @@
+
+UserPrincipalName      : emergency.access01@democompany1016.onmicrosoft.com
+RoleName               : Global Administrator
+CurrentAssignmentType  : Active
+RecommendedFutureState : Preserve active emergency access and monitor
+Batch2Action           : Document only
+ChangeMade             : No
+
+UserPrincipalName      : sophia.martinez@summitridge-mfg.com
+RoleName               : No active privileged role found
+CurrentAssignmentType  : None
+RecommendedFutureState : No PIM conversion needed
+Batch2Action           : Document only
+ChangeMade             : No
+
+UserPrincipalName      : srmgadmin@democompany1016.onmicrosoft.com
+RoleName               : User not found
+CurrentAssignmentType  : 
+RecommendedFutureState : Review for eligible assignment through PIM
+Batch2Action           : Document only
+ChangeMade             : No
+

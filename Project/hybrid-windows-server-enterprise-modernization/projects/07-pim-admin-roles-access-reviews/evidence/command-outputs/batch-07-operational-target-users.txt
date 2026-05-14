@@ -1,0 +1,25 @@
+
+DisplayName          : 
+UserPrincipalName    : srmgadmin@democompany1016.onmicrosoft.com
+AccountEnabled       : 
+UserType             : 
+AssignedLicenseCount : 
+Id                   : 
+Found                : No
+
+DisplayName          : Emergency Access 01
+UserPrincipalName    : emergency.access01@democompany1016.onmicrosoft.com
+AccountEnabled       : True
+UserType             : Member
+AssignedLicenseCount : 0
+Id                   : 439b5b47-71e5-43d5-8cd3-9d98df14c4e8
+Found                : Yes
+
+DisplayName          : Sophia Martinez
+UserPrincipalName    : sophia.martinez@summitridge-mfg.com
+AccountEnabled       : True
+UserType             : Member
+AssignedLicenseCount : 1
+Id                   : 13c04896-4d5e-4cfe-a8b7-950497fc474e
+Found                : Yes
+

@@ -1,0 +1,37 @@
+Project 07 Batch 1 — Final Planning Summary
+
+Project:
+Privileged Identity Management, Admin Roles, and Access Reviews
+
+Company:
+Summit Ridge Manufacturing Group
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Project goal:
+Create a privileged access governance baseline using Microsoft Entra Privileged Identity Management, admin role inventory, access review planning, audit monitoring, rollback controls, and operational documentation.
+
+Batch 1 completed:
+- Project folder structure created
+- Lab evidence folder created
+- Base files created
+- Business scenario documented
+- Privileged access design documented
+- PIM rollout plan documented
+- Risk and rollback plan documented
+- Privileged role scope CSV created
+- Risk register CSV created
+- Validation checklist CSV created
+- README skeleton created
+- File inventory created
+
+Safety decisions:
+No admin roles were removed.
+No PIM assignments were changed.
+No access reviews were created.
+Emergency access was not removed.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch01

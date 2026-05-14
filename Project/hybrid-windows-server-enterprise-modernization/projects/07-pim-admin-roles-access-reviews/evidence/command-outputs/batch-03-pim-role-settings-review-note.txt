@@ -1,0 +1,27 @@
+Project 07 Batch 3 — PIM Role Settings Review Note
+
+Reviewed location:
+Microsoft Entra admin center > Identity governance > Privileged Identity Management > Microsoft Entra roles > Roles
+
+Reviewed roles:
+- Security Administrator
+- Conditional Access Administrator
+- User Administrator
+- Helpdesk Administrator
+
+Recommended lab activation controls:
+- Activation duration: 2 hours
+- MFA on activation: Required where available
+- Justification: Required
+- Approval: Not required for lab pilot
+- Notifications: Keep default or document current state
+
+Safety decisions:
+No emergency access was removed.
+No Global Administrator assignment was changed.
+No active admin assignment was removed.
+No access reviews were created in this step.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch03

@@ -1,0 +1,14 @@
+
+Project                              : Project 07
+Batch                                : Batch 5
+ReviewTargetUserCount                : 0
+CurrentPrivilegedRoleAssignmentCount : 0
+SophiaEligibleAssignmentCount        : 0
+PlannedAccessReviewCount             : 3
+AutoApplyReviewResults               : No
+RemoveAccessAutomatically            : No
+EmergencyAccessChanged               : No
+PublicIpExported                     : No
+LocationExported                     : No
+ReadinessResult                      : Ready to create/document access reviews
+

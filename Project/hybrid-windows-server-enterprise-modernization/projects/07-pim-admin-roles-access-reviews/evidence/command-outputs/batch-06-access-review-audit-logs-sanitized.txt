@@ -1,0 +1,11 @@
+
+ActivityDateTime    : 5/14/2026 5:59:25 PM
+ActivityDisplayName : Create business flow
+Result              : success
+ResultReason        : 
+Category            : UserManagement
+LoggedByService     : Access Reviews
+OperationType       : Add
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : Default Business Flow
+

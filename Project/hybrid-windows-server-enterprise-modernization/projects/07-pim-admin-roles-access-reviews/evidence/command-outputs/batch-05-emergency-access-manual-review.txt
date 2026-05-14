@@ -1,0 +1,12 @@
+
+ReviewName       : AR-P07-Emergency-Access-Exception
+ReviewType       : Manual documented access review
+TargetAccount    : emergency.access01@democompany1016.onmicrosoft.com
+AccessReviewed   : Emergency administrative access
+Reviewer         : srmgadmin@democompany1016.onmicrosoft.com
+Decision         : Approve / preserve access
+Reason           : Emergency access account is required for tenant recovery
+AutoApplyResults : No
+AccessRemoved    : No
+PortalLimitation : Manual review used for lab-safe documentation and to avoid unsupported portal options
+

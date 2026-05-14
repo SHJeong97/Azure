@@ -1,0 +1,26 @@
+Project 07 Batch 2 — Admin Roles Portal Review Note
+
+Reviewed location:
+Microsoft Entra admin center > Identity > Roles & admins > All roles
+
+Reviewed roles:
+- Global Administrator
+- Privileged Role Administrator
+- Security Administrator
+- Conditional Access Administrator
+- Exchange Administrator
+- User Administrator
+- Helpdesk Administrator
+
+Purpose:
+Validate current privileged role state before making any PIM or access review changes.
+
+Safety decisions:
+No admin roles were removed.
+No PIM assignments were changed.
+No access reviews were created.
+Emergency access was preserved.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch02

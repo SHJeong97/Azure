@@ -1,0 +1,27 @@
+Project 07 Batch 6 — Emergency Access Monitoring Note
+
+Emergency access account:
+emergency.access01@democompany1016.onmicrosoft.com
+
+Monitoring purpose:
+Review emergency access sign-in activity without exposing public IP address or location details.
+
+Expected behavior:
+Emergency access sign-ins should be rare and explainable.
+
+Evidence handling:
+The sign-in export excludes:
+- IpAddress
+- Location
+- City
+- State
+- CountryOrRegion
+
+Safety decisions:
+Emergency access was not removed.
+Emergency access role assignment was not changed.
+No privileged assignments were removed.
+No public IP or location fields were exported.
+
+Evidence location:
+C:\LabEvidence\Project07\Batch06

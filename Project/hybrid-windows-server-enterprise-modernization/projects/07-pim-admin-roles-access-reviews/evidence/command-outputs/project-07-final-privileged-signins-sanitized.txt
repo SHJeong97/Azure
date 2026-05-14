@@ -1,0 +1,141 @@
+
+CreatedDateTime         : 5/14/2026 5:38:08 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/14/2026 4:20:27 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/14/2026 4:19:17 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/14/2026 4:15:43 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/14/2026 1:00:35 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/14/2026 12:55:42 PM
+UserDisplayName         : Emergency Access 01
+UserPrincipalName       : emergency.access01@democompany1016.onmicrosoft.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/14/2026 12:55:37 PM
+UserDisplayName         : Emergency Access 01
+UserPrincipalName       : emergency.access01@democompany1016.onmicrosoft.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 50140
+FailureReason           : This occurred due to 'Keep me signed in' interrupt when the user was signing in.
+
+CreatedDateTime         : 5/14/2026 12:54:21 PM
+UserDisplayName         : Emergency Access 01
+UserPrincipalName       : emergency.access01@democompany1016.onmicrosoft.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/14/2026 12:54:19 PM
+UserDisplayName         : Emergency Access 01
+UserPrincipalName       : emergency.access01@democompany1016.onmicrosoft.com
+AppDisplayName          : Azure Portal
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 50072
+FailureReason           : Due to a configuration change made by your administrator, or because you moved to a new location, you must enroll in multi-factor authentication to access '{identifier}'.
+
+CreatedDateTime         : 5/13/2026 8:52:02 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : My Signins
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 50072
+FailureReason           : Due to a configuration change made by your administrator, or because you moved to a new location, you must enroll in multi-factor authentication to access '{identifier}'.
+
+CreatedDateTime         : 5/13/2026 5:54:36 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : One Outlook Web
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/13/2026 5:54:34 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : One Outlook Web
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 50072
+FailureReason           : Due to a configuration change made by your administrator, or because you moved to a new location, you must enroll in multi-factor authentication to access '{identifier}'.
+
+CreatedDateTime         : 5/13/2026 5:52:13 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : One Outlook Web
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 0
+FailureReason           : Other.
+
+CreatedDateTime         : 5/13/2026 5:52:11 PM
+UserDisplayName         : Sophia Martinez
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+AppDisplayName          : One Outlook Web
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+IsInteractive           : True
+SignInStatusCode        : 50072
+FailureReason           : Due to a configuration change made by your administrator, or because you moved to a new location, you must enroll in multi-factor authentication to access '{identifier}'.
+

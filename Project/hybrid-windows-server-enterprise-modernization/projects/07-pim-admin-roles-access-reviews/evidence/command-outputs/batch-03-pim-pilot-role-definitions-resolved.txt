@@ -1,0 +1,6 @@
+
+RoleName               RoleDefinitionId                     IsEnabled Found
+--------               ----------------                     --------- -----
+User Administrator     fe930be7-5e62-47db-91af-98c3a49a38b1      True Yes
+Helpdesk Administrator 729827e3-9c14-49f7-bb1b-9608f156bbb8      True Yes
+

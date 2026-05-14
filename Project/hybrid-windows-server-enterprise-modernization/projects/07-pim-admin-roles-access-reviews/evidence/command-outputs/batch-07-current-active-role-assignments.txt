@@ -1,0 +1,49 @@
+
+RoleName             : AI Administrator
+PrincipalDisplayName : SeungHun Jeong
+PrincipalType        : #microsoft.graph.user
+PrincipalId          : 0cda8d96-61ae-4c67-99db-f849200b1dea
+DirectoryScopeId     : /
+AppScopeId           : 
+AssignmentId         : 3i5W0tt0fkWntlROI267YZaN2gyuYWdMmdv4SSALHeo-1
+
+RoleName             : Directory Readers
+PrincipalDisplayName : Microsoft.Azure.SyncFabric
+PrincipalType        : #microsoft.graph.servicePrincipal
+PrincipalId          : 4a74bad7-2290-4760-8f61-9659cdc53ea3
+DirectoryScopeId     : /
+AppScopeId           : 
+AssignmentId         : 4-PYiFWPHkqVOpuYmLiHa9e6dEqQImBHj2GWWc3FPqM-1
+
+RoleName             : Directory Synchronization Accounts
+PrincipalDisplayName : On-Premises Directory Synchronization Service Account
+PrincipalType        : #microsoft.graph.user
+PrincipalId          : b822dfa4-ad59-49c2-b94b-b85b850d1c4a
+DirectoryScopeId     : /
+AppScopeId           : 
+AssignmentId         : BSub0kaAukSHWB4mGC_PMqTfIrhZrcJJuUu4W4UNHEo-1
+
+RoleName             : Global Administrator
+PrincipalDisplayName : Emergency Access 01
+PrincipalType        : #microsoft.graph.user
+PrincipalId          : 439b5b47-71e5-43d5-8cd3-9d98df14c4e8
+DirectoryScopeId     : /
+AppScopeId           : 
+AssignmentId         : lAPpYvVpN0KRkAEhdxReEEdbm0PlcdVDjNOdmN8UxOg-1
+
+RoleName             : Global Administrator
+PrincipalDisplayName : SeungHun Jeong
+PrincipalType        : #microsoft.graph.user
+PrincipalId          : 0cda8d96-61ae-4c67-99db-f849200b1dea
+DirectoryScopeId     : /
+AppScopeId           : 
+AssignmentId         : lAPpYvVpN0KRkAEhdxReEJaN2gyuYWdMmdv4SSALHeo-1
+
+RoleName             : SharePoint Administrator
+PrincipalDisplayName : SeungHun Jeong
+PrincipalType        : #microsoft.graph.user
+PrincipalId          : 0cda8d96-61ae-4c67-99db-f849200b1dea
+DirectoryScopeId     : /
+AppScopeId           : 
+AssignmentId         : UB-K8uf2cUWBi2oS8q9rbJaN2gyuYWdMmdv4SSALHeo-1
+
