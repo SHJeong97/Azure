@@ -1,1 +1,17 @@
 
+CheckID,ValidationItem,ExpectedResult,Status
+P07-VAL-001,Project 07 folder structure created,Project folders exist,Completed
+P07-VAL-002,Lab evidence folder created,C:\LabEvidence\Project07\Batch01 exists,Completed
+P07-VAL-003,Project 07 base files created,README implementation data and script files created,Completed
+P07-VAL-004,Business scenario documented,01-business-scenario.md created,Completed
+P07-VAL-005,Privileged access design documented,02-privileged-access-design.md created,Completed
+P07-VAL-006,PIM rollout plan documented,03-pim-rollout-plan.md created,Completed
+P07-VAL-007,Risk register created,project-07-risk-register.csv created,Completed
+P07-VAL-008,Validation checklist created,project-07-validation-checklist.csv created,Completed
+P07-VAL-009,Tenant readiness validation pending,Validate in Batch 2,Planned
+P07-VAL-010,Admin role inventory pending,Export in Batch 2,Planned
+P07-VAL-011,PIM role settings pending,Configure in Batch 3,Planned
+P07-VAL-012,PIM activation testing pending,Validate in Batch 4,Planned
+P07-VAL-013,Access review planning pending,Configure or document in Batch 5,Planned
+P07-VAL-014,Audit monitoring pending,Validate in Batch 6,Planned
+P07-VAL-015,Rollback runbook pending,Create in Batch 7,Planned
