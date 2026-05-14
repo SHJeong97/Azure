@@ -24,4 +24,11 @@ P06-022,Break-glass account affected by risk policy,Emergency recovery access di
 P06-023,Password change required unexpectedly,User disruption,Medium,User risk password-change policy planned only and not enforced in Batch 6,Security Administrator,Mitigated
 P06-024,Device compliance accidentally required,Users blocked due to missing Intune state,Low,Risk policy planning excludes compliant-device and Intune requirements,Identity Administrator,Mitigated
 P06-025,Public IP exposed in evidence,User location privacy exposed,Medium,IP and location fields removed from sign-in log exports and screenshots must be sanitized,Identity Administrator,Mitigated
-P06-026,Pilot enforcement causes unexpected access issue,User sign-in disruption,Medium,Rollback scripts available to return policies to report-only mode,Identity Administrator,Open
+P06-026,Pilot enforcement causes unexpected access issue,User sign-in disruption,Medium,Rollback scripts created to return policies to report-only mode,Identity Administrator,Mitigated
+P06-027,Policy state drifts from expected baseline,Unexpected access behavior,Medium,Operational policy state monitoring script created,Identity Administrator,Mitigated
+P06-028,Pilot group membership changes unexpectedly,Wrong users affected by CA policies,Medium,Pilot group monitoring script created,Identity Administrator,Mitigated
+P06-029,Break-glass exclusion removed,Emergency access could be affected,Medium,Break-glass group monitoring script created,Identity Administrator,Mitigated
+P06-030,Break-glass account used without review,Security event missed,Medium,Break-glass sign-in monitoring script created,Security Administrator,Mitigated
+P06-031,Conditional Access policy changes not reviewed,Unauthorized or accidental changes missed,Medium,Policy change audit log review documented,Identity Administrator,Mitigated
+P06-032,Public IP or location exposed in evidence,User privacy issue,Medium,Sanitized sign-in exports created without IP/location fields,Identity Administrator,Mitigated
+P06-033,Rollback deletes policies instead of disabling enforcement,Loss of policy configuration,Low,Rollback scripts set policies to report-only and do not delete policies,Identity Administrator,Mitigated
