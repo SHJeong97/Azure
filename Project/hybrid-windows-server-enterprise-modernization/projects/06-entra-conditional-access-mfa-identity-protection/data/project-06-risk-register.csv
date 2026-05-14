@@ -1,14 +1,14 @@
 RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
-P06-001,Admin lockout,Tenant administration blocked,Medium,Break-glass exclusion group excluded from CA001,Identity Administrator,Mitigated
-P06-002,Wrong users targeted,Unexpected MFA or blocked access,Medium,CA001 scoped only to GRP-CA-Pilot-Users,Identity Administrator,Mitigated
-P06-003,Policy enforced too early,User disruption,Medium,CA001 created in report-only mode first,Identity Administrator,Mitigated
-P06-004,Legacy authentication blocked unexpectedly,Application or protocol failure,Medium,CA002 created in report-only mode and legacy sign-ins reviewed before enforcement,Identity Administrator,Mitigated
-P06-005,MFA registration incomplete,Users cannot satisfy MFA,Medium,MFA registration readiness validated before CA001 creation,Identity Administrator,Mitigated
+P06-001,Admin lockout,Tenant administration blocked,Medium,Break-glass sign-in validated before pilot enforcement,Identity Administrator,Mitigated
+P06-002,Wrong users targeted,Unexpected MFA or blocked access,Medium,Pilot group membership revalidated before enforcement,Identity Administrator,Mitigated
+P06-003,Policy enforced too early,User disruption,Medium,Report-only results reviewed before enabling CA001,Identity Administrator,Mitigated
+P06-004,Legacy authentication blocked unexpectedly,Application or protocol failure,Medium,Legacy authentication activity reviewed before CA002 enforcement decision,Identity Administrator,Mitigated if no legacy activity found
+P06-005,MFA registration incomplete,Users cannot satisfy MFA,Medium,MFA readiness validated before CA001 enforcement,Identity Administrator,Mitigated
 P06-006,Risk policy misconfigured,Incorrect challenge or password reset behavior,Medium,Sign-in risk and user risk policies planned separately before enforcement,Security Administrator,Mitigated
 P06-007,Break-glass account missing,Emergency recovery unavailable,High,Cloud-only emergency access account created and documented,Global Administrator,Mitigated
-P06-008,Exclusions not validated,Critical accounts affected,Medium,Break-glass exclusion group validated before CA002 creation,Identity Administrator,Mitigated
-P06-009,Report-only results misread,Incorrect enforcement decision,Medium,CA002 report-only logs and legacy auth impact summary exported,Identity Administrator,Mitigated
-P06-010,Device compliance accidentally required,Users blocked due to missing Intune state,Low,CA002 does not require compliant devices or Intune,Identity Administrator,Mitigated
+P06-008,Exclusions not validated,Critical accounts affected,Medium,Break-glass exclusion membership revalidated before enforcement,Identity Administrator,Mitigated
+P06-009,Report-only results misread,Incorrect enforcement decision,Medium,Report-only evaluations and enforcement readiness summary exported,Identity Administrator,Mitigated
+P06-010,Device compliance accidentally required,Users blocked due to missing Intune state,Low,CA001 and CA002 do not require compliant devices or Intune,Identity Administrator,Mitigated
 P06-011,Security Defaults changed too early,Tenant protection behavior changes unexpectedly,Medium,Security Defaults state documented without changes,Identity Administrator,Mitigated
 P06-012,Authentication method not enabled for pilot users,MFA registration may fail,Medium,Microsoft Authenticator reviewed and validated for pilot group,Identity Administrator,Mitigated
 P06-013,Sensitive MFA registration evidence exposed,Authentication details leaked,Medium,Screenshots must hide QR codes phone numbers and device details,Identity Administrator,Mitigated
@@ -23,3 +23,5 @@ P06-021,Clean lab risk results misread as failure,Incorrect conclusion that Iden
 P06-022,Break-glass account affected by risk policy,Emergency recovery access disrupted,Medium,Break-glass exclusion group validated before risk policy planning,Identity Administrator,Mitigated
 P06-023,Password change required unexpectedly,User disruption,Medium,User risk password-change policy planned only and not enforced in Batch 6,Security Administrator,Mitigated
 P06-024,Device compliance accidentally required,Users blocked due to missing Intune state,Low,Risk policy planning excludes compliant-device and Intune requirements,Identity Administrator,Mitigated
+P06-025,Public IP exposed in evidence,User location privacy exposed,Medium,IP and location fields removed from sign-in log exports and screenshots must be sanitized,Identity Administrator,Mitigated
+P06-026,Pilot enforcement causes unexpected access issue,User sign-in disruption,Medium,Rollback scripts available to return policies to report-only mode,Identity Administrator,Open
