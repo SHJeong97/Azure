@@ -1,0 +1,11 @@
+
+Id                : 5d397004bacb4b8687816c7eaef4f2b40a0a162a84c6c65c774007d0e23c4b69
+UserDisplayName   : SeungHun Jeong
+UserPrincipalName : SeungHunJeong@democompany1016.onmicrosoft.com
+RiskType          : 
+RiskLevel         : low
+RiskState         : remediated
+RiskDetail        : userPassedMFADrivenByRiskBasedPolicy
+DetectedDateTime  : 4/9/2026 6:24:06 PM
+Activity          : signin
+

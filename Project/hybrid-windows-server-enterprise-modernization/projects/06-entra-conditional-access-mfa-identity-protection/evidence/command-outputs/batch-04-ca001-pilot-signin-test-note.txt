@@ -1,0 +1,28 @@
+Project 06 Batch 4 — CA001 Pilot Sign-In Test Note
+
+Policy:
+CA001-Require-MFA-Pilot-Users
+
+Policy state:
+Report-only
+
+Pilot users tested:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Test portal:
+https://portal.office.com
+
+Expected result:
+Users can sign in because the Conditional Access policy is in report-only mode.
+
+Validation goal:
+Confirm that CA001 appears in sign-in logs as a report-only evaluation before enforcement.
+
+Safety decision:
+No policy enforcement was enabled during this test.
+No user access should be blocked by CA001 during this batch.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch04

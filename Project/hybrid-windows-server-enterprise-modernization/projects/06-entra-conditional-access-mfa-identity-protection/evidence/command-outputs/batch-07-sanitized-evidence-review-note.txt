@@ -1,0 +1,25 @@
+Project 06 Batch 7 — Sanitized Evidence Review Note
+
+Purpose:
+Document that post-enforcement Conditional Access evidence was captured without exposing public IP address or location data.
+
+Policies:
+- CA001-Require-MFA-Pilot-Users
+- CA002-Block-Legacy-Authentication
+
+Privacy decision:
+The following fields were not exported in sign-in log evidence:
+- IpAddress
+- Location
+- City
+- State
+- CountryOrRegion
+
+Screenshot handling:
+Screenshots must be cropped or blurred if the portal displays public IP address, location, device details, browser details, or session metadata.
+
+Validation:
+Post-enforcement sign-in logs and Conditional Access results were exported using sanitized fields only.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch07

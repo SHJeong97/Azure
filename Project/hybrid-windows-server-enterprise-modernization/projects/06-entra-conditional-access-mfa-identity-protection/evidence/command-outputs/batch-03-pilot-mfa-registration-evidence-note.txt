@@ -1,0 +1,24 @@
+Project 06 Batch 3 — Pilot MFA Registration Evidence Note
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Registration portal:
+https://aka.ms/mysecurityinfo
+
+Authentication method:
+Microsoft Authenticator
+
+Purpose:
+Prepare pilot users for Conditional Access MFA policy testing.
+
+Evidence handling:
+Screenshots should not expose QR codes, full phone numbers, personal device names, or sensitive authentication details.
+
+Safety decision:
+No Conditional Access policy was enforced during MFA registration.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch03

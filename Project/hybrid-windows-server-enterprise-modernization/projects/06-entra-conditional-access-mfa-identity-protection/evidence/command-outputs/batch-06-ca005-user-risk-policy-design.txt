@@ -1,0 +1,15 @@
+
+PolicyName               : CA005-User-Risk-Password-Change
+PolicyType               : User risk Conditional Access
+InitialState             : Report-only planned
+IncludedGroup            : GRP-CA-Pilot-Users
+ExcludedGroup            : GRP-CA-Excluded-BreakGlass
+TargetResources          : All cloud apps
+UserRiskLevels           : high
+GrantControl             : Require password change
+SignInRiskIncluded       : No
+DeviceComplianceRequired : No
+IntuneDependency         : No
+Purpose                  : Require password change when user risk is high
+EnforcementDecision      : Do not enforce in Batch 6
+

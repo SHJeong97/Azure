@@ -1,0 +1,49 @@
+
+SkuPartNumber  : EMSPREMIUM
+SkuId          : b05e124f-c7cc-45a0-a6aa-8cf78c946968
+ConsumedUnits  : 0
+EnabledUnits   : 25
+AvailableUnits : 25
+
+SkuPartNumber  : ENTERPRISEPREMIUM
+SkuId          : c7df2760-2c81-4ef7-b578-5b5392b571df
+ConsumedUnits  : 3
+EnabledUnits   : 25
+AvailableUnits : 22
+
+SkuPartNumber  : Office_365_E5_(no_Teams)
+SkuId          : e23e2b65-8fc9-4036-a902-a17473ff6d26
+ConsumedUnits  : 1
+EnabledUnits   : 0
+AvailableUnits : -1
+
+SkuPartNumber  : ENTERPRISEPACK
+SkuId          : 6fd2c87f-b296-42f0-b197-1e91e994b900
+ConsumedUnits  : 0
+EnabledUnits   : 25
+AvailableUnits : 25
+
+SkuPartNumber  : AAD_PREMIUM_P2
+SkuId          : 84a661c4-e949-4bd2-a560-ed7766fcaf2b
+ConsumedUnits  : 0
+EnabledUnits   : 0
+AvailableUnits : 0
+
+SkuPartNumber  : SPE_E5
+SkuId          : 06ebc4ee-1bb5-47dd-8120-11324bc54e06
+ConsumedUnits  : 0
+EnabledUnits   : 0
+AvailableUnits : 0
+
+SkuPartNumber  : SPE_E3
+SkuId          : 05e9a617-0261-4cee-bb44-138d3ef5d965
+ConsumedUnits  : 0
+EnabledUnits   : 0
+AvailableUnits : 0
+
+SkuPartNumber  : Microsoft_365_E5_(no_Teams)
+SkuId          : 18a4bd3f-0b5b-4887-b04f-61dd0ee15f5e
+ConsumedUnits  : 0
+EnabledUnits   : 0
+AvailableUnits : 0
+

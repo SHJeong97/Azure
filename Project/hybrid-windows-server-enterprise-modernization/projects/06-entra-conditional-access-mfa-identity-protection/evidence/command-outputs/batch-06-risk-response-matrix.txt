@@ -1,0 +1,37 @@
+
+RiskType       : Sign-in risk
+RiskLevel      : Low
+PlannedAction  : Allow or monitor
+Policy         : No enforcement planned in this lab
+UserExperience : No extra challenge expected
+
+RiskType       : Sign-in risk
+RiskLevel      : Medium
+PlannedAction  : Require MFA
+Policy         : CA004-SignIn-Risk-MFA
+UserExperience : User completes MFA challenge
+
+RiskType       : Sign-in risk
+RiskLevel      : High
+PlannedAction  : Require MFA
+Policy         : CA004-SignIn-Risk-MFA
+UserExperience : User completes MFA challenge
+
+RiskType       : User risk
+RiskLevel      : Low
+PlannedAction  : Monitor
+Policy         : No enforcement planned in this lab
+UserExperience : No immediate user action
+
+RiskType       : User risk
+RiskLevel      : Medium
+PlannedAction  : Monitor or investigate
+Policy         : No enforcement planned in this lab
+UserExperience : No immediate user action
+
+RiskType       : User risk
+RiskLevel      : High
+PlannedAction  : Require password change
+Policy         : CA005-User-Risk-Password-Change
+UserExperience : User must change password
+

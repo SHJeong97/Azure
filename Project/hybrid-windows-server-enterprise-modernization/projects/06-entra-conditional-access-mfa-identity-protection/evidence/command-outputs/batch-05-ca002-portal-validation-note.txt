@@ -1,0 +1,31 @@
+Project 06 Batch 5 — CA002 Portal Validation Note
+
+Policy:
+CA002-Block-Legacy-Authentication
+
+State:
+Report-only
+
+Included group:
+GRP-CA-Pilot-Users
+
+Excluded group:
+GRP-CA-Excluded-BreakGlass
+
+Target resources:
+All cloud apps
+
+Client apps:
+Exchange ActiveSync
+Other clients
+
+Grant control:
+Block access
+
+Safety decision:
+The policy was created in report-only mode first.
+No user access was blocked by this policy in this step.
+No Intune or compliant-device requirement was used.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch05

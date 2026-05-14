@@ -1,0 +1,46 @@
+Project 06 Batch 2 — Tenant Readiness, Pilot Groups, and Break-Glass Summary
+
+Project:
+Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Microsoft Graph connected
+- Tenant organization details exported
+- Tenant license SKUs exported
+- Pilot users validated for Conditional Access readiness
+- Existing Conditional Access policies exported
+- Security Defaults state documented
+- Tenant readiness summary created
+- Conditional Access pilot group created
+- Pilot users added to pilot group
+- Break-glass exclusion group created
+- Emergency access account created
+- Emergency access account added to exclusion group
+- Break-glass role assignment documented
+- Pilot and exclusion group summary created
+- Break-glass documentation note created
+- Implementation document created
+
+Groups created:
+- GRP-CA-Pilot-Users
+- GRP-CA-Excluded-BreakGlass
+
+Emergency access account:
+emergency.access01@democompany1016.onmicrosoft.com
+
+Safety decisions:
+No Conditional Access policies enforced in Batch 2.
+No users blocked in Batch 2.
+Security Defaults was documented only and not changed.
+No Intune or compliant-device requirement was used.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch02

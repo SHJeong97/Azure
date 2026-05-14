@@ -1,0 +1,28 @@
+Project 06 Batch 6 — Risk Policy Separation Decision Note
+
+Purpose:
+Document why sign-in risk and user risk are planned as separate Conditional Access policies.
+
+Sign-in risk policy:
+CA004-SignIn-Risk-MFA
+
+User risk policy:
+CA005-User-Risk-Password-Change
+
+Decision:
+Sign-in risk and user risk will not be combined into the same Conditional Access policy.
+
+Reason:
+Sign-in risk evaluates the risk of a specific authentication attempt.
+User risk evaluates the probability that the user account itself is compromised.
+
+Planned response:
+- Sign-in risk medium/high: require MFA
+- User risk high: require password change
+
+Safety decision:
+No risk-based Conditional Access policy is enforced in Batch 6.
+Risk policies are planned and documented only.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch06

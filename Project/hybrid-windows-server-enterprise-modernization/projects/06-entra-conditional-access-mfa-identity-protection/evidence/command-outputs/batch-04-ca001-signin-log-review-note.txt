@@ -1,0 +1,29 @@
+Project 06 Batch 4 — CA001 Sign-In Log Review Note
+
+Policy:
+CA001-Require-MFA-Pilot-Users
+
+Policy state:
+Report-only
+
+Validation method:
+Microsoft Entra sign-in logs were reviewed after pilot user sign-in tests.
+
+Expected report-only behavior:
+The policy evaluates pilot sign-ins but does not block access.
+
+Reviewed users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Key validation points:
+- Pilot users are included through GRP-CA-Pilot-Users.
+- Emergency access account is excluded through GRP-CA-Excluded-BreakGlass.
+- Grant control requires MFA.
+- Device compliance is not required.
+- Intune is not required.
+- Policy is not enforced yet.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch04

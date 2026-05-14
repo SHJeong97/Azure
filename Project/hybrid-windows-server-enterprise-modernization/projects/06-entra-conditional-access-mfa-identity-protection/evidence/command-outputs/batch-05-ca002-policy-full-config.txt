@@ -1,0 +1,7 @@
+
+Id               : dd78ba86-4ce7-4648-a1f3-9f7488c0fd78
+DisplayName      : CA002-Block-Legacy-Authentication
+State            : enabledForReportingButNotEnforced
+CreatedDateTime  : 5/13/2026 9:19:31 PM
+ModifiedDateTime : 
+

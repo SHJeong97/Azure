@@ -1,0 +1,14 @@
+
+CA001Policy                         : CA001-Require-MFA-Pilot-Users
+CA001State                          : enabled
+CA001PostEnforcementEvaluationCount : 2
+CA002Policy                         : CA002-Block-Legacy-Authentication
+CA002State                          : enabledForReportingButNotEnforced
+CA002PostEnforcementEvaluationCount : 2
+PilotUsersTested                    : 3
+PublicIpExported                    : No
+LocationExported                    : No
+DeviceComplianceRequired            : No
+IntuneDependency                    : No
+EnforcementResult                   : Pilot enforcement completed with sanitized evidence
+

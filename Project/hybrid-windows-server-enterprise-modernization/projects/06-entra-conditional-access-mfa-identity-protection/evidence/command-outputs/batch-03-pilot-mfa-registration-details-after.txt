@@ -1,0 +1,31 @@
+
+UserPrincipalName : emma.wilson@summitridge-mfg.com
+UserDisplayName   : Emma Wilson
+IsMfaRegistered   : True
+IsMfaCapable      : True
+IsSsprRegistered  : False
+IsSsprEnabled     : False
+IsSsprCapable     : False
+DefaultMfaMethod  : 
+MethodsRegistered : microsoftAuthenticatorPush;softwareOneTimePasscode
+
+UserPrincipalName : olivia.brown@summitridge-mfg.com
+UserDisplayName   : Olivia Brown
+IsMfaRegistered   : True
+IsMfaCapable      : True
+IsSsprRegistered  : False
+IsSsprEnabled     : False
+IsSsprCapable     : False
+DefaultMfaMethod  : 
+MethodsRegistered : microsoftAuthenticatorPush;softwareOneTimePasscode
+
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+UserDisplayName   : Sophia Martinez
+IsMfaRegistered   : False
+IsMfaCapable      : False
+IsSsprRegistered  : False
+IsSsprEnabled     : False
+IsSsprCapable     : False
+DefaultMfaMethod  : 
+MethodsRegistered : 
+

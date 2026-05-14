@@ -1,0 +1,9 @@
+
+TenantDisplayName                : demo company
+PilotUserCount                   : 3
+PilotUsersReadyForCA             : 3
+ExistingCAPolicyCount            : 0
+SecurityDefaultsEnabled          : False
+ConditionalAccessLicenseExpected : Microsoft Entra ID P1/P2 through E5 or EMS E5
+Batch2Readiness                  : Ready to create CA pilot groups and break-glass exclusion
+

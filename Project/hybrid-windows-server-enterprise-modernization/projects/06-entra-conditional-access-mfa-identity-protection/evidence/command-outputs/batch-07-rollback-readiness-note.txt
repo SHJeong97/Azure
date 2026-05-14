@@ -1,0 +1,31 @@
+Project 06 Batch 7 — Rollback Readiness Note
+
+Purpose:
+Confirm rollback readiness after enabling pilot Conditional Access enforcement.
+
+Rollback helper scripts:
+- rollback-ca001-to-report-only.ps1
+- rollback-ca002-to-report-only.ps1
+
+Rollback principle:
+If pilot enforcement causes unexpected access issues, return the affected policy to report-only mode.
+
+Primary rollback action:
+Set policy state back to enabledForReportingButNotEnforced.
+
+Policies:
+- CA001-Require-MFA-Pilot-Users
+- CA002-Block-Legacy-Authentication
+
+Emergency access:
+The break-glass account was validated before enforcement.
+
+Privacy handling:
+No public IP address or location fields are included in this evidence note.
+
+Decision:
+Rollback scripts were validated for availability.
+Rollback was not executed because this batch is validating pilot enforcement.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch07

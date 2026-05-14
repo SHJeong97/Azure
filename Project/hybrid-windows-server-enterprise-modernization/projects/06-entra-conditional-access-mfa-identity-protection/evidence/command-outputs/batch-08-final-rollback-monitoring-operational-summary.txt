@@ -1,0 +1,52 @@
+Project 06 Batch 8 — Final Rollback, Monitoring, and Operational Controls Summary
+
+Project:
+Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+
+Policies:
+- CA001-Require-MFA-Pilot-Users
+- CA002-Block-Legacy-Authentication
+
+Pilot group:
+GRP-CA-Pilot-Users
+
+Break-glass exclusion group:
+GRP-CA-Excluded-BreakGlass
+
+Emergency access account:
+emergency.access01@democompany1016.onmicrosoft.com
+
+Validation completed:
+- Batch 8 evidence folder created
+- Microsoft Graph connected
+- Current Conditional Access policy state exported
+- Pilot group membership validated
+- Break-glass group membership validated
+- Operational health summary created
+- Conditional Access policy change audit logs exported
+- Break-glass sign-in activity exported
+- Monitoring control matrix created
+- Rollback-all helper script created
+- Conditional Access policy monitoring script created
+- Pilot and break-glass group monitoring script created
+- Privacy-safe sign-in monitoring script created
+- Break-glass sign-in monitoring script created
+- Conditional Access operational runbook created
+- Rollback and monitoring implementation document created
+- Validation checklist updated
+- Risk register updated
+
+Privacy controls:
+Public IP address fields were not exported.
+Location fields were not exported.
+Screenshots must be sanitized before GitHub upload.
+
+Safety decisions:
+No tenant-wide policy expansion was performed.
+No Intune requirement was used.
+No compliant-device requirement was used.
+Break-glass exclusions remained in place.
+Risk-based Conditional Access policies were not enforced.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch08

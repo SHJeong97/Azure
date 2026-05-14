@@ -1,0 +1,6 @@
+
+ScriptName                        Path
+----------                        ----                                                                                                      
+rollback-ca001-to-report-only.ps1 projects\06-entra-conditional-access-mfa-identity-protection\scripts\powershell\rollback-ca001-to-report-…
+rollback-ca002-to-report-only.ps1 projects\06-entra-conditional-access-mfa-identity-protection\scripts\powershell\rollback-ca002-to-report-…
+

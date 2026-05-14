@@ -1,0 +1,52 @@
+Project 06 Batch 6 — Identity Protection and Risk-Based Conditional Access Planning Summary
+
+Project:
+Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+
+Pilot group:
+GRP-CA-Pilot-Users
+
+Break-glass exclusion group:
+GRP-CA-Excluded-BreakGlass
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Batch 6 evidence folder created
+- Microsoft Graph connected with Identity Protection permissions
+- Tenant SKUs exported for Identity Protection readiness
+- Identity Protection license readiness summary created
+- Pilot and break-glass groups revalidated
+- Risky users exported
+- Pilot risky user state exported
+- Risk detections exported
+- Identity Protection baseline summary created
+- CA004 sign-in risk policy design summary created
+- CA005 user risk policy design summary created
+- Risk policy separation decision note created
+- Risk policy rollout plan created
+- Risk response matrix created
+- Risk-based Conditional Access planning summary created
+- Identity Protection portal reviewed
+- Implementation document created
+- Helper scripts created
+
+Planned risk-based policies:
+- CA004-SignIn-Risk-MFA
+- CA005-User-Risk-Password-Change
+
+Safety decisions:
+No risk-based Conditional Access policy was enforced in Batch 6.
+No users were blocked in Batch 6.
+No password change requirement was enforced in Batch 6.
+Sign-in risk and user risk were planned as separate policies.
+No Intune or compliant-device requirement was used.
+
+Expected clean lab interpretation:
+No risky users or risk detections is acceptable in a controlled lab tenant.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch06

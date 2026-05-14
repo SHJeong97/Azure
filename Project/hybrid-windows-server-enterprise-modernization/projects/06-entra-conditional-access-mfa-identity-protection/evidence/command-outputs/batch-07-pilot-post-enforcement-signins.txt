@@ -1,0 +1,17 @@
+
+CreatedDateTime         : 5/14/2026 12:59:33 PM
+UserDisplayName         : Emma Wilson
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+Status                  : Microsoft.Graph.PowerShell.Models.MicrosoftGraphSignInStatus
+
+CreatedDateTime         : 5/14/2026 12:58:40 PM
+UserDisplayName         : Emma Wilson
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+Status                  : Microsoft.Graph.PowerShell.Models.MicrosoftGraphSignInStatus
+

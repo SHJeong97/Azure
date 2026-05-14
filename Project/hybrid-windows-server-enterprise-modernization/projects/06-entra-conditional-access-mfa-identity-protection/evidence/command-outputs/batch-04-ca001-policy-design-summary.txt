@@ -1,0 +1,12 @@
+
+PolicyName               : CA001-Require-MFA-Pilot-Users
+State                    : Report-only
+IncludeGroup             : GRP-CA-Pilot-Users
+ExcludeGroup             : GRP-CA-Excluded-BreakGlass
+CloudApps                : All cloud apps
+ClientApps               : Browser; Mobile apps and desktop clients
+GrantControl             : Require multifactor authentication
+DeviceComplianceRequired : No
+IntuneDependency         : No
+Purpose                  : Require MFA for pilot users without enforcing yet
+

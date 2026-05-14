@@ -1,0 +1,16 @@
+Project 06 Batch 7 — Break-Glass Sign-In Validation Before Enforcement
+
+Emergency access account:
+emergency.access01@democompany1016.onmicrosoft.com
+
+Purpose:
+Confirm emergency administrative access before enabling Conditional Access pilot enforcement.
+
+Validation:
+Break-glass sign-in was tested before policy enforcement.
+
+Privacy handling:
+Screenshots must not show public IP address, location, device details, or session metadata.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch07

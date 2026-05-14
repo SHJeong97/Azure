@@ -1,0 +1,22 @@
+
+TestID            : MFA-REG-001
+UserPrincipalName : emma.wilson@summitridge-mfg.com
+RequiredAction    : Register Microsoft Authenticator
+TestURL           : https://aka.ms/mysecurityinfo
+ExpectedResult    : MFA method registered
+Status            : Planned
+
+TestID            : MFA-REG-002
+UserPrincipalName : olivia.brown@summitridge-mfg.com
+RequiredAction    : Register Microsoft Authenticator
+TestURL           : https://aka.ms/mysecurityinfo
+ExpectedResult    : MFA method registered
+Status            : Planned
+
+TestID            : MFA-REG-003
+UserPrincipalName : sophia.martinez@summitridge-mfg.com
+RequiredAction    : Register Microsoft Authenticator
+TestURL           : https://aka.ms/mysecurityinfo
+ExpectedResult    : MFA method registered
+Status            : Planned
+

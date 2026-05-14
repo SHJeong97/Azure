@@ -1,0 +1,5 @@
+
+UserPrincipalName                                  RoleDisplayName      RoleId                               AssignmentFound
+-----------------                                  ---------------      ------                               ---------------
+emergency.access01@democompany1016.onmicrosoft.com Global Administrator f0bab625-d1fb-4ff7-9679-0de74074ae72 Yes
+

@@ -1,0 +1,166 @@
+
+CreatedDateTime         : 5/13/2026 9:22:16 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : reportOnlySuccess
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/13/2026 9:22:19 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : reportOnlySuccess
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:58:36 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : reportOnlySuccess
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:58:40 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : success
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:59:31 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : success
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:59:33 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : success
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 1:00:05 PM
+UserPrincipalName       : olivia.brown@summitridge-mfg.com
+UserDisplayName         : Olivia Brown
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : success
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 1:00:35 PM
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+UserDisplayName         : Sophia Martinez
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyResult            : success
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/13/2026 9:22:16 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:58:36 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : notApplied
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:58:40 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:59:31 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:59:33 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 1:00:05 PM
+UserPrincipalName       : olivia.brown@summitridge-mfg.com
+UserDisplayName         : Olivia Brown
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 1:00:35 PM
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+UserDisplayName         : Sophia Martinez
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+

@@ -1,0 +1,49 @@
+
+CreatedDateTime         : 5/14/2026 12:58:40 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyId                : 601c6a3d-ace6-4faa-addd-68bcb35b492c
+PolicyResult            : success
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:59:33 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA001-Require-MFA-Pilot-Users
+PolicyId                : 601c6a3d-ace6-4faa-addd-68bcb35b492c
+PolicyResult            : success
+GrantControls           : Mfa
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:58:40 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyId                : dd78ba86-4ce7-4648-a1f3-9f7488c0fd78
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+
+CreatedDateTime         : 5/14/2026 12:59:33 PM
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+UserDisplayName         : Emma Wilson
+AppDisplayName          : OfficeHome
+ClientAppUsed           : Browser
+ConditionalAccessStatus : success
+PolicyName              : CA002-Block-Legacy-Authentication
+PolicyId                : dd78ba86-4ce7-4648-a1f3-9f7488c0fd78
+PolicyResult            : reportOnlyNotApplied
+GrantControls           : Block
+SessionControls         : 
+

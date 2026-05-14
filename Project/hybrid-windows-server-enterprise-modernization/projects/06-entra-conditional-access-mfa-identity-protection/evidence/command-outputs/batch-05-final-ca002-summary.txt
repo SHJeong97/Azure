@@ -1,0 +1,56 @@
+Project 06 Batch 5 — CA002 Block Legacy Authentication Summary
+
+Policy:
+CA002-Block-Legacy-Authentication
+
+Policy state:
+Report-only
+
+Included group:
+GRP-CA-Pilot-Users
+
+Excluded group:
+GRP-CA-Excluded-BreakGlass
+
+Grant control:
+Block access
+
+Target resources:
+All cloud apps
+
+Client apps:
+Exchange ActiveSync
+Other clients
+
+Validation completed:
+- Batch 5 evidence folder created
+- Microsoft Graph connected
+- Pilot and break-glass groups loaded
+- Group members validated
+- Existing Conditional Access policies exported before CA002
+- CA002 policy design summary created
+- CA002 created in report-only mode
+- CA002 full configuration exported
+- CA002 validated in Microsoft Entra admin center
+- Pilot modern sign-in tests performed
+- Recent pilot sign-in logs exported
+- CA002 report-only evaluation exported or documented
+- Legacy authentication sign-ins exported
+- CA002 legacy authentication impact summary created
+- CA002 sign-in log review note created
+- CA002 implementation document created
+- CA002 rollback helper script created
+- CA002 validation helper script created
+
+Expected clean lab result:
+No legacy authentication activity observed in the current sign-in window.
+
+Safety decisions:
+CA002 remains in report-only mode.
+No policy enforcement was enabled.
+No users were blocked.
+Break-glass exclusion was included.
+No Intune or compliant-device requirement was used.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch05

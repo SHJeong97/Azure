@@ -1,0 +1,38 @@
+Project 06 Batch 5 — CA002 Sign-In Log Review Note
+
+Policy:
+CA002-Block-Legacy-Authentication
+
+Policy state:
+Report-only
+
+Validation method:
+Microsoft Entra sign-in logs were reviewed after pilot user sign-in tests.
+
+Expected report-only behavior:
+The policy evaluates legacy authentication sign-ins but does not block access because it is report-only.
+
+Important result interpretation:
+Normal browser sign-ins usually use modern authentication and may not match legacy authentication client app conditions.
+If no legacy authentication sign-ins are present, the result should be documented as no legacy authentication activity observed.
+
+Included group:
+GRP-CA-Pilot-Users
+
+Excluded group:
+GRP-CA-Excluded-BreakGlass
+
+Client apps targeted:
+Exchange ActiveSync
+Other clients
+
+Grant control:
+Block access
+
+Safety decision:
+CA002 remains in report-only mode.
+No user access was blocked.
+No Intune or compliant-device requirement was used.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch05

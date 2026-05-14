@@ -1,0 +1,23 @@
+
+DisplayName          : CA001-Require-MFA-Pilot-Users
+PolicyId             : 601c6a3d-ace6-4faa-addd-68bcb35b492c
+State                : enabled
+IncludedGroups       : 8d18be92-4b20-4b1a-9909-76d0304284c6
+ExcludedGroups       : 3fed183d-ff90-48eb-8bf2-90b0a3789059
+IncludedApplications : All
+ClientAppTypes       : browser;mobileAppsAndDesktopClients
+GrantControls        : mfa
+CreatedDateTime      : 5/13/2026 9:05:00 PM
+ModifiedDateTime     : 5/14/2026 12:57:04 PM
+
+DisplayName          : CA002-Block-Legacy-Authentication
+PolicyId             : dd78ba86-4ce7-4648-a1f3-9f7488c0fd78
+State                : enabledForReportingButNotEnforced
+IncludedGroups       : 8d18be92-4b20-4b1a-9909-76d0304284c6
+ExcludedGroups       : 3fed183d-ff90-48eb-8bf2-90b0a3789059
+IncludedApplications : All
+ClientAppTypes       : exchangeActiveSync;other
+GrantControls        : block
+CreatedDateTime      : 5/13/2026 9:19:31 PM
+ModifiedDateTime     : 
+

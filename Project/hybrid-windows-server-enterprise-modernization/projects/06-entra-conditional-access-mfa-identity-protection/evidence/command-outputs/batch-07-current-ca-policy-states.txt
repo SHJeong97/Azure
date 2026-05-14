@@ -1,0 +1,15 @@
+
+DisplayName      : CA001-Require-MFA-Pilot-Users
+PolicyId         : 601c6a3d-ace6-4faa-addd-68bcb35b492c
+State            : enabledForReportingButNotEnforced
+CreatedDateTime  : 5/13/2026 9:05:00 PM
+ModifiedDateTime : 
+Found            : Yes
+
+DisplayName      : CA002-Block-Legacy-Authentication
+PolicyId         : dd78ba86-4ce7-4648-a1f3-9f7488c0fd78
+State            : enabledForReportingButNotEnforced
+CreatedDateTime  : 5/13/2026 9:19:31 PM
+ModifiedDateTime : 
+Found            : Yes
+

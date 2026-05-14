@@ -1,0 +1,31 @@
+Project 06 Batch 4 — CA001 Portal Validation Note
+
+Policy:
+CA001-Require-MFA-Pilot-Users
+
+State:
+Report-only
+
+Included group:
+GRP-CA-Pilot-Users
+
+Excluded group:
+GRP-CA-Excluded-BreakGlass
+
+Target resources:
+All cloud apps
+
+Client apps:
+Browser
+Mobile apps and desktop clients
+
+Grant control:
+Require multifactor authentication
+
+Safety decision:
+The policy was created in report-only mode first.
+No user access was blocked by this policy in this step.
+No Intune or compliant-device requirement was used.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch04

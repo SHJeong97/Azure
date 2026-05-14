@@ -1,0 +1,5 @@
+
+DisplayName         UserPrincipalName                                  AccountEnabled
+-----------         -----------------                                  --------------
+Emergency Access 01 emergency.access01@democompany1016.onmicrosoft.com           True
+

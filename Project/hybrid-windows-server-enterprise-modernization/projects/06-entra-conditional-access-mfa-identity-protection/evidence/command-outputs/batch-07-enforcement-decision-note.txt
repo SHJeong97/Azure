@@ -1,0 +1,29 @@
+Project 06 Batch 7 — Conditional Access Enforcement Decision Note
+
+Policies reviewed:
+- CA001-Require-MFA-Pilot-Users
+- CA002-Block-Legacy-Authentication
+
+Pilot group:
+GRP-CA-Pilot-Users
+
+Break-glass exclusion group:
+GRP-CA-Excluded-BreakGlass
+
+Decision basis:
+- Pilot group membership was validated.
+- Break-glass exclusion group membership was validated.
+- Recent sign-in logs were reviewed.
+- Report-only evaluations were exported.
+- Legacy authentication activity was reviewed.
+- No Intune or compliant-device requirement is used.
+
+Pilot enforcement plan:
+CA001 can be enabled for pilot users to require MFA.
+CA002 can be enabled for pilot users only if no legacy authentication dependency is observed.
+
+Safety decision:
+If enforcement causes unexpected access issues, use the rollback helper scripts to return policies to report-only mode.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch07

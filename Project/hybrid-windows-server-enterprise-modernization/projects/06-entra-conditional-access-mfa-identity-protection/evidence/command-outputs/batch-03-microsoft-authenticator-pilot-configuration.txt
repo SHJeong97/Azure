@@ -1,0 +1,21 @@
+Project 06 Batch 3 — Microsoft Authenticator Pilot Configuration
+
+Authentication method:
+Microsoft Authenticator
+
+Target group:
+GRP-CA-Pilot-Users
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Purpose:
+Allow pilot users to register and use Microsoft Authenticator before Conditional Access MFA policy enforcement.
+
+Safety decision:
+This enables the authentication method for pilot readiness. Conditional Access enforcement is not enabled in this step.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch03

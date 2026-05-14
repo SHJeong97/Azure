@@ -1,0 +1,24 @@
+Project 06 Batch 2 — Break-Glass Account Documentation Note
+
+Emergency access account:
+emergency.access01@democompany1016.onmicrosoft.com
+
+Break-glass exclusion group:
+GRP-CA-Excluded-BreakGlass
+
+Purpose:
+Provide emergency administrative recovery if Conditional Access policy configuration causes administrative access issues.
+
+Important controls:
+- Account is cloud-only.
+- Account is excluded from Conditional Access enforcement through the exclusion group.
+- Account is not used for daily administration.
+- Password is stored securely outside GitHub.
+- Account activity should be monitored.
+- Production environments should use at least two emergency access accounts.
+
+Lab decision:
+One emergency access account was created and documented for Project 06.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch02

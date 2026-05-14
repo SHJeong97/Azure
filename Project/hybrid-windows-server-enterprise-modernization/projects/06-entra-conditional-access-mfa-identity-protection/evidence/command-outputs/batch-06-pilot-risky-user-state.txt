@@ -1,0 +1,22 @@
+
+UserPrincipalName       : emma.wilson@summitridge-mfg.com
+RiskFound               : No
+RiskLevel               : none
+RiskState               : none
+RiskDetail              : No current risky user state found
+RiskLastUpdatedDateTime : 
+
+UserPrincipalName       : olivia.brown@summitridge-mfg.com
+RiskFound               : No
+RiskLevel               : none
+RiskState               : none
+RiskDetail              : No current risky user state found
+RiskLastUpdatedDateTime : 
+
+UserPrincipalName       : sophia.martinez@summitridge-mfg.com
+RiskFound               : No
+RiskLevel               : none
+RiskState               : none
+RiskDetail              : No current risky user state found
+RiskLastUpdatedDateTime : 
+

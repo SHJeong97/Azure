@@ -1,0 +1,14 @@
+
+PolicyName                  : CA002-Block-Legacy-Authentication
+PolicyState                 : Report-only
+IncludedGroup               : GRP-CA-Pilot-Users
+ExcludedGroup               : GRP-CA-Excluded-BreakGlass
+PilotUsersExpected          : 3
+PilotUsersWithRecentSignIns : 0
+LegacyAuthSignInCount       : 0
+CA002EvaluationCount        : 0
+AccessBlockedByPolicy       : No - report-only mode
+DeviceComplianceRequired    : No
+IntuneDependency            : No
+ImpactSummary               : No legacy authentication activity observed in current sign-in window
+

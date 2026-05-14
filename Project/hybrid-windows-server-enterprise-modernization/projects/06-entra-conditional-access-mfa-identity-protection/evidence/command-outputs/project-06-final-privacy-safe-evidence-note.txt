@@ -1,0 +1,25 @@
+Project 06 Batch 9 — Final Privacy-Safe Evidence Note
+
+Project:
+Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+
+Privacy decision:
+Public IP address and location data were intentionally excluded from final evidence exports.
+
+Fields intentionally excluded:
+- IpAddress
+- Location
+- City
+- State
+- CountryOrRegion
+
+Screenshot handling:
+Screenshots must be cropped or blurred if the Microsoft Entra admin center displays public IP address, geographic location, device details, browser details, session metadata, phone numbers, QR codes, or authenticator device details.
+
+Final evidence exports:
+- Final pilot sign-in summary was exported with sanitized fields.
+- Final Conditional Access results were exported with sanitized fields.
+- Final Identity Protection risk detections were exported without IP/location fields.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch09

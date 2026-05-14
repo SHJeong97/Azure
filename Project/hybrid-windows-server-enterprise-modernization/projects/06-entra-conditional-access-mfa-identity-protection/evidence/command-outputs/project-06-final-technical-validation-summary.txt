@@ -1,0 +1,18 @@
+
+Project                          : Project 06
+ProjectName                      : Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+PilotGroup                       : GRP-CA-Pilot-Users
+PilotGroupMemberCount            : 3
+BreakGlassGroup                  : GRP-CA-Excluded-BreakGlass
+BreakGlassMemberCount            : 1
+CA001State                       : enabled
+CA002State                       : enabledForReportingButNotEnforced
+PilotUsersMFAReady               : 3
+SanitizedSignInEvidenceCreated   : Yes
+SanitizedCAResultEvidenceCreated : Yes
+PublicIpExported                 : No
+LocationExported                 : No
+DeviceComplianceRequired         : No
+IntuneDependency                 : No
+FinalResult                      : Conditional Access pilot baseline validated with sanitized evidence
+

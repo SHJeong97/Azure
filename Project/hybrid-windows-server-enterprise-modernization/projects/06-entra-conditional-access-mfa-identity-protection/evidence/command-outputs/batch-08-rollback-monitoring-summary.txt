@@ -1,0 +1,41 @@
+Project 06 Batch 8 — Rollback and Monitoring Summary
+
+Project:
+Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+
+Policies:
+- CA001-Require-MFA-Pilot-Users
+- CA002-Block-Legacy-Authentication
+
+Operational controls created:
+- rollback-ca-pilot-policies-to-report-only.ps1
+- monitor-ca-policy-operational-state.ps1
+- monitor-ca-pilot-and-breakglass-groups.ps1
+- export-ca-signin-summary-sanitized.ps1
+- monitor-breakglass-signins-sanitized.ps1
+- Conditional Access operational runbook
+
+Privacy controls:
+- Public IP address fields are not exported.
+- Location fields are not exported.
+- Screenshots must be sanitized before GitHub upload.
+
+Rollback principle:
+If pilot enforcement causes sign-in issues, return affected policies to report-only mode.
+
+Monitoring areas:
+- Conditional Access policy state
+- Pilot group membership
+- Break-glass exclusion group membership
+- Policy change audit logs
+- Break-glass account sign-ins
+- Sanitized sign-in results
+
+Safety decisions:
+No Intune requirement.
+No compliant-device requirement.
+No tenant-wide policy expansion in Batch 8.
+No public IP or location fields in evidence exports.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch08

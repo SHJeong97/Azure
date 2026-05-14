@@ -1,0 +1,42 @@
+Project 06 Batch 1 — Planning Summary
+
+Project:
+Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+
+Company:
+Summit Ridge Manufacturing Group
+
+Tenant:
+democompany1016.onmicrosoft.com
+
+Verified public domain:
+summitridge-mfg.com
+
+Current state:
+Project 04 synchronized pilot users into Microsoft Entra ID.
+Project 05 licensed pilot users and provisioned Exchange Online mailboxes.
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Project goal:
+Create a controlled Conditional Access and MFA baseline for Microsoft 365 access.
+
+Planned controls:
+- Require MFA for pilot users
+- Block legacy authentication
+- Protect admin portal access
+- Prepare Identity Protection risk policy planning
+- Validate policies in report-only mode first
+- Document rollback and monitoring controls
+
+Safety decisions:
+No Conditional Access policies enforced in Batch 1.
+No users blocked in Batch 1.
+No Intune compliant-device requirement used.
+No tenant-wide policy assignment used.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch01

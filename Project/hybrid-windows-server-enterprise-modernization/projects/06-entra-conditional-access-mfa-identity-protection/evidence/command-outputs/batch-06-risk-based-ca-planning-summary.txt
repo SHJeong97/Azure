@@ -1,0 +1,16 @@
+
+PilotGroup               : GRP-CA-Pilot-Users
+BreakGlassExclusionGroup : GRP-CA-Excluded-BreakGlass
+SignInRiskPolicyPlanned  : CA004-SignIn-Risk-MFA
+SignInRiskLevels         : medium; high
+SignInRiskGrantControl   : Require MFA
+UserRiskPolicyPlanned    : CA005-User-Risk-Password-Change
+UserRiskLevels           : high
+UserRiskGrantControl     : Require password change
+CombinedRiskPolicyUsed   : No
+InitialMode              : Report-only planned
+EnforcedInBatch6         : No
+DeviceComplianceRequired : No
+IntuneDependency         : No
+PlanningResult           : Risk-based Conditional Access controls planned for separate report-only deployment
+

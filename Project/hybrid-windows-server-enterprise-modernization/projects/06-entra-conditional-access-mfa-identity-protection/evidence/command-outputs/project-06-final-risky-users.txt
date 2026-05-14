@@ -1,0 +1,10 @@
+
+Id                      : 0cda8d96-61ae-4c67-99db-f849200b1dea
+UserDisplayName         : SeungHun Jeong
+UserPrincipalName       : SeungHunJeong@democompany1016.onmicrosoft.com
+RiskLevel               : none
+RiskState               : remediated
+RiskDetail              : userPerformedSecuredPasswordReset
+RiskLastUpdatedDateTime : 4/20/2026 1:31:55 PM
+IsDeleted               : False
+

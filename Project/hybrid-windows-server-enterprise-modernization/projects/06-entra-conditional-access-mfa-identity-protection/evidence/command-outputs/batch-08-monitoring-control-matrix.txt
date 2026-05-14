@@ -1,0 +1,37 @@
+
+ControlArea    : Conditional Access policy state
+WhatToMonitor  : CA001 and CA002 state
+HealthyState   : Expected state documented
+EvidenceSource : Get-MgIdentityConditionalAccessPolicy
+Frequency      : Weekly or after policy changes
+
+ControlArea    : Pilot group membership
+WhatToMonitor  : GRP-CA-Pilot-Users members
+HealthyState   : Only approved pilot users
+EvidenceSource : Get-MgGroupMember
+Frequency      : Before policy changes
+
+ControlArea    : Break-glass exclusion
+WhatToMonitor  : GRP-CA-Excluded-BreakGlass members
+HealthyState   : Emergency account present
+EvidenceSource : Get-MgGroupMember
+Frequency      : Before policy changes
+
+ControlArea    : Policy change audit
+WhatToMonitor  : Conditional Access policy modifications
+HealthyState   : All changes explainable
+EvidenceSource : Directory audit logs
+Frequency      : Weekly or after changes
+
+ControlArea    : Break-glass usage
+WhatToMonitor  : Emergency account sign-ins
+HealthyState   : Rare and documented
+EvidenceSource : Sign-in logs without IP/location fields
+Frequency      : Weekly
+
+ControlArea    : Privacy-safe evidence
+WhatToMonitor  : No IP/location data in exports
+HealthyState   : IpAddress and Location fields excluded
+EvidenceSource : CSV and screenshot review
+Frequency      : Every evidence capture
+

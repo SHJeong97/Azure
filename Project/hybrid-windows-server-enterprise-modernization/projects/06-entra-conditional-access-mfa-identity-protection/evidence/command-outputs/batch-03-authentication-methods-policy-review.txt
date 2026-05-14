@@ -1,0 +1,19 @@
+Project 06 Batch 3 — Authentication Methods Policy Review
+
+Reviewed location:
+Microsoft Entra admin center > Protection > Authentication methods > Policies
+
+Recommended pilot method:
+Microsoft Authenticator
+
+Pilot group:
+GRP-CA-Pilot-Users
+
+Purpose:
+Prepare pilot users for MFA registration before Conditional Access MFA enforcement.
+
+Safety decision:
+No Conditional Access enforcement was enabled in this step.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch03

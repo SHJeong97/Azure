@@ -1,0 +1,109 @@
+
+ActivityDateTime    : 5/14/2026 12:57:04 PM
+ActivityDisplayName : Update conditional access policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Conditional Access
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/14/2026 12:57:04 PM
+ActivityDisplayName : Update policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Core Directory
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/14/2026 12:56:59 PM
+ActivityDisplayName : Update conditional access policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Conditional Access
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/14/2026 12:56:59 PM
+ActivityDisplayName : Update policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Core Directory
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/14/2026 12:56:14 PM
+ActivityDisplayName : Update conditional access policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Conditional Access
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/14/2026 12:56:13 PM
+ActivityDisplayName : Update policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Core Directory
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/13/2026 9:19:31 PM
+ActivityDisplayName : Add conditional access policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Conditional Access
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA002-Block-Legacy-Authentication
+
+ActivityDateTime    : 5/13/2026 9:19:31 PM
+ActivityDisplayName : Add policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Core Directory
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA002-Block-Legacy-Authentication
+
+ActivityDateTime    : 5/13/2026 9:05:01 PM
+ActivityDisplayName : Add conditional access policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Conditional Access
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/13/2026 9:05:01 PM
+ActivityDisplayName : Add policy
+Result              : success
+ResultReason        : 
+Category            : Policy
+LoggedByService     : Core Directory
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA001-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/13/2026 8:30:54 PM
+ActivityDisplayName : Delete conditional access policy
+Result              : success
+ResultReason        : Soft deleted conditional access policy
+Category            : Policy
+LoggedByService     : Conditional Access
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA02-Require-MFA-Pilot-Users
+
+ActivityDateTime    : 5/13/2026 8:30:49 PM
+ActivityDisplayName : Delete conditional access policy
+Result              : success
+ResultReason        : Soft deleted conditional access policy
+Category            : Policy
+LoggedByService     : Conditional Access
+InitiatedBy         : SeungHunJeong@democompany1016.onmicrosoft.com
+TargetResources     : CA01-Require-MFA-Admins
+

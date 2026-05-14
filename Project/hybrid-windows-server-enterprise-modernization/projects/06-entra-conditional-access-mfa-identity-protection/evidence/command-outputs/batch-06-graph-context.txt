@@ -1,0 +1,19 @@
+
+ClientId               : 14d82eec-204b-4c2f-b7e8-296a70dab67e
+TenantId               : def8b52a-5647-46da-a21a-eae01169465e
+Scopes                 : {AuditLog.Read.All, Directory.Read.All, Directory.ReadWrite.All, Domain.Read.All…}
+AuthType               : Delegated
+TokenCredentialType    : InteractiveBrowser
+CertificateThumbprint  : 
+CertificateSubjectName : 
+SendCertificateChain   : False
+Account                : SeungHunJeong@democompany1016.onmicrosoft.com
+AppName                : Microsoft Graph Command Line Tools
+ContextScope           : CurrentUser
+Certificate            : 
+PSHostVersion          : 7.6.1
+ManagedIdentityId      : 
+ClientSecret           : 
+Environment            : Global
+WamEnabled             : True
+

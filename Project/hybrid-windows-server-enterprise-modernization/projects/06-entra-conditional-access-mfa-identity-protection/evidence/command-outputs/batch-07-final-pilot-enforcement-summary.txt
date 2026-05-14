@@ -1,0 +1,57 @@
+Project 06 Batch 7 — Final Report-Only Review and Pilot Enforcement Summary
+
+Project:
+Microsoft Entra Conditional Access, MFA, and Identity Protection Baseline
+
+Policies reviewed:
+- CA001-Require-MFA-Pilot-Users
+- CA002-Block-Legacy-Authentication
+
+Pilot group:
+GRP-CA-Pilot-Users
+
+Break-glass exclusion group:
+GRP-CA-Excluded-BreakGlass
+
+Pilot users:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Validation completed:
+- Batch 7 evidence folder created
+- Microsoft Graph connected
+- CA001 and CA002 report-only states exported
+- Pilot group membership revalidated
+- Break-glass exclusion group membership revalidated
+- Recent pilot sign-in logs exported with sanitized fields
+- Report-only evaluations exported with sanitized fields
+- Legacy authentication activity reviewed
+- Enforcement readiness summary created
+- Enforcement decision note created
+- Break-glass sign-in validated before enforcement
+- Pre-enforcement safety checkpoint created
+- CA001 enabled for pilot enforcement
+- CA002 enabled or intentionally skipped based on legacy authentication review
+- Post-enforcement policy states exported
+- Pilot MFA enforcement tested
+- Post-enforcement sign-in logs exported with sanitized fields
+- Post-enforcement Conditional Access results exported with sanitized fields
+- Pilot enforcement result summary created
+- Implementation document created
+- Rollback scripts validated
+- Rollback readiness note created
+
+Privacy controls:
+Public IP address fields were not exported.
+Location fields were not exported.
+Screenshots should be cropped or blurred before GitHub upload.
+
+Safety decisions:
+Pilot-only scope was used.
+Break-glass exclusion remained in place.
+No Intune or compliant-device requirement was used.
+Risk-based Conditional Access policies were not enforced in Batch 7.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch07

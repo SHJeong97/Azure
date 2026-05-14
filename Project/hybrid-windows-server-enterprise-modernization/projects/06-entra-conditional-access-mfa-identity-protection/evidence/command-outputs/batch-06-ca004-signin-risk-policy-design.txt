@@ -1,0 +1,15 @@
+
+PolicyName               : CA004-SignIn-Risk-MFA
+PolicyType               : Sign-in risk Conditional Access
+InitialState             : Report-only planned
+IncludedGroup            : GRP-CA-Pilot-Users
+ExcludedGroup            : GRP-CA-Excluded-BreakGlass
+TargetResources          : All cloud apps
+SignInRiskLevels         : medium; high
+GrantControl             : Require multifactor authentication
+UserRiskIncluded         : No
+DeviceComplianceRequired : No
+IntuneDependency         : No
+Purpose                  : Require MFA when sign-in risk is medium or high
+EnforcementDecision      : Do not enforce in Batch 6
+

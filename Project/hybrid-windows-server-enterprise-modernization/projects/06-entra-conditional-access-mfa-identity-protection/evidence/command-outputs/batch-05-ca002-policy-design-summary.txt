@@ -1,0 +1,12 @@
+
+PolicyName               : CA002-Block-Legacy-Authentication
+State                    : Report-only
+IncludeGroup             : GRP-CA-Pilot-Users
+ExcludeGroup             : GRP-CA-Excluded-BreakGlass
+CloudApps                : All cloud apps
+ClientApps               : Exchange ActiveSync; Other clients
+GrantControl             : Block access
+DeviceComplianceRequired : No
+IntuneDependency         : No
+Purpose                  : Block legacy authentication for pilot users after report-only validation
+

@@ -1,0 +1,24 @@
+Project 06 Batch 7 — CA001 MFA Enforcement Test Note
+
+Policy:
+CA001-Require-MFA-Pilot-Users
+
+Policy state:
+Enabled
+
+Pilot users tested:
+- emma.wilson@summitridge-mfg.com
+- olivia.brown@summitridge-mfg.com
+- sophia.martinez@summitridge-mfg.com
+
+Expected behavior:
+Pilot users are prompted for MFA when signing in to Microsoft 365.
+
+Result:
+Document user sign-in and MFA challenge result with sanitized screenshots.
+
+Privacy handling:
+Do not include public IP address, location, device details, QR codes, phone numbers, or authenticator device details in GitHub evidence.
+
+Evidence location:
+C:\LabEvidence\Project06\Batch07
