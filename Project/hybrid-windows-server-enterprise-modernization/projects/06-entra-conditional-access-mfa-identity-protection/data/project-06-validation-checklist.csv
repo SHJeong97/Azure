@@ -138,3 +138,22 @@ P06-VAL-132,Break-glass monitoring script created,Sanitized break-glass script s
 P06-VAL-133,Conditional Access operational runbook created,Operational runbook saved,Completed
 P06-VAL-134,Rollback and monitoring summary created,Summary saved,Completed
 P06-VAL-135,Rollback and monitoring implementation document created,Implementation document saved,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P06-VAL-136,Batch 9 evidence folder created,C:\LabEvidence\Project06\Batch09 exists,Completed
+P06-VAL-137,Microsoft Graph connected for final validation,Graph context returned,Completed
+P06-VAL-138,Final CA policy states exported,Final CA001 and CA002 states saved,Completed
+P06-VAL-139,Final CA policy configurations exported,Final CA policy configuration evidence saved,Completed
+P06-VAL-140,Final pilot group membership validated,GRP-CA-Pilot-Users membership confirmed,Completed
+P06-VAL-141,Final break-glass group membership validated,GRP-CA-Excluded-BreakGlass membership confirmed,Completed
+P06-VAL-142,Final MFA readiness exported,Pilot MFA readiness saved,Completed
+P06-VAL-143,Final sanitized sign-in logs exported,Sign-in logs exported without IP/location fields,Completed
+P06-VAL-144,Final sanitized CA results exported,CA results exported without IP/location fields,Completed
+P06-VAL-145,Final Identity Protection state exported,Risky users and detections exported without IP/location fields,Completed
+P06-VAL-146,Final technical validation summary created,Technical validation summary saved,Completed
+P06-VAL-147,Final architecture summary created,Architecture summary CSV saved,Completed
+P06-VAL-148,Final policy outcomes created,Policy outcome CSV saved,Completed
+P06-VAL-149,Final pilot user results created,Pilot user result CSV saved,Completed
+P06-VAL-150,Final validation checklist created,Final checklist CSV saved,Completed
+P06-VAL-151,Final privacy-safe evidence note created,Privacy-safe evidence note saved,Completed
+P06-VAL-152,README preparation note created,README prep note saved,Completed
+P06-VAL-153,Final validation implementation document created,Final validation summary document saved,Completed
