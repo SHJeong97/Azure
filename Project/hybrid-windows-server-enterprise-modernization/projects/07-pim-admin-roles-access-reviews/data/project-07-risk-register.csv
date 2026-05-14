@@ -7,7 +7,7 @@ P07-004,PIM activation settings misconfigured,Admins cannot activate needed role
 P07-005,Privileged roles assigned too broadly,Over-permissioned users,Medium,Eligible assignments limited to Sophia Martinez and low-risk pilot roles,Identity Administrator,Mitigated
 P07-006,Access reviews scoped incorrectly,Wrong assignments reviewed or missed,Medium,Manual review records created after portal could not support exact Sophia-only scope,Security Administrator,Mitigated
 P07-007,Audit evidence exposes public IP or location,Privacy issue,Medium,IP and location fields excluded from evidence exports,Security Administrator,Mitigated
-P07-008,Role activation not monitored,Privileged activity missed,Medium,Export role activation and audit logs,Security Administrator,Open
+P07-008,Role activation not monitored,Privileged activity missed,Medium,PIM activation and audit logs exported with sanitized fields,Security Administrator,Mitigated
 P07-007,Audit evidence exposes public IP or location,Privacy issue,Medium,IP and location fields excluded from evidence exports,Security Administrator,Mitigated
 P07-010,Rollback process missing,Delayed recovery from access issue,Medium,Create rollback and operational runbook,Identity Administrator,Open
 P07-011,Privileged role baseline incomplete,Future PIM configuration may target wrong roles,Medium,Active role assignments and privileged role summary exported,Identity Administrator,Mitigated
@@ -29,4 +29,10 @@ P07-026,Emergency access removed by access review,Tenant recovery blocked,High,E
 P07-027,Portal limitation undocumented,README may overstate review implementation,Medium,Portal limitation documented in review note and implementation document,Identity Administrator,Mitigated
 P07-028,Standing admin access not reviewed,Privileged access governance incomplete,Medium,Standing admin access review record created for future PIM conversion,Security Administrator,Mitigated
 P07-029,Manual review evidence considered insufficient,Audit story weaker than portal-created review,Low,Manual review records evidence notes and portal state screenshot captured,Security Administrator,Mitigated
-P07-030,Public IP or location exposed in access review evidence,Privacy issue,Medium,No IP/location fields exported and screenshots must be sanitized,Security Administrator,Mitigated
+P07-030,Public IP or location exposed in access review evidence,Privacy issue,Medium,Monitoring exports exclude IP and location fields,Security Administrator,Mitigated
+P07-031,Emergency access sign-in activity missed,Potential misuse of recovery account,High,Emergency access sign-ins exported and reviewed separately,Security Administrator,Mitigated
+P07-032,Privileged role changes missed,Unexpected admin access change not detected,Medium,Role management audit logs exported and reviewed,Identity Administrator,Mitigated
+P07-033,PIM activation activity not explainable,Weak audit trail for temporary privilege,Medium,PIM audit logs and activation evidence exported,Security Administrator,Mitigated
+P07-034,Manual access review activity missing from audit logs,Access review evidence appears incomplete,Low,Batch 5 manual review documentation and Batch 6 audit interpretation documented,Security Administrator,Mitigated
+P07-035,Sign-in log screenshots expose public IP or location,Privacy issue,Medium,Portal screenshot sanitization required before GitHub upload,Security Administrator,Mitigated
+P07-036,Monitoring process not documented,Future admin activity review inconsistent,Medium,Privileged admin activity matrix and implementation document created,Security Administrator,Mitigated
