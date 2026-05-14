@@ -3,10 +3,10 @@ P08-001,Mail security policies applied tenant-wide too early,Legitimate mail dis
 P08-002,Safe Links blocks legitimate URLs,User productivity impact,Medium,Safe Links configured only for pilot users before wider rollout,Security Administrator,Mitigated
 P08-003,Safe Attachments delays or blocks legitimate attachments,Mail delivery delay or user disruption,Medium,Safe Attachments configured only for pilot users with Dynamic Delivery,Security Administrator,Mitigated
 P08-004,Anti-phishing policy too aggressive,Legitimate sender messages quarantined,Medium,Pilot-only anti-phishing policy created before wider rollout,Security Administrator,Mitigated
-P08-005,Quarantine message released incorrectly,Malicious message reaches user,Medium,Document admin review workflow before release decisions,Security Administrator,Open
-P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,No real phishing links or malware were used in Batch 4,Security Administrator,Mitigated
-P08-007,Private email content exposed in evidence,Privacy issue,Medium,Crop or blur message body content and sensitive headers,Security Administrator,Open
-P08-008,Public IP or location exposed in evidence,Privacy issue,Medium,Spoof intelligence and evidence exports excluded IP/location and sending infrastructure,Security Administrator,Mitigated
+P08-005,Quarantine message released incorrectly,Malicious message reaches user,Medium,No quarantined messages were released and workflow was documented only,Security Administrator,Mitigated
+P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,No real phishing malware credential harvesting URLs or malicious files were submitted,Security Administrator,Mitigated
+P08-007,Private email content exposed in evidence,Privacy issue,Medium,Message body headers subjects previews and private mailbox content were excluded or sanitized,Security Administrator,Mitigated
+P08-008,Public IP or location exposed in evidence,Privacy issue,Medium,No public IP or location fields were exported and screenshots require sanitization,Security Administrator,Mitigated
 P08-009,Mail flow baseline incomplete,README may overstate validation,Medium,Accepted domains mailboxes EOP Defender transport rules and connector baseline exported,Messaging Administrator,Mitigated
 P08-010,Rollback process missing,Policy issue recovery delayed,Medium,Create rollback and operational controls before final validation,Security Administrator,Open
 P08-011,Accepted domain not validated,Policy scope may target wrong domain,Medium,Accepted domains exported and summitridge-mfg.com reviewed,Messaging Administrator,Mitigated
@@ -30,3 +30,10 @@ P08-028,Safe Attachments scoped too broadly,Tenant-wide attachment delivery impa
 P08-029,Preset security policies enabled tenant-wide too early,Broad mail security behavior change,Medium,Standard and Strict preset policies reviewed only and not expanded tenant-wide,Security Administrator,Mitigated
 P08-030,Policy validation missing after creation,README may overstate protection configuration,Medium,Safe Links and Safe Attachments after-state evidence exported,Security Administrator,Mitigated
 P08-031,Public IP or location exposed in Safe Links or attachment evidence,Privacy issue,Medium,No IP or location fields exported and screenshots must be sanitized,Security Administrator,Mitigated
+P08-032,Quarantined message deleted incorrectly,Loss of evidence or legitimate message,Medium,No quarantined messages were deleted during Batch 5,Security Administrator,Mitigated
+P08-033,Threat submission exposes sensitive content,Privacy or security issue,Medium,Threat submissions were reviewed only and no sensitive content was uploaded,Security Administrator,Mitigated
+P08-034,Real malicious URL submitted,Security risk or policy violation,High,No credential harvesting or malicious URLs were submitted,Security Administrator,Mitigated
+P08-035,Real malware uploaded during attachment or file submission,Security incident risk,High,No malware or sensitive files were uploaded,Security Administrator,Mitigated
+P08-036,Alert remediation performed without approval,Unexpected message or security action,Medium,Alerts and incidents were reviewed only with no remediation performed,Security Administrator,Mitigated
+P08-037,No quarantine or alert activity available,Validation confusion,Low,No-data result documented as acceptable for small lab tenant,Security Administrator,Mitigated
+P08-038,Investigation workflow not documented,Operational evidence incomplete,Medium,Threat submission alert incident and investigation workflow matrices were created,Security Administrator,Mitigated
