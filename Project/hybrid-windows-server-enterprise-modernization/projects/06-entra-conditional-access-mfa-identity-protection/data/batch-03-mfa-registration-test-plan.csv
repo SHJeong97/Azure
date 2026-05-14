@@ -1,0 +1,4 @@
+"TestID","UserPrincipalName","RequiredAction","TestURL","ExpectedResult","Status"
+"MFA-REG-001","emma.wilson@summitridge-mfg.com","Register Microsoft Authenticator","https://aka.ms/mysecurityinfo","MFA method registered","Planned"
+"MFA-REG-002","olivia.brown@summitridge-mfg.com","Register Microsoft Authenticator","https://aka.ms/mysecurityinfo","MFA method registered","Planned"
+"MFA-REG-003","sophia.martinez@summitridge-mfg.com","Register Microsoft Authenticator","https://aka.ms/mysecurityinfo","MFA method registered","Planned"

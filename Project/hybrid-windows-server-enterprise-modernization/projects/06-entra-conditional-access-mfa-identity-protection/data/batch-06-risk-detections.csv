@@ -1,0 +1,2 @@
+"Id","UserDisplayName","UserPrincipalName","RiskType","RiskLevel","RiskState","RiskDetail","DetectedDateTime","Activity","IPAddress","Location"
+"5d397004bacb4b8687816c7eaef4f2b40a0a162a84c6c65c774007d0e23c4b69","SeungHun Jeong","SeungHunJeong@democompany1016.onmicrosoft.com",,"low","remediated","userPassedMFADrivenByRiskBasedPolicy","4/9/2026 6:24:06 PM","signin","4.255.27.84","Microsoft.Graph.PowerShell.Models.MicrosoftGraphSignInLocation"

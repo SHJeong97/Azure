@@ -1,0 +1,7 @@
+"RiskType","RiskLevel","PlannedAction","Policy","UserExperience"
+"Sign-in risk","Low","Allow or monitor","No enforcement planned in this lab","No extra challenge expected"
+"Sign-in risk","Medium","Require MFA","CA004-SignIn-Risk-MFA","User completes MFA challenge"
+"Sign-in risk","High","Require MFA","CA004-SignIn-Risk-MFA","User completes MFA challenge"
+"User risk","Low","Monitor","No enforcement planned in this lab","No immediate user action"
+"User risk","Medium","Monitor or investigate","No enforcement planned in this lab","No immediate user action"
+"User risk","High","Require password change","CA005-User-Risk-Password-Change","User must change password"

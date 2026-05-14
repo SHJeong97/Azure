@@ -1,0 +1,2 @@
+"PolicyName","State","IncludeGroup","ExcludeGroup","CloudApps","ClientApps","GrantControl","DeviceComplianceRequired","IntuneDependency","Purpose"
+"CA001-Require-MFA-Pilot-Users","Report-only","GRP-CA-Pilot-Users","GRP-CA-Excluded-BreakGlass","All cloud apps","Browser; Mobile apps and desktop clients","Require multifactor authentication","No","No","Require MFA for pilot users without enforcing yet"

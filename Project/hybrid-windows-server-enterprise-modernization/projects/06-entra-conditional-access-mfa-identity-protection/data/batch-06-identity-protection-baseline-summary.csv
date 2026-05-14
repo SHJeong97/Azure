@@ -1,0 +1,2 @@
+"RiskyUserCount","PilotRiskyUserCount","RiskDetectionCount","PilotGroup","BreakGlassExclusionGroup","PlannedSignInRiskPolicy","PlannedUserRiskPolicy","SafetyDecision","DeviceComplianceRequired","IntuneDependency"
+"1","0","1","GRP-CA-Pilot-Users","GRP-CA-Excluded-BreakGlass","CA004-SignIn-Risk-MFA","CA005-User-Risk-Password-Change","Plan risk policies separately and use report-only before enforcement","No","No"

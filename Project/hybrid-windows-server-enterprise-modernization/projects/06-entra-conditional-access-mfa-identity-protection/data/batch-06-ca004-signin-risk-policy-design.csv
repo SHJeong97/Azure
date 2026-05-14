@@ -1,0 +1,2 @@
+"PolicyName","PolicyType","InitialState","IncludedGroup","ExcludedGroup","TargetResources","SignInRiskLevels","GrantControl","UserRiskIncluded","DeviceComplianceRequired","IntuneDependency","Purpose","EnforcementDecision"
+"CA004-SignIn-Risk-MFA","Sign-in risk Conditional Access","Report-only planned","GRP-CA-Pilot-Users","GRP-CA-Excluded-BreakGlass","All cloud apps","medium; high","Require multifactor authentication","No","No","No","Require MFA when sign-in risk is medium or high","Do not enforce in Batch 6"

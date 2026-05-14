@@ -1,0 +1,2 @@
+"PolicyName","PolicyState","PilotUsersExpected","PilotUsersWithRecentSignIns","CA001EvaluationCount","AccessBlockedByPolicy","DeviceComplianceRequired","IntuneDependency","ImpactSummary"
+"CA001-Require-MFA-Pilot-Users","Report-only","3","3","0","No - report-only mode","No","No","CA001 evaluation not found yet; review sign-in log timing or policy scope"

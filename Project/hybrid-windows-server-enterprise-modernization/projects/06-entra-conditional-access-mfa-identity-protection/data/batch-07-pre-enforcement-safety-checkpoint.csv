@@ -1,0 +1,2 @@
+"CA001Policy","CA002Policy","PilotGroup","BreakGlassExclusionGroup","BreakGlassValidated","PilotGroupMemberCount","BreakGlassExclusionCount","DeviceComplianceRequired","IntuneDependency","PublicIpExported","EnforcementPlan","RollbackPlan"
+"CA001-Require-MFA-Pilot-Users","CA002-Block-Legacy-Authentication","GRP-CA-Pilot-Users","GRP-CA-Excluded-BreakGlass","Yes","0","0","No","No","No","Enable CA001 first; enable CA002 only if legacy auth review is clean","Use rollback scripts to return policies to report-only mode"

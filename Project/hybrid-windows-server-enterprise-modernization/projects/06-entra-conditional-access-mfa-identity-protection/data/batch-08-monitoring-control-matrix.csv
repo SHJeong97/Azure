@@ -1,0 +1,7 @@
+"ControlArea","WhatToMonitor","HealthyState","EvidenceSource","Frequency"
+"Conditional Access policy state","CA001 and CA002 state","Expected state documented","Get-MgIdentityConditionalAccessPolicy","Weekly or after policy changes"
+"Pilot group membership","GRP-CA-Pilot-Users members","Only approved pilot users","Get-MgGroupMember","Before policy changes"
+"Break-glass exclusion","GRP-CA-Excluded-BreakGlass members","Emergency account present","Get-MgGroupMember","Before policy changes"
+"Policy change audit","Conditional Access policy modifications","All changes explainable","Directory audit logs","Weekly or after changes"
+"Break-glass usage","Emergency account sign-ins","Rare and documented","Sign-in logs without IP/location fields","Weekly"
+"Privacy-safe evidence","No IP/location data in exports","IpAddress and Location fields excluded","CSV and screenshot review","Every evidence capture"

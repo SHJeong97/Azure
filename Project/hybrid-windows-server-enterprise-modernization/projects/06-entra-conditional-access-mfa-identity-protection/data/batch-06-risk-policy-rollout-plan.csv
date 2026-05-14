@@ -1,0 +1,7 @@
+"Phase","Policy","Action","Purpose","Enforcement"
+"Phase 1","CA004-SignIn-Risk-MFA","Create in report-only mode","Evaluate medium/high sign-in risk impact","No"
+"Phase 2","CA004-SignIn-Risk-MFA","Review sign-in logs and report-only results","Confirm expected challenge behavior","No"
+"Phase 3","CA004-SignIn-Risk-MFA","Enable for pilot users only if results are clean","Require MFA for risky sign-ins","Pilot only"
+"Phase 4","CA005-User-Risk-Password-Change","Create in report-only mode","Evaluate high user risk impact","No"
+"Phase 5","CA005-User-Risk-Password-Change","Review risky users and report-only results","Confirm expected password change behavior","No"
+"Phase 6","CA005-User-Risk-Password-Change","Enable for pilot users only if results are clean","Require secure password change for high-risk users","Pilot only"

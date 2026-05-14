@@ -1,0 +1,4 @@
+"UserPrincipalName","UserDisplayName","IsMfaRegistered","IsMfaCapable","IsSsprRegistered","IsSsprEnabled","IsSsprCapable","DefaultMfaMethod","MethodsRegistered"
+"emma.wilson@summitridge-mfg.com","Emma Wilson","True","True","False","False","False",,"microsoftAuthenticatorPush;softwareOneTimePasscode"
+"olivia.brown@summitridge-mfg.com","Olivia Brown","True","True","False","False","False",,"microsoftAuthenticatorPush;softwareOneTimePasscode"
+"sophia.martinez@summitridge-mfg.com","Sophia Martinez","False","False","False","False","False",,""

@@ -1,0 +1,3 @@
+"GroupName","Purpose","ExpectedMembers","ActualMemberCount","Status"
+"GRP-CA-Pilot-Users","Conditional Access pilot policy target group","Emma Wilson; Olivia Brown; Sophia Martinez","0","Review required"
+"GRP-CA-Excluded-BreakGlass","Emergency access exclusion group","emergency.access01@democompany1016.onmicrosoft.com","1","Ready"

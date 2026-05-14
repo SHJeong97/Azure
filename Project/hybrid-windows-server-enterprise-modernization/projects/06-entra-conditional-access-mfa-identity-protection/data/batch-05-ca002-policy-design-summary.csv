@@ -1,0 +1,2 @@
+"PolicyName","State","IncludeGroup","ExcludeGroup","CloudApps","ClientApps","GrantControl","DeviceComplianceRequired","IntuneDependency","Purpose"
+"CA002-Block-Legacy-Authentication","Report-only","GRP-CA-Pilot-Users","GRP-CA-Excluded-BreakGlass","All cloud apps","Exchange ActiveSync; Other clients","Block access","No","No","Block legacy authentication for pilot users after report-only validation"

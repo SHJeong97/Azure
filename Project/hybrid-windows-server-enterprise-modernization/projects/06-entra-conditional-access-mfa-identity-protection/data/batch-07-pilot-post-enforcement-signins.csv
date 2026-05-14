@@ -1,0 +1,3 @@
+"CreatedDateTime","UserDisplayName","UserPrincipalName","AppDisplayName","ClientAppUsed","ConditionalAccessStatus","Status"
+"5/14/2026 12:59:33 PM","Emma Wilson","emma.wilson@summitridge-mfg.com","OfficeHome","Browser","success","Microsoft.Graph.PowerShell.Models.MicrosoftGraphSignInStatus"
+"5/14/2026 12:58:40 PM","Emma Wilson","emma.wilson@summitridge-mfg.com","OfficeHome","Browser","success","Microsoft.Graph.PowerShell.Models.MicrosoftGraphSignInStatus"

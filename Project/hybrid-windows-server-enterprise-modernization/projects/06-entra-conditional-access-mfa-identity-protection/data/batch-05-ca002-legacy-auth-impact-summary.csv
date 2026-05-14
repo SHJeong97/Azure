@@ -1,0 +1,2 @@
+"PolicyName","PolicyState","IncludedGroup","ExcludedGroup","PilotUsersExpected","PilotUsersWithRecentSignIns","LegacyAuthSignInCount","CA002EvaluationCount","AccessBlockedByPolicy","DeviceComplianceRequired","IntuneDependency","ImpactSummary"
+"CA002-Block-Legacy-Authentication","Report-only","GRP-CA-Pilot-Users","GRP-CA-Excluded-BreakGlass","3","0","0","0","No - report-only mode","No","No","No legacy authentication activity observed in current sign-in window"

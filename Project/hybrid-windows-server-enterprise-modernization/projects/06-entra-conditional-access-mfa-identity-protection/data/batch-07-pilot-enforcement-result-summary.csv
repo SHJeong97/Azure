@@ -1,0 +1,2 @@
+"CA001Policy","CA001State","CA001PostEnforcementEvaluationCount","CA002Policy","CA002State","CA002PostEnforcementEvaluationCount","PilotUsersTested","PublicIpExported","LocationExported","DeviceComplianceRequired","IntuneDependency","EnforcementResult"
+"CA001-Require-MFA-Pilot-Users","enabled","2","CA002-Block-Legacy-Authentication","enabledForReportingButNotEnforced","2","3","No","No","No","No","Pilot enforcement completed with sanitized evidence"

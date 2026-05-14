@@ -1,0 +1,4 @@
+"CreatedDateTime","UserPrincipalName","UserDisplayName","AppDisplayName","ClientAppUsed","ConditionalAccessStatus","PolicyName","PolicyId","PolicyResult","GrantControls","SessionControls"
+"5/13/2026 9:22:16 PM","emma.wilson@summitridge-mfg.com","Emma Wilson","OfficeHome","Browser","notApplied","CA001-Require-MFA-Pilot-Users","601c6a3d-ace6-4faa-addd-68bcb35b492c","reportOnlySuccess","Mfa",""
+"5/13/2026 9:22:19 PM","emma.wilson@summitridge-mfg.com","Emma Wilson","OfficeHome","Browser","notApplied","CA001-Require-MFA-Pilot-Users","601c6a3d-ace6-4faa-addd-68bcb35b492c","reportOnlySuccess","Mfa",""
+"5/13/2026 9:22:16 PM","emma.wilson@summitridge-mfg.com","Emma Wilson","OfficeHome","Browser","notApplied","CA002-Block-Legacy-Authentication","dd78ba86-4ce7-4648-a1f3-9f7488c0fd78","reportOnlyNotApplied","Block",""
