@@ -31,3 +31,17 @@ P07-VAL-028,Admin roles reviewed in Entra portal,Portal review screenshot saved,
 P07-VAL-029,Admin roles portal review note created,Portal review note saved,Completed
 P07-VAL-030,Privileged access baseline summary created,Baseline summary saved,Completed
 P07-VAL-031,Tenant readiness and admin role inventory document created,Implementation document saved,Completed
+P07-VAL-032,Batch 3 evidence folder created,C:\LabEvidence\Project07\Batch03 exists,Completed
+P07-VAL-033,Microsoft Graph connected for PIM readiness,Graph context returned,Completed
+P07-VAL-034,Target admin accounts revalidated,Admin accounts exported,Completed
+P07-VAL-035,Target role definitions exported,Role definition IDs saved,Completed
+P07-VAL-036,PIM activation control design created,Activation control matrix saved,Completed
+P07-VAL-037,PIM role settings reviewed,Portal review screenshot and note saved,Completed
+P07-VAL-038,Microsoft Graph connected with role write permissions,Role write Graph context returned,Completed
+P07-VAL-039,Pilot eligible role assignment plan created,Eligible role plan saved,Completed
+P07-VAL-040,Sophia and role definitions resolved,User and role IDs saved,Completed
+P07-VAL-041,Existing eligible assignments exported,Pre-change eligible assignments saved,Completed
+P07-VAL-042,Eligible assignments created or confirmed,User Administrator and Helpdesk Administrator eligible assignments processed,Completed
+P07-VAL-043,Eligible assignments validated after creation,Post-change eligible assignments saved,Completed
+P07-VAL-044,Eligible assignment evidence note created,Evidence note saved,Completed
+P07-VAL-045,PIM eligible assignment implementation document created,Implementation document saved,Completed
