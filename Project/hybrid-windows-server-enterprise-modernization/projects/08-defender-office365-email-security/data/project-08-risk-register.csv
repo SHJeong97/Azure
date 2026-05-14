@@ -7,5 +7,12 @@ P08-005,Quarantine message released incorrectly,Malicious message reaches user,M
 P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,Use safe test messages only and do not upload real malware,Security Administrator,Open
 P08-007,Private email content exposed in evidence,Privacy issue,Medium,Crop or blur message body content and sensitive headers,Security Administrator,Open
 P08-008,Public IP or location exposed in evidence,Privacy issue,Medium,Exclude IP/location fields and sanitize screenshots,Security Administrator,Open
-P08-009,Mail flow baseline incomplete,README may overstate validation,Medium,Export accepted domains mailboxes and policy baseline before configuration,Messaging Administrator,Open
+P08-009,Mail flow baseline incomplete,README may overstate validation,Medium,Accepted domains mailboxes EOP Defender transport rules and connector baseline exported,Messaging Administrator,Mitigated
 P08-010,Rollback process missing,Policy issue recovery delayed,Medium,Create rollback and operational controls before final validation,Security Administrator,Open
+P08-011,Accepted domain not validated,Policy scope may target wrong domain,Medium,Accepted domains exported and summitridge-mfg.com reviewed,Messaging Administrator,Mitigated
+P08-012,Pilot mailbox readiness not validated,Policy testing may fail,Medium,Pilot mailbox readiness and statistics exported,Messaging Administrator,Mitigated
+P08-013,EOP baseline not captured before changes,Policy rollback comparison unavailable,Medium,Anti-spam anti-malware and connection filter baselines exported before changes,Security Administrator,Mitigated
+P08-014,Defender baseline not captured before changes,Safe Links Safe Attachments or anti-phishing changes may be undocumented,Medium,Anti-phishing Safe Links and Safe Attachments baseline exported,Security Administrator,Mitigated
+P08-015,Connector IP details exposed in evidence,Privacy or security issue,Medium,Connector exports excluded IP address fields and connector IP lists,Messaging Administrator,Mitigated
+P08-016,Transport rule baseline missing,Mail flow impact may be hard to troubleshoot,Medium,Transport rules exported before policy changes,Messaging Administrator,Mitigated
+P08-017,Private message or routing details exposed,Privacy issue,Medium,Message headers mailbox content and routing details excluded from Batch 2 evidence,Security Administrator,Mitigated
