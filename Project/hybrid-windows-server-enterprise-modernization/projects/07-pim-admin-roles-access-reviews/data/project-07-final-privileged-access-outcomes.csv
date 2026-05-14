@@ -1,0 +1,14 @@
+Area,Target,FinalOutcome,Status
+Emergency access,emergency.access01@democompany1016.onmicrosoft.com,Preserved and monitored,Completed
+PIM pilot user,sophia.martinez@summitridge-mfg.com,Used for eligible role and activation workflow testing,Completed
+Eligible assignment,User Administrator,Sophia eligible assignment confirmed,Completed
+Eligible assignment,Helpdesk Administrator,Sophia eligible assignment confirmed,Completed
+Activation workflow,User Administrator,Eligible but not active during deactivation review,Documented
+Activation workflow,Helpdesk Administrator,Activated and deactivated successfully,Completed
+Access review,Sophia eligible assignments,Manual review approved for lab testing,Completed
+Access review,Emergency access exception,Manual review approved and preserved,Completed
+Access review,Standing admin access,Documented for future PIM conversion,Completed
+Audit monitoring,Privileged activity,Sanitized audit logs exported,Completed
+Sign-in monitoring,Privileged accounts,Sanitized sign-in logs exported,Completed
+Rollback readiness,Operational controls,Runbook and rollback procedure created,Completed
+Evidence privacy,IP/location handling,IP and location fields excluded,Completed
