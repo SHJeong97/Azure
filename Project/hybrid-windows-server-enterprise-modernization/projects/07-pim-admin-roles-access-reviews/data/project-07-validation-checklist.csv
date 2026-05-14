@@ -89,3 +89,20 @@ P07-VAL-085,Access review portal state reviewed,Portal state screenshot saved,Co
 P07-VAL-086,Corrected access review portal review note created,Portal limitation note saved,Completed
 P07-VAL-087,Access review result summary created,Result summary saved,Completed
 P07-VAL-088,Access review implementation document created,Implementation document saved,Completed
+P07-VAL-089,Batch 6 evidence folder created,C:\LabEvidence\Project07\Batch06 exists,Completed
+P07-VAL-090,Microsoft Graph connected for audit monitoring,Graph context returned,Completed
+P07-VAL-091,Privileged monitoring target list created,Monitoring target list saved,Completed
+P07-VAL-092,Privileged audit logs exported,Audit logs exported without IP/location fields,Completed
+P07-VAL-093,PIM audit activity exported,PIM activity exported without IP/location fields,Completed
+P07-VAL-094,Role management audit activity exported,Role management audit logs saved,Completed
+P07-VAL-095,Access review audit activity exported,Access review audit logs saved or blank result documented,Completed
+P07-VAL-096,Audit monitoring summary created,Audit summary saved,Completed
+P07-VAL-097,Privileged target sign-ins exported,Sign-ins exported without IP/location fields,Completed
+P07-VAL-098,Emergency access sign-ins exported,Emergency access sign-ins exported without IP/location fields,Completed
+P07-VAL-099,Emergency access monitoring note created,Monitoring note saved,Completed
+P07-VAL-100,Privileged admin activity matrix created,Activity matrix saved,Completed
+P07-VAL-101,Monitoring findings summary created,Monitoring findings saved,Completed
+P07-VAL-102,Audit logs reviewed in Entra portal,Portal review screenshot saved,Completed
+P07-VAL-103,Sign-in logs reviewed in Entra portal,Sanitized portal screenshot saved,Completed
+P07-VAL-104,Portal monitoring review note created,Portal review note saved,Completed
+P07-VAL-105,Audit monitoring implementation document created,Implementation document saved,Completed
