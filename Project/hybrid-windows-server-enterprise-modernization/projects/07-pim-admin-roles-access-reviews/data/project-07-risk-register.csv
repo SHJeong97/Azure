@@ -1,4 +1,3 @@
-
 RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
 P07-001,Emergency access removed or weakened,Tenant recovery blocked,High,Emergency access account validated and preserved,Identity Administrator,Mitigated
 P07-002,Admin roles removed too early,Loss of required administrative access,Medium,No admin role changes made during inventory phase,Identity Administrator,Mitigated
@@ -44,3 +43,11 @@ P07-041,Emergency access account not monitored,Emergency account misuse missed,H
 P07-042,Rollback process unclear during incident,Delayed recovery from access issue,Medium,PIM rollback procedure created,Identity Administrator,Mitigated
 P07-043,Operational monitoring inconsistent,Privileged activity review becomes unreliable,Medium,Privileged access operational runbook created,Security Administrator,Mitigated
 P07-044,Public IP or location exposed in operational evidence,Privacy issue,Medium,Sanitized sign-in monitoring script and evidence rule documented,Security Administrator,Mitigated
+P07-045,Final PIM state not validated,README may claim unsupported privileged access result,Medium,Final Sophia eligible and active assignment state exported,Identity Administrator,Mitigated
+P07-046,Emergency access final state not validated,Tenant recovery risk missed,High,Final emergency access account and sign-in monitoring evidence exported,Identity Administrator,Mitigated
+P07-047,Privileged role assignment baseline incomplete,Standing admin access may be undocumented,Medium,Final active privileged role assignments exported,Identity Administrator,Mitigated
+P07-048,Final audit evidence exposes IP or location,Privacy issue,Medium,Final audit exports exclude IP and location fields,Security Administrator,Mitigated
+P07-049,Final sign-in evidence exposes IP or location,Privacy issue,Medium,Final sign-in exports exclude IP and location fields,Security Administrator,Mitigated
+P07-050,README overstates access review implementation,Portfolio accuracy issue,Medium,Manual access review method and portal limitation documented,Security Administrator,Mitigated
+P07-051,README overstates role removal,Portfolio accuracy issue,Medium,Final documentation states no privileged assignments were removed,Identity Administrator,Mitigated
+P07-052,Final project handoff incomplete,Next project starts without final privileged access baseline,Medium,Final validation document README prep note and readiness summary created,Identity Administrator,Mitigated
