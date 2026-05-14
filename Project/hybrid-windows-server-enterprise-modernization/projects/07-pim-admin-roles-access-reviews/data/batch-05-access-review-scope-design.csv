@@ -1,0 +1,4 @@
+"ReviewName","ReviewType","Scope","Target","Reviewer","Frequency","AutoApplyResults","RemoveDeniedAccessAutomatically","Purpose"
+"AR-P07-PIM-Eligible-Assignments-Sophia","PIM role assignment review","Sophia eligible assignments","User Administrator;Helpdesk Administrator","srmgadmin@democompany1016.onmicrosoft.com","One-time lab review","No","No","Validate whether Sophia still needs eligible admin roles"
+"AR-P07-Emergency-Access-Exception","Privileged exception review","Emergency access account","emergency.access01@democompany1016.onmicrosoft.com","srmgadmin@democompany1016.onmicrosoft.com","One-time lab review","No","No","Document emergency access exception remains required"
+"AR-P07-Standing-Admin-Access","Standing role assignment review","Current active admin role assignments","Current Microsoft Entra role assignments","srmgadmin@democompany1016.onmicrosoft.com","One-time lab review","No","No","Identify standing privilege for future reduction"

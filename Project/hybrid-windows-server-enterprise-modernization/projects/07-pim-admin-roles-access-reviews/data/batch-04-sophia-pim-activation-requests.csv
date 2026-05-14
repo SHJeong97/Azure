@@ -1,0 +1,3 @@
+"PrincipalDisplayName","UserPrincipalName","RoleName","Action","Status","RequestType","Justification","CreatedDateTime","CompletedDateTime","ApprovalId","DirectoryScopeId"
+"Sophia Martinez","sophia.martinez@summitridge-mfg.com","Helpdesk Administrator","selfActivate","Provisioned",,"Justification: Project 07 PIM activation workflow validation for Helpdesk Administrator role.","5/14/2026 4:20:12 PM","5/14/2026 4:20:42 PM",,"/"
+"Sophia Martinez","sophia.martinez@summitridge-mfg.com","User Administrator","selfActivate","Provisioned",,"Justification: Project 07 PIM activation workflow validation for User Administrator role.","5/14/2026 4:19:00 PM","5/14/2026 4:19:00 PM",,"/"

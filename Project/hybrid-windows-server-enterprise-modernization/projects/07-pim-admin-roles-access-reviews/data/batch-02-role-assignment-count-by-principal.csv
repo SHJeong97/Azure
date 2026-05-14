@@ -1,0 +1,5 @@
+"PrincipalDisplayName","ActiveRoleAssignmentCount","AssignedRoles","ReviewPriority"
+"SeungHun Jeong","3","AI Administrator;Global Administrator;SharePoint Administrator","High"
+"Emergency Access 01","1","Global Administrator","Normal"
+"Microsoft.Azure.SyncFabric","1","Directory Readers","Normal"
+"On-Premises Directory Synchronization Service Account","1","Directory Synchronization Accounts","Normal"

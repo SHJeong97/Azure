@@ -1,0 +1,2 @@
+"Project","Batch","AuditWindow","PrivilegedAuditLogCount","PIMAuditLogCount","RoleManagementAuditLogCount","AccessReviewAuditLogCount","PublicIpExported","LocationExported","EmergencyAccessChanged","PrivilegedAssignmentsRemoved","Result"
+"Project 07","Batch 6","Last 14 days","25","20","25","1","No","No","No","No","Sanitized privileged access audit evidence exported"

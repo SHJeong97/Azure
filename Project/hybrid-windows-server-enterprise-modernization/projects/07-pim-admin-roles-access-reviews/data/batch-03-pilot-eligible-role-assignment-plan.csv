@@ -1,0 +1,3 @@
+"TargetUser","RoleName","AssignmentType","DirectoryScope","ActivationDuration","RequireJustification","RequireMFA","ApprovalRequired","BusinessReason","Batch3Action"
+"sophia.martinez@summitridge-mfg.com","User Administrator","Eligible","/","2 hours","Yes","Yes where supported","No for lab","Pilot user and group administration workflow testing","Create eligible assignment"
+"sophia.martinez@summitridge-mfg.com","Helpdesk Administrator","Eligible","/","2 hours","Yes","Yes where supported","No for lab","Pilot helpdesk and password support workflow testing","Create eligible assignment"

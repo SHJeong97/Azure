@@ -1,0 +1,7 @@
+"RoleName","PrincipalDisplayName","PrincipalType","PrincipalId","DirectoryScopeId","AppScopeId","AssignmentId"
+"AI Administrator","SeungHun Jeong","#microsoft.graph.user","0cda8d96-61ae-4c67-99db-f849200b1dea","/",,"3i5W0tt0fkWntlROI267YZaN2gyuYWdMmdv4SSALHeo-1"
+"Directory Readers","Microsoft.Azure.SyncFabric","#microsoft.graph.servicePrincipal","4a74bad7-2290-4760-8f61-9659cdc53ea3","/",,"4-PYiFWPHkqVOpuYmLiHa9e6dEqQImBHj2GWWc3FPqM-1"
+"Directory Synchronization Accounts","On-Premises Directory Synchronization Service Account","#microsoft.graph.user","b822dfa4-ad59-49c2-b94b-b85b850d1c4a","/",,"BSub0kaAukSHWB4mGC_PMqTfIrhZrcJJuUu4W4UNHEo-1"
+"Global Administrator","Emergency Access 01","#microsoft.graph.user","439b5b47-71e5-43d5-8cd3-9d98df14c4e8","/",,"lAPpYvVpN0KRkAEhdxReEEdbm0PlcdVDjNOdmN8UxOg-1"
+"Global Administrator","SeungHun Jeong","#microsoft.graph.user","0cda8d96-61ae-4c67-99db-f849200b1dea","/",,"lAPpYvVpN0KRkAEhdxReEJaN2gyuYWdMmdv4SSALHeo-1"
+"SharePoint Administrator","SeungHun Jeong","#microsoft.graph.user","0cda8d96-61ae-4c67-99db-f849200b1dea","/",,"UB-K8uf2cUWBi2oS8q9rbJaN2gyuYWdMmdv4SSALHeo-1"

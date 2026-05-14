@@ -1,0 +1,3 @@
+"TestID","UserPrincipalName","RoleName","ActivationPortal","ExpectedControls","TestGoal","Status"
+"PIM-ACT-001","sophia.martinez@summitridge-mfg.com","User Administrator","Microsoft Entra admin center > Identity governance > Privileged Identity Management > My roles","MFA if required; justification; activation duration","Activate User Administrator role for pilot workflow testing","Planned"
+"PIM-ACT-002","sophia.martinez@summitridge-mfg.com","Helpdesk Administrator","Microsoft Entra admin center > Identity governance > Privileged Identity Management > My roles","MFA if required; justification; activation duration","Activate Helpdesk Administrator role for pilot workflow testing","Planned"

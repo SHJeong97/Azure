@@ -1,0 +1,4 @@
+"ReviewName","ReviewType","Target","AccessReviewed","Decision","Reason","AutoApplyResults","AccessRemoved"
+"AR-P07-PIM-Eligible-Assignments-Sophia","Manual documented access review","sophia.martinez@summitridge-mfg.com","Eligible User Administrator and Helpdesk Administrator","Approve for lab","Required for Project 07 PIM activation workflow testing","No","No"
+"AR-P07-Emergency-Access-Exception","Manual documented access review","emergency.access01@democompany1016.onmicrosoft.com","Emergency administrative access","Approve / preserve","Required for tenant recovery","No","No"
+"AR-P07-Standing-Admin-Access","Manual documented access review","Current privileged role assignments","Active Microsoft Entra role assignments","Document and review for future PIM conversion","Reduce standing privilege after baseline validation","No","No"

@@ -1,0 +1,2 @@
+"Project","Batch","AuditWindow","PrivilegedTargetSignInCount","EmergencyAccessSignInCount","PrivilegedAuditLogCount","PIMAuditLogCount","RoleManagementAuditLogCount","AccessReviewAuditLogCount","PublicIpExported","LocationExported","EmergencyAccessChanged","PrivilegedAssignmentsRemoved","ReviewResult"
+"Project 07","Batch 6","Last 14 days","14","0","25","20","25","1","No","No","No","No","Privileged monitoring evidence exported with privacy-safe fields"

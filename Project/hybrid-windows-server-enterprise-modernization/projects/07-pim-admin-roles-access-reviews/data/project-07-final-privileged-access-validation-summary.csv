@@ -1,0 +1,2 @@
+"Project","ProjectName","Tenant","TargetAdminAccountCount","ActivePrivilegedRoleAssignmentCount","SophiaEligibleAssignmentCount","SophiaActiveAssignmentCount","EmergencyAccessAccount","EmergencyAccessRemoved","PrivilegedAssignmentsRemoved","AccessReviewResultsApplied","PublicIpExported","LocationExported","FinalResult"
+"Project 07","Privileged Identity Management, Admin Roles, and Access Reviews","democompany1016.onmicrosoft.com","3","0","2","0","emergency.access01@democompany1016.onmicrosoft.com","No","No","No","No","No","Privileged access governance baseline validated"

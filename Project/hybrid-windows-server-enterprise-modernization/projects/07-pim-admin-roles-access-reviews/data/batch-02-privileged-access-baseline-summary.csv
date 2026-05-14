@@ -1,0 +1,2 @@
+"Project","Batch","Tenant","TargetAdminAccountCount","ActiveRoleAssignmentCount","TargetAdminStandingPrivilegeCount","EmergencyAccessAccount","EmergencyAccessFound","EmergencyAccessRoleAssignments","RoleChangesMade","PIMAssignmentsChanged","AccessReviewsCreated","PublicIpExported","LocationExported","BaselineResult"
+"Project 07","Batch 2","democompany1016.onmicrosoft.com","3","6","1","emergency.access01@democompany1016.onmicrosoft.com","Yes","1","No","No","No","No","No","Privileged access baseline documented"

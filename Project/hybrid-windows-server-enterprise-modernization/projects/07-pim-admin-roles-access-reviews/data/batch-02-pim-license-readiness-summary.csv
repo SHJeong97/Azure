@@ -1,0 +1,2 @@
+"TenantHasPIMLikeSku","Requirement","Batch2Decision"
+"Likely Yes","Microsoft Entra ID P2 or Microsoft Entra ID Governance","Proceed with inventory first; do not change privileged assignments yet"

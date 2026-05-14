@@ -1,0 +1,2 @@
+"Project","Batch","ReviewTargetUserCount","CurrentPrivilegedRoleAssignmentCount","SophiaEligibleAssignmentCount","PlannedAccessReviewCount","AutoApplyReviewResults","RemoveAccessAutomatically","EmergencyAccessChanged","PublicIpExported","LocationExported","ReadinessResult"
+"Project 07","Batch 5","0","0","0","3","No","No","No","No","No","Ready to create/document access reviews"

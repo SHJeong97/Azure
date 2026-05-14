@@ -1,0 +1,7 @@
+"ControlArea","Control","EvidenceSource","Frequency"
+"Emergency access","Preserve and monitor emergency access account","Account readiness, role assignment state, sign-in logs","Before privileged access changes and monthly"
+"PIM eligible assignments","Review Sophia eligible User Administrator and Helpdesk Administrator assignments","Role eligibility schedule instances","Before and after PIM testing"
+"PIM active assignments","Confirm temporary activations are not left active","Role assignment schedule instances","After activation testing"
+"Role management audit","Review role assignment and PIM activity","Directory audit logs","Weekly or after changes"
+"Access reviews","Document review decisions and portal limitations","Manual review records and portal screenshots","Per review cycle"
+"Privacy-safe evidence","Exclude IP/location fields and sanitize screenshots","CSV exports and screenshot review","Every evidence capture"

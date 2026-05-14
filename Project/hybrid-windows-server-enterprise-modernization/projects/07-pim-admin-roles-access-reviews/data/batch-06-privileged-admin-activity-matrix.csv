@@ -1,0 +1,6 @@
+"ActivityArea","EvidenceSource","TargetAccount","ExpectedActivity","ReviewResult"
+"PIM activation","Directory audit logs and role assignment schedule requests","sophia.martinez@summitridge-mfg.com","Activation and deactivation of pilot roles","Review audit logs for explainable activity"
+"Role assignment changes","Directory audit logs","srmgadmin@democompany1016.onmicrosoft.com","Role assignment management activity should be explainable","Review for unexpected role changes"
+"Emergency access sign-ins","Sanitized sign-in logs","emergency.access01@democompany1016.onmicrosoft.com","Rare or no sign-ins","Investigate any unexplained emergency access use"
+"Access review activity","Access review audit logs and manual review records","srmgadmin@democompany1016.onmicrosoft.com","Manual review documentation due to portal scope limitation","Confirm no results were auto-applied"
+"Privacy-safe evidence","CSV exports and screenshots","All monitored accounts","No IP or location data exported","Confirm screenshots are sanitized"

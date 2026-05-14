@@ -1,0 +1,7 @@
+"RoleName","AssignmentStrategy","TargetUser","ActivationDuration","RequireMFA","RequireJustification","ApprovalRequired","Batch3Action"
+"Global Administrator","Emergency active only","emergency.access01@democompany1016.onmicrosoft.com","Not used for daily activation","Yes where supported","Yes for non-emergency use","Recommended in production","Preserve and monitor only"
+"Privileged Role Administrator","Keep limited active/admin control","srmgadmin@democompany1016.onmicrosoft.com","2 hours recommended","Yes","Yes","Optional for lab; recommended in production","Document settings"
+"Security Administrator","Eligible pilot assignment","sophia.martinez@summitridge-mfg.com","2 hours","Yes","Yes","No for lab; yes recommended in production","Prepare eligible assignment"
+"Conditional Access Administrator","Eligible pilot assignment","sophia.martinez@summitridge-mfg.com","2 hours","Yes","Yes","No for lab; yes recommended in production","Prepare eligible assignment"
+"User Administrator","Eligible pilot assignment","sophia.martinez@summitridge-mfg.com","2 hours","Yes","Yes","No for lab","Prepare eligible assignment"
+"Helpdesk Administrator","Eligible pilot assignment","sophia.martinez@summitridge-mfg.com","2 hours","Yes","Yes","No for lab","Prepare eligible assignment"
