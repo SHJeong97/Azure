@@ -1,0 +1,16 @@
+Area,Target,FinalOutcome,Status
+Pilot users,Emma Olivia Sophia,Protected by pilot email security scope,Completed
+Anti-phishing,P08-Pilot-AntiPhishing,Pilot anti-phishing baseline configured,Completed
+Safe Links,P08-Pilot-SafeLinks,Pilot URL protection configured,Completed
+Safe Attachments,P08-Pilot-SafeAttachments,Pilot attachment detonation configured,Completed
+Anti-spam,EOP baseline,Reviewed and documented without changes,Completed
+Anti-malware,EOP baseline,Reviewed and documented without changes,Completed
+Spoof intelligence,Spoofed senders,Reviewed and no spoof activity found in portal,Completed
+Tenant Allow/Block List,Sender URL FileHash,Summary counts documented without sensitive entries,Completed
+Quarantine,Review workflow,Documented without release or deletion,Completed
+Threat submissions,Emails URLs attachments files user reports,Reviewed without submitting real threats,Completed
+Alerts and incidents,Defender portal,Reviewed without remediation,Completed
+Mail flow,Pilot users,Safe internal messages sent and traced,Completed
+Message trace,Get-MessageTraceV2,Sanitized trace exported,Completed
+Preset security policies,Standard and Strict,Reviewed but not enabled tenant-wide,Completed
+Evidence privacy,IP location headers routing details,Excluded from public evidence,Completed
