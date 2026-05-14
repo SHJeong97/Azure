@@ -1,1 +1,12 @@
 
+RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
+P07-001,Emergency access removed or weakened,Tenant recovery blocked,High,Preserve emergency access and validate before role changes,Identity Administrator,Open
+P07-002,Admin roles removed too early,Loss of required administrative access,Medium,Inventory role assignments before changing access,Identity Administrator,Open
+P07-003,Standing privileged access remains unreviewed,Increased compromise risk,Medium,Export role assignments and identify standing privilege,Identity Administrator,Open
+P07-004,PIM activation settings misconfigured,Admins cannot activate needed roles,Medium,Test activation workflow with pilot roles first,Identity Administrator,Open
+P07-005,Privileged roles assigned too broadly,Over-permissioned users,Medium,Use pilot scope and least-privilege role mapping,Identity Administrator,Open
+P07-006,Access reviews scoped incorrectly,Wrong assignments reviewed or missed,Medium,Document access review scope before creation,Security Administrator,Open
+P07-007,Audit evidence exposes public IP or location,Privacy issue,Medium,Exclude IP and location fields from exports and sanitize screenshots,Security Administrator,Open
+P07-008,Role activation not monitored,Privileged activity missed,Medium,Export role activation and audit logs,Security Administrator,Open
+P07-009,PIM licensing not available,Project controls cannot be configured,Medium,Validate Entra ID P2 or Governance licensing before configuration,Identity Administrator,Open
+P07-010,Rollback process missing,Delayed recovery from access issue,Medium,Create rollback and operational runbook,Identity Administrator,Open
