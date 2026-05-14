@@ -106,3 +106,21 @@ P07-VAL-102,Audit logs reviewed in Entra portal,Portal review screenshot saved,C
 P07-VAL-103,Sign-in logs reviewed in Entra portal,Sanitized portal screenshot saved,Completed
 P07-VAL-104,Portal monitoring review note created,Portal review note saved,Completed
 P07-VAL-105,Audit monitoring implementation document created,Implementation document saved,Completed
+P07-VAL-106,Batch 7 evidence folder created,C:\LabEvidence\Project07\Batch07 exists,Completed
+P07-VAL-107,Microsoft Graph connected for rollback readiness,Graph context returned,Completed
+P07-VAL-108,Operational target users exported,Target user state saved,Completed
+P07-VAL-109,Current active role assignments exported,Active role assignment state saved,Completed
+P07-VAL-110,Sophia current eligible assignments exported,Sophia eligible PIM state saved,Completed
+P07-VAL-111,Sophia current active assignments exported,Sophia active PIM state saved,Completed
+P07-VAL-112,Rollback decision matrix created,Rollback decision matrix saved,Completed
+P07-VAL-113,Operational control matrix created,Operational control matrix saved,Completed
+P07-VAL-114,PIM operational state export script created,Script saved,Completed
+P07-VAL-115,Privileged role assignment monitoring script created,Script saved,Completed
+P07-VAL-116,Sophia PIM eligibility monitoring script created,Script saved,Completed
+P07-VAL-117,Emergency access monitoring script created,Script saved,Completed
+P07-VAL-118,Sanitized privileged sign-in monitoring script created,Script saved,Completed
+P07-VAL-119,Rollback readiness note created,Rollback readiness note saved,Completed
+P07-VAL-120,Privileged access operational runbook created,Runbook saved,Completed
+P07-VAL-121,PIM rollback procedure created,Rollback procedure saved,Completed
+P07-VAL-122,Operational runbook evidence note created,Evidence note saved,Completed
+P07-VAL-123,Rollback and operational controls implementation document created,Implementation document saved,Completed
