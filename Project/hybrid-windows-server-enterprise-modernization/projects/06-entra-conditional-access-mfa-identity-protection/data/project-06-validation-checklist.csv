@@ -95,3 +95,22 @@ P06-VAL-091,Risk response matrix created,Risk response matrix saved,Completed
 P06-VAL-092,Risk-based CA planning summary created,Planning summary saved,Completed
 P06-VAL-093,Identity Protection portal reviewed,Portal review note saved,Completed
 P06-VAL-094,Identity Protection implementation document created,Implementation document saved,Completed
+P06-VAL-095,Batch 7 evidence folder created,C:\LabEvidence\Project06\Batch07 exists,Completed
+P06-VAL-096,Microsoft Graph connected for enforcement review,Graph context returned,Completed
+P06-VAL-097,Current CA001 and CA002 states exported,Policy states captured before enforcement,Completed
+P06-VAL-098,Pilot and break-glass groups revalidated,Group memberships confirmed,Completed
+P06-VAL-099,Recent pilot sign-in logs exported,Sign-in logs exported without IP/location fields,Completed
+P06-VAL-100,Report-only evaluations exported,CA001 and CA002 report-only results exported,Completed
+P06-VAL-101,Legacy authentication activity reviewed,Legacy authentication review completed,Completed
+P06-VAL-102,Enforcement readiness summary created,Readiness summary saved,Completed
+P06-VAL-103,Enforcement decision note created,Decision note saved,Completed
+P06-VAL-104,Break-glass sign-in validated before enforcement,Emergency access tested,Completed
+P06-VAL-105,Pre-enforcement safety checkpoint created,Safety checkpoint saved,Completed
+P06-VAL-106,CA001 enabled for pilot enforcement,CA001 state changed to enabled,Completed
+P06-VAL-107,CA002 enabled or skipped based on review,CA002 enforcement decision documented,Completed
+P06-VAL-108,Post-enforcement policy states exported,Policy states exported after enforcement,Completed
+P06-VAL-109,Pilot MFA enforcement tested,Pilot users tested with MFA prompt,Completed
+P06-VAL-110,Post-enforcement sign-in logs exported,Logs exported without IP/location fields,Completed
+P06-VAL-111,Post-enforcement CA results exported,CA results exported without IP/location fields,Completed
+P06-VAL-112,Pilot enforcement result summary created,Enforcement result summary saved,Completed
+P06-VAL-113,Pilot enforcement implementation document created,Implementation document saved,Completed
