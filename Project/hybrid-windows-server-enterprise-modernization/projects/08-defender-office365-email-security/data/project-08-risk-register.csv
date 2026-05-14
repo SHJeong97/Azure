@@ -1,0 +1,11 @@
+RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
+P08-001,Mail security policies applied tenant-wide too early,Legitimate mail disruption,Medium,Use pilot scope before broad enforcement,Security Administrator,Open
+P08-002,Safe Links blocks legitimate URLs,User productivity impact,Medium,Validate with pilot users and document allow/review process,Security Administrator,Open
+P08-003,Safe Attachments delays or blocks legitimate attachments,Mail delivery delay or user disruption,Medium,Use pilot scope and safe validation messages only,Security Administrator,Open
+P08-004,Anti-phishing policy too aggressive,Legitimate sender messages quarantined,Medium,Review impersonation settings and quarantine results before expansion,Security Administrator,Open
+P08-005,Quarantine message released incorrectly,Malicious message reaches user,Medium,Document admin review workflow before release decisions,Security Administrator,Open
+P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,Use safe test messages only and do not upload real malware,Security Administrator,Open
+P08-007,Private email content exposed in evidence,Privacy issue,Medium,Crop or blur message body content and sensitive headers,Security Administrator,Open
+P08-008,Public IP or location exposed in evidence,Privacy issue,Medium,Exclude IP/location fields and sanitize screenshots,Security Administrator,Open
+P08-009,Mail flow baseline incomplete,README may overstate validation,Medium,Export accepted domains mailboxes and policy baseline before configuration,Messaging Administrator,Open
+P08-010,Rollback process missing,Policy issue recovery delayed,Medium,Create rollback and operational controls before final validation,Security Administrator,Open
