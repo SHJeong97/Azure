@@ -45,3 +45,21 @@ P08-VAL-043,Connectors exported without IP fields,Inbound and outbound connector
 P08-VAL-044,Defender policy inventory summary created,Defender policy inventory summary saved,Completed
 P08-VAL-045,Mail flow baseline note created,Mail flow baseline note saved,Completed
 P08-VAL-046,Tenant readiness and EOP baseline implementation document created,Implementation document saved,Completed
+P08-VAL-047,Batch 3 evidence folder created,C:\LabEvidence\Project08\Batch03 exists,Completed
+P08-VAL-048,Exchange Online connected for Batch 3,Exchange connection validated,Completed
+P08-VAL-049,Anti-phishing pilot scope created,Pilot user scope documented,Completed
+P08-VAL-050,Anti-phishing state exported before changes,Before-state policies and rules saved,Completed
+P08-VAL-051,Pilot anti-phishing policy created or confirmed,P08-Pilot-AntiPhishing exists,Completed
+P08-VAL-052,Pilot anti-phishing rule created or confirmed,P08-Pilot-AntiPhishing-Rule exists,Completed
+P08-VAL-053,Anti-phishing policy and rule validated after creation,After-state evidence saved,Completed
+P08-VAL-054,Anti-phishing configuration summary created,Configuration summary saved,Completed
+P08-VAL-055,Anti-spam review baseline exported,Anti-spam baseline saved,Completed
+P08-VAL-056,Anti-spam review decision matrix created,Anti-spam review matrix saved,Completed
+P08-VAL-057,Anti-malware review baseline exported,Anti-malware baseline saved,Completed
+P08-VAL-058,Anti-malware review decision matrix created,Anti-malware review matrix saved,Completed
+P08-VAL-059,Spoof intelligence exported without sending infrastructure,Spoof intelligence sanitized evidence saved,Completed
+P08-VAL-060,Tenant Allow/Block List summary created without IP entries,Summary count evidence saved,Completed
+P08-VAL-061,Spoofed senders portal reviewed,Portal review screenshot saved,Completed
+P08-VAL-062,Safe baseline review note created,Review note saved,Completed
+P08-VAL-063,Batch 3 protection baseline summary created,Protection baseline summary saved,Completed
+P08-VAL-064,Anti-phishing and EOP protection baseline document created,Implementation document saved,Completed
