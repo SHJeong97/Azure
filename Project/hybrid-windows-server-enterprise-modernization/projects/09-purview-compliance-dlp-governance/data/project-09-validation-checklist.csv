@@ -39,3 +39,22 @@ P09-VAL-037,Data classification overview reviewed,Data classification screenshot
 P09-VAL-038,Data classification inventory note created,Inventory note saved,Completed
 P09-VAL-039,Batch 2 readiness and inventory summary created,Readiness summary saved,Completed
 P09-VAL-040,Purview readiness implementation document created,Implementation document saved,Completed
+P09-VAL-041,Batch 3 evidence folder created,C:\LabEvidence\Project09\Batch03 exists,Completed
+P09-VAL-042,Purview compliance PowerShell connected for labels,Label command validation completed,Completed
+P09-VAL-043,Label command validation exported,Get-Label New-Label Get-LabelPolicy and New-LabelPolicy reviewed,Completed
+P09-VAL-044,Sensitivity label design matrix created,Four-label classification model documented,Completed
+P09-VAL-045,Existing sensitivity labels exported before creation,Before-state label evidence saved,Completed
+P09-VAL-046,Public label created or confirmed,Public sensitivity label available,Completed
+P09-VAL-047,Internal label created or confirmed,Internal sensitivity label available,Completed
+P09-VAL-048,Confidential label created or confirmed,Confidential sensitivity label available,Completed
+P09-VAL-049,Highly Confidential label created or confirmed,Highly Confidential sensitivity label available,Completed
+P09-VAL-050,Sensitivity labels exported after creation,After-state label evidence saved,Completed
+P09-VAL-051,Sensitivity label creation summary created,Label creation summary saved,Completed
+P09-VAL-052,Existing label publishing policies exported before creation,Before-state label policy evidence saved,Completed
+P09-VAL-053,Pilot label publishing policy created or confirmed,P09-Pilot-Label-Publishing created or confirmed,Completed
+P09-VAL-054,Label publishing policy exported after creation,After-state label policy evidence saved,Completed
+P09-VAL-055,Label publishing summary created,Publishing summary saved,Completed
+P09-VAL-056,Pilot label visibility reviewed,Labels reviewed in Microsoft 365 app or Outlook on the web,Completed
+P09-VAL-057,Pilot label visibility validation note created,Visibility validation note saved,Completed
+P09-VAL-058,Batch 3 label baseline summary created,Label baseline summary saved,Completed
+P09-VAL-059,Sensitivity label implementation document created,Implementation document saved,Completed
