@@ -18,3 +18,30 @@ P08-VAL-016,Quarantine workflow pending,Validate in Batch 5,Planned
 P08-VAL-017,Alert and investigation workflow pending,Validate in Batch 5,Planned
 P08-VAL-018,Mail flow validation pending,Validate in Batch 6,Planned
 P08-VAL-019,Final README pending,Generate in Batch 7,Planned
+P08-VAL-020,Batch 2 evidence folder created,C:\LabEvidence\Project08\Batch02 exists,Completed
+P08-VAL-021,Exchange Online connected,Exchange connection validated,Completed
+P08-VAL-022,Exchange organization configuration exported,Organization config saved,Completed
+P08-VAL-023,Accepted domains exported,summitridge-mfg.com validated as accepted domain,Completed
+P08-VAL-024,Pilot mailbox readiness exported,Emma Olivia and Sophia mailboxes validated,Completed
+P08-VAL-025,Pilot mailbox statistics exported,Mailbox statistics saved,Completed
+P08-VAL-026,Mailbox inventory summary exported,Mailbox inventory summary saved,Completed
+P08-VAL-027,Tenant readiness summary created,Readiness summary saved,Completed
+P08-VAL-028,Inbound anti-spam policy baseline exported,Inbound anti-spam policies saved,Completed
+P08-VAL-029,Inbound anti-spam rules exported,Inbound anti-spam rules saved,Completed
+P08-VAL-030,Outbound spam policy baseline exported,Outbound spam policies saved,Completed
+P08-VAL-031,Outbound spam rules exported,Outbound spam rules saved,Completed
+P08-VAL-032,Anti-malware policy baseline exported,Anti-malware policies saved,Completed
+P08-VAL-033,Anti-malware rules exported,Anti-malware rules saved,Completed
+P08-VAL-034,Connection filter policy exported without IP lists,Connection filter baseline sanitized,Completed
+P08-VAL-035,EOP baseline inventory summary created,EOP baseline summary saved,Completed
+P08-VAL-036,Anti-phishing policy baseline exported,Anti-phishing policies saved,Completed
+P08-VAL-037,Anti-phishing rules exported,Anti-phishing rules saved,Completed
+P08-VAL-038,Safe Links policy baseline exported,Safe Links policies saved,Completed
+P08-VAL-039,Safe Links rules exported,Safe Links rules saved,Completed
+P08-VAL-040,Safe Attachments policy baseline exported,Safe Attachments policies saved,Completed
+P08-VAL-041,Safe Attachments rules exported,Safe Attachments rules saved,Completed
+P08-VAL-042,Transport rules baseline exported,Transport rules saved,Completed
+P08-VAL-043,Connectors exported without IP fields,Inbound and outbound connector baseline sanitized,Completed
+P08-VAL-044,Defender policy inventory summary created,Defender policy inventory summary saved,Completed
+P08-VAL-045,Mail flow baseline note created,Mail flow baseline note saved,Completed
+P08-VAL-046,Tenant readiness and EOP baseline implementation document created,Implementation document saved,Completed
