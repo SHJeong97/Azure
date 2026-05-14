@@ -16,5 +16,11 @@ P07-013,Target admin account missing,PIM testing cannot continue,Medium,Target a
 P07-014,Emergency access modified accidentally,Tenant recovery could be affected,High,Global Administrator and emergency access assignments were not changed in Batch 3,Identity Administrator,Mitigated
 P07-015,Wrong role definition targeted,Incorrect privilege assigned,Medium,Target role definitions resolved and exported before assignment creation,Identity Administrator,Mitigated
 P07-016,Eligible assignment already exists,Duplicate assignment request may fail,Low,Existing eligible assignments exported before creation and handled as already existing,Identity Administrator,Mitigated
-P07-017,Pilot user cannot activate role later,Activation workflow testing blocked,Medium,Eligible assignments validated after creation,Identity Administrator,Open until Batch 4 activation test
+P07-017,Pilot user cannot activate role later,Activation workflow testing blocked,Medium,PIM activation workflow tested with Sophia Martinez,Identity Administrator,Mitigated
 P07-018,Audit evidence exposes public IP or location,Privacy issue,Medium,No IP or location fields exported in Batch 3 evidence,Security Administrator,Mitigated
+P07-019,Activated privileged role left active longer than needed,Over-permissioned pilot user,Medium,Helpdesk Administrator was deactivated and post-deactivation state exported,Identity Administrator,Mitigated
+P07-020,User Administrator activation state misread,Incorrect deactivation evidence,Low,User Administrator was documented as eligible but not active during deactivation review,Identity Administrator,Mitigated
+P07-021,Temporary admin access used to modify production objects,Unauthorized change risk,Medium,Only view-only admin capability validation was performed,Identity Administrator,Mitigated
+P07-022,PIM activation audit evidence incomplete,Activation workflow not provable,Medium,Activation requests and sanitized audit logs exported,Security Administrator,Mitigated
+P07-023,Emergency access changed during PIM testing,Tenant recovery risk,High,Emergency access was not modified during activation testing,Identity Administrator,Mitigated
+P07-024,Public IP or location exposed in activation evidence,Privacy issue,Medium,Activation and audit evidence excluded IP/location fields and screenshots must be sanitized,Security Administrator,Mitigated
