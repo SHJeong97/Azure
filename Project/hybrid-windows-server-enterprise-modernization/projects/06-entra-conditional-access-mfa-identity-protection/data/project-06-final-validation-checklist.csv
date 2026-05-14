@@ -1,0 +1,31 @@
+CheckID,ValidationItem,ExpectedResult,Status
+P06-FINAL-001,Project folder structure created,Project 06 folders exist,Completed
+P06-FINAL-002,Lab evidence folders created,C:\LabEvidence\Project06 batch folders exist,Completed
+P06-FINAL-003,Conditional Access pilot group created,GRP-CA-Pilot-Users exists,Completed
+P06-FINAL-004,Pilot users added to pilot group,Three pilot users are members,Completed
+P06-FINAL-005,Break-glass exclusion group created,GRP-CA-Excluded-BreakGlass exists,Completed
+P06-FINAL-006,Emergency access account created,Cloud-only emergency account documented,Completed
+P06-FINAL-007,Break-glass exclusion validated,Emergency account is excluded from CA scope,Completed
+P06-FINAL-008,MFA registration readiness validated,Pilot users MFA-ready,Completed
+P06-FINAL-009,CA001 created,Require MFA policy created,Completed
+P06-FINAL-010,CA001 report-only validation completed,Report-only results reviewed,Completed
+P06-FINAL-011,CA001 pilot enforcement enabled,Policy enabled for pilot group,Completed
+P06-FINAL-012,CA002 created,Block legacy authentication policy created,Completed
+P06-FINAL-013,CA002 report-only validation completed,Legacy authentication impact reviewed,Completed
+P06-FINAL-014,CA002 enforcement decision documented,Enabled or left report-only based on review,Completed
+P06-FINAL-015,Identity Protection readiness reviewed,Risky users and detections exported,Completed
+P06-FINAL-016,Sign-in risk policy planned,CA004 documented,Completed
+P06-FINAL-017,User risk policy planned,CA005 documented,Completed
+P06-FINAL-018,Risk policies separated,User risk and sign-in risk documented separately,Completed
+P06-FINAL-019,Rollback scripts created,CA rollback scripts saved,Completed
+P06-FINAL-020,Monitoring scripts created,Operational monitoring scripts saved,Completed
+P06-FINAL-021,Operational runbook created,Conditional Access runbook saved,Completed
+P06-FINAL-022,Final CA policy states exported,Final policy state evidence saved,Completed
+P06-FINAL-023,Final MFA readiness exported,Final MFA readiness evidence saved,Completed
+P06-FINAL-024,Final sanitized sign-in evidence exported,No IP/location fields exported,Completed
+P06-FINAL-025,Final sanitized CA results exported,No IP/location fields exported,Completed
+P06-FINAL-026,Final architecture summary created,Architecture summary CSV saved,Completed
+P06-FINAL-027,Final policy outcomes created,Policy outcome CSV saved,Completed
+P06-FINAL-028,Final pilot user results created,Pilot results CSV saved,Completed
+P06-FINAL-029,Final technical validation summary created,Technical summary saved,Completed
+P06-FINAL-030,README prep note created,README preparation note saved,Completed
