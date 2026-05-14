@@ -46,3 +46,11 @@ P08-044,Pilot policy state not validated after mail flow testing,README may over
 P08-045,Defender monitoring has no threat detections,Validation confusion,Low,No-detection result documented as expected because safe messages were used,Security Administrator,Mitigated
 P08-046,Portal screenshots expose mailbox content or routing details,Privacy issue,Medium,Screenshots must be sanitized and no headers or routing details captured,Security Administrator,Mitigated
 P08-047,Message trace evidence exposes public IP or location,Privacy issue,Medium,No IP or location fields exported in Batch 6 message trace evidence,Messaging Administrator,Mitigated
+P08-048,Final pilot policy state not validated,README may overstate Defender configuration,Medium,Final anti-phishing Safe Links and Safe Attachments policy/rule state exported,Security Administrator,Mitigated
+P08-049,Final pilot mailbox readiness not validated,Mail flow validation may be incomplete,Medium,Final pilot mailbox readiness exported for Emma Olivia and Sophia,Messaging Administrator,Mitigated
+P08-050,README overstates tenant-wide security rollout,Portfolio accuracy issue,Medium,Final documentation states policies were pilot-scoped and no tenant-wide preset expansion was performed,Security Administrator,Mitigated
+P08-051,README implies real phishing or malware testing,Portfolio accuracy and safety issue,Medium,Final documentation states only safe plain-text lab messages were used,Security Administrator,Mitigated
+P08-052,Final message trace exposes sensitive data,Privacy issue,Medium,Final message trace exported without subject body headers IP location or routing details,Messaging Administrator,Mitigated
+P08-053,Quarantine workflow misrepresented as active remediation,Portfolio accuracy issue,Low,Final documentation states no messages were released or deleted,Security Administrator,Mitigated
+P08-054,No Defender threat detections misunderstood as failed validation,Validation confusion,Low,Final documentation explains no detections were expected because safe messages were used,Security Administrator,Mitigated
+P08-055,Final handoff incomplete,Next project starts without clean email security baseline,Medium,Final architecture summary security outcomes validation document and README prep note created,Security Administrator,Mitigated
