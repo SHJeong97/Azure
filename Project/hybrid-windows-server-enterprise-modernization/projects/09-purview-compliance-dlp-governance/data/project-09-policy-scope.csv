@@ -1,0 +1,11 @@
+PolicyArea,PolicyName,ScopeType,TargetUsers,TargetLocation,InitialMode,FinalIntent,Status
+Sensitivity labels,Project09-Classification-Labels,Pilot label design,Emma Wilson;Olivia Brown;Sophia Martinez,Microsoft 365 apps and services,Design/Create,Classify business content,Planned
+Label publishing,Project09-Pilot-Label-Publishing,Pilot users,Emma Wilson;Olivia Brown;Sophia Martinez,Microsoft 365 apps,Publish to pilot users only,Validate label visibility,Planned
+DLP,Project09-Pilot-DLP-TestMode,Pilot/test mode,Emma Wilson;Olivia Brown;Sophia Martinez,Exchange;SharePoint;OneDrive where available,Test mode,Detect sensitive data without full enforcement,Planned
+Retention labels,Project09-Retention-Labels,Governance design,Pilot content locations,Microsoft 365 content locations,Design/Create,Classify content lifecycle requirements,Planned
+Retention policies,Project09-Retention-Policy-Planning,Non-destructive planning,Pilot locations where safe,Exchange;SharePoint;OneDrive where available,Planning only,Document retention governance safely,Planned
+Audit,Project09-Audit-Baseline,Admin review,Compliance admin,Microsoft Purview audit,Review only,Review compliance and admin activity,Planned
+Content Search,Project09-Content-Search-Workflow,Safe workflow documentation,Compliance admin,Microsoft Purview Content Search,Document only,Document search workflow without exporting private content,Planned
+eDiscovery,Project09-eDiscovery-Workflow,Safe workflow documentation,Compliance admin,Microsoft Purview eDiscovery,Document only,Document eDiscovery workflow without exposing private content,Planned
+Compliance alerts,Project09-Compliance-Alert-Review,Admin review,Compliance admin,Microsoft Purview alerts,Review only,Document alert visibility where available,Planned
+Rollback controls,Project09-Rollback-Operational-Controls,Operational planning,Compliance admin,Project documentation,Document only,Document rollback and safety controls,Planned
