@@ -1,0 +1,17 @@
+Component,Configuration,Result
+Microsoft Entra tenant,democompany1016.onmicrosoft.com,Validated
+Verified public domain,summitridge-mfg.com,Validated
+Identity source,On-prem AD synced through Microsoft Entra Cloud Sync,Validated
+Pilot group,GRP-CA-Pilot-Users,Created and validated
+Break-glass exclusion group,GRP-CA-Excluded-BreakGlass,Created and validated
+Emergency access account,emergency.access01@democompany1016.onmicrosoft.com,Created and documented
+MFA readiness,Microsoft Authenticator registration for pilot users,Validated
+CA001 policy,CA001-Require-MFA-Pilot-Users,Created and enabled for pilot enforcement
+CA002 policy,CA002-Block-Legacy-Authentication,Created and enabled or report-only based on legacy-auth review
+Identity Protection planning,CA004 and CA005 planned,Documented
+Risk policy separation,Sign-in risk and user risk separated,Documented
+Rollback controls,Rollback scripts created,Validated
+Monitoring controls,Operational monitoring scripts created,Validated
+Privacy-safe evidence,IP and location fields excluded,Implemented
+Intune dependency,None,Not used
+Compliant-device requirement,None,Not used
