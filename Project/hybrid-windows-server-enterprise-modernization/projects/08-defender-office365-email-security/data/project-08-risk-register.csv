@@ -2,11 +2,11 @@ RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
 P08-001,Mail security policies applied tenant-wide too early,Legitimate mail disruption,Medium,Use pilot scope before broad enforcement,Security Administrator,Open
 P08-002,Safe Links blocks legitimate URLs,User productivity impact,Medium,Validate with pilot users and document allow/review process,Security Administrator,Open
 P08-003,Safe Attachments delays or blocks legitimate attachments,Mail delivery delay or user disruption,Medium,Use pilot scope and safe validation messages only,Security Administrator,Open
-P08-004,Anti-phishing policy too aggressive,Legitimate sender messages quarantined,Medium,Review impersonation settings and quarantine results before expansion,Security Administrator,Open
+P08-004,Anti-phishing policy too aggressive,Legitimate sender messages quarantined,Medium,Pilot-only anti-phishing policy created before wider rollout,Security Administrator,Mitigated
 P08-005,Quarantine message released incorrectly,Malicious message reaches user,Medium,Document admin review workflow before release decisions,Security Administrator,Open
-P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,Use safe test messages only and do not upload real malware,Security Administrator,Open
+P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,No real phishing email or malware was used in Batch 3,Security Administrator,Mitigated
 P08-007,Private email content exposed in evidence,Privacy issue,Medium,Crop or blur message body content and sensitive headers,Security Administrator,Open
-P08-008,Public IP or location exposed in evidence,Privacy issue,Medium,Exclude IP/location fields and sanitize screenshots,Security Administrator,Open
+P08-008,Public IP or location exposed in evidence,Privacy issue,Medium,Spoof intelligence and evidence exports excluded IP/location and sending infrastructure,Security Administrator,Mitigated
 P08-009,Mail flow baseline incomplete,README may overstate validation,Medium,Accepted domains mailboxes EOP Defender transport rules and connector baseline exported,Messaging Administrator,Mitigated
 P08-010,Rollback process missing,Policy issue recovery delayed,Medium,Create rollback and operational controls before final validation,Security Administrator,Open
 P08-011,Accepted domain not validated,Policy scope may target wrong domain,Medium,Accepted domains exported and summitridge-mfg.com reviewed,Messaging Administrator,Mitigated
@@ -16,3 +16,10 @@ P08-014,Defender baseline not captured before changes,Safe Links Safe Attachment
 P08-015,Connector IP details exposed in evidence,Privacy or security issue,Medium,Connector exports excluded IP address fields and connector IP lists,Messaging Administrator,Mitigated
 P08-016,Transport rule baseline missing,Mail flow impact may be hard to troubleshoot,Medium,Transport rules exported before policy changes,Messaging Administrator,Mitigated
 P08-017,Private message or routing details exposed,Privacy issue,Medium,Message headers mailbox content and routing details excluded from Batch 2 evidence,Security Administrator,Mitigated
+P08-018,Anti-phishing policy scoped incorrectly,Wrong users affected by protection policy,Medium,Anti-phishing rule scoped only to pilot users,Security Administrator,Mitigated
+P08-019,Anti-phishing policy created without matching rule,Policy does not apply to users,Medium,Anti-phishing rule created and validated after policy creation,Security Administrator,Mitigated
+P08-020,Anti-spam baseline changed unintentionally,Mail filtering behavior changes unexpectedly,Medium,Anti-spam settings were reviewed only with no changes made,Security Administrator,Mitigated
+P08-021,Anti-malware baseline changed unintentionally,Attachment or malware handling changes unexpectedly,Medium,Anti-malware settings were reviewed only with no changes made,Security Administrator,Mitigated
+P08-022,Spoof intelligence evidence exposes sender infrastructure,Privacy or security issue,Medium,SendingInfrastructure was intentionally excluded from exports and screenshots sanitized,Security Administrator,Mitigated
+P08-023,Tenant Allow/Block List evidence exposes sensitive entries,Privacy or security issue,Medium,Only list counts were exported and IP entries were not exported,Security Administrator,Mitigated
+P08-024,Spoofed sender portal shows no data and is misunderstood,Validation confusion,Low,No spoof data result documented as acceptable for small lab tenant,Security Administrator,Mitigated
