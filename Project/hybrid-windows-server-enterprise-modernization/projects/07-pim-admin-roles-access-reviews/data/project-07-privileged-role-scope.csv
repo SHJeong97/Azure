@@ -1,1 +1,9 @@
 
+RoleName,GovernanceIntent,TargetAccount,AssignmentType,PlannedControl,Status
+Global Administrator,Preserve emergency tenant recovery,emergency.access01@democompany1016.onmicrosoft.com,Active emergency access,Monitor and preserve,Planned
+Privileged Role Administrator,Manage role assignments and PIM,srmgadmin@democompany1016.onmicrosoft.com,Active or eligible,Review and govern,Planned
+Security Administrator,Manage security policies and alerts,sophia.martinez@summitridge-mfg.com,Eligible pilot assignment,Require activation justification,Planned
+Conditional Access Administrator,Manage Conditional Access policies,sophia.martinez@summitridge-mfg.com,Eligible pilot assignment,Require activation justification,Planned
+Exchange Administrator,Manage Exchange Online settings,sophia.martinez@summitridge-mfg.com,Eligible pilot assignment,Require activation justification,Planned
+User Administrator,Manage users and groups,sophia.martinez@summitridge-mfg.com,Eligible pilot assignment,Require activation justification,Planned
+Helpdesk Administrator,Limited helpdesk and password support,sophia.martinez@summitridge-mfg.com,Eligible pilot assignment,Limited admin scope,Planned
