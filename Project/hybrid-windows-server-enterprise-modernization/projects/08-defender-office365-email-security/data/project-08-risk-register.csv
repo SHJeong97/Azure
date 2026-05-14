@@ -1,10 +1,10 @@
 RiskID,Risk,Impact,Likelihood,Treatment,Owner,Status
 P08-001,Mail security policies applied tenant-wide too early,Legitimate mail disruption,Medium,Use pilot scope before broad enforcement,Security Administrator,Open
-P08-002,Safe Links blocks legitimate URLs,User productivity impact,Medium,Validate with pilot users and document allow/review process,Security Administrator,Open
-P08-003,Safe Attachments delays or blocks legitimate attachments,Mail delivery delay or user disruption,Medium,Use pilot scope and safe validation messages only,Security Administrator,Open
+P08-002,Safe Links blocks legitimate URLs,User productivity impact,Medium,Safe Links configured only for pilot users before wider rollout,Security Administrator,Mitigated
+P08-003,Safe Attachments delays or blocks legitimate attachments,Mail delivery delay or user disruption,Medium,Safe Attachments configured only for pilot users with Dynamic Delivery,Security Administrator,Mitigated
 P08-004,Anti-phishing policy too aggressive,Legitimate sender messages quarantined,Medium,Pilot-only anti-phishing policy created before wider rollout,Security Administrator,Mitigated
 P08-005,Quarantine message released incorrectly,Malicious message reaches user,Medium,Document admin review workflow before release decisions,Security Administrator,Open
-P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,No real phishing email or malware was used in Batch 3,Security Administrator,Mitigated
+P08-006,Real phishing or malware used in testing,Security incident or policy violation,High,No real phishing links or malware were used in Batch 4,Security Administrator,Mitigated
 P08-007,Private email content exposed in evidence,Privacy issue,Medium,Crop or blur message body content and sensitive headers,Security Administrator,Open
 P08-008,Public IP or location exposed in evidence,Privacy issue,Medium,Spoof intelligence and evidence exports excluded IP/location and sending infrastructure,Security Administrator,Mitigated
 P08-009,Mail flow baseline incomplete,README may overstate validation,Medium,Accepted domains mailboxes EOP Defender transport rules and connector baseline exported,Messaging Administrator,Mitigated
@@ -23,3 +23,10 @@ P08-021,Anti-malware baseline changed unintentionally,Attachment or malware hand
 P08-022,Spoof intelligence evidence exposes sender infrastructure,Privacy or security issue,Medium,SendingInfrastructure was intentionally excluded from exports and screenshots sanitized,Security Administrator,Mitigated
 P08-023,Tenant Allow/Block List evidence exposes sensitive entries,Privacy or security issue,Medium,Only list counts were exported and IP entries were not exported,Security Administrator,Mitigated
 P08-024,Spoofed sender portal shows no data and is misunderstood,Validation confusion,Low,No spoof data result documented as acceptable for small lab tenant,Security Administrator,Mitigated
+P08-025,Safe Links policy created without matching rule,Policy does not apply to users,Medium,Safe Links rule created and validated after policy creation,Security Administrator,Mitigated
+P08-026,Safe Attachments policy created without matching rule,Policy does not apply to users,Medium,Safe Attachments rule created and validated after policy creation,Security Administrator,Mitigated
+P08-027,Safe Links scoped too broadly,Tenant-wide URL protection impact,Medium,Safe Links rule scoped only to pilot users,Security Administrator,Mitigated
+P08-028,Safe Attachments scoped too broadly,Tenant-wide attachment delivery impact,Medium,Safe Attachments rule scoped only to pilot users,Security Administrator,Mitigated
+P08-029,Preset security policies enabled tenant-wide too early,Broad mail security behavior change,Medium,Standard and Strict preset policies reviewed only and not expanded tenant-wide,Security Administrator,Mitigated
+P08-030,Policy validation missing after creation,README may overstate protection configuration,Medium,Safe Links and Safe Attachments after-state evidence exported,Security Administrator,Mitigated
+P08-031,Public IP or location exposed in Safe Links or attachment evidence,Privacy issue,Medium,No IP or location fields exported and screenshots must be sanitized,Security Administrator,Mitigated
