@@ -121,3 +121,20 @@ P06-VAL-116,Final Batch 7 policy states exported,Final policy states saved,Compl
 P06-VAL-117,Batch 7 final summary created,Final summary saved,Completed
 P06-VAL-118,Batch 7 file inventory created,File inventory saved,Completed
 P06-VAL-119,Batch 7 evidence copied,Evidence copied to GitHub folders,Completed
+CheckID,ValidationItem,ExpectedResult,Status
+P06-VAL-120,Batch 8 evidence folder created,C:\LabEvidence\Project06\Batch08 exists,Completed
+P06-VAL-121,Microsoft Graph connected for operational controls,Graph context returned,Completed
+P06-VAL-122,Current CA policy operational state exported,CA001 and CA002 states saved,Completed
+P06-VAL-123,Pilot and break-glass group membership validated,Group membership exports saved,Completed
+P06-VAL-124,Operational health summary created,Health summary saved,Completed
+P06-VAL-125,CA policy change audit logs exported,Audit logs exported without IP/location fields,Completed
+P06-VAL-126,Break-glass sign-ins exported,Break-glass sign-ins exported without IP/location fields,Completed
+P06-VAL-127,Monitoring control matrix created,Monitoring matrix saved,Completed
+P06-VAL-128,Rollback-all helper script created,Rollback script saved,Completed
+P06-VAL-129,CA policy monitoring script created,Policy monitoring script saved,Completed
+P06-VAL-130,Pilot and break-glass group monitoring script created,Group monitoring script saved,Completed
+P06-VAL-131,Privacy-safe sign-in monitoring script created,Sanitized sign-in script saved,Completed
+P06-VAL-132,Break-glass monitoring script created,Sanitized break-glass script saved,Completed
+P06-VAL-133,Conditional Access operational runbook created,Operational runbook saved,Completed
+P06-VAL-134,Rollback and monitoring summary created,Summary saved,Completed
+P06-VAL-135,Rollback and monitoring implementation document created,Implementation document saved,Completed
