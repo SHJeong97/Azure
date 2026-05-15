@@ -46,3 +46,12 @@ P09-044,Disposition review configured accidentally,Unexpected review workflow or
 P09-045,Broad tenant retention policy created too early,Tenant-wide content lifecycle impact,High,No broad tenant retention policy created,Compliance Administrator,Mitigated
 P09-046,Private content exposed during retention review,Privacy issue,High,No private document or email content exported and screenshots require sanitization,Compliance Administrator,Mitigated
 P09-047,Retention licensing limitation weakens project credibility,Portfolio presentation risk,Low,Limitation documented transparently as cost-aware project scoping,Compliance Administrator,Accepted
+P09-048,Content Search created unintentionally,Private data discovery scope created unnecessarily,Medium,Content Search workflow was reviewed only and no search was created,eDiscovery Manager,Mitigated
+P09-049,eDiscovery case created unintentionally,Unnecessary compliance case or data scope created,Medium,eDiscovery workflow was reviewed only and no case was created,eDiscovery Manager,Mitigated
+P09-050,eDiscovery export performed accidentally,Private Microsoft 365 content exposed,High,No eDiscovery or Content Search export was performed,eDiscovery Manager,Mitigated
+P09-051,AuditData payload exported,Private operational details exposed,High,Unified audit export excluded AuditData and used sanitized fields only,Audit Reader,Mitigated
+P09-052,ObjectId exposes file paths URLs or message IDs,Privacy issue,Medium,ObjectId was intentionally excluded from audit evidence,Audit Reader,Mitigated
+P09-053,Activity Explorer or Content Explorer unavailable,Validation confusion,Low,Unavailable or empty results documented as acceptable feature limitation,Compliance Administrator,Mitigated
+P09-054,Compliance alerts unavailable or empty,Validation confusion,Low,No-alert result documented as acceptable for small lab tenant,Compliance Administrator,Mitigated
+P09-055,Monitoring screenshots expose sensitive item-level data,Privacy issue,Medium,Screenshots must be sanitized and private item-level content was not opened for evidence,Compliance Administrator,Mitigated
+P09-056,Final README overstates eDiscovery implementation,Portfolio accuracy issue,Medium,Final documentation must state workflow was reviewed only and no case search or export was created,eDiscovery Manager,Mitigated
