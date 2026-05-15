@@ -7,11 +7,11 @@ P09-005,DLP policy enforced too early,Legitimate business sharing blocked,High,D
 P09-006,DLP policy scoped incorrectly,Wrong users or locations affected,Medium,No DLP policy was created and DLP remains design-only,DLP Administrator,Mitigated
 P09-007,Retention policy deletes content unexpectedly,Data loss or compliance issue,High,Retention design used deactivate retention settings and no automatic deletion,Compliance Administrator,Mitigated
 P09-008,Retention labels misunderstood as immediate deletion,Validation confusion,Medium,Retention behavior documented as non-destructive lifecycle governance,Compliance Administrator,Mitigated
-P09-009,eDiscovery search exposes private content,Privacy issue,High,Do not export private content or full search result previews,eDiscovery Manager,Open
-P09-010,Audit evidence exposes IP or location,Privacy issue,Medium,Unified audit export excluded AuditData ClientIP ObjectId IP and location fields,Audit Reader,Mitigated
-P09-011,Private document content exposed in evidence,Privacy issue,High,Data classification and Purview portal screenshots require sanitization and no private content was exported,Compliance Administrator,Mitigated
-P09-012,Private email body content exposed in evidence,Privacy issue,High,No email body content was exported in Batch 2 audit or readiness evidence,eDiscovery Manager,Mitigated
-P09-013,Search result previews exposed in screenshots,Privacy issue,Medium,No Content Search or eDiscovery searches were created and screenshots must not expose previews,eDiscovery Manager,Mitigated
+P09-009,eDiscovery search exposes private content,Privacy issue,High,No Content Search eDiscovery case or search export was created,eDiscovery Manager,Mitigated
+P09-010,Audit evidence exposes IP or location,Privacy issue,Medium,Audit export excluded ClientIP IP location AuditData and ObjectId fields,Audit Reader,Mitigated
+P09-011,Private document content exposed in evidence,Privacy issue,High,No private document content or search result previews were exported,Compliance Administrator,Mitigated
+P09-012,Private email body content exposed in evidence,Privacy issue,High,No private email body content or mailbox item details were exported,eDiscovery Manager,Mitigated
+P09-013,Search result previews exposed in screenshots,Privacy issue,Medium,Content Search and eDiscovery workflow reviewed without publishing result previews,eDiscovery Manager,Mitigated
 P09-014,Rollback process missing,Policy recovery delayed,Medium,Create rollback plan before final validation,Compliance Administrator,Open
 P09-015,Emergency access modified during compliance work,Tenant recovery risk,High,Do not remove or weaken emergency access,Identity Administrator,Open
 P09-016,Pilot mailbox readiness not validated,Purview policy scope may target unavailable users,Medium,Pilot mailbox readiness exported for Emma Olivia and Sophia,Compliance Administrator,Mitigated
