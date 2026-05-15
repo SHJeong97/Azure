@@ -5,8 +5,8 @@ P09-003,Sensitivity labels published too broadly,Users see unvalidated classific
 P09-004,Sensitivity label configuration too complex,User confusion and poor adoption,Medium,Simple Public Internal Confidential and Highly Confidential model used,Information Protection Administrator,Mitigated
 P09-005,DLP policy enforced too early,Legitimate business sharing blocked,High,DLP hands-on configuration skipped and no enforcement enabled,DLP Administrator,Mitigated
 P09-006,DLP policy scoped incorrectly,Wrong users or locations affected,Medium,No DLP policy was created and DLP remains design-only,DLP Administrator,Mitigated
-P09-007,Retention policy deletes content unexpectedly,Data loss or compliance issue,High,Avoid destructive retention behavior during lab planning,Compliance Administrator,Open
-P09-008,Retention labels misunderstood as immediate deletion,Validation confusion,Medium,Document retention behavior and avoid deletion-focused testing,Compliance Administrator,Open
+P09-007,Retention policy deletes content unexpectedly,Data loss or compliance issue,High,Retention design used deactivate retention settings and no automatic deletion,Compliance Administrator,Mitigated
+P09-008,Retention labels misunderstood as immediate deletion,Validation confusion,Medium,Retention behavior documented as non-destructive lifecycle governance,Compliance Administrator,Mitigated
 P09-009,eDiscovery search exposes private content,Privacy issue,High,Do not export private content or full search result previews,eDiscovery Manager,Open
 P09-010,Audit evidence exposes IP or location,Privacy issue,Medium,Unified audit export excluded AuditData ClientIP ObjectId IP and location fields,Audit Reader,Mitigated
 P09-011,Private document content exposed in evidence,Privacy issue,High,Data classification and Purview portal screenshots require sanitization and no private content was exported,Compliance Administrator,Mitigated
@@ -36,3 +36,13 @@ P09-034,Sensitive values uploaded for DLP testing,Privacy or compliance issue,Hi
 P09-035,Private content exposed during DLP review,Privacy issue,High,DLP review was design-only and no private document or email content was exported,Compliance Administrator,Mitigated
 P09-036,DLP portal screenshot exposes sensitive content,Privacy issue,Medium,Screenshots must be sanitized and only show portal/policy area without private content,Compliance Administrator,Mitigated
 P09-037,DLP limitation weakens project credibility,Portfolio presentation risk,Low,Limitation documented transparently as cost-aware project scoping,Compliance Administrator,Accepted
+P09-038,Retention labels configured with destructive end action,Data lifecycle or data loss risk,High,After-retention action set to deactivate retention settings instead of delete automatically,Compliance Administrator,Mitigated
+P09-039,Retention label publishing requires additional licensing or cost,Publishing cannot be completed hands-on in lab,Medium,Publishing documented as design-only with licensing limitation,Compliance Administrator,Accepted
+P09-040,README overstates retention publishing implementation,Portfolio accuracy issue,Medium,README accuracy note created stating no publishing policy was created,Compliance Administrator,Mitigated
+P09-041,Retention labels claimed as published to users,Portfolio accuracy issue,Medium,Final documentation states labels were not published to users,Compliance Administrator,Mitigated
+P09-042,Auto-apply retention policy created accidentally,Unexpected retention application to content,High,No auto-apply policy configured and design explicitly excludes auto-apply,Compliance Administrator,Mitigated
+P09-043,Record or regulatory record enforcement enabled accidentally,User or compliance workflow disruption,High,No record or regulatory record behavior configured,Compliance Administrator,Mitigated
+P09-044,Disposition review configured accidentally,Unexpected review workflow or administrative overhead,Medium,No disposition review configured,Compliance Administrator,Mitigated
+P09-045,Broad tenant retention policy created too early,Tenant-wide content lifecycle impact,High,No broad tenant retention policy created,Compliance Administrator,Mitigated
+P09-046,Private content exposed during retention review,Privacy issue,High,No private document or email content exported and screenshots require sanitization,Compliance Administrator,Mitigated
+P09-047,Retention licensing limitation weakens project credibility,Portfolio presentation risk,Low,Limitation documented transparently as cost-aware project scoping,Compliance Administrator,Accepted
