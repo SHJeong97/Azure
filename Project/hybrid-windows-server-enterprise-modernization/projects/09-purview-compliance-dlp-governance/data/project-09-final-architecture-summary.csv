@@ -1,0 +1,18 @@
+Component,Configuration,FinalTreatment,Status
+Microsoft 365 tenant,democompany1016.onmicrosoft.com,Validated,Completed
+Verified public domain,summitridge-mfg.com,Validated,Completed
+Pilot users,Emma Wilson; Olivia Brown; Sophia Martinez,Used as compliance pilot scope,Completed
+Microsoft Purview portal,Purview compliance and governance portal,Reviewed,Completed
+Compliance role groups,Compliance Administrator; Information Protection; DLP; eDiscovery; Audit Reader; Records Management,Reviewed without changes,Completed
+Audit configuration,Unified audit and organization audit settings,Validated,Completed
+Unified audit evidence,Search-UnifiedAuditLog sanitized export,Exported without AuditData ObjectId ClientIP IP or location,Completed
+Sensitivity labels,Public; Internal; Confidential; Highly Confidential,Created or confirmed,Completed
+Sensitivity label publishing,P09-Pilot-Label-Publishing,Created for pilot users,Completed
+DLP,P09-Pilot-DLP-TestMode,Design-only due to licensing/cost limitation,Documented limitation
+Retention labels,General Business Records; HR Records; Finance Records,Created or reviewed where available,Completed
+Retention label publishing,P09-Pilot-Retention-Label-Publishing,Design-only due to licensing/cost limitation,Documented limitation
+Retention lifecycle behavior,Retain items even if users delete; deactivate retention settings after retention period,Non-destructive lifecycle governance,Completed
+Content Search,Microsoft Purview Content Search workflow,Reviewed only; no search created,Completed
+eDiscovery,Microsoft Purview eDiscovery workflow,Reviewed only; no case hold search or export created,Completed
+Compliance monitoring,Alerts; Activity Explorer; Content Explorer; Data classification,Reviewed or limitation documented,Completed
+Privacy-safe evidence,No private content IP location headers search previews or full audit payloads,Implemented,Completed
