@@ -1,1 +1,16 @@
-
+Area,Target,FinalOutcome,Status
+Purview readiness,Microsoft Purview portal and compliance PowerShell,Readiness reviewed and documented,Completed
+Compliance roles,Purview role groups and members,Reviewed without membership changes,Completed
+Audit,Unified audit and portal audit,Sanitized audit evidence exported,Completed
+Data classification,Classification overview Activity Explorer Content Explorer,Reviewed or limitation documented,Completed
+Sensitivity labels,Public Internal Confidential Highly Confidential,Labels created or confirmed,Completed
+Sensitivity label publishing,P09-Pilot-Label-Publishing,Published to pilot users,Completed
+DLP,DLP policy design,DLP documented as design-only due to licensing/cost constraints,Completed with limitation
+Retention labels,General Business HR Finance labels,Created or reviewed with non-destructive settings,Completed
+Retention publishing,Retention label publishing policy,Skipped due to licensing/cost constraints,Completed with limitation
+Retention governance,Non-destructive lifecycle decisions,No deletion disposition review record regulatory record or auto-apply configured,Completed
+Content Search,Content Search workflow,Reviewed only with no search created,Completed
+eDiscovery,eDiscovery workflow,Reviewed only with no case hold search or export created,Completed
+Compliance monitoring,Alerts Activity Explorer Content Explorer,Reviewed or limitation documented,Completed
+Evidence privacy,Private content IP location previews URLs IDs,Excluded or sanitized,Completed
+Final README accuracy,DLP retention publishing eDiscovery limitations,Must be documented honestly,Completed
