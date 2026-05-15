@@ -3,8 +3,8 @@ P09-001,Purview feature unavailable due to licensing,Configuration cannot be com
 P09-002,Compliance roles missing,Admin cannot configure labels DLP retention or audit,Medium,Purview role group visibility and membership reviewed before configuration,Compliance Administrator,Mitigated
 P09-003,Sensitivity labels published too broadly,Users see unvalidated classification labels,Medium,Labels published only to pilot users,Information Protection Administrator,Mitigated
 P09-004,Sensitivity label configuration too complex,User confusion and poor adoption,Medium,Simple Public Internal Confidential and Highly Confidential model used,Information Protection Administrator,Mitigated
-P09-005,DLP policy enforced too early,Legitimate business sharing blocked,High,Use test mode first and avoid full enforcement during initial validation,DLP Administrator,Open
-P09-006,DLP policy scoped incorrectly,Wrong users or locations affected,Medium,Use documented pilot scope and validate policy state,DLP Administrator,Open
+P09-005,DLP policy enforced too early,Legitimate business sharing blocked,High,DLP hands-on configuration skipped and no enforcement enabled,DLP Administrator,Mitigated
+P09-006,DLP policy scoped incorrectly,Wrong users or locations affected,Medium,No DLP policy was created and DLP remains design-only,DLP Administrator,Mitigated
 P09-007,Retention policy deletes content unexpectedly,Data loss or compliance issue,High,Avoid destructive retention behavior during lab planning,Compliance Administrator,Open
 P09-008,Retention labels misunderstood as immediate deletion,Validation confusion,Medium,Document retention behavior and avoid deletion-focused testing,Compliance Administrator,Open
 P09-009,eDiscovery search exposes private content,Privacy issue,High,Do not export private content or full search result previews,eDiscovery Manager,Open
@@ -28,3 +28,11 @@ P09-026,Encryption enabled before pilot readiness,Access or sharing disruption,M
 P09-027,Auto-labeling enabled too early,Unexpected classification behavior,Medium,Auto-labeling was not enabled during Batch 3,Information Protection Administrator,Mitigated
 P09-028,Private document or email content exposed during label validation,Privacy issue,High,Label visibility reviewed with blank or safe lab-only draft and no private content exported,Compliance Administrator,Mitigated
 P09-029,Label propagation delay misunderstood as failure,Validation confusion,Low,Propagation delay documented as expected behavior,Information Protection Administrator,Mitigated
+P09-030,DLP licensing or cost prevents hands-on configuration,DLP implementation cannot be completed in lab,Medium,DLP documented as design-only with licensing limitation,Compliance Administrator,Accepted
+P09-031,README overstates DLP implementation,Portfolio accuracy issue,Medium,README accuracy note created stating no DLP policy or rules were configured,Compliance Administrator,Mitigated
+P09-032,DLP test-mode validation claimed without policy creation,Portfolio accuracy issue,Medium,Final documentation states test-mode validation was not performed,Compliance Administrator,Mitigated
+P09-033,DLP alert generation claimed without DLP policy,Portfolio accuracy issue,Medium,Documentation states no DLP alerts were generated,Compliance Administrator,Mitigated
+P09-034,Sensitive values uploaded for DLP testing,Privacy or compliance issue,High,No sensitive values were uploaded or tested,Compliance Administrator,Mitigated
+P09-035,Private content exposed during DLP review,Privacy issue,High,DLP review was design-only and no private document or email content was exported,Compliance Administrator,Mitigated
+P09-036,DLP portal screenshot exposes sensitive content,Privacy issue,Medium,Screenshots must be sanitized and only show portal/policy area without private content,Compliance Administrator,Mitigated
+P09-037,DLP limitation weakens project credibility,Portfolio presentation risk,Low,Limitation documented transparently as cost-aware project scoping,Compliance Administrator,Accepted
