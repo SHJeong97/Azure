@@ -1,0 +1,4 @@
+"Name","Guid","Mode","Enabled","ExchangeLocation","SharePointLocation","OneDriveLocation","TeamsLocation","CreatedBy","WhenCreatedUTC","LastModifiedBy","WhenChangedUTC"
+"Default Office 365 DLP policy","08bd1480-3b86-42c8-be97-2a6a28f45737","Enable","True","All","All","All","","Microsoft Corporation","3/28/2026 1:53:07 AM","Microsoft Corporation","3/28/2026 1:53:19 AM"
+"Default policy for devices","60d065fb-d6a7-4354-b049-4462e31ee5e0","Enable","True","","","","","Microsoft Corporation","3/28/2026 1:53:32 AM","Microsoft Corporation","3/28/2026 1:53:41 AM"
+"Default policy for Teams","e62162ae-376f-464f-b4ba-ef52cf17413b","Enable","True","","","","All","Microsoft Corporation","3/28/2026 1:53:25 AM","Microsoft Corporation","3/28/2026 1:53:30 AM"

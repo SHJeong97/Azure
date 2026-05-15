@@ -1,0 +1,4 @@
+"LabelName","DisplayName","BusinessPurpose","IntendedRetention","RetentionAction","DestructiveDeletion","RecordDeclaration","AutoApply"
+"P09-General-Business-Records","General Business Records","Standard business documents and communications","3 years","Retain only","No","No","No"
+"P09-HR-Records","HR Records","Employee-related business records","7 years","Retain only","No","No","No"
+"P09-Finance-Records","Finance Records","Finance and audit-related business records","7 years","Retain only","No","No","No"

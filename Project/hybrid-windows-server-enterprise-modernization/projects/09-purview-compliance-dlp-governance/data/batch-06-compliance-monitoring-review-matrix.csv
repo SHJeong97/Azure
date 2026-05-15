@@ -1,0 +1,5 @@
+"MonitoringArea","PortalLocation","LabAction","AlertsGenerated","PrivateContentExported","LimitationHandling"
+"Compliance alerts","Microsoft Purview portal > Solutions > Alerts","Review only","No or none observed","No","No-alert result is acceptable for small lab tenant"
+"Activity Explorer","Microsoft Purview portal > Data classification > Activity explorer","Review only","No","No","Unavailable or empty result documented if applicable"
+"Content Explorer","Microsoft Purview portal > Data classification > Content explorer","Review only","No","No","Do not open item-level private content"
+"Audit","Microsoft Purview portal > Audit","Sanitized evidence exported","No","No","AuditData, ClientIP, ObjectId, and location details excluded"

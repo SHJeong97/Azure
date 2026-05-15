@@ -1,0 +1,4 @@
+"Name","DisplayName","Guid","Disabled","IsRecordLabel","IsRegulatory","RetentionAction","RetentionDuration","CreatedBy","WhenCreatedUTC","LastModifiedBy","WhenChangedUTC"
+"General Business Records",,"5cf2a5e3-5d45-4190-b9d7-fe95b303a330","False","False",,"Keep","1095","SeungHun Jeong","5/15/2026 3:20:18 PM","SeungHun Jeong","5/15/2026 3:20:18 PM"
+"HR Records",,"3a534818-37a9-40c7-8379-5b2ec0d81062","False","False",,"Keep","2555","SeungHun Jeong","5/15/2026 3:21:41 PM","SeungHun Jeong","5/15/2026 3:21:41 PM"
+"Finance Records",,"be417eac-3522-424b-9b4d-ed4697258606","False","False",,"Keep","2555","SeungHun Jeong","5/15/2026 3:22:20 PM","SeungHun Jeong","5/15/2026 3:22:20 PM"

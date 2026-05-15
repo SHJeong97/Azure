@@ -1,0 +1,2 @@
+"Project","Batch","DlpPolicyName","DlpPolicyCreated","DlpFinalTreatment","RetentionPublishingPolicyName","RetentionPublishingPolicyCreated","RetentionPublishingFinalTreatment","DlpHandsOnClaimAllowed","RetentionPublishingClaimAllowed","PrivateContentExported","PublicIpExported","LocationExported"
+"Project 09","Batch 7","P09-Pilot-DLP-TestMode","No","Design-only due to licensing/cost limitation","P09-Pilot-Retention-Label-Publishing","No","Design-only due to licensing/cost limitation","No","No","No","No","No"

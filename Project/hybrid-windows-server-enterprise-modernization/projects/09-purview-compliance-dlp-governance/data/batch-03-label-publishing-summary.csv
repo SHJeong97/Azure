@@ -1,0 +1,2 @@
+"Project","Batch","LabelPolicyName","PilotUsers","LabelsPublished","PolicyFound","TenantWidePublishing","MandatoryLabelingEnabled","DefaultLabelConfigured","EncryptionEnabled","PrivateContentExported","PublicIpExported","LocationExported","Result"
+"Project 09","Batch 3","P09-Pilot-Label-Publishing","emma.wilson@summitridge-mfg.com;olivia.brown@summitridge-mfg.com;sophia.martinez@summitridge-mfg.com","Public;Internal;Confidential;Highly Confidential","Yes","No","No","No","No","No","No","No","Pilot label publishing policy created or confirmed"

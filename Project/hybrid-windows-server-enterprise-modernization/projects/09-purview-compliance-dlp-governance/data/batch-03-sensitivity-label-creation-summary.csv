@@ -1,0 +1,2 @@
+"Project","Batch","LabelsPlanned","LabelsFoundAfterCreation","LabelsCreatedOrConfirmed","EncryptionEnabled","AutoLabelingEnabled","DlpPoliciesCreated","RetentionPoliciesCreated","PrivateContentExported","PublicIpExported","LocationExported","Result"
+"Project 09","Batch 3","4","4","Yes","No","No","No","No","No","No","No","Sensitivity label baseline created or confirmed"

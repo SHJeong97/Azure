@@ -1,0 +1,6 @@
+"WorkflowArea","PortalLocation","LabAction","SearchCreated","ExportPerformed","PrivateContentExported","EvidenceRule"
+"Content Search","Microsoft Purview portal > Solutions > Content search or eDiscovery","Workflow review only","No","No","No","Do not expose search result previews, file names, message IDs, SharePoint URLs, or mailbox item details"
+"eDiscovery case","Microsoft Purview portal > Solutions > eDiscovery","Workflow review only","No","No","No","Do not create a case or export results for public portfolio evidence"
+"Custodian or data source selection","eDiscovery workflow","Document concept only","No","No","No","Do not expose private user mailbox or OneDrive content"
+"Query and result review","eDiscovery search workflow","Document concept only","No","No","No","Do not publish result previews or hit details"
+"Export","eDiscovery export workflow","Not performed","No","No","No","No content export for GitHub portfolio"

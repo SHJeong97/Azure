@@ -1,0 +1,5 @@
+"Name","DisplayName","Guid","Disabled","ContentType","Tooltip","CreatedBy","WhenCreatedUTC","LastModifiedBy","WhenChangedUTC"
+"Confidential","Confidential","942b3b92-d082-4873-bd51-09a104645efa","False","File, Email","Sensitive internal content that should not be broadly shared.","SeungHun Jeong","5/14/2026 11:50:02 PM","SeungHun Jeong","5/14/2026 11:50:02 PM"
+"Highly Confidential","Highly Confidential","e73f69d6-23ec-4253-a645-9515f34718aa","False","File, Email","Restricted business content requiring strict handling.","SeungHun Jeong","5/14/2026 11:50:31 PM","SeungHun Jeong","5/14/2026 11:50:31 PM"
+"Internal","Internal","ca5fae6c-458f-42a7-8f52-a50eedd759ba","False","File, Email","Standard internal business content.","SeungHun Jeong","5/14/2026 11:49:10 PM","SeungHun Jeong","5/14/2026 11:49:10 PM"
+"Public","Public","a6980904-8950-4132-b6dc-042e2b70781d","False","File, Email","Content approved for broad sharing.","SeungHun Jeong","5/14/2026 11:48:18 PM","SeungHun Jeong","5/14/2026 11:49:31 PM"

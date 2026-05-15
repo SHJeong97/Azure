@@ -1,0 +1,2 @@
+"Project","Batch","LabelsPlanned","LabelPolicyName","LabelPublishingPolicyCreatedOrConfirmed","PilotUsersScoped","TenantWidePublishing","MandatoryLabelingEnabled","EncryptionEnabled","LabelVisibilityReviewed","DlpPoliciesCreated","RetentionPoliciesCreated","PrivateContentExported","PublicIpExported","LocationExported","Result"
+"Project 09","Batch 3","4","P09-Pilot-Label-Publishing","Yes","Yes","No","No","No","Yes","No","No","No","No","No","Sensitivity label baseline and pilot publishing configured or documented"

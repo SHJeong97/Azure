@@ -1,0 +1,6 @@
+"Name","Guid","Policy","Disabled","Mode","Comments","CreatedBy","WhenCreatedUTC","LastModifiedBy","WhenChangedUTC"
+"Default Endpoint DLP Policy Rule - High Volume","7afa1be3-c769-4e17-bdec-0822416646ff","60d065fb-d6a7-4354-b049-4462e31ee5e0","False","Enforce",,"Office 365","3/28/2026 1:53:41 AM","","3/28/2026 1:53:41 AM"
+"Default Endpoint DLP Policy Rule - Low Volume","9fe10862-3d83-475b-98e3-fcbec86563a0","60d065fb-d6a7-4354-b049-4462e31ee5e0","False","Enforce",,"Office 365","3/28/2026 1:53:37 AM","","3/28/2026 1:53:37 AM"
+"Default Teams DLP policy rule","429f3790-88a4-4652-97e1-57407cf32edc","e62162ae-376f-464f-b4ba-ef52cf17413b","False","Enforce",,"Office 365","3/28/2026 1:53:30 AM","","3/28/2026 1:53:30 AM"
+"Items containing 1-9 credit card numbers shared externally","dd5ee820-b7e0-4481-a946-ed1b0bdd7f5c","08bd1480-3b86-42c8-be97-2a6a28f45737","False","Enforce",,"Office 365","3/28/2026 1:53:10 AM","","3/28/2026 1:53:10 AM"
+"Items with 10 or more credit card numbers shared externally","c651b42b-b35e-48a9-a82c-3f5aad17e022","08bd1480-3b86-42c8-be97-2a6a28f45737","False","Enforce",,"Office 365","3/28/2026 1:53:19 AM","","3/28/2026 1:53:19 AM"

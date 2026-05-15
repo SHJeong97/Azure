@@ -1,0 +1,5 @@
+"WorkflowArea","PortalArea","HandsOnAction","PrivateContentExported","IpLocationExported","FinalTreatment"
+"Audit","Microsoft Purview portal > Audit","Sanitized audit search","No","No","Validated with sanitized fields"
+"Content Search","Microsoft Purview portal > eDiscovery or Content Search","Workflow review only","No","No","Documented without search result export"
+"eDiscovery","Microsoft Purview portal > eDiscovery","Workflow review only","No","No","Documented without case export or private result previews"
+"Compliance monitoring","Microsoft Purview portal > Alerts / Data classification / Audit","Portal review and notes","No","No","Documented with sanitized screenshots"

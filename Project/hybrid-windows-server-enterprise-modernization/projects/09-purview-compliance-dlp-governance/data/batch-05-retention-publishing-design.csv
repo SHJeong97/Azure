@@ -1,0 +1,2 @@
+"PolicyName","Labels","Scope","ExchangeMailboxes","SharePointScope","OneDriveScope","PublishingIntent","DestructiveDeletion","AutoApply"
+"P09-Pilot-Retention-Label-Publishing","General Business Records;HR Records;Finance Records","Pilot users/locations only where available","emma.wilson@summitridge-mfg.com;olivia.brown@summitridge-mfg.com;sophia.martinez@summitridge-mfg.com","Not broadly scoped","Pilot users only where available","Make retention labels available without auto-applying them","No","No"

@@ -1,0 +1,4 @@
+"GovernanceArea","RetentionLabel","IntendedRetention","StartDateBasis","DuringRetention","AfterRetention","PublishedToUsers","PublishingReason","DestructiveDeletion","RecordBehavior","RegulatoryRecord","AutoApply"
+"General business records","General Business Records","3 years","When items were created","Retain items even if users delete","Deactivate retention settings","No","Publishing skipped due to licensing/cost limitation","No","No","No","No"
+"HR records","HR Records","7 years","When items were created","Retain items even if users delete","Deactivate retention settings","No","Publishing skipped due to licensing/cost limitation","No","No","No","No"
+"Finance records","Finance Records","7 years","When items were created","Retain items even if users delete","Deactivate retention settings","No","Publishing skipped due to licensing/cost limitation","No","No","No","No"

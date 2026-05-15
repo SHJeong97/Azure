@@ -1,0 +1,6 @@
+"ControlArea","IntendedControl","HandsOnConfigured","Reason","RiskTreatment"
+"DLP policy design","Detect financial or employee-sensitive data","No","Skipped due to licensing/cost constraints","Document design-only limitation accurately"
+"DLP test mode","Validate DLP detections without blocking users","No","No DLP policy created","Do not claim test-mode validation in README"
+"DLP alerts","Review DLP alert workflow","No","No DLP policy or alerts generated","Document alert review as unavailable/not generated"
+"Sensitive information testing","Use safe synthetic validation content if licensed","No","No sensitive test data uploaded","Avoid private content and sensitive values"
+"Evidence privacy","Avoid exposing private data or IP/location fields","Yes - documentation control","Evidence sanitized","No private content, sensitive values, IP, or location exported"

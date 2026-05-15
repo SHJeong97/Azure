@@ -1,0 +1,5 @@
+"LabelName","DisplayName","Description","ProtectionIntent","UserGuidance","PilotScope"
+"P09-Public","Public","Content approved for broad sharing","No encryption","Use for content approved for public or broad sharing","Yes"
+"P09-Internal","Internal","Standard internal business content","No encryption","Use for normal internal company content","Yes"
+"P09-Confidential","Confidential","Sensitive internal business content","Classification and user awareness","Use for sensitive internal content that should not be broadly shared","Yes"
+"P09-Highly-Confidential","Highly Confidential","Restricted business content requiring strict handling","Classification and strict handling guidance","Use for restricted content with limited business access","Yes"

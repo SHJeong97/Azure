@@ -1,0 +1,4 @@
+"PolicyName","RuleName","SensitiveInfoType","Scope","Mode","Enforcement","UserNotification","EvidenceRule"
+"P09-Pilot-DLP-TestMode","P09-Pilot-Financial-Data-Rule","Credit Card Number","Pilot Microsoft 365 locations where available","Test or simulation mode","No blocking enforcement","Document only or policy-tip test where supported","Do not export detected values or private content"
+"P09-Pilot-DLP-TestMode","P09-Pilot-Employee-Data-Rule","U.S. Social Security Number","Pilot Microsoft 365 locations where available","Test or simulation mode","No blocking enforcement","Document only or policy-tip test where supported","Do not export detected values or private content"
+"P09-Pilot-DLP-TestMode","P09-Pilot-External-Sharing-Review","Sensitive info sharing behavior","Pilot Microsoft 365 locations where available","Test or simulation mode","No blocking enforcement","Document only","Do not expose private file names, message previews, or search results"
